@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/699b632fe0bddb6acaca4a15?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Feb 22 |
+| **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/699b617c81476f6176b3c99b?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Feb 22 |
+| **[Lake City Bank](http://lakecitybank.com)** | **[Commercial Administration Intern](https://jobright.ai/jobs/info/699b5f9ee0bddb6acaca4867?utm_campaign=1050&utm_source=git)** | Warsaw, IN | On Site | Feb 22 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699b4475ce78e77b4fdfef26?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 22 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d557f0f6f7e7a2ce93206?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/699b2c80ce78e77b4fdfd35e?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 21 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Feb 21 |
-| **[Turner Construction | Canada](http://turnerconstruction.com)** | **[Project Coordinator Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/6992b00081476f6176aa2eac?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 21 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
