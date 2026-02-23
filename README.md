@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b944dce78e77b4fe016a7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Feb 22 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Project Manager Intern](https://jobright.ai/jobs/info/699b7c04ce78e77b4fe01455?utm_campaign=1050&utm_source=git)** | Spring, Texas, United States of America | On Site | Feb 22 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor](https://jobright.ai/jobs/info/699b7b8ee0bddb6acaca672b?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 22 |
+| ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/699b8d0fe0bddb6acaca68ca?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 22 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/699b6974e0bddb6acaca4c5e?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Feb 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699b68c481476f6176b3cc3b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 22 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699b658ece78e77b4fdff760?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 22 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 21 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/699ab4c5e0bddb6acac9d468?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
 | **[888 Creative](https://888creative.co/)** | **[Executive Assistant Internship (Spring 2026)](https://jobright.ai/jobs/info/699a4b40ce78e77b4fdf00f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
-| **[Arul Health](https://www.arulhealth.com)** | **[Undergrad Operations Intern](https://jobright.ai/jobs/info/699a870681476f6176b31778?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship - Bilingual Korean required](https://jobright.ai/jobs/info/699a91e781476f6176b334dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Minneapolis City SC](https://www.mplscitysc.com)** | **[Minneapolis City Soccer Club: Matchday Operations Internship](https://jobright.ai/jobs/info/699a19b1e0bddb6acac935e7?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 21 |
 | **[COLSA](http://www.colsa.com)** | **[Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699a1503e0bddb6acac9351b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6999c38fe0bddb6acac906c7?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 21 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 - Intern - RMS HOL Operations Coordinator](https://jobright.ai/jobs/info/6999c1a181476f6176b2845b?utm_campaign=1050&utm_source=git)** | Hollister, CA | Hybrid | Feb 21 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
