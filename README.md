@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699bd6cc81476f6176b4283f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 22 |
 | **[College Pro](http://collegepro.com)** | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/699bc924ce78e77b4fe04704?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 22 |
 | ↳ | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/699bc8e281476f6176b4165c?utm_campaign=1050&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Feb 22 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Project Manager Intern](https://jobright.ai/jobs/info/699bc84e81476f6176b413b8?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Feb 22 |
@@ -78,8 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern – Program Management](https://jobright.ai/jobs/info/699b2af581476f6176b3a73d?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Feb 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Feb 22 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699b1d8ae0bddb6acaca2696?utm_campaign=1050&utm_source=git)** | Appleton, WI | Remote | Feb 22 |
-| **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1d6ee0bddb6acaca2687?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 22 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/699b1c95ce78e77b4fdfd218?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 22 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1b2781476f6176b3a5f1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/699b0ee5ce78e77b4fdfd0b3?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 22 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997e17b81476f6176b01da7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Feb 22 |
@@ -123,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Project Management Intern- Chandler AZ - R10222987](https://jobright.ai/jobs/info/6994f49fe0bddb6acac37915?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 21 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 21 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/699ab4c5e0bddb6acac9d468?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/6986c35a8da7a6120461b1f4?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69972b9ece78e77b4fdb7fcf?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[888 Creative](https://888creative.co/)** | **[Executive Assistant Internship (Spring 2026)](https://jobright.ai/jobs/info/699a4b40ce78e77b4fdf00f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship - Bilingual Korean required](https://jobright.ai/jobs/info/699a91e781476f6176b334dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Spire](https://www.spireenergy.com/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/697e14a77f40342e15d6f522?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6999e5e9e0bddb6acac91ad7?utm_campaign=1050&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
 | **[ABB](https://global.abb/group/en)** | **[PMO Project Specialist -Finance Intern- Summer 2026](https://jobright.ai/jobs/info/6999e470e0bddb6acac90f38?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Feb 21 |
-| **[CN](http://www.cn.ca)** | **[Intern, Assistant Project Manager- FR](https://jobright.ai/jobs/info/6999e0d7ce78e77b4fdeb4d5?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Feb 21 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d2f750f6f7e7a2ce8f5f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 21 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/6999dc8081476f6176b28b52?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Feb 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6999c38fe0bddb6acac906c7?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 21 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 - Intern - RMS HOL Operations Coordinator](https://jobright.ai/jobs/info/6999c1a181476f6176b2845b?utm_campaign=1050&utm_source=git)** | Hollister, CA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
