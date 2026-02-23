@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Ventis](blueventis.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b944dce78e77b4fe016a7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Feb 22 |
+| **[Blue Ventis](blueventis.com)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699baa73e0bddb6acaca83bb?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | Remote | Feb 22 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/699b944dce78e77b4fe016a7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Feb 22 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Project Manager Intern](https://jobright.ai/jobs/info/699b7c04ce78e77b4fe01455?utm_campaign=1050&utm_source=git)** | Spring, Texas, United States of America | On Site | Feb 22 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor](https://jobright.ai/jobs/info/699b7b8ee0bddb6acaca672b?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 22 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/699b8d0fe0bddb6acaca68ca?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Feb 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6999c38fe0bddb6acac906c7?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 21 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 - Intern - RMS HOL Operations Coordinator](https://jobright.ai/jobs/info/6999c1a181476f6176b2845b?utm_campaign=1050&utm_source=git)** | Hollister, CA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
