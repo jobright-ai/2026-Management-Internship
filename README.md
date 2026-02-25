@@ -57,17 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973ae1b206da320f49db192?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Feb 25 |
+| **[Cisco](http://www.cisco.com)** | **[Program Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/699f68a6ce78e77b4fe52d61?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Procurement](https://jobright.ai/jobs/info/699f65a523374b3b6e6b3edb?utm_campaign=1050&utm_source=git)** | Ambler, Pennsylvania, United States | On Site | Feb 25 |
+| **[SECU](https://www.ncsecu.org)** | **[Intern – Branch Part-time Summer 2026](https://jobright.ai/jobs/info/6997256481476f6176af41d5?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 25 |
+| ↳ | **[Intern – Branch Full-time Summer 2026](https://jobright.ai/jobs/info/69964fc981476f6176ae15d1?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 25 |
+| **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Program Manager Intern](https://jobright.ai/jobs/info/699f5d4bce78e77b4fe5262b?utm_campaign=1050&utm_source=git)** | Portage, MI | On Site | Feb 25 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Transportation & Supply Chain Intern](https://jobright.ai/jobs/info/698390d90f6f7e7a2cdd024e?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Feb 25 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6966d032a112b4026614d78b?utm_campaign=1050&utm_source=git)** | Valley, NE | On Site | Feb 25 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/699f4ce294ef206f184e7752?utm_campaign=1050&utm_source=git)** | Tallahassee, Florida, United States | On Site | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[Program Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/699f44f681476f6176b8e888?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Hybrid | Feb 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/69837e3001214b4cdacb21b5?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 25 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Specialty Intern](https://jobright.ai/jobs/info/698266b3348f733a5c353939?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Feb 25 |
-| **[Tech Verses](techverses.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/699f433dce78e77b4fe515b9?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 25 |
 | **[Equity Residential](http://equityapartments.com)** | **[IT Strategy Intern](https://jobright.ai/jobs/info/699f3f7094ef206f184e63b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6966ae3e7a34f53920552c2b?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 25 |
 | **[Horizon Lane](horizonlane.net)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699f3c6e94ef206f184e5c18?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Feb 25 |
+| **[American College of Radiology](http://www.acr.org)** | **[Intern - Business Operations](https://jobright.ai/jobs/info/699f677081476f6176b8fee6?utm_campaign=1050&utm_source=git)** | Reston, Virginia, United States | Remote | Feb 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Greater Chicago Fulfillment Center - Digital Team Internship](https://jobright.ai/jobs/info/6982c4220f6f7e7a2cdc1693?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
+| **[Independence Realty Trust Inc.](https://www.irtliving.com/)** | **[Supply Chain Intern - Philadelphia, PA](https://jobright.ai/jobs/info/699f6064ce78e77b4fe52864?utm_campaign=1050&utm_source=git)** | Philadelphia, Pennsylvania, United States | Hybrid | Feb 25 |
 | **[Visa](https://www.visa.com)** | **[Project Analyst Intern - Summer 2026, Foster City](https://jobright.ai/jobs/info/6994af8481476f6176ac730a?utm_campaign=1050&utm_source=git)** | Foster City, CA | Hybrid | Feb 25 |
+| **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/6993f480ce78e77b4fd7d0ab?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 25 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Business Operations & Process Improvement](https://jobright.ai/jobs/info/699f36e8ce78e77b4fe50b35?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Feb 25 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[Operations  Intern](https://jobright.ai/jobs/info/6985a5eb8da7a61204605468?utm_campaign=1050&utm_source=git)** | Hudson, NH | On Site | Feb 25 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - ESG Transformation Summer Intern](https://jobright.ai/jobs/info/698cd68078b4502f12a3515f?utm_campaign=1050&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 25 |
@@ -144,17 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Business & Budget Management, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699eedd8ce78e77b4fe49258?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698240300f6f7e7a2cdb69ed?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Feb 25 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69824faa348f733a5c351cb4?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Feb 25 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69825a1b348f733a5c352a5e?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Feb 25 |
 | **[Ellucian](http://www.ellucian.com)** | **[Corporate Development MBA Intern](https://jobright.ai/jobs/info/699ec36181476f6176b837c9?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Feb 25 |
 | ↳ | **[Corporate Strategy Intern - (Undergraduate)](https://jobright.ai/jobs/info/699eba83ce78e77b4fe45fac?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Feb 25 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Workplace Operations Intern](https://jobright.ai/jobs/info/699eb99de0bddb6acaceab5b?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Feb 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Project Management Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/699eb5fce0bddb6acacea8c2?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Feb 25 |
-| **[TRDI](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/699eb2b981476f6176b8283e?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Feb 25 |
-| **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/699ea926ce78e77b4fe4322e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Manager Of Bureau of Criminal Justice Services and Records(Manager of Research and Planning)](https://jobright.ai/jobs/info/699ea493e0bddb6acace76cd?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 24 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699ec320ce78e77b4fe468a2?utm_campaign=1050&utm_source=git)** | Northampton, MA, US | On Site | Feb 24 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699eb63681476f6176b82aee?utm_campaign=1050&utm_source=git)** | Northampton/Amherst | On Site | Feb 24 |
-| **[CME Group](http://www.cmegroup.com)** | **[Global Command Center Intern - Summer 2026](https://jobright.ai/jobs/info/699e8331e0bddb6acace2c03?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
-| **[Gemma Power Systems](http://www.gemmapower.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/699eb00581476f6176b81db8?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Feb 24 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Production Admin Intern](https://jobright.ai/jobs/info/699e7a8181476f6176b79c8e?utm_campaign=1050&utm_source=git)** | Wayne, PA | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
