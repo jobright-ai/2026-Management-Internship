@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6966d032a112b4026614d78b?utm_campaign=1050&utm_source=git)** | Valley, NE | On Site | Feb 25 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/699f4ce294ef206f184e7752?utm_campaign=1050&utm_source=git)** | Tallahassee, Florida, United States | On Site | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[Program Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/699f44f681476f6176b8e888?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Hybrid | Feb 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/69837e3001214b4cdacb21b5?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 25 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Specialty Intern](https://jobright.ai/jobs/info/698266b3348f733a5c353939?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Feb 25 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Mercury Systems](http://www.mrcy.com)** | **[Operations  Intern](https://jobright.ai/jobs/info/6985a5eb8da7a61204605468?utm_campaign=1050&utm_source=git)** | Hudson, NH | On Site | Feb 25 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - ESG Transformation Summer Intern](https://jobright.ai/jobs/info/698cd68078b4502f12a3515f?utm_campaign=1050&utm_source=git)** | Raleigh, US, North Carolina | On Site | Feb 25 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Tech Ops Strategy (Summer 2026)](https://jobright.ai/jobs/info/69955cd7ce78e77b4fd98165?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
+| **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - OK - Tulsa - West 21st St - R26-01735](https://jobright.ai/jobs/info/699f554f94ef206f184e7d2a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Feb 25 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699f2f5694ef206f184e4ec5?utm_campaign=1050&utm_source=git)** | 2727 Paces Ferry Road SE, Atlanta, GA, USA | On Site | Feb 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Harrisburg](https://jobright.ai/jobs/info/694b7a7b5d73121134700569?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Feb 25 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Project Management (Posting)](https://jobright.ai/jobs/info/691a73e715b4156367188688?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Feb 25 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Summer Intern](https://jobright.ai/jobs/info/6982b2158232105a2d0b04a3?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 25 |
 | **[Butterball](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/69825ab60f6f7e7a2cdb8349?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Feb 25 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Logistics & Performance Analysis](https://jobright.ai/jobs/info/69824e0b0f6f7e7a2cdb73b6?utm_campaign=1050&utm_source=git)** | Fountain Valley, CA | On Site | Feb 25 |
-| **[Stratify Edge](https://www.linkedin.com/company/108302914)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699f205894ef206f184e475a?utm_campaign=1050&utm_source=git)** | Appleton, WI | Remote | Feb 25 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6945fdbc63141d1884559f40?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 25 |
 | ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/6945f78b63141d1884559029?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Onyx Collective Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699ef6f594ef206f184e0a60?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[TRDI](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/699eb2b981476f6176b8283e?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Feb 25 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/699ea926ce78e77b4fe4322e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Manager Of Bureau of Criminal Justice Services and Records(Manager of Research and Planning)](https://jobright.ai/jobs/info/699ea493e0bddb6acace76cd?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 24 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699eb63681476f6176b82aee?utm_campaign=1050&utm_source=git)** | Northampton/Amherst | On Site | Feb 24 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699ec320ce78e77b4fe468a2?utm_campaign=1050&utm_source=git)** | Northampton, MA, US | On Site | Feb 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699ec320ce78e77b4fe468a2?utm_campaign=1050&utm_source=git)** | Northampton, MA, US | On Site | Feb 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/699eb63681476f6176b82aee?utm_campaign=1050&utm_source=git)** | Northampton/Amherst | On Site | Feb 24 |
 | **[CME Group](http://www.cmegroup.com)** | **[Global Command Center Intern - Summer 2026](https://jobright.ai/jobs/info/699e8331e0bddb6acace2c03?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/699eb00581476f6176b81db8?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Feb 24 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Production Admin Intern](https://jobright.ai/jobs/info/699e7a8181476f6176b79c8e?utm_campaign=1050&utm_source=git)** | Wayne, PA | Hybrid | Feb 24 |
-| **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/699e7a16ce78e77b4fe3ca02?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 24 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
