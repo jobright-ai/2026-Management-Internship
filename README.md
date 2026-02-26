@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69706805333b6343a14cf3aa?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Feb 26 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/694b27961224705e900249ab?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Hilliard](https://jobright.ai/jobs/info/69a0a0945218a8167671ce7b?utm_campaign=1050&utm_source=git)** | Columbus, OH, US | On Site | Feb 26 |
 | **[Swift](http://www.swift.com)** | **[Critical Mission Control - Core Operations Intern](https://jobright.ai/jobs/info/6999288fce78e77b4fdddac4?utm_campaign=1050&utm_source=git)** | Culpeper, VA | On Site | Feb 26 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Operations, Legal & People Ops](https://jobright.ai/jobs/info/69a09bc15218a8167671cb43?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/6966d3a4a112b4026614df1d?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Feb 26 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Warehouse Coordination](https://jobright.ai/jobs/info/698431868da7a612045e4144?utm_campaign=1050&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Feb 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Tennessee Valley Region (MS-TN-KY-AL),](https://jobright.ai/jobs/info/69841c6c348f733a5c37ece9?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | Feb 26 |
-| **[Poseidon Aerospace](https://www.poseidonaero.com/)** | **[GTM Summer Analyst](https://jobright.ai/jobs/info/69a04bbe0836fe79d8612c37?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central Northeast Indiana and Louisville/Lexington areas,](https://jobright.ai/jobs/info/698415da348f733a5c37e21b?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
