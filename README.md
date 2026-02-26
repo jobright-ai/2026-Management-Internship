@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
+| **[PRI Global](https://priglobal.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a06e5281476f6176baabae?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6983c67801214b4cdacbc0cb?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
+| **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69a06aa581476f6176baa69e?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/699d2e4c81476f6176b5e373?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Feb 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/6983c4470f6f7e7a2cdd7278?utm_campaign=1050&utm_source=git)** | Tanner, AL | On Site | Feb 26 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Product Team - Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/699ffe8ace78e77b4fe61907?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Feb 26 |
@@ -103,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Loup Logistics](https://jobright.ai/jobs/info/696705d0639b452fb57c9855?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Petersburg Warehouse,](https://jobright.ai/jobs/info/69841df68da7a612045e1392?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Feb 26 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Sr. Strategy & Execution Internship (Summer 2026)](https://jobright.ai/jobs/info/691abe2f45fb6f5ead8ad684?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 26 |
+| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Project Assistant (Student)](https://jobright.ai/jobs/info/6930d2b8fa28370be26b444e?utm_campaign=1050&utm_source=git)** | Saguenay, Quebec, Canada | On Site | Feb 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Northern Ohio,](https://jobright.ai/jobs/info/698421410f6f7e7a2cde5107?utm_campaign=1050&utm_source=git)** | Hinckley, OH | On Site | Feb 26 |
 | **[RoboStruct Technologies](robostructtechnologies.com)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/69a042f90836fe79d8611ff1?utm_campaign=1050&utm_source=git)** | Georgia, United States | Remote | Feb 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix,](https://jobright.ai/jobs/info/698415918da7a612045e0321?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff24253d97f23ee658743?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Feb 25 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff1a053d97f23ee658635?utm_campaign=1050&utm_source=git)** | McAllen, TX | On Site | Feb 25 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff10681476f6176b9cebf?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699feee553d97f23ee65821a?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fedb5ce78e77b4fe5eaa9?utm_campaign=1050&utm_source=git)** | Pasadena, TX | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699febf281476f6176b9c05f?utm_campaign=1050&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699feaa9ce78e77b4fe5e236?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe74381476f6176b9b2aa?utm_campaign=1050&utm_source=git)** | Walnut, CA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
