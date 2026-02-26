@@ -57,6 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/699d2e4c81476f6176b5e373?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Feb 26 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/6983c4470f6f7e7a2cdd7278?utm_campaign=1050&utm_source=git)** | Tanner, AL | On Site | Feb 26 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Product Team - Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/699ffe8ace78e77b4fe61907?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Feb 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Strategic Sales Project Management Intern](https://jobright.ai/jobs/info/698412240f6f7e7a2cde32c4?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Feb 26 |
+| **[Whisker](https://www.litter-robot.com/)** | **[Sourcing and Logistics Intern (Summer 2026)](https://jobright.ai/jobs/info/69681732f25a380066966dcd?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Feb 26 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Operations Summer Intern 2026](https://jobright.ai/jobs/info/6983ac3001214b4cdacb78ea?utm_campaign=1050&utm_source=git)** | Niles, OH | On Site | Feb 26 |
+| **[nVent](https://www.nvent.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6968469e639b452fb57dea44?utm_campaign=1050&utm_source=git)** | Anoka, MN | On Site | Feb 26 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a062200836fe79d8614efd?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Feb 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698449af0f6f7e7a2cdea25a?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Feb 26 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 26 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Great Lakes Region (Illinois-Iowa),](https://jobright.ai/jobs/info/698410bd8da7a612045df969?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Feb 26 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Feb 26 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS),](https://jobright.ai/jobs/info/698412998da7a612045dfd01?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Feb 26 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/696f0d599c3c52633455d41f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern & Southwest Florida,](https://jobright.ai/jobs/info/6984182a0f6f7e7a2cde40c1?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL | On Site | Feb 26 |
+| ↳ | **[District Manager Intern - Southern Appalachian Gateway (GA-NC-AL-SC),](https://jobright.ai/jobs/info/698413520f6f7e7a2cde3bec?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Feb 26 |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox - New Business & Advanced Planning Intern](https://jobright.ai/jobs/info/6984673e348f733a5c3866b3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[Reviora](reviora.co)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a0581d81476f6176ba90f6?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 26 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Saxonburg Warehouse,](https://jobright.ai/jobs/info/69841b6e0f6f7e7a2cde4637?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Feb 26 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69a0576c0836fe79d8613a44?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Feb 26 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/69837464348f733a5c367bce?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Feb 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Houston](https://jobright.ai/jobs/info/699be5e7ce78e77b4fe07d05?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 26 |
 | ↳ | **[Summer '26 Intern - CT](https://jobright.ai/jobs/info/6993f27ece78e77b4fd7cd34?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Feb 26 |
@@ -78,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/69841397348f733a5c37e0ed?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 26 |
 | ↳ | **[District Manager Intern - Central Michigan,](https://jobright.ai/jobs/info/698416fd0f6f7e7a2cde3ec9?utm_campaign=1050&utm_source=git)** | Webberville, MI | On Site | Feb 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Sacramento)](https://jobright.ai/jobs/info/699354c781476f6176aafe47?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a066b981476f6176baa285?utm_campaign=1050&utm_source=git)** | Terre Haute, IN | On Site | Feb 26 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69a048a00836fe79d86127e7?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Loup Logistics](https://jobright.ai/jobs/info/696705d0639b452fb57c9855?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Petersburg Warehouse,](https://jobright.ai/jobs/info/69841df68da7a612045e1392?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Feb 26 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699febf281476f6176b9c05f?utm_campaign=1050&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 25 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699feaa9ce78e77b4fe5e236?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 25 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe74381476f6176b9b2aa?utm_campaign=1050&utm_source=git)** | Walnut, CA | On Site | Feb 25 |
-| **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69a01e7f5218a81676710567?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Feb 25 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a01495ce78e77b4fe642bf?utm_campaign=1050&utm_source=git)** | Grants Pass, OR | On Site | Feb 25 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699fddf581476f6176b9984a?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Feb 25 |
-| **[VMG Entertainment](worldofvmg.com)** | **[Office Production Assistant ( Internship)](https://jobright.ai/jobs/info/69a0033d81476f6176b9fb54?utm_campaign=1050&utm_source=git)** | Atlanta Metro | Remote | Feb 25 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff8a781476f6176b9e787?utm_campaign=1050&utm_source=git)** | Chula Vista, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00ccd53d97f23ee65bc4f?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffe1b81476f6176b9f692?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00be853d97f23ee65b9dd?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff4bace78e77b4fe5fb9a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffae853d97f23ee659729?utm_campaign=1050&utm_source=git)** | Kingman, AZ | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffdd381476f6176b9f65e?utm_campaign=1050&utm_source=git)** | Chester, VA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a0083ace78e77b4fe62da2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a005d4ce78e77b4fe62993?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a006e3ce78e77b4fe62a21?utm_campaign=1050&utm_source=git)** | Hacienda Heights, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffedd53d97f23ee659dd5?utm_campaign=1050&utm_source=git)** | New Braunfels, TX | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00701ce78e77b4fe62a35?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff78253d97f23ee659034?utm_campaign=1050&utm_source=git)** | Lompoc, CA | On Site | Feb 25 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Intern Business Operations](https://jobright.ai/jobs/info/69a00a7881476f6176ba0555?utm_campaign=1050&utm_source=git)** | Appleton, WI | Hybrid | Feb 25 |
-| **[San Diego County Regional Airport Authority](http://www.san.org)** | **[Facilities Asset Management - Intern II](https://jobright.ai/jobs/info/69a00e86ce78e77b4fe635e2?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
-| **[True Northon](https://www.linkedin.com/company/108612821)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699fff3853d97f23ee659df8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 25 |
-| **[Robynex Automation](robynexautomation.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699ff6cfce78e77b4fe602d4?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
