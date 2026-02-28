@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
+| **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
 | **[Robynex Automation](robynexautomation.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a3512fb600907a96298fd2?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 28 |
 | **[Stevens Industries, Inc.](http://stevensind.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69a34f920da45516f16c8b47?utm_campaign=1050&utm_source=git)** | Teutopolis, IL | On Site | Feb 28 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/699fd9f553d97f23ee655dc0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Research & Development Intern-Technical Project Management, Summer 2026](https://jobright.ai/jobs/info/69a2d69eb600907a96294076?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Feb 28 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26074 - Land Owner Relations Part-Time Intern](https://jobright.ai/jobs/info/69866ac48da7a61204612ca1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/699d0d54ce78e77b4fe1db83?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a4bf902d2a252445cd8cbc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 28 |
 | **[OmniOn Power](https://omnionpower.com)** | **[Supply Chain Sourcing Intern](https://jobright.ai/jobs/info/698a57054db8972cecff9697?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Feb 28 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a2cdd9b600907a96293a74?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d7b3c137a051025669e23?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c0edb600907a96292f2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c055359fe034b1ce1fbc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697da008abff4c399a9c78af?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
