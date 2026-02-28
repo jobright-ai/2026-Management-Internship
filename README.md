@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (San Jose)](https://jobright.ai/jobs/info/69a29e190da45516f16bf710?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Feb 27 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a29c6b359fe034b1cde982?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Feb 27 |
+| **[Dometic](https://www.dometic.com)** | **[Supply Chain Intern (Demand Planning)](https://jobright.ai/jobs/info/69a29c21359fe034b1cde90c?utm_campaign=1050&utm_source=git)** | Katy, TX | Hybrid | Feb 27 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Hospitality Tourism Internship - Dollywood's Splash Country - Seasonal](https://jobright.ai/jobs/info/69a299e0359fe034b1cde52e?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Feb 27 |
 | **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69a298e2359fe034b1cde3ea?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Feb 27 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a298410da45516f16bedb9?utm_campaign=1050&utm_source=git)** | Triangle, NC | On Site | Feb 27 |
@@ -104,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Transformation & Analytics Intern](https://jobright.ai/jobs/info/69a23514359fe034b1cd71f8?utm_campaign=1050&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Performance Excellence](https://jobright.ai/jobs/info/69a25469359fe034b1cd8e0d?utm_campaign=1050&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69a2648b359fe034b1cda1b0?utm_campaign=1050&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a271e7b600907a9628c353?utm_campaign=1050&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a25e800da45516f16ba2d9?utm_campaign=1050&utm_source=git)** | Ogden, Utah, United States | On Site | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a25e800da45516f16ba2d9?utm_campaign=1050&utm_source=git)** | Ogden, Utah, United States | On Site | Feb 27 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a272260da45516f16bbd3e?utm_campaign=1050&utm_source=git)** | East Granby, Connecticut, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a25755359fe034b1cd90d8?utm_campaign=1050&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a26a9f359fe034b1cdaaef?utm_campaign=1050&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a272260da45516f16bbd3e?utm_campaign=1050&utm_source=git)** | East Granby, Connecticut, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a267b4b600907a9628b487?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 27 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a271e7b600907a9628c353?utm_campaign=1050&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
 | **[Pinnacle Construction & Development Group, Inc.](https://www.pinnacleconstruction.bz/)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a2616a0da45516f16ba651?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Feb 27 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a2782d0da45516f16bc8f6?utm_campaign=1050&utm_source=git)** | Research Triangle Park, NC | On Site | Feb 27 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes Aerospace](https://www.barnesaero.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69a201e6b600907a96284f44?utm_campaign=1050&utm_source=git)** | East Granby, CT | On Site | Feb 27 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/699d15e0e0bddb6acacc33fa?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69a22b76b600907a9628782d?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 27 |
-| **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking - New York](https://jobright.ai/jobs/info/69a229de0da45516f16b728c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a22a95b600907a9628774c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Feb 27 |
-| **[Leidos](https://www.leidos.com)** | **[Subcontracts Intern](https://jobright.ai/jobs/info/69a219740da45516f16b625b?utm_campaign=1050&utm_source=git)** | Columbia, MD | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
