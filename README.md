@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Hospitality Tourism Internship - Dollywood's Splash Country - Seasonal](https://jobright.ai/jobs/info/69a299e0359fe034b1cde52e?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Feb 27 |
+| **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69a298e2359fe034b1cde3ea?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Feb 27 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a298410da45516f16bedb9?utm_campaign=1050&utm_source=git)** | Triangle, NC | On Site | Feb 27 |
+| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship – Business Technology Systems Solutions](https://jobright.ai/jobs/info/69a294d0359fe034b1cddf7e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Risk Management & Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/69a293ae359fe034b1cddef1?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 27 |
 | **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a2678db600907a9628b45d?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Feb 27 |
 | **[Desjardins](https://www.desjardins.com)** | **[Chef ou cheffe de produit, Paiements internationaux-FR](https://jobright.ai/jobs/info/69a282bdb600907a9628d9de?utm_campaign=1050&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Feb 27 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69a27cb4359fe034b1cdc302?utm_campaign=1050&utm_source=git)** | Outlook, Saskatchewan, Canada | On Site | Feb 27 |
@@ -99,16 +104,16 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Transformation & Analytics Intern](https://jobright.ai/jobs/info/69a23514359fe034b1cd71f8?utm_campaign=1050&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Performance Excellence](https://jobright.ai/jobs/info/69a25469359fe034b1cd8e0d?utm_campaign=1050&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69a2648b359fe034b1cda1b0?utm_campaign=1050&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[Barnes](https://www.onebarnes.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a267b4b600907a9628b487?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 27 |
+| **[Barnes](https://www.onebarnes.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a271e7b600907a9628c353?utm_campaign=1050&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a25e800da45516f16ba2d9?utm_campaign=1050&utm_source=git)** | Ogden, Utah, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a25755359fe034b1cd90d8?utm_campaign=1050&utm_source=git)** | Warren, Michigan, United States | On Site | Feb 27 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a271e7b600907a9628c353?utm_campaign=1050&utm_source=git)** | Lansing, Michigan, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a26a9f359fe034b1cdaaef?utm_campaign=1050&utm_source=git)** | West Chester, Ohio, United States | On Site | Feb 27 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a272260da45516f16bbd3e?utm_campaign=1050&utm_source=git)** | East Granby, Connecticut, United States | On Site | Feb 27 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a267b4b600907a9628b487?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Pinnacle Construction & Development Group, Inc.](https://www.pinnacleconstruction.bz/)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a2616a0da45516f16ba651?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Feb 27 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a2782d0da45516f16bc8f6?utm_campaign=1050&utm_source=git)** | Research Triangle Park, NC | On Site | Feb 27 |
-| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
-| ↳ | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
+| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
+| ↳ | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
 | **[C&N](http://cnbankpa.com)** | **[Intern - Project Management (SUMMER 2026)](https://jobright.ai/jobs/info/69a270480da45516f16bb9e1?utm_campaign=1050&utm_source=git)** | Wellsboro, Pennsylvania, United States | On Site | Feb 27 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Hospitality Tourism Internship - Dollywood's Splash Country - Seasonal](https://jobright.ai/jobs/info/69a26200b600907a9628ac9b?utm_campaign=1050&utm_source=git)** | Pigeon Forge, Tennessee, United States | On Site | Feb 27 |
 | **[Richemont](https://www.richemont.com/)** | **[Digital Operations Support Intern](https://jobright.ai/jobs/info/69a230440da45516f16b78a9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Feb 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking - New York](https://jobright.ai/jobs/info/69a229de0da45516f16b728c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a22a95b600907a9628774c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Feb 27 |
 | **[Leidos](https://www.leidos.com)** | **[Subcontracts Intern](https://jobright.ai/jobs/info/69a219740da45516f16b625b?utm_campaign=1050&utm_source=git)** | Columbia, MD | Hybrid | Feb 27 |
-| ↳ | **[Subcontracts Intern](https://jobright.ai/jobs/info/69a21f9a0da45516f16b683a?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Feb 27 |
-| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Logistics Specialist - Intern](https://jobright.ai/jobs/info/69a1f872359fe034b1cd37c4?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Feb 27 |
-| **[Pella Windows & Doors of Montana](http://www.pellaMT.com)** | **[Department Manager Intern - Summer 2026 (Pella, IA)](https://jobright.ai/jobs/info/69a234c50da45516f16b7d44?utm_campaign=1050&utm_source=git)** | Pella, IA, United States | On Site | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Event Operations and Impact Intern](https://jobright.ai/jobs/info/69a1f6a90da45516f16b4039?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Strategy Intern](https://jobright.ai/jobs/info/69964e7881476f6176ae13cf?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
