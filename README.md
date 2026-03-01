@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a3a2c7b600907a9629ada5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 28 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/695fc5fba112b402660e6f68?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Feb 28 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
 | **[Robynex Automation](robynexautomation.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a3512fb600907a96298fd2?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d7b3c137a051025669e23?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c0edb600907a96292f2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c055359fe034b1ce1fbc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697da008abff4c399a9c78af?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Feb 28 |
-| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2be680da45516f16c258a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
