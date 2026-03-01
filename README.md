@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridien Labs](meridienlabs.us)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a484c3359fe034b1cf44c6?utm_campaign=1050&utm_source=git)** | Nyack, NY | Remote | Mar 01 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations Specialist](https://jobright.ai/jobs/info/6994c7e7e0bddb6acac342a5?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Mar 01 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a484220da45516f16d4f71?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Mar 01 |
+| **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 01 |
+| **[RoboStruct Technologies](robostructtechnologies.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a480ca359fe034b1cf425b?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
+| **[Dürr](http://www.durr.com/en/)** | **[Internship - Supply Chain & Logistics - Plant Operations](https://jobright.ai/jobs/info/6997c7a6ce78e77b4fdc2e01?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Mar 01 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Mar 01 |
+| **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Intern Asset Management](https://jobright.ai/jobs/info/69a47dfa359fe034b1cf4079?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Mar 01 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Strategy Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47b51b600907a962a4bae?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a47b10b600907a962a4b74?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Mar 01 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consumer Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47aac0da45516f16d48e6?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Mar 01 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/69a4743fb600907a962a49af?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
@@ -101,10 +112,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a3feb6b600907a962a0103?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 01 |
 | **[DSG Supply](https://www.dsgsupply.com/)** | **[Summer Intern - Operations & Sales](https://jobright.ai/jobs/info/69a3f4e7b600907a9629f472?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Mar 01 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
-| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69a3f1700da45516f16ce988?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3ecb4359fe034b1ceda86?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Feb 28 |
-| ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
@@ -134,6 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Feb 28 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Feb 28 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Feb 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse,](https://jobright.ai/jobs/info/698418bc348f733a5c37e607?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 28 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Feb 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 28 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Congress & Meeting Management Intern](https://jobright.ai/jobs/info/69865fec0f6f7e7a2ce1496b?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | On Site | Feb 28 |
 | **[Sentara Health](http://www.sentara.com)** | **[Supply Chain Internship - Summer 2026 Hybrid](https://jobright.ai/jobs/info/6996bcc881476f6176aebdab?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 28 |
-| ↳ | **[Strategic Sourcing & Contracting Internship - Summer 2026 Hybrid](https://jobright.ai/jobs/info/69a14c2a0da45516f16a896f?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 28 |
-| **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months) 1](https://jobright.ai/jobs/info/69a3225c0da45516f16c6e0a?utm_campaign=1050&utm_source=git)** | Berry Mills, New Brunswick, Canada | On Site | Feb 28 |
-| **[Arm](http://www.arm.com)** | **[Intern Strategic Planning Analyst](https://jobright.ai/jobs/info/69a300f8b600907a96296621?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Feb 28 |
-| **[Data Trust](https://thedatatrust.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69a30029359fe034b1ce57f4?utm_campaign=1050&utm_source=git)** | Arlington, Virginia, United States | On Site | Feb 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69438f4b50bbaf765055959a?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Feb 28 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Feb 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Summer 2026 Internship](https://jobright.ai/jobs/info/698abf8b4db8972cec003619?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 28 |
-| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2026](https://jobright.ai/jobs/info/695a2e4bf1f8465b79f079a4?utm_campaign=1050&utm_source=git)** | Hancock, IA | On Site | Feb 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defbb944d32141e0c048f7?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 28 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
