@@ -60,14 +60,12 @@ For a complete list, click the following sortable link below:
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
 | **[Robynex Automation](robynexautomation.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a3512fb600907a96298fd2?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 28 |
-| **[Stevens Industries, Inc.](http://stevensind.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69a34f920da45516f16c8b47?utm_campaign=1050&utm_source=git)** | Teutopolis, IL | On Site | Feb 28 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
 | **[Crest Vale](crestvale.us)** | **[Operations Intern – Business Division](https://jobright.ai/jobs/info/69a34d150da45516f16c89c5?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 28 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69a34cbe0da45516f16c898b?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Feb 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Project Management Office)](https://jobright.ai/jobs/info/69a3498f359fe034b1ce7cd3?utm_campaign=1050&utm_source=git)** | Danville, PA | On Site | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69a342c4b600907a96298265?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae603db26b618950e48ae?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 28 |
-| **[Orvanta](joinorvanta.com)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/69a339f3b600907a96297e7d?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Procurement Internship](https://jobright.ai/jobs/info/69a33928b600907a96297e50?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Program Manager (Tempe,AZ)](https://jobright.ai/jobs/info/698668e98da7a612046128c4?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Feb 28 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Feb 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d7b3c137a051025669e23?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c0edb600907a96292f2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c055359fe034b1ce1fbc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
+| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697da008abff4c399a9c78af?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Feb 28 |
+| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2be680da45516f16c258a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
