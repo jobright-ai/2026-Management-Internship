@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69a3f1700da45516f16ce988?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 28 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3ecb4359fe034b1ceda86?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Feb 28 |
+| ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a3a2c7b600907a9629ada5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 28 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/695fc5fba112b402660e6f68?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Operations Internship](https://jobright.ai/jobs/info/69a2c5ab359fe034b1ce264c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Global Logistics Specialist](https://jobright.ai/jobs/info/69a2faf10da45516f16c5bca?utm_campaign=1050&utm_source=git)** | Woodcliff Lake, NJ | On Site | Feb 28 |
 | ↳ | **[Intern, PMO/Performance Reporting IT](https://jobright.ai/jobs/info/69a2fc7a0da45516f16c5d6a?utm_campaign=1050&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d957aabff4c399a9c671f?utm_campaign=1050&utm_source=git)** | Delavan, WI | On Site | Feb 28 |
-| **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d7b3c137a051025669e23?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
