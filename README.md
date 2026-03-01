@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meridien Labs](meridienlabs.us)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a484c3359fe034b1cf44c6?utm_campaign=1050&utm_source=git)** | Nyack, NY | Remote | Mar 01 |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69a49b750da45516f16d5db6?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 01 |
+| **[U.S. Army MWR](https://www.armymwr.com/)** | **[OPERATIONS ASSISTANT (DEVELOPMENTAL) NF -01](https://jobright.ai/jobs/info/698f82120f6f7e7a2cebbf55?utm_campaign=1050&utm_source=git)** | Fort Polk, LA | On Site | Mar 01 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Internship - Procurement](https://jobright.ai/jobs/info/69a498bab600907a962a5d28?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 01 |
+| ↳ | **[Internship - Procurement](https://jobright.ai/jobs/info/69a497fd359fe034b1cf4e82?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 01 |
+| **[Bluecrest Partners](bluecrestpartners.net)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a48ffb0da45516f16d5457?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Mar 01 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations Specialist](https://jobright.ai/jobs/info/6994c7e7e0bddb6acac342a5?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Mar 01 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a484220da45516f16d4f71?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Mar 01 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 01 |
@@ -68,11 +72,13 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Strategy Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47b51b600907a962a4bae?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a47b10b600907a962a4b74?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consumer Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47aac0da45516f16d48e6?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
+| **[Vexra Engineering](vexraengineering.com)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4968b0da45516f16d5893?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Mar 01 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/69a4743fb600907a962a49af?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 01 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Operations, Legal & People Ops](https://jobright.ai/jobs/info/69a09bc15218a8167671cb43?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | Mar 01 |
+| **[Vexra Engineering](vexraengineering.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a4927e0da45516f16d55af?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
 | **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Operations Intern](https://jobright.ai/jobs/info/69a46a600da45516f16d4512?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4647c359fe034b1cf376a?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/69a463ee359fe034b1cf372d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
@@ -126,6 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69a34cbe0da45516f16c898b?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Feb 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Project Management Office)](https://jobright.ai/jobs/info/69a3498f359fe034b1ce7cd3?utm_campaign=1050&utm_source=git)** | Danville, PA | On Site | Feb 28 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Claims Adjuster-Crop Intern (Summer 2026-IL) - QBE Insurance](https://jobright.ai/jobs/info/69a07bad81476f6176babba5?utm_campaign=1050&utm_source=git)** | Springfield, IL | Remote | Feb 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69a342c4b600907a96298265?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae603db26b618950e48ae?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 28 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Procurement Internship](https://jobright.ai/jobs/info/69a33928b600907a96297e50?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Feb 28 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/698655c78da7a61204610b2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| **[IKM Building Solutions](https://illingworth-kilgust.com)** | **[Internship - Assistant Project Manager](https://jobright.ai/jobs/info/696c4541db26b618950f9a61?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Feb 28 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/69a314e4359fe034b1ce5f0f?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Feb 28 |
-| **[Magna International](http://www.magna.com/)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/696ac100350cf4380311cf0a?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| ↳ | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 28 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Congress & Meeting Management Intern](https://jobright.ai/jobs/info/69865fec0f6f7e7a2ce1496b?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | On Site | Feb 28 |
-| **[Sentara Health](http://www.sentara.com)** | **[Supply Chain Internship - Summer 2026 Hybrid](https://jobright.ai/jobs/info/6996bcc881476f6176aebdab?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
