@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manifold Ventures](https://www.manifoldventures.net)** | **[Executive](https://jobright.ai/jobs/info/69a4078d0da45516f16d08b0?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Mar 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a407060da45516f16d07c2?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Mar 01 |
+| ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a403300da45516f16d0106?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 01 |
+| **[Kaeser Compressors USA](http://www.kaeser.com/)** | **[Intern -  Branch Operations](https://jobright.ai/jobs/info/69a400ad359fe034b1cef1d2?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Mar 01 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/69a40095359fe034b1cef1b3?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Mar 01 |
+| **[Super.com](https://www.super.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a40025359fe034b1cef111?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a3feb6b600907a962a0103?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 01 |
+| **[DSG Supply](https://www.dsgsupply.com/)** | **[Summer Intern - Operations & Sales](https://jobright.ai/jobs/info/69a3f4e7b600907a9629f472?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Mar 01 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69a3f1700da45516f16ce988?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
@@ -139,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Feb 28 |
 | **[CRH](http://crh.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/69a2e1270da45516f16c3fb4?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Feb 28 |
 | ↳ | **[Operations Management Summer Internship](https://jobright.ai/jobs/info/69a2e11b359fe034b1ce35d5?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Feb 28 |
+| **[Glen Echo Group, an Orchestra company](https://www.glenechogroup.com)** | **[Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/69a400590da45516f16cfcaa?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Research & Development Intern-Technical Project Management, Summer 2026](https://jobright.ai/jobs/info/69a2de2b359fe034b1ce355c?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Feb 28 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/699fd9f553d97f23ee655dc0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Research & Development Intern-Technical Project Management, Summer 2026](https://jobright.ai/jobs/info/69a2d69eb600907a96294076?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Feb 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a2cdd9b600907a96293a74?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Feb 28 |
 | **[Zoox](https://www.zoox.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69a2cdc3b600907a96293a66?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 28 |
 | **[KELLER](https://www.keller-france.com/)** | **[Intern](https://jobright.ai/jobs/info/69977846e0bddb6acac62f97?utm_campaign=1050&utm_source=git)** | Smyrna, GA | On Site | Feb 28 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986928d8ca8121a3a68e141?utm_campaign=1050&utm_source=git)** | Liverpool, NY | On Site | Feb 28 |
-| **[Grifols Shared Services North America, Inc.](https://www.linkedin.com/company/56758682)** | **[Intern - Clinical Supply Chain Associate](https://jobright.ai/jobs/info/69a2cb220da45516f16c3512?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Feb 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Integrated Business Planning](https://jobright.ai/jobs/info/69a2c717b600907a9629361b?utm_campaign=1050&utm_source=git)** | Georgetown, Ontario, Canada | Hybrid | Feb 28 |
-| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/698acd820f6f7e7a2ce624ec?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Operations Internship](https://jobright.ai/jobs/info/69a2c5ab359fe034b1ce264c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, Global Logistics Specialist](https://jobright.ai/jobs/info/69a2faf10da45516f16c5bca?utm_campaign=1050&utm_source=git)** | Woodcliff Lake, NJ | On Site | Feb 28 |
-| ↳ | **[Intern, PMO/Performance Reporting IT](https://jobright.ai/jobs/info/69a2fc7a0da45516f16c5d6a?utm_campaign=1050&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
