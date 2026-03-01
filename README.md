@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a3a2c7b600907a9629ada5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Feb 28 |
 | **[Veltrana Group](veltranagroup.us)** | **[Procurement Internship 2026](https://jobright.ai/jobs/info/69a31beb359fe034b1ce633f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 28 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69a31b470da45516f16c6bcb?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 28 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/698655c78da7a61204610b2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[IKM Building Solutions](https://illingworth-kilgust.com)** | **[Internship - Assistant Project Manager](https://jobright.ai/jobs/info/696c4541db26b618950f9a61?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Feb 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/69a314e4359fe034b1ce5f0f?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d957aabff4c399a9c671f?utm_campaign=1050&utm_source=git)** | Delavan, WI | On Site | Feb 28 |
 | **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d7b3c137a051025669e23?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Feb 28 |
-| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a2c0edb600907a96292f2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
