@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Analyst Internship- Distribution](https://jobright.ai/jobs/info/69a59e77b600907a962b4e81?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Mar 02 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a59d010da45516f16e4bc0?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 02 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a59c74359fe034b1d03c67?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | Remote | Mar 02 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Mar 02 |
+| **[American Electric Power](http://aep.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a597f30da45516f16e4317?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026, Intern Care Transformation Solutions](https://jobright.ai/jobs/info/69a59488b600907a962b3e23?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
+| **[American Electric Power](http://aep.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a593bbb600907a962b3d15?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Mar 02 |
+| **[Robynex Automation](robynexautomation.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a59127359fe034b1d02c55?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 02 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/699d3aaa81476f6176b5fccd?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 02 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Mar 02 |
+| **[Savion](https://savionenergy.com/)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69a0ac8d0836fe79d861add6?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Mar 02 |
+| ↳ | **[Project Delivery/Project Management Intern](https://jobright.ai/jobs/info/699bcfebe0bddb6acacaa50b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Mar 02 |
+| ↳ | **[Real Estate Intern](https://jobright.ai/jobs/info/69a1ffcab600907a96284d30?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Mar 02 |
+| **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69899ede47434001cc67c108?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Summer 2026, Intern Care Transformation Solutions](https://jobright.ai/jobs/info/69a59e5d0da45516f16e4e38?utm_campaign=1050&utm_source=git)** | Chicago - 550 Van Buren | Hybrid | Mar 02 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a57984b600907a962b2a7b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Gridvanta PowerTech](gridvantapowertech.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69a57916b600907a962b2a38?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 02 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Tennessee Valley Region (MS-TN-KY-AL),](https://jobright.ai/jobs/info/69841c6c348f733a5c37ece9?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | Feb 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69a55634b600907a962af883?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
-| **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69a5104f359fe034b1cfa66d?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Feb 28 |
-| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central & Southern Ohio, Eastern West Virginia and Northeast Kentucky,](https://jobright.ai/jobs/info/69841b8d8da7a612045e0ea5?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Feb 28 |
-| **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 28 |
-| **[Altamira](https://www.linkedin.com/company/32344)** | **[Program Control Intern with Security Clearance](https://jobright.ai/jobs/info/69a448fbb600907a962a3a7a?utm_campaign=1050&utm_source=git)** | Harlem, GA | On Site | Feb 28 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/695fc5fba112b402660e6f68?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Feb 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/69841397348f733a5c37e0ed?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 28 |
-| **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
-| **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
-| **[Aeravox Dynamics](aeravoxdynamics.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69a34cbe0da45516f16c898b?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Feb 28 |
-| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Project Management Office)](https://jobright.ai/jobs/info/69a3498f359fe034b1ce7cd3?utm_campaign=1050&utm_source=git)** | Danville, PA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
