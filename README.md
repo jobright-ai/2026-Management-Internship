@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](joinorvanta.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a5040e0da45516f16da933?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Mar 01 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Commercial Loan Operations](https://jobright.ai/jobs/info/69a4f6fa359fe034b1cf8950?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 01 |
 | ↳ | **[Corporate Intern - Enterprise Commercial Loan Operations](https://jobright.ai/jobs/info/69a4f6aeb600907a962a9622?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Mar 01 |
 | **[Robynex Automation](robynexautomation.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a4f4970da45516f16d926a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4e682b600907a962a7c46?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4d18db600907a962a76aa?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
-| **[Clyvra](clyvra.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4c9ab0da45516f16d7403?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a4c6e6b600907a962a74b9?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[Highgate](https://www.highgate.com)** | **[Internship - Procurement](https://jobright.ai/jobs/info/69a4ae1b0da45516f16d6afe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Campus Compact for Wisconsin](http://www.wicampuscompact.org)** | **[Inaugural Executive Director for the Center for Rural Engagement Bradford, PA](https://jobright.ai/jobs/info/69a4a8a1b600907a962a6b1a?utm_campaign=1050&utm_source=git)** | Bradford, PA | On Site | Mar 01 |
@@ -79,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Mar 01 |
 | **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Intern Asset Management](https://jobright.ai/jobs/info/69a47dfa359fe034b1cf4079?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Strategy Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47b51b600907a962a4bae?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a47b10b600907a962a4b74?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Mar 01 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consumer Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47aac0da45516f16d48e6?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
+| ↳ | **[Consumer Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47aac0da45516f16d48e6?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
 | **[Vexra Engineering](vexraengineering.com)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4968b0da45516f16d5893?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Mar 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
@@ -88,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Operations, Legal & People Ops](https://jobright.ai/jobs/info/69a09bc15218a8167671cb43?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | Mar 01 |
 | **[Vexra Engineering](vexraengineering.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a4927e0da45516f16d55af?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
 | **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Operations Intern](https://jobright.ai/jobs/info/69a46a600da45516f16d4512?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
+| **[KIOXIA Group](https://www.kioxia-holdings.com/ja-jp/top.html)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a5076d0da45516f16dac63?utm_campaign=1050&utm_source=git)** | Santa Clara, CA, US | On Site | Mar 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/69a463ee359fe034b1cf372d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Cape Cod area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1050&utm_source=git)** | Hyannis, MA | On Site | Mar 01 |
