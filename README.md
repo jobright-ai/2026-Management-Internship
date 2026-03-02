@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Commercial Loan Operations](https://jobright.ai/jobs/info/69a4f6fa359fe034b1cf8950?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 01 |
+| ↳ | **[Corporate Intern - Enterprise Commercial Loan Operations](https://jobright.ai/jobs/info/69a4f6aeb600907a962a9622?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Mar 01 |
 | **[Robynex Automation](robynexautomation.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a4f4970da45516f16d926a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4e682b600907a962a7c46?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4d18db600907a962a76aa?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Vexra Engineering](vexraengineering.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a4927e0da45516f16d55af?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
 | **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Operations Intern](https://jobright.ai/jobs/info/69a46a600da45516f16d4512?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/69a463ee359fe034b1cf372d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
-| **[KANSAS OIL RESERVES LLC](https://www.linkedin.com/company/56119048)** | **[Management student Internship](https://jobright.ai/jobs/info/69a45cf1b600907a962a40d8?utm_campaign=1050&utm_source=git)** | Missouri, United States | Remote | Mar 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Cape Cod area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1050&utm_source=git)** | Hyannis, MA | On Site | Mar 01 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse,](https://jobright.ai/jobs/info/698418bc348f733a5c37e607?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 28 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Feb 28 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
