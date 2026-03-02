@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4e682b600907a962a7c46?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4d18db600907a962a76aa?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
 | **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Technical Project Management Intern - Service Operations](https://jobright.ai/jobs/info/69a4cc4d359fe034b1cf6968?utm_campaign=1050&utm_source=git)** | Nashua, NH | On Site | Mar 01 |
 | **[Clyvra](clyvra.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4c9ab0da45516f16d7403?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Consumer Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a47aac0da45516f16d48e6?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
 | **[Vexra Engineering](vexraengineering.com)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4968b0da45516f16d5893?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Mar 01 |
-| **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/69a4743fb600907a962a49af?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 01 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 01 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Intern: Operations, Legal & People Ops](https://jobright.ai/jobs/info/69a09bc15218a8167671cb43?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | Mar 01 |
@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/69a463ee359fe034b1cf372d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
 | **[KANSAS OIL RESERVES LLC](https://www.linkedin.com/company/56119048)** | **[Management student Internship](https://jobright.ai/jobs/info/69a45cf1b600907a962a40d8?utm_campaign=1050&utm_source=git)** | Missouri, United States | Remote | Mar 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 01 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a44d18b600907a962a3c4e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Cape Cod area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1050&utm_source=git)** | Hyannis, MA | On Site | Mar 01 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Mar 01 |
 | **[Fyntrix One](fyntrixone.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a44491b600907a962a3951?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Mar 01 |
@@ -97,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Mar 01 |
 | **[Cemex US](http://www.cemex.com/)** | **[FINANCE/STRATEGIC PLANNING PROFESSIONAL INTERNSHIP DEVELOPMENT](https://jobright.ai/jobs/info/691ae18445fb6f5ead8ae84d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/6993098781476f6176aaa4fc?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Mar 01 |
+| **[Savion](https://savionenergy.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69a4dab3359fe034b1cf6d9d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Mar 01 |
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Project Management](https://jobright.ai/jobs/info/699032b76ea51a7610f2b85a?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Mar 01 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 01 |
@@ -131,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/69841397348f733a5c37e0ed?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 28 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
-| **[Robynex Automation](robynexautomation.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a3512fb600907a96298fd2?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 28 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69a34cbe0da45516f16c898b?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Feb 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Project Management Office)](https://jobright.ai/jobs/info/69a3498f359fe034b1ce7cd3?utm_campaign=1050&utm_source=git)** | Danville, PA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse,](https://jobright.ai/jobs/info/698418bc348f733a5c37e607?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Feb 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 28 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Feb 28 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
