@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a57984b600907a962b2a7b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 02 |
+| **[Gridvanta PowerTech](gridvantapowertech.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69a57916b600907a962b2a38?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 02 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Commercial Programs Intern](https://jobright.ai/jobs/info/69a572ab359fe034b1d0154c?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Mar 02 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69317f364c474121999f1480?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 02 |
@@ -66,14 +68,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 02 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/69510b6a29655e4dd65a297b?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69a55ce10da45516f16e07df?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/699d15e0e0bddb6acacc33fa?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/699d15e0e0bddb6acacc33fa?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Logistics Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/69a55b4a359fe034b1cff791?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Mar 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[Maintenance Intern(TEMP)](https://jobright.ai/jobs/info/69a55a03359fe034b1cff554?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69a558dd359fe034b1cff3d4?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 02 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69a558d0359fe034b1cff3b9?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 02 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Operations Intern - 2026](https://jobright.ai/jobs/info/69a5565db600907a962afa24?utm_campaign=1050&utm_source=git)** | Montgomery, MN | On Site | Mar 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69a554b5b600907a962af4cc?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 02 |
-| **[Valorantum](valorantum.us)** | **[Intern Business Operations.](https://jobright.ai/jobs/info/69a548d30da45516f16de53a?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Mar 02 |
+| **[Valorantum](valorantum.net)** | **[Intern Business Operations.](https://jobright.ai/jobs/info/69a548d30da45516f16de53a?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Mar 02 |
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69a54289b600907a962adf51?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 01 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69a53363359fe034b1cfbe7c?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 01 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Technology PMO - Student Internship](https://jobright.ai/jobs/info/698a20c54db8972cecff65ae?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
@@ -122,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Mar 01 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317543fa28370be26baf59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 01 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Ticket Operations– Ontario Reign](https://jobright.ai/jobs/info/6994bd1dce78e77b4fd8be0f?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Mar 01 |
-| **[South Texas Health System Clinics](https://www.valleycareclinics.com)** | **[Student/ Intern](https://jobright.ai/jobs/info/69a41680359fe034b1cf124d?utm_campaign=1050&utm_source=git)** | McAllen, TX | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/697837d952f3c27ec6446ffd?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6976df3cbc8e722e7b1b50d9?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[SFARI Administrative Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae70d5fc86241853a1d70?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 01 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/69841397348f733a5c37e0ed?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 28 |
 | **[Oliver Mechanical Inc](https://olivermechanicalinc.com)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69a35966359fe034b1ce841c?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a356d0b600907a96299136?utm_campaign=1050&utm_source=git)** | Spokane | Hybrid | Feb 28 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
+| **[Aeravox Dynamics](aeravoxdynamics.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a34f78359fe034b1ce81a3?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 28 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69a34cbe0da45516f16c898b?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Feb 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Project Management Office)](https://jobright.ai/jobs/info/69a3498f359fe034b1ce7cd3?utm_campaign=1050&utm_source=git)** | Danville, PA | On Site | Feb 28 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
