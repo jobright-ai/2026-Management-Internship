@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Operations Intern - 2026](https://jobright.ai/jobs/info/69a5565db600907a962afa24?utm_campaign=1050&utm_source=git)** | Montgomery, MN | On Site | Mar 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69a554b5b600907a962af4cc?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 02 |
+| **[Valorantum](valorantum.us)** | **[Intern Business Operations.](https://jobright.ai/jobs/info/69a548d30da45516f16de53a?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Mar 02 |
+| **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69a54289b600907a962adf51?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 01 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Logistics Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/69a5411fb600907a962add4e?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Mar 01 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69a53363359fe034b1cfbe7c?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 01 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Technology PMO - Student Internship](https://jobright.ai/jobs/info/698a20c54db8972cecff65ae?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Corporate Real Estate Business Optimization (Summer 2026)](https://jobright.ai/jobs/info/69a517deb600907a962ab873?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 01 |
@@ -67,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Robynex Automation](robynexautomation.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a4f4970da45516f16d926a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4e682b600907a962a7c46?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a4c6e6b600907a962a74b9?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
+| **[Arena](https://arena.run/)** | **[Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/69a54aff359fe034b1cfd97f?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
 | **[Highgate](https://www.highgate.com)** | **[Internship - Procurement](https://jobright.ai/jobs/info/69a4ae1b0da45516f16d6afe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Campus Compact for Wisconsin](http://www.wicampuscompact.org)** | **[Inaugural Executive Director for the Center for Rural Engagement Bradford, PA](https://jobright.ai/jobs/info/69a4a8a1b600907a962a6b1a?utm_campaign=1050&utm_source=git)** | Bradford, PA | On Site | Mar 01 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69a49b750da45516f16d5db6?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 01 |
@@ -121,6 +127,8 @@ For a complete list, click the following sortable link below:
 | **[DSG Supply](https://www.dsgsupply.com/)** | **[Summer Intern - Operations & Sales](https://jobright.ai/jobs/info/69a3f4e7b600907a9629f472?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Mar 01 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Tennessee Valley Region (MS-TN-KY-AL),](https://jobright.ai/jobs/info/69841c6c348f733a5c37ece9?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | Feb 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69a55634b600907a962af883?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69a5104f359fe034b1cfa66d?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Feb 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Master's Intern](https://jobright.ai/jobs/info/69a3318ab600907a96297c1b?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | Hybrid | Feb 28 |
 | ↳ | **[Reporting Master's Intern](https://jobright.ai/jobs/info/69a330fb359fe034b1ce6e66?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Feb 28 |
-| ↳ | **[Strategy Bachelor's Intern](https://jobright.ai/jobs/info/69a330a8359fe034b1ce6e34?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Feb 28 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Operations Intern - Summer '26](https://jobright.ai/jobs/info/68c232764d652f044775dc7b?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Feb 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6973111b206da320f49d1d87?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Feb 28 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Feb 28 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Feb 28 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Feb 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse,](https://jobright.ai/jobs/info/698418bc348f733a5c37e607?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Feb 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
