@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robynex Automation](robynexautomation.com)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/69a4f4970da45516f16d926a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a4e682b600907a962a7c46?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Mar 01 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4d18db600907a962a76aa?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
-| **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Technical Project Management Intern - Service Operations](https://jobright.ai/jobs/info/69a4cc4d359fe034b1cf6968?utm_campaign=1050&utm_source=git)** | Nashua, NH | On Site | Mar 01 |
 | **[Clyvra](clyvra.net)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a4c9ab0da45516f16d7403?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a4c6e6b600907a962a74b9?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[Highgate](https://www.highgate.com)** | **[Internship - Procurement](https://jobright.ai/jobs/info/69a4ae1b0da45516f16d6afe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 01 |
@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a407060da45516f16d07c2?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Mar 01 |
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a403300da45516f16d0106?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 01 |
 | **[AM Mechanical](https://www.am-mech.com/)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69a42430b600907a962a274d?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Mar 01 |
-| **[Kaeser Compressors USA](http://www.kaeser.com/)** | **[Intern -  Branch Operations](https://jobright.ai/jobs/info/69a400ad359fe034b1cef1d2?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Mar 01 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/69a40095359fe034b1cef1b3?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Mar 01 |
 | **[Super.com](https://www.super.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a40025359fe034b1cef111?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a3feb6b600907a962a0103?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 01 |
@@ -124,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69a3d978b600907a9629d382?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Department Secretary - Care Management](https://jobright.ai/jobs/info/69a3d3010da45516f16cc919?utm_campaign=1050&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69a3a06d359fe034b1ce9f63?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central & Southern Ohio, Eastern West Virginia and Northeast Kentucky,](https://jobright.ai/jobs/info/69841b8d8da7a612045e0ea5?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Feb 28 |
 | **[F5](https://www.f5.com)** | **[Technical Program Manager Intern (Spokane)](https://jobright.ai/jobs/info/69a397fa0da45516f16ca06a?utm_campaign=1050&utm_source=git)** | Spokane, WA | Hybrid | Feb 28 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 28 |
 | **[Altamira](https://www.linkedin.com/company/32344)** | **[Program Control Intern with Security Clearance](https://jobright.ai/jobs/info/69a448fbb600907a962a3a7a?utm_campaign=1050&utm_source=git)** | Harlem, GA | On Site | Feb 28 |
