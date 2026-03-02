@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a5aad6b600907a962b5b52?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 02 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management (Technology Accelerators)](https://jobright.ai/jobs/info/6918883bbcdbf3560c9d28bd?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/69a5aa01b600907a962b5ab5?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Mar 02 |
+| **[telMAX Inc.](https://telmax.com)** | **[Project & Reporting Analyst Co-op](https://jobright.ai/jobs/info/69a0211381476f6176ba2c98?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 02 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/698ffcd66ea51a7610f260da?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Mar 02 |
+| **[American Electric Power](http://aep.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a5a7e50da45516f16e582b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Strategic Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/69a5a424359fe034b1d04682?utm_campaign=1050&utm_source=git)** | US RI 500 Exchange | Hybrid | Mar 02 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a5a3c5359fe034b1d045e8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Mar 02 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Mar 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Analyst Internship- Distribution](https://jobright.ai/jobs/info/69a59e77b600907a962b4e81?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Mar 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a59d010da45516f16e4bc0?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 02 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[New Business Associate Intern, Summer 2026](https://jobright.ai/jobs/info/69a59c74359fe034b1d03c67?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | Remote | Mar 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a40a1fb600907a962a16fd?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 01 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a409afb600907a962a15bd?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 01 |
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a407060da45516f16d07c2?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Mar 01 |
-| ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a403300da45516f16d0106?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 01 |
-| **[AM Mechanical](https://www.am-mech.com/)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69a42430b600907a962a274d?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Mar 01 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/69a40095359fe034b1cef1b3?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Mar 01 |
-| **[Super.com](https://www.super.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69a40025359fe034b1cef111?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69a3feb6b600907a962a0103?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 01 |
-| **[DSG Supply](https://www.dsgsupply.com/)** | **[Summer Intern - Operations & Sales](https://jobright.ai/jobs/info/69a3f4e7b600907a9629f472?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Mar 01 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/69a3f136359fe034b1cede36?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Tennessee Valley Region (MS-TN-KY-AL),](https://jobright.ai/jobs/info/69841c6c348f733a5c37ece9?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | Feb 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69a55634b600907a962af883?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
