@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Sustainability Strategy - Summer 2026](https://jobright.ai/jobs/info/69a6774ce567421f425779bb?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 02 |
+| ↳ | **[Global Conferences: Operations Full-Time Intern](https://jobright.ai/jobs/info/69a67695d706a731db38650e?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 02 |
+| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Business Process Development](https://jobright.ai/jobs/info/69a676182c0d8b0f5cd0949a?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
+| **[AssetMark](http://www.assetmark.com)** | **[Transition Services Intern](https://jobright.ai/jobs/info/69a674dbe567421f42577754?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 02 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a673f8e567421f42577699?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Mar 02 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a66dfdd706a731db385cd6?utm_campaign=1050&utm_source=git)** | Sidney, NY | On Site | Mar 02 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Administrative Assistant 3, Department of Management and Entrepreneurship, Lee Business School [R0150756]](https://jobright.ai/jobs/info/69a66c38e567421f425772e7?utm_campaign=1050&utm_source=git)** | LV Metro Area | On Site | Mar 02 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[CIO Program Management & Security Intern](https://jobright.ai/jobs/info/69a661c42c0d8b0f5cd08375?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Mar 02 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/69a65e02e567421f42576681?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Mar 02 |
@@ -114,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Front Office Intern](https://jobright.ai/jobs/info/69a653ead706a731db38355f?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/69a662d7d706a731db3850c5?utm_campaign=1050&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Mar 02 |
 | **[City Wide Facility Solutions - Las Vegas](https://lasvegas.gocitywide.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a62636b600907a962c08d9?utm_campaign=1050&utm_source=git)** | Covington, Kentucky, United States | On Site | Mar 02 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[IS Leadership Summer Internship 2026](https://jobright.ai/jobs/info/69a64e66d706a731db382dc1?utm_campaign=1050&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Mar 02 |
-| ↳ | **[IS Leadership Summer Internship 2026](https://jobright.ai/jobs/info/69a64c9ae567421f4257458a?utm_campaign=1050&utm_source=git)** | Egg Harbor Township, NJ, US | On Site | Mar 02 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[IS Leadership Summer Internship 2026](https://jobright.ai/jobs/info/69a64c9ae567421f4257458a?utm_campaign=1050&utm_source=git)** | Egg Harbor Township, NJ, US | On Site | Mar 02 |
+| ↳ | **[IS Leadership Summer Internship 2026](https://jobright.ai/jobs/info/69a64e66d706a731db382dc1?utm_campaign=1050&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Mar 02 |
 | **[UCB](http://www.ucb.com)** | **[Medical Affairs Intern, Rare Disease](https://jobright.ai/jobs/info/69a64aca2c0d8b0f5cd05add?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, CA | Hybrid | Mar 02 |
 | **[Plunkett's Pest Control](https://plunketts.net/)** | **[Seasonal Administrative Intern](https://jobright.ai/jobs/info/69a658512c0d8b0f5cd074bd?utm_campaign=1050&utm_source=git)** | Fridley,MN,US | On Site | Mar 02 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Supply Chain 2026](https://jobright.ai/jobs/info/69a62568359fe034b1d0f6d3?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/69a5f91b359fe034b1d0bc8a?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 02 |
 | **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5f8e8359fe034b1d0bc3c?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Mar 02 |
 | **[SMS group USA](http://www.sms-group.us)** | **[Intern](https://jobright.ai/jobs/info/69a61bceb600907a962bff45?utm_campaign=1050&utm_source=git)** | Oil City, PA, US | On Site | Mar 02 |
-| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Business Process Development](https://jobright.ai/jobs/info/69a5f61db600907a962bc613?utm_campaign=1050&utm_source=git)** | Fremont, California | On Site | Mar 02 |
-| **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[GTA Office – Opportunities in Risk Services – Cyber Security – Intern/Co-op – Fall 2026 Start](https://jobright.ai/jobs/info/69a5f5ddb600907a962bc5ac?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Strategy and Operations - Enterprise Strategy Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69a615b50da45516f16ef6eb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
-| **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5f539b600907a962bc494?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Mar 02 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/69a5f4eeb600907a962bc3d8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5f492b600907a962bc345?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
