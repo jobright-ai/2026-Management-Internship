@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/69a68f541a944544ef6335d4?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 02 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a6887b1a944544ef632f64?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Mar 02 |
+| **[ABB](https://global.abb/group/en)** | **[Supply Chain Purchasing Intern – Summer 2026](https://jobright.ai/jobs/info/6994fa61e0bddb6acac37f33?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Mar 02 |
+| **[Needham Bank](http://needhambank.com)** | **[Intern - Retail Administration (Summer 2026)](https://jobright.ai/jobs/info/69a68273d706a731db3871e3?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Mar 02 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations](https://jobright.ai/jobs/info/69a67cdbe567421f42577eb5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Sustainability Strategy - Summer 2026](https://jobright.ai/jobs/info/69a6774ce567421f425779bb?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 02 |
 | ↳ | **[Global Conferences: Operations Full-Time Intern](https://jobright.ai/jobs/info/69a67695d706a731db38650e?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Business Process Development](https://jobright.ai/jobs/info/69a676182c0d8b0f5cd0949a?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
@@ -115,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Business Process Optimization Intern, Norwegian Cruise Lines, 2026-2027](https://jobright.ai/jobs/info/69a6456be567421f42573a51?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 02 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Administrative Intern - Engineering](https://jobright.ai/jobs/info/69a627f60da45516f16f0b75?utm_campaign=1050&utm_source=git)** | High Ridge, MO | On Site | Mar 02 |
 | **[Kent](https://kentplc.com/)** | **[Operations Administration Intern](https://jobright.ai/jobs/info/69a646e2e567421f42573c83?utm_campaign=1050&utm_source=git)** | 2050 West Sam Houston Parkway South, Suite 1300, Houston, TX, 77042, US | On Site | Mar 02 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2609 BRIDGE Forests Corporate Engagement Graduate Intern](https://jobright.ai/jobs/info/69a65b1dd706a731db384237?utm_campaign=1050&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
-| ↳ | **[BR-2609 BRIDGE Forests Corporate Engagement Graduate Intern](https://jobright.ai/jobs/info/69a651b4e567421f42574e27?utm_campaign=1050&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2609 BRIDGE Forests Corporate Engagement Graduate Intern](https://jobright.ai/jobs/info/69a651b4e567421f42574e27?utm_campaign=1050&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
+| ↳ | **[BR-2609 BRIDGE Forests Corporate Engagement Graduate Intern](https://jobright.ai/jobs/info/69a65b1dd706a731db384237?utm_campaign=1050&utm_source=git)** | US-DC-Washington | Hybrid | Mar 02 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Front Office Intern](https://jobright.ai/jobs/info/69a653ead706a731db38355f?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/69a662d7d706a731db3850c5?utm_campaign=1050&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Mar 02 |
 | **[City Wide Facility Solutions - Las Vegas](https://lasvegas.gocitywide.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a62636b600907a962c08d9?utm_campaign=1050&utm_source=git)** | Covington, Kentucky, United States | On Site | Mar 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5fe98359fe034b1d0c4de?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Mar 02 |
 | **[LAIKA Studios](https://laika.com/)** | **[Technology Project Management Intern](https://jobright.ai/jobs/info/69a5fbae359fe034b1d0c07b?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
 | **[Boot Barn](https://www.bootbarn.com)** | **[Intern – Merchandise Store Planning](https://jobright.ai/jobs/info/69a5fb99b600907a962bcfc2?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
-| **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Intern, Strategic Logistics](https://jobright.ai/jobs/info/69a61715b600907a962bfa3f?utm_campaign=1050&utm_source=git)** | Fremont, South Bldg, California - USA | On Site | Mar 02 |
-| ↳ | **[Supply Chain Strategy Intern](https://jobright.ai/jobs/info/69a61cea359fe034b1d0ee72?utm_campaign=1050&utm_source=git)** | Fremont, South Bldg, California - USA | On Site | Mar 02 |
-| **[Terumo Neuro](http://terumoneuro.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/69a5f91b359fe034b1d0bc8a?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA | On Site | Mar 02 |
-| **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5f8e8359fe034b1d0bc3c?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Mar 02 |
-| **[SMS group USA](http://www.sms-group.us)** | **[Intern](https://jobright.ai/jobs/info/69a61bceb600907a962bff45?utm_campaign=1050&utm_source=git)** | Oil City, PA, US | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
