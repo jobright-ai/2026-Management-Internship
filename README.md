@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Productivity Solutions Intern](https://jobright.ai/jobs/info/69a6a721f707784310b004b4?utm_campaign=1050&utm_source=git)** | Calgary | On Site | Mar 03 |
+| **[UCB](http://www.ucb.com)** | **[Medical Affairs Intern, Rare Disease](https://jobright.ai/jobs/info/69a6a130f11be161e274f1b7?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Mar 03 |
+| **[Canaima Design](http://www.canaimadesign.com)** | **[Intern Administration](https://jobright.ai/jobs/info/69a69ee2f707784310aff987?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 03 |
+| **[Xiaohongshu](https://www.xiaohongshu.com)** | **[Intern Program - Events Logistics](https://jobright.ai/jobs/info/69a69cc81a944544ef6347cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 03 |
+| **[Michigan Millers Mutual Insurance Company](http://mimillers.com)** | **[Facilities Operations Intern](https://jobright.ai/jobs/info/698bdaa20f6f7e7a2ce75104?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Mar 03 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a69a1f1a944544ef6344c1?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 03 |
 | **[Morgan Truck Body](http://morgancorp.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a694c9708b430a607afa88?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 02 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/69a68f541a944544ef6335d4?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a6887b1a944544ef632f64?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Mar 02 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a692a11a944544ef63397c?utm_campaign=1050&utm_source=git)** | Batesville, MS | On Site | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Business Process Development](https://jobright.ai/jobs/info/69a676182c0d8b0f5cd0949a?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
 | **[AssetMark](http://www.assetmark.com)** | **[Transition Services Intern](https://jobright.ai/jobs/info/69a674dbe567421f42577754?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 02 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Procurement Internship 2026](https://jobright.ai/jobs/info/69a696c2f707784310afecf2?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Mar 02 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a673f8e567421f42577699?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Mar 02 |
 | **[AeroMatrix 12](aeromatrix12.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69a66dfdd706a731db385cd6?utm_campaign=1050&utm_source=git)** | Sidney, NY | On Site | Mar 02 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Administrative Assistant 3, Department of Management and Entrepreneurship, Lee Business School [R0150756]](https://jobright.ai/jobs/info/69a66c38e567421f425772e7?utm_campaign=1050&utm_source=git)** | LV Metro Area | On Site | Mar 02 |
@@ -107,8 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69a64873e567421f42573e79?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Mar 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69a64834e567421f42573e2c?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Mar 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69a647eee567421f42573e05?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Mar 02 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a647d2d706a731db3825d1?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a6473f2c0d8b0f5cd05512?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Mar 02 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a6473f2c0d8b0f5cd05512?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Mar 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a6461a2c0d8b0f5cd05340?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Mar 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/69a642472c0d8b0f5cd04d3b?utm_campaign=1050&utm_source=git)** | Neptune, NJ, US | On Site | Mar 02 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Program Integration - San Diego CA](https://jobright.ai/jobs/info/69a641c32c0d8b0f5cd04c7d?utm_campaign=1050&utm_source=git)** | United States-California-San Diego | On Site | Mar 02 |
@@ -117,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[New Energy Equity](https://www.newenergyequity.com/)** | **[Internship: Site Acquisition Analyst](https://jobright.ai/jobs/info/69a65ef72c0d8b0f5cd07f25?utm_campaign=1050&utm_source=git)** | Roseville, Minnesota, United States | On Site | Mar 02 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Supply Chain Strategy Intern](https://jobright.ai/jobs/info/69a61b83b600907a962bfef1?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
 | ↳ | **[Intern, Strategic Logistics](https://jobright.ai/jobs/info/69a61b15359fe034b1d0ecf8?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
+| **[River Street Endodontics](http://www.riverstreetendo.ca)** | **[Dental Specialty Clinic Administrative Assistant - Part-time/Internship](https://jobright.ai/jobs/info/69a69d191a944544ef63480b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[IS Leadership Summer Internship 2026](https://jobright.ai/jobs/info/69a62a330da45516f16f0d1e?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 02 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Transformation](https://jobright.ai/jobs/info/696967fff25a38006698005a?utm_campaign=1050&utm_source=git)** | Chevy Chase, Maryland, United States | Hybrid | Mar 02 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Business Process Optimization Intern, Norwegian Cruise Lines, 2026-2027](https://jobright.ai/jobs/info/69a6456be567421f42573a51?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 02 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[OmniOn Power](https://omnionpower.com)** | **[Supply Chain Sourcing Intern](https://jobright.ai/jobs/info/698a57054db8972cecff9697?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Mar 02 |
 | **[Voya Financial](https://www.voya.com/)** | **[Enterprise Project Management Office Intern](https://jobright.ai/jobs/info/69a606f90da45516f16edf0d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Liberty](https://www.libertycsllc.com/)** | **[Construction Management Internship](https://jobright.ai/jobs/info/69a606ee359fe034b1d0d08c?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Mar 02 |
-| **[The Shipyard](http://theshipyard.com)** | **[2026 Summer Internship - Strategy](https://jobright.ai/jobs/info/69a6244cb600907a962c06ff?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
-| ↳ | **[2026 Summer Internship - New Business](https://jobright.ai/jobs/info/69a62484359fe034b1d0f5f1?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
+| **[The Shipyard](http://theshipyard.com)** | **[2026 Summer Internship - New Business](https://jobright.ai/jobs/info/69a62484359fe034b1d0f5f1?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
+| ↳ | **[2026 Summer Internship - Strategy](https://jobright.ai/jobs/info/69a6244cb600907a962c06ff?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[Adventist Health](https://www.adventisthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/69a60648b600907a962be316?utm_campaign=1050&utm_source=git)** | Templeton, CA | On Site | Mar 02 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Facilities](https://jobright.ai/jobs/info/69a605c20da45516f16edcdd?utm_campaign=1050&utm_source=git)** | Albany, NY, US | Hybrid | Mar 02 |
-| **[Highgate](https://www.highgate.com)** | **[Front Office Intern](https://jobright.ai/jobs/info/69a604bfb600907a962bdfc4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69a60470b600907a962bdf43?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
-| **[Voya Financial](https://www.voya.com/)** | **[Enterprise Project Management Office Intern](https://jobright.ai/jobs/info/69a603eb359fe034b1d0cc10?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Mar 02 |
-| **[Boot Barn](https://www.bootbarn.com)** | **[Intern – Merchandise Apparel Planning](https://jobright.ai/jobs/info/69a603c1359fe034b1d0cbd8?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (R&D Program Management)](https://jobright.ai/jobs/info/69a602eeb600907a962bdc61?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Mar 02 |
-| **[JAS Worldwide](http://www.jas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a5fe98359fe034b1d0c4de?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
