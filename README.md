@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern-Beaverton, OR](https://jobright.ai/jobs/info/69a7e757637232443f65415e?utm_campaign=1050&utm_source=git)** | Beaverton/Hillsboro | On Site | Mar 04 |
 | **[Meridien Labs](meridienlabs.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a7cd2d637232443f652945?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Mar 03 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a7c127637232443f65170a?utm_campaign=1050&utm_source=git)** | 645 Clyde Avenue, Mountain View, CA, USA | On Site | Mar 03 |
 | **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[PMO & Cyber Security Awareness Intern](https://jobright.ai/jobs/info/69a7be4876bbe83d3afb361b?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 03 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/69a783ab2672cb0acb4bfb60?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Mar 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69a7838e76bbe83d3afae79b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Mar 03 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Dry Cargo Logistics Internship](https://jobright.ai/jobs/info/69a7ac9876bbe83d3afb1495?utm_campaign=1050&utm_source=git)** | Reserve, LA, USA | Hybrid | Mar 03 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
-| ↳ | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
+| ↳ | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
 | **[Millerbernd](https://www.millerbernd.com)** | **[Planning & Scheduling Internship](https://jobright.ai/jobs/info/699fdd6fce78e77b4fe5c997?utm_campaign=1050&utm_source=git)** | Winsted, MN | On Site | Mar 03 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Supply Chain Logistics](https://jobright.ai/jobs/info/69a77f152672cb0acb4bf678?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Mar 03 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Asset Control and Logistics Intern](https://jobright.ai/jobs/info/69a00fe381476f6176ba0ffc?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Mar 03 |
@@ -99,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69a7a619637232443f64e7dd?utm_campaign=1050&utm_source=git)** | Watertown, NY | Remote | Mar 03 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Planning and Scheduling Intern](https://jobright.ai/jobs/info/69a77aea2672cb0acb4bf290?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Special Operations Supervisor](https://jobright.ai/jobs/info/69a77a6976bbe83d3afadf3b?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Mar 03 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a13a76bbe83d3afb0338?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Operations & Alignment Intern](https://jobright.ai/jobs/info/69a7a44976bbe83d3afb06c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 03 |
+| ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a13a76bbe83d3afb0338?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a680637232443f64e840?utm_campaign=1050&utm_source=git)** | Washington, DC, DC, US | Hybrid | Mar 03 |
-| ↳ | **[Operations & Alignment Intern](https://jobright.ai/jobs/info/69a7a44976bbe83d3afb06c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 03 |
 | **[Northeast Missouri Electric Power Cooperative, Inc.](http://www.northeast-power.coop)** | **[Project Manager Internship](https://jobright.ai/jobs/info/69a7970d637232443f64d91b?utm_campaign=1050&utm_source=git)** | Palmyra, Missouri, United States | On Site | Mar 03 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Supply Chain Management - Summer Internship](https://jobright.ai/jobs/info/69a7796d2672cb0acb4bf130?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Mar 03 |
 | **[Kingsmill Resort](http://www.kingsmill.com)** | **[Rooms Operations Internship](https://jobright.ai/jobs/info/69a7c11e76bbe83d3afb38a7?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Foods Group](https://www.americanfoodsgroup.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a742302672cb0acb4bae43?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Mar 03 |
 | **[M18, an Orchestra company](https://www.m18pr.com)** | **[Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/69a760f576bbe83d3afac35a?utm_campaign=1050&utm_source=git)** | New York, N.Y. or Washington, D.C. | Hybrid | Mar 03 |
 | **[Dometic](https://www.dometic.com)** | **[Outbound Distribution Intern](https://jobright.ai/jobs/info/69a75ea776bbe83d3afac04f?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Mar 03 |
-| **[Silicon Ranch Corporation](https://www.siliconranch.com/)** | **[Intern, Clearloop Operations](https://jobright.ai/jobs/info/69a73edc2672cb0acb4baad9?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
