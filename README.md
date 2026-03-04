@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pembina Pipeline Corporation](http://www.pembina.com/)** | **[Admin Intern](https://jobright.ai/jobs/info/69a8741f7ac93962b7083f99?utm_campaign=1050&utm_source=git)** | Fort St John, British Columbia, Canada | On Site | Mar 04 |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fe79e3ed06875134ad1a1?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Mar 04 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Chandler, AZ)](https://jobright.ai/jobs/info/698caff8f64d441a164e962d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 04 |
+| **[Canandaigua National Bank](http://cnbank.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69a871ad2580d3183f008423?utm_campaign=1050&utm_source=git)** | Pittsford, NY | Hybrid | Mar 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern - US](https://jobright.ai/jobs/info/69a8719a2580d3183f008418?utm_campaign=1050&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Mar 04 |
+| **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Operations Data Analyst](https://jobright.ai/jobs/info/6970115e82817106e9772c8e?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 04 |
+| **[Aires](https://www.aires.com)** | **[2026 Summer Operations Intern - West Coast](https://jobright.ai/jobs/info/697009573ed06875134b07b4?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Mar 04 |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fe5393ed06875134aceb1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
+| **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Macomb, IL) - Summer 2026](https://jobright.ai/jobs/info/68e35dc6b99ec3563b0df35a?utm_campaign=1050&utm_source=git)** | Macomb, IL | On Site | Mar 04 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/68eef5a346e5b153e5a618c3?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern - US](https://jobright.ai/jobs/info/69a86fde7ac93962b7083dba?utm_campaign=1050&utm_source=git)** | New York - 1166 | Hybrid | Mar 04 |
+| ↳ | **[Oliver Wyman Summer 2027 Intern - US](https://jobright.ai/jobs/info/69a86f957ac93962b7083dab?utm_campaign=1050&utm_source=git)** | Dallas - Main | Hybrid | Mar 04 |
+| **[Ardagh Group](http://www.ardaghgroup.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/699754e1e0bddb6acac615b0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026- Operations/CIL Internship- Supply Chain](https://jobright.ai/jobs/info/69a86d5b2580d3183f0081d6?utm_campaign=1050&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Mar 04 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern - US](https://jobright.ai/jobs/info/69a86b032580d3183f0080bc?utm_campaign=1050&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Mar 04 |
+| **[Hexagon US Federal](https://hexagonusfederal.com/)** | **[Materials/Project Management Intern](https://jobright.ai/jobs/info/69a86af57ac93962b7083b5e?utm_campaign=1050&utm_source=git)** | Huntsville, AL | Hybrid | Mar 04 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern - US](https://jobright.ai/jobs/info/69a86a6a7ac93962b7083b10?utm_campaign=1050&utm_source=git)** | Houston - Dallas | Hybrid | Mar 04 |
 | **[Arvento A](arventoa.com)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69a8643d7ac93962b708382a?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Mar 04 |
 | **[Lonza](http://www.lonza.com)** | **[Strategic Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69704a1a333b6343a14cb9b9?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Mar 04 |
@@ -136,25 +152,9 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/69a783ab2672cb0acb4bfb60?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Mar 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69a7838e76bbe83d3afae79b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Mar 03 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Dry Cargo Logistics Internship](https://jobright.ai/jobs/info/69a7ac9876bbe83d3afb1495?utm_campaign=1050&utm_source=git)** | Reserve, LA, USA | Hybrid | Mar 03 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
-| ↳ | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
+| ↳ | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
 | **[Millerbernd](https://www.millerbernd.com)** | **[Planning & Scheduling Internship](https://jobright.ai/jobs/info/699fdd6fce78e77b4fe5c997?utm_campaign=1050&utm_source=git)** | Winsted, MN | On Site | Mar 03 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Supply Chain Logistics](https://jobright.ai/jobs/info/69a77f152672cb0acb4bf678?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Mar 03 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Asset Control and Logistics Intern](https://jobright.ai/jobs/info/69a00fe381476f6176ba0ffc?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Mar 03 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69a77dd02672cb0acb4bf53a?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Mar 03 |
-| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69a77c1d2672cb0acb4bf3df?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Mar 03 |
-| **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Operations Supervisor](https://jobright.ai/jobs/info/69a77bd076bbe83d3afae0c9?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 03 |
-| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69a7a619637232443f64e7dd?utm_campaign=1050&utm_source=git)** | Watertown, NY | Remote | Mar 03 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Planning and Scheduling Intern](https://jobright.ai/jobs/info/69a77aea2672cb0acb4bf290?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
-| **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Special Operations Supervisor](https://jobright.ai/jobs/info/69a77a6976bbe83d3afadf3b?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Mar 03 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a680637232443f64e840?utm_campaign=1050&utm_source=git)** | Washington, DC, DC, US | Hybrid | Mar 03 |
-| ↳ | **[Operations & Alignment Intern](https://jobright.ai/jobs/info/69a7a44976bbe83d3afb06c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 03 |
-| ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a13a76bbe83d3afb0338?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
-| **[Northeast Missouri Electric Power Cooperative, Inc.](http://www.northeast-power.coop)** | **[Project Manager Internship](https://jobright.ai/jobs/info/69a7970d637232443f64d91b?utm_campaign=1050&utm_source=git)** | Palmyra, Missouri, United States | On Site | Mar 03 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69a7f68576bbe83d3afb6e7f?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Mar 03 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69a7f76076bbe83d3afb6f17?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
-| **[Woman's Hospital](http://www.womans.org/)** | **[Supply Chain Management - Summer Internship](https://jobright.ai/jobs/info/69a7796d2672cb0acb4bf130?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Mar 03 |
-| **[Broan-NuTone](http://www.Broan-NuTone.com)** | **[Supply Chain/Transportation Intern](https://jobright.ai/jobs/info/69a7ef3d637232443f654691?utm_campaign=1050&utm_source=git)** | Hartford Town, WI | On Site | Mar 03 |
-| **[Kingsmill Resort](http://www.kingsmill.com)** | **[Rooms Operations Internship](https://jobright.ai/jobs/info/69a7c11e76bbe83d3afb38a7?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Mar 03 |
-| **[Grassfed Culture Hospitality](https://www.grassfedculture.com/)** | **[Summer Operations & Events Intern](https://jobright.ai/jobs/info/69a79a5176bbe83d3afafc46?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
