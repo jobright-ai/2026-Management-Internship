@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brookfield](https://bam.brookfield.com)** | **[Student Intern- Housing Operations](https://jobright.ai/jobs/info/697040f151f72647718271a4?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Mar 04 |
+| **[Kenan Advantage Group](http://www.thekag.com/)** | **[Dispatch Intern](https://jobright.ai/jobs/info/696ecc55350cf4380315b831?utm_campaign=1050&utm_source=git)** | North Canton, OH | On Site | Mar 04 |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Supply Chain Intern (Onsite)](https://jobright.ai/jobs/info/69a834967ac93962b707f460?utm_campaign=1050&utm_source=git)** | East Hartford, CT | On Site | Mar 04 |
+| **[Amazon](https://amazon.com)** | **[2026 Procurement Specialist Intern](https://jobright.ai/jobs/info/69a833e82580d3183f0037c6?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
+| **[CROSSMARK](https://crossmark.com/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/698c168ce4f6572f0e4411c6?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Mar 04 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Program Operations](https://jobright.ai/jobs/info/69905bba6ea51a7610f2e608?utm_campaign=1050&utm_source=git)** | Baltimore County, MD | On Site | Mar 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Spanish Bilingual Preferred Intern](https://jobright.ai/jobs/info/69a82f987ac93962b707ecb7?utm_campaign=1050&utm_source=git)** | Downey, CA | On Site | Mar 04 |
 | **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Fall 2026](https://jobright.ai/jobs/info/698bc5fd06d9b0622495ed72?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | Hybrid | Mar 04 |
 | **[Alcoa](http://alcoa.com)** | **[Internship – Potroom](https://jobright.ai/jobs/info/698b95f506d9b0622495bb70?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Mar 04 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/69373228aabec14a727c4ef1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
@@ -88,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Lead Program Intern](https://jobright.ai/jobs/info/69a7a61b637232443f64e7df?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations, Clinical Operations](https://jobright.ai/jobs/info/69a7a4e876bbe83d3afb078c?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a7a3e9637232443f64e583?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Mar 03 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Administrative Support New Business Intern](https://jobright.ai/jobs/info/69a827647ac93962b707e9d9?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Savion](https://savionenergy.com/)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69a79d4076bbe83d3afaff4b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Mar 03 |
 | **[AAMBC Inc.](http://www.aambc.org)** | **[Literary Project Management Intern](https://jobright.ai/jobs/info/69a79a7d637232443f64dc8e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Mar 03 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a7970a76bbe83d3afaf90a?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Mar 03 |
@@ -100,13 +108,14 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Operations & Administration Intern - UNPAID](https://jobright.ai/jobs/info/699e109fe0bddb6acacd732c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69a789992672cb0acb4bffec?utm_campaign=1050&utm_source=git)** | Redwood City, California, United States | Hybrid | Mar 03 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/69a7893b76bbe83d3afaec2a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Mar 03 |
+| **[eClerx](https://eclerx.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/69a830491dfc787e9aa34d34?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Mar 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69a784c376bbe83d3afae8cd?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Remote | Mar 03 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern - LCI Clinical Trials](https://jobright.ai/jobs/info/69a783ae2672cb0acb4bfb62?utm_campaign=1050&utm_source=git)** | Charlotte, NC - 1021 Morehead Medical Dr | On Site | Mar 03 |
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/69a783ab2672cb0acb4bfb60?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Mar 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69a7838e76bbe83d3afae79b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Mar 03 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Dry Cargo Logistics Internship](https://jobright.ai/jobs/info/69a7ac9876bbe83d3afb1495?utm_campaign=1050&utm_source=git)** | Reserve, LA, USA | Hybrid | Mar 03 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
-| ↳ | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Delivery CTRL Intern](https://jobright.ai/jobs/info/69a7abff76bbe83d3afb1259?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Mar 03 |
+| ↳ | **[Intern, Digital Services Center](https://jobright.ai/jobs/info/69a7b079637232443f64fd85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Millerbernd](https://www.millerbernd.com)** | **[Planning & Scheduling Internship](https://jobright.ai/jobs/info/699fdd6fce78e77b4fe5c997?utm_campaign=1050&utm_source=git)** | Winsted, MN | On Site | Mar 03 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Supply Chain Logistics](https://jobright.ai/jobs/info/69a77f152672cb0acb4bf678?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Mar 03 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Asset Control and Logistics Intern](https://jobright.ai/jobs/info/69a00fe381476f6176ba0ffc?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Mar 03 |
@@ -117,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Planning and Scheduling Intern](https://jobright.ai/jobs/info/69a77aea2672cb0acb4bf290?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Special Operations Supervisor](https://jobright.ai/jobs/info/69a77a6976bbe83d3afadf3b?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a13a76bbe83d3afb0338?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
-| ↳ | **[Operations & Alignment Intern](https://jobright.ai/jobs/info/69a7a44976bbe83d3afb06c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 03 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/69a7a680637232443f64e840?utm_campaign=1050&utm_source=git)** | Washington, DC, DC, US | Hybrid | Mar 03 |
+| ↳ | **[Operations & Alignment Intern](https://jobright.ai/jobs/info/69a7a44976bbe83d3afb06c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 03 |
 | **[Northeast Missouri Electric Power Cooperative, Inc.](http://www.northeast-power.coop)** | **[Project Manager Internship](https://jobright.ai/jobs/info/69a7970d637232443f64d91b?utm_campaign=1050&utm_source=git)** | Palmyra, Missouri, United States | On Site | Mar 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69a7f68576bbe83d3afb6e7f?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69a7f76076bbe83d3afb6f17?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69a776c82672cb0acb4bedfb?utm_campaign=1050&utm_source=git)** | Acheson, Alberta, Canada | On Site | Mar 03 |
 | ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69a7784376bbe83d3afadcbd?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Program Management](https://jobright.ai/jobs/info/69a758262672cb0acb4bca99?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Mar 03 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Project Manager Analyst – Co-op/Intern](https://jobright.ai/jobs/info/69a7784e2672cb0acb4befdf?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 03 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field](https://jobright.ai/jobs/info/69a757ad76bbe83d3afab8ab?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Mar 03 |
-| **[Ports America](https://www.portsamerica.com/)** | **[Intern- Operations- WBCT](https://jobright.ai/jobs/info/69a752592672cb0acb4bc40b?utm_campaign=1050&utm_source=git)** | San Pedro, CA | On Site | Mar 03 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/69a7514576bbe83d3afab201?utm_campaign=1050&utm_source=git)** | Lithia Springs, GA | On Site | Mar 03 |
-| **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Discounts & Rewards](https://jobright.ai/jobs/info/69a210eb0da45516f16b5a6e?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | Hybrid | Mar 03 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69a74fda76bbe83d3afab008?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Mar 03 |
-| **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Operations Supervisor](https://jobright.ai/jobs/info/69a74f702672cb0acb4bc000?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 03 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Attractions Operations Communication Media (Fall 2026)](https://jobright.ai/jobs/info/69a74dda2672cb0acb4bbe1a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 03 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/69a74d6c2672cb0acb4bbd82?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
