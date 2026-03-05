@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[State Street Custody and Complex Operations - Project Analyst Summer Internship](https://jobright.ai/jobs/info/69a9a64e2ebd316bece1398d?utm_campaign=1050&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 05 |
+| **[Yale University](https://www.yale.edu)** | **[Faculty Administrative Operations Support Intern](https://jobright.ai/jobs/info/69a9a6412ebd316bece13905?utm_campaign=1050&utm_source=git)** | Whitney Ave, 221 | Hybrid | Mar 05 |
+| **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Centralized Operational Resources Intern](https://jobright.ai/jobs/info/698d2004f64d441a164f10d2?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 05 |
+| **[Mortenson](https://www.mortenson.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698cf8cf0f6f7e7a2ce8a54d?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Mar 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/698de5c20f6f7e7a2ce9eff9?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 05 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Summer 2026](https://jobright.ai/jobs/info/69712b9f51f7264771836011?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Mar 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698d0d2e0f6f7e7a2ce8bfc8?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 05 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Supply Chain Logistics Intern- Bachelor's (Tracy, CA)](https://jobright.ai/jobs/info/698cc46478b4502f12a33af9?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Mar 05 |
+| ↳ | **[2026 Summer Business Operations Technical Project Manager Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/698cc7780f6f7e7a2ce87fa0?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 05 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Mar 05 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698da52af64d441a164fcc46?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Mar 05 |
+| **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Olympus Intern, Project Management & Process Improvement (Summer 2026)](https://jobright.ai/jobs/info/698d3148f64d441a164f2aae?utm_campaign=1050&utm_source=git)** | Center Valley, PA | Hybrid | Mar 05 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Plant Warehouse Intern - Summer 2026](https://jobright.ai/jobs/info/69712d3c333b6343a14d9e34?utm_campaign=1050&utm_source=git)** | Belleville, Ontario, Canada | On Site | Mar 05 |
 | **[Blue Energy](https://blueenergy.co/)** | **[Project Development Intern](https://jobright.ai/jobs/info/69a9993e7f9271426f8873b6?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Mar 05 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698d19ebf64d441a164f0418?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Mar 05 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 05 |
@@ -73,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Fleet Procurement Intern](https://jobright.ai/jobs/info/698430208da7a612045e37e9?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Mar 05 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69a98e29f6c22f2e368690b6?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Mar 05 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/698c7e51f64d441a164e6d77?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Mar 05 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Distribution](https://jobright.ai/jobs/info/69a98d0ef6c22f2e36868d3a?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Mar 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern-Supply Chain](https://jobright.ai/jobs/info/698d1c4478b4502f12a3a315?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 05 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCO Operations Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69719b8651f726477183f57b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 05 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/698d21f3f64d441a164f1484?utm_campaign=1050&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 05 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Supply Chain Analyst-Intern](https://jobright.ai/jobs/info/69a8f8b32580d3183f012634?utm_campaign=1050&utm_source=git)** | Secaucus, NJ | Hybrid | Mar 04 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Logistics and Distribution Intern](https://jobright.ai/jobs/info/69a916c079f3f4037f43cd1f?utm_campaign=1050&utm_source=git)** | US - TN - Memphis | On Site | Mar 04 |
 | **[Vistra Corp.](https://vistracorp.com)** | **[Intern, Strategy and M&A](https://jobright.ai/jobs/info/69a97371f6c22f2e36865889?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a8f1c379f3f4037f438caf?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Mar 04 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69a8ee0b2580d3183f01178b?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Mar 04 |
-| **[TRIUMPH](https://www.triumphgroup.com/)** | **[Production Planning Intern](https://jobright.ai/jobs/info/69a8ed1c2580d3183f01160e?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Mar 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a8e9f02580d3183f011283?utm_campaign=1050&utm_source=git)** | Columbus, NE | On Site | Mar 04 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a8e93d79f3f4037f437bd2?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Mar 04 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69a8e5a37ac93962b708c86c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69a9098f7ac93962b708f8dc?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Mar 04 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69a909c02580d3183f013db6?utm_campaign=1050&utm_source=git)** | Westover, WV | On Site | Mar 04 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Strategy and Operations - Enterprise Strategy Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69a971577f9271426f88508f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 04 |
-| **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Supply Chain Analyst-Intern](https://jobright.ai/jobs/info/69a8e4a47ac93962b708c78c?utm_campaign=1050&utm_source=git)** | Secaucus, NJ, US | Hybrid | Mar 04 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Pricing and Legal Project Management)](https://jobright.ai/jobs/info/69a8e0be79f3f4037f436f01?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 04 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern (Beginning Spring 2026)](https://jobright.ai/jobs/info/69a94a160bc35444388b37ef?utm_campaign=1050&utm_source=git)** | Richland, MI | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
