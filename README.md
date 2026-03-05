@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only** Custodial Supervisor (10:30pm - 7am, Sun-Th)](https://jobright.ai/jobs/info/69a931157ac93962b7091fcd?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 04 |
+| **[SK Life Science, Inc.](https://www.sklifescienceinc.com/)** | **[Intern- Project Management](https://jobright.ai/jobs/info/69a92ea62580d3183f01618b?utm_campaign=1050&utm_source=git)** | US-NJ-Paramus | On Site | Mar 04 |
 | **[Innovative Blood Resources](https://www.innovativebloodresources.org/)** | **[Supply and Demand Planning Intern](https://jobright.ai/jobs/info/69a919f079f3f4037f43cf13?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 04 |
 | **[Valley Bank](https://www.valley.com/)** | **[MBA Intern - Servicing Transformation](https://jobright.ai/jobs/info/69a9197a7ac93962b7090ca5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Mar 04 |
 | **[Robynex Automation](robynexautomation.com)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a9133d79f3f4037f43c705?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Mar 04 |
@@ -96,17 +98,17 @@ For a complete list, click the following sortable link below:
 | **[Bergelectric](http://www.bergelectric.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69a8ca4379f3f4037f4347cf?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 04 |
 | **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Supply Chain Analyst-Intern](https://jobright.ai/jobs/info/69a8f0b22580d3183f011bc1?utm_campaign=1050&utm_source=git)** | US-NJ-Secaucus | Hybrid | Mar 04 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8ca007ac93962b7089aa9?utm_campaign=1050&utm_source=git)** | USA - WA - Burlington | On Site | Mar 04 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Hotel Internship - Summer 2026](https://jobright.ai/jobs/info/69a8f63179f3f4037f4394f8?utm_campaign=1050&utm_source=git)** | US-TX-Fort Worth | On Site | Mar 04 |
-| ↳ | **[Hotel Internship - Summer 2026](https://jobright.ai/jobs/info/69a8f7d92580d3183f0124dd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, US | On Site | Mar 04 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Hotel Internship - Summer 2026](https://jobright.ai/jobs/info/69a8f7d92580d3183f0124dd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, US | On Site | Mar 04 |
+| ↳ | **[Hotel Internship - Summer 2026](https://jobright.ai/jobs/info/69a8f63179f3f4037f4394f8?utm_campaign=1050&utm_source=git)** | US-TX-Fort Worth | On Site | Mar 04 |
 | **[Relevate Health](https://www.relevatehealth.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a8ea9f7ac93962b708ce08?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Piping Technology & Products, Inc.](http://www.pipingtech.com)** | **[Production / Operations Intern – Summer 2026](https://jobright.ai/jobs/info/69a8f7787ac93962b708df09?utm_campaign=1050&utm_source=git)** | Piping Technology & Products Inc. | On Site | Mar 04 |
-| **[The h.wood Group](https://hwoodgroup.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69a900aa79f3f4037f43ac49?utm_campaign=1050&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a8e75a2580d3183f010fd8?utm_campaign=1050&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| **[The h.wood Group](https://hwoodgroup.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8e75a2580d3183f010fd8?utm_campaign=1050&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69a900aa79f3f4037f43ac49?utm_campaign=1050&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Technology PMO - Student Internship](https://jobright.ai/jobs/info/698a20c54db8972cecff65ae?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 04 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Executive Assistant/Intern](https://jobright.ai/jobs/info/69a8f8157ac93962b708dfc8?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 04 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69a8f7dc79f3f4037f4397eb?utm_campaign=1050&utm_source=git)** | US-PA-Pittsburgh | Remote | Mar 04 |
-| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69a8ee872580d3183f01187f?utm_campaign=1050&utm_source=git)** | Pittsburgh PA United States | Remote | Mar 04 |
 | ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69a8eb927ac93962b708cfb2?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA, US | Remote | Mar 04 |
+| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69a8ee872580d3183f01187f?utm_campaign=1050&utm_source=git)** | Pittsburgh PA United States | Remote | Mar 04 |
 | **[Innovative Blood Resources](https://www.innovativebloodresources.org/)** | **[Supply and Demand Planning Intern](https://jobright.ai/jobs/info/69a8f7212580d3183f0123ec?utm_campaign=1050&utm_source=git)** | St. Paul, MN, US | Hybrid | Mar 04 |
 | ↳ | **[Supply and Demand Planning Intern](https://jobright.ai/jobs/info/69a9019879f3f4037f43af5d?utm_campaign=1050&utm_source=git)** | US-MN-St. Paul | Hybrid | Mar 04 |
 | **[Analog Devices](http://www.analog.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69a8c6e82580d3183f00db49?utm_campaign=1050&utm_source=git)** | US, MA, Wilmington | On Site | Mar 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Research & Development Intern-Technical Project Management, Summer 2026](https://jobright.ai/jobs/info/69a2d69eb600907a96294076?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Mar 04 |
 | **[Article Student Living](https://articlestudentliving.com)** | **[Operations & Training Internship](https://jobright.ai/jobs/info/69a886097ac93962b708472e?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Operations Intern (Vinyl)](https://jobright.ai/jobs/info/69a8b48f7ac93962b70878b4?utm_campaign=1050&utm_source=git)** | Masaryktown, FL | On Site | Mar 04 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a8bd0c2580d3183f00cb12?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Mar 04 |
-| ↳ | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/69a8af4179f3f4037f430429?utm_campaign=1050&utm_source=git)** | Masaryktown, FL | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
