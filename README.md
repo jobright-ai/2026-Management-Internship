@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Management Intern (IT Intern 3)](https://jobright.ai/jobs/info/69aad2c5142d5b4265fc26ae?utm_campaign=1050&utm_source=git)** | VA - Norfolk - 5365 Robin Hood Rd - Leased | On Site | Mar 06 |
+| **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 06 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - US Site Procurement Operations](https://jobright.ai/jobs/info/69aacb347e1fab39d3826e81?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Mar 06 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/698e993878b4502f12a572cb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Graduate Assistant for the Office of the Secretary](https://jobright.ai/jobs/info/69a9b48c1f59c56275e26cfb?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Mar 06 |
 | **[Chromalloy Corporation](http://www.sequa.com)** | **[Operations - Intern](https://jobright.ai/jobs/info/69aaba832747003c3d506649?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 06 |
-| **[MedSpeed](http://www.medspeed.com)** | **[Business Operations Summer Intern](https://jobright.ai/jobs/info/69aaba657e1fab39d38266b8?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 06 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698e518978b4502f12a518c6?utm_campaign=1050&utm_source=git)** | Mobile Metropolitan Area | On Site | Mar 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Enterprise Portfolio Intern, PMO](https://jobright.ai/jobs/info/698e67ec78b4502f12a52fc0?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69aaac279ca4e908ec66205d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 06 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69aaac0834184204e44939a0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 06 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69aaac062ebd316bece27329?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69aaabff34184204e449398a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 06 |
-| ↳ | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/69aaab462ebd316bece27218?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 06 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69aaab462ebd316bece27219?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 06 |
+| ↳ | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/69aaab462ebd316bece27218?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 06 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69aaab439ca4e908ec661f27?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69aaab0534184204e4493889?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern (Ontario, CA - Onsite) - June 2026](https://jobright.ai/jobs/info/69724fb2584a1c1ef6fd4432?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Mar 06 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa44159ca4e908ec659cbf?utm_campaign=1050&utm_source=git)** | Everett, WA | Hybrid | Mar 05 |
 | **[TAS Energy](http://www.tas.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/69aa43341f59c56275e31f41?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Mar 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69aa43291f59c56275e31f30?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Mar 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b69?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b68?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 05 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b69?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43109ca4e908ec659b54?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa430d9ca4e908ec659b51?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Mar 05 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Sample Coordinator Intern](https://jobright.ai/jobs/info/69aa42999ca4e908ec659a87?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 05 |
@@ -130,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 – Portfolio Strategy, Research, Governance and Oversight](https://jobright.ai/jobs/info/69aa30d91f59c56275e3080f?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 05 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69aa30932ebd316bece1f109?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 05 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Campus Planning Analyst Intern](https://jobright.ai/jobs/info/69aa2e6a9ca4e908ec657aec?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Mar 05 |
-| **[Volker Stevin](https://volkerstevin.ca/)** | **[Project Assistant Summer Intern - Roads](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39d?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
-| ↳ | **[Project Assistant Summer Intern - Special Projects](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39f?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
+| **[Volker Stevin](https://volkerstevin.ca/)** | **[Project Assistant Summer Intern - Special Projects](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39f?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
+| ↳ | **[Project Assistant Summer Intern - Roads](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39d?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
 | ↳ | **[Project Assistant Summer Intern - Grande Prairie](https://jobright.ai/jobs/info/69aa2c229ca4e908ec657407?utm_campaign=1050&utm_source=git)** | Grande Prairie, AB, CA | On Site | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa2b992ebd316bece1e220?utm_campaign=1050&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[WxTite](https://wxtite.com)** | **[2026 Intern](https://jobright.ai/jobs/info/69aa2b982ebd316bece1e20c?utm_campaign=1050&utm_source=git)** | North Charleston, South Carolina, United States | On Site | Mar 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - US Site Procurement Operations](https://jobright.ai/jobs/info/69aa060d9ca4e908ec65541a?utm_campaign=1050&utm_source=git)** | Boise, ID - Main Site | On Site | Mar 05 |
 | **[Avnet](https://www.avnet.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69aa05da1f59c56275e2d7f7?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 05 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Business Administration Summer Internship](https://jobright.ai/jobs/info/69aa02972ebd316bece1c113?utm_campaign=1050&utm_source=git)** | Trenton, NJ | Hybrid | Mar 05 |
-| **[Certinia](http://www.certinia.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69aa31689ca4e908ec65848a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 05 |
-| **[Manulife](http://www.manulife.com/)** | **[Canadian Operations Management Intern](https://jobright.ai/jobs/info/69aa009f2ebd316bece1bf44?utm_campaign=1050&utm_source=git)** | Waterloo, Ontario | Hybrid | Mar 05 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Summer Intern- Supply Chain Management](https://jobright.ai/jobs/info/69aa00992ebd316bece1bf1c?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd | On Site | Mar 05 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Operations Analyst Student, Wealth Operations](https://jobright.ai/jobs/info/69a9ffe12ebd316bece1bdea?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
