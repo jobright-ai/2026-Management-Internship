@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Five Guys](http://Www.fiveguys.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa7c8f9ca4e908ec65ca8c?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69aa7c482ebd316bece233eb?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69aa6e9e1f59c56275e3470f?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
 | **[ABB](https://global.abb/group/en)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/69aa573e2ebd316bece21ade?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Mar 05 |
 | **[AmeriHome Mortgage Company, LLC](http://amerihome.com)** | **[Summer 2026 Internship - Westlake Village, CA - Correspondent Lending Operations](https://jobright.ai/jobs/info/69aa54149ca4e908ec65aa46?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | On Site | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Project Manager (APM)](https://jobright.ai/jobs/info/69aa51181f59c56275e32c77?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 05 |
@@ -82,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 – Portfolio Strategy, Research, Governance and Oversight](https://jobright.ai/jobs/info/69aa35319ca4e908ec658ba9?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69aa34d11f59c56275e30e0a?utm_campaign=1050&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[WxTite LLC](https://wxtite.com)** | **[2026 Intern](https://jobright.ai/jobs/info/69aa34bf1f59c56275e30dc7?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69aa7f481f59c56275e35292?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Mar 05 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa7f7c9ca4e908ec65cf47?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Mar 05 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[OR Intern (RN) - Periop 101 - July 2026 Cohort](https://jobright.ai/jobs/info/69aa346e2ebd316bece1f7cc?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Intern, Office of the President](https://jobright.ai/jobs/info/69aa34332ebd316bece1f786?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[Chenega Corporation](https://www.chenega.com/)** | **[Procurement & Logistics Intern](https://jobright.ai/jobs/info/69aa32e19ca4e908ec6588ae?utm_campaign=1050&utm_source=git)** | Chantilly, VA, US | On Site | Mar 05 |
@@ -92,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 – Portfolio Strategy, Research, Governance and Oversight](https://jobright.ai/jobs/info/69aa30d91f59c56275e3080f?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 05 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69aa30932ebd316bece1f109?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Mar 05 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Campus Planning Analyst Intern](https://jobright.ai/jobs/info/69aa2e6a9ca4e908ec657aec?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Mar 05 |
-| **[Volker Stevin](https://volkerstevin.ca/)** | **[Project Assistant Summer Intern - Special Projects](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39f?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
-| ↳ | **[Project Assistant Summer Intern - Roads](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39d?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
+| **[Volker Stevin](https://volkerstevin.ca/)** | **[Project Assistant Summer Intern - Roads](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39d?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
+| ↳ | **[Project Assistant Summer Intern - Special Projects](https://jobright.ai/jobs/info/69aa2c302ebd316bece1e39f?utm_campaign=1050&utm_source=git)** | Calgary, AB, CA | On Site | Mar 05 |
 | ↳ | **[Project Assistant Summer Intern - Grande Prairie](https://jobright.ai/jobs/info/69aa2c229ca4e908ec657407?utm_campaign=1050&utm_source=git)** | Grande Prairie, AB, CA | On Site | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa2b992ebd316bece1e220?utm_campaign=1050&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[WxTite LLC](https://wxtite.com)** | **[2026 Intern](https://jobright.ai/jobs/info/69aa2b982ebd316bece1e20c?utm_campaign=1050&utm_source=git)** | North Charleston, South Carolina, United States | On Site | Mar 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Student Intern- Housing Operations](https://jobright.ai/jobs/info/69a9dea99ca4e908ec6517c5?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Mar 05 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op/Intern - Logistics (Automotive; May 2026) - 8 or 12 months](https://jobright.ai/jobs/info/69aa1ac19ca4e908ec6566bd?utm_campaign=1050&utm_source=git)** | Stratford, Ontario, Canada | On Site | Mar 05 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Mar 05 |
-| **[Amrize](https://www.amrize.com)** | **[Plant Supervisor Intern](https://jobright.ai/jobs/info/69a9ff079ca4e908ec654ff7?utm_campaign=1050&utm_source=git)** | South Elgin, IL | On Site | Mar 05 |
-| **[African Safari Wildlife Park](https://www.africansafariwildlifepark.com)** | **[Small Business Management Intern](https://jobright.ai/jobs/info/69a9f8501f59c56275e2c9a8?utm_campaign=1050&utm_source=git)** | Royal Oak, Michigan, United States | On Site | Mar 05 |
-| **[Watson-Marlow - North America](https://www.wmftg.com/us-en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a9d8072ebd316bece16250?utm_campaign=1050&utm_source=git)** | Wilmington, MA | Hybrid | Mar 05 |
-| **[Corpay](https://payments.corpay.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69a9d7949ca4e908ec6508c0?utm_campaign=1050&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/693f89ad49a7695fbd053d4e?utm_campaign=1050&utm_source=git)** | Newark, DE | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
