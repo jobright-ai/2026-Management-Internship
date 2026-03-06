@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JKP Human Resources](www.jkpub.com)** | **[Email Operations Manager - Intern](https://jobright.ai/jobs/info/69aa4e561f59c56275e32af6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Mar 05 |
 | **[The Pocket Protector](thepocketprotector.com)** | **[Operations Associate - Paid Internship](https://jobright.ai/jobs/info/69aa48631f59c56275e322d3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa44159ca4e908ec659cbf?utm_campaign=1050&utm_source=git)** | Everett, WA | Hybrid | Mar 05 |
 | **[TAS Energy](http://www.tas.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/69aa43341f59c56275e31f41?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Mar 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69aa43291f59c56275e31f30?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Mar 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b68?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b69?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Mar 05 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43179ca4e908ec659b68?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa43109ca4e908ec659b54?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Mar 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aa430d9ca4e908ec659b51?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Mar 05 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Sample Coordinator Intern](https://jobright.ai/jobs/info/69aa42999ca4e908ec659a87?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698b7b400f6f7e7a2ce6e960?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/693bdabc50bbaf76504f4878?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 05 |
 | ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d2c510b7dff734150086a?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Mar 05 |
-| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
