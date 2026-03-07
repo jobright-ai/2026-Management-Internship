@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac82372747003c3d521cbc?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 07 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Visitor Research & Evaluation Project](https://jobright.ai/jobs/info/69ac7cc07e1fab39d3840608?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Mar 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Credit Modeling & Analytics (Hybrid)](https://jobright.ai/jobs/info/6990197d0cc8ea15f1dac0d9?utm_campaign=1050&utm_source=git)** | Morristown, NJ | Hybrid | Mar 07 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer M.B.A. Internship: Mobility Strategy - Advanced Technology & New Business Models](https://jobright.ai/jobs/info/698fe2c16ea51a7610f247d8?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Mar 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Process Improvement Bachelor's Intern](https://jobright.ai/jobs/info/69ac69ef7e1fab39d383fbf3?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Mar 07 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc8220f6f7e7a2cec1611?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Mar 07 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69ac64ad7e1fab39d383fa1f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Project Management/Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69ac6473142d5b4265fdab51?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fd2036ea51a7610f23b04?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Mar 07 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6978373b52f3c27ec6446b80?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 07 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e602747003c3d51e31b?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac0e602747003c3d51e31d?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e49142d5b4265fd7abe?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e3c142d5b4265fd7aa5?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e602747003c3d51e31a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e3c142d5b4265fd7aa5?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 07 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Project Management Intern (Req #: 1286)](https://jobright.ai/jobs/info/69ac02917e1fab39d383c5fa?utm_campaign=1050&utm_source=git)** | Warwick, RI | On Site | Mar 07 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Operations Logistics Intern](https://jobright.ai/jobs/info/69abd4e8142d5b4265fd39e3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
 | **[Ryan Gootee General Contractors, LLC](https://www.rggc.com)** | **[Internship](https://jobright.ai/jobs/info/69abce90142d5b4265fd377c?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Mar 06 |
@@ -141,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bd7142d5b4265fcbec3?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bbe142d5b4265fcbe83?utm_campaign=1050&utm_source=git)** | Helena, MT | Remote | Mar 06 |
 | **[Leidos](https://www.leidos.com)** | **[LBS Project Intern](https://jobright.ai/jobs/info/69ab9bbd2747003c3d5124f2?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Mar 06 |
-| **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bb1142d5b4265fcbe73?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bb1142d5b4265fcbe74?utm_campaign=1050&utm_source=git)** | Augusta, ME | Remote | Mar 06 |
+| **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bb1142d5b4265fcbe74?utm_campaign=1050&utm_source=git)** | Augusta, ME | Remote | Mar 06 |
+| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bb1142d5b4265fcbe73?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | Remote | Mar 06 |
 | **[Leidos](https://www.leidos.com)** | **[LBS Project Intern](https://jobright.ai/jobs/info/69ab9b24142d5b4265fcbdc5?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Mar 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ab9b14142d5b4265fcbdb2?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Mar 06 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab97977e1fab39d3830bbc?utm_campaign=1050&utm_source=git)** | Albany, NY | Remote | Mar 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Assistant Project Manager, Buildings](https://jobright.ai/jobs/info/69ab96e02747003c3d511fd1?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ab96df7e1fab39d38308ab?utm_campaign=1050&utm_source=git)** | Massillon, OH | On Site | Mar 06 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/69ab9663142d5b4265fcb86a?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 06 |
-| **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95db2747003c3d511c9f?utm_campaign=1050&utm_source=git)** | Little Rock, AR | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9c?utm_campaign=1050&utm_source=git)** | Olympia, WA | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9b?utm_campaign=1050&utm_source=git)** | Pierre, SD | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
