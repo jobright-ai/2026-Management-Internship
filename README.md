@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Operation Intern](https://jobright.ai/jobs/info/6973af4a37785856350d89ac?utm_campaign=1050&utm_source=git)** | Uxbridge, MA | On Site | Mar 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Mar 07 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Oak Lawn, IL](https://jobright.ai/jobs/info/6974a38737785856350eb98f?utm_campaign=1050&utm_source=git)** | Oak Lawn, IL | On Site | Mar 07 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Master Planning & Logistics (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/6973df2bbc8e722e7b18aef6?utm_campaign=1050&utm_source=git)** | Stratford, Ontario, Canada | On Site | Mar 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Project Management Intern - Conshohocken, PA (LS)](https://jobright.ai/jobs/info/69734161bc8e722e7b1820b5?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Mar 07 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Chandler, AZ)](https://jobright.ai/jobs/info/698caff8f64d441a164e962d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 07 |
@@ -141,20 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ab96df7e1fab39d38308ab?utm_campaign=1050&utm_source=git)** | Massillon, OH | On Site | Mar 06 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/69ab9663142d5b4265fcb86a?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 06 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95db2747003c3d511c9f?utm_campaign=1050&utm_source=git)** | Little Rock, AR | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9b?utm_campaign=1050&utm_source=git)** | Pierre, SD | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9a?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9c?utm_campaign=1050&utm_source=git)** | Olympia, WA | Remote | Mar 06 |
+| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9a?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Remote | Mar 06 |
+| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95da2747003c3d511c9b?utm_campaign=1050&utm_source=git)** | Pierre, SD | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95cf2747003c3d511c6c?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95ce2747003c3d511c66?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95ce2747003c3d511c68?utm_campaign=1050&utm_source=git)** | Lincoln, NE | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95c62747003c3d511c39?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95b92747003c3d511bff?utm_campaign=1050&utm_source=git)** | Bismarck, ND | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95b92747003c3d511c01?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | Remote | Mar 06 |
+| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95b92747003c3d511bff?utm_campaign=1050&utm_source=git)** | Bismarck, ND | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95b22747003c3d511bc9?utm_campaign=1050&utm_source=git)** | Dover, DE | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95a92747003c3d511b8c?utm_campaign=1050&utm_source=git)** | Columbus, OH | Remote | Mar 06 |
 | ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95a02747003c3d511b59?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab95982747003c3d511b1c?utm_campaign=1050&utm_source=git)** | Frankfort, KY | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9596142d5b4265fcb5d7?utm_campaign=1050&utm_source=git)** | Providence, RI | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9596142d5b4265fcb5d6?utm_campaign=1050&utm_source=git)** | Madison, WI | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab958e142d5b4265fcb5a7?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
