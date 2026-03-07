@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management](https://jobright.ai/jobs/info/69ab6bdb2747003c3d510a5d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern](https://jobright.ai/jobs/info/69ab6bb12747003c3d5109eb?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 06 |
 | **[Charger Logistics Inc.](https://www.chargerlogistics.com)** | **[Logistics Operations Intern](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109b7?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Mar 06 |
 | **[Refresco](https://www.refresco.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69ab6b747e1fab39d382f396?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 06 |
@@ -113,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Blue Rhino](http://www.bluerhino.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69ab2eb02747003c3d50d97c?utm_campaign=1050&utm_source=git)** | United States, UNAVAILABLE, US | Remote | Mar 06 |
 | ↳ | **[Corporate Intern](https://jobright.ai/jobs/info/69ab2eaf142d5b4265fc7320?utm_campaign=1050&utm_source=git)** | US-United States | Remote | Mar 06 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Manager Internship](https://jobright.ai/jobs/info/69ab2e932747003c3d50d915?utm_campaign=1050&utm_source=git)** | Sumner, WA, US | On Site | Mar 06 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Management Intern - Fall 2026 Part-Time](https://jobright.ai/jobs/info/69ab2e777e1fab39d382c288?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Mar 06 |
-| ↳ | **[Project Management Intern - Fall 2026 Part-Time](https://jobright.ai/jobs/info/69ab2e777e1fab39d382c28a?utm_campaign=1050&utm_source=git)** | TX-Manchaca
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Management Intern - Fall 2026 Part-Time](https://jobright.ai/jobs/info/69ab2e777e1fab39d382c28a?utm_campaign=1050&utm_source=git)** | TX-Manchaca
 US-TX-Austin, UNAVAILABLE, US | On Site | Mar 06 |
+| ↳ | **[Project Management Intern - Fall 2026 Part-Time](https://jobright.ai/jobs/info/69ab2e777e1fab39d382c288?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Mar 06 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship – Business Intelligence, Info Management & Digital Engagement](https://jobright.ai/jobs/info/69ab2e722747003c3d50d845?utm_campaign=1050&utm_source=git)** | Melville, NY, US | Hybrid | Mar 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab2e652747003c3d50d80f?utm_campaign=1050&utm_source=git)** | Colorado Springs | On Site | Mar 06 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Management Intern - Fall 2026 Part-Time](https://jobright.ai/jobs/info/69ab2e642747003c3d50d800?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | Mar 06 |
@@ -157,5 +158,4 @@ US-TX-Austin, UNAVAILABLE, US | On Site | Mar 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Waukesha](https://jobright.ai/jobs/info/68ca497a06a34016008c6227?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/696259cf2cbf4e44756c5b40?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Mar 06 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Perishable Distribution Operation Intern](https://jobright.ai/jobs/info/69730cc6206da320f49d15a4?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
-| ↳ | **[Club Operations Intern - Newark, DE](https://jobright.ai/jobs/info/6972ab969b83b424830eb3ab?utm_campaign=1050&utm_source=git)** | Newark, DE | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
