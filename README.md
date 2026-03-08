@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Supply Chain Logistics Intern- Bachelor's (Tracy, CA)](https://jobright.ai/jobs/info/698cc46478b4502f12a33af9?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Mar 08 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Mar 08 |
 | **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Material Strategic Planning (Summer 2026)](https://jobright.ai/jobs/info/6973cb11206da320f49dc420?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Mar 08 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/697b293a1136d179eeee8b87?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 08 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Women Unlimited! San Antonio](https://www.womenunlimitedsa.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69aca2d4142d5b4265fdee08?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Mar 07 |
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Planning Associate](https://jobright.ai/jobs/info/691e42c909cc522e87738291?utm_campaign=1050&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Mar 07 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Mar 07 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Supply Chain](https://jobright.ai/jobs/info/691e57c63f782d2f1afb401d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 07 |
-| **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Nurse Leader                                                                                                                                                             Internal Only](https://jobright.ai/jobs/info/69ac10ac142d5b4265fd7b67?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 07 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/698f9e310f6f7e7a2cebe8a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
