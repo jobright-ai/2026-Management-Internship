@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ad3911142d5b4265fe7191?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 08 |
+| **[HII](https://hii.com)** | **[Project Management Intern (IT Intern 3)](https://jobright.ai/jobs/info/69ad2e982747003c3d52bfe1?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
+| **[American Electric Power](http://aep.com)** | **[Project Solutions Summer Internship](https://jobright.ai/jobs/info/69ad2e0d7e1fab39d384a95a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 08 |
 | **[Nutanix](http://www.nutanix.com)** | **[Technical Program Manager Intern - (GenAI adoption, Tableau, Jira - US base UNDERGRADS ONLY)](https://jobright.ai/jobs/info/69acef6b7e1fab39d38463fe?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Mar 07 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69acdf84142d5b4265fe0dcb?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Mar 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69acdf7f142d5b4265fe0db2?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac8cf4142d5b4265fdcac3?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
@@ -147,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e49142d5b4265fd7abe?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 07 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Project Management Intern (Req #: 1286)](https://jobright.ai/jobs/info/69ac02917e1fab39d383c5fa?utm_campaign=1050&utm_source=git)** | Warwick, RI | On Site | Mar 07 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Operations Logistics Intern](https://jobright.ai/jobs/info/69abd4e8142d5b4265fd39e3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
-| **[ABEC](http://www.abec.com)** | **[Supply Chain Inventory Intern](https://jobright.ai/jobs/info/69ad2c5a2747003c3d52bf50?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 06 |
 | **[Ryan Gootee General Contractors, LLC](https://www.rggc.com)** | **[Internship](https://jobright.ai/jobs/info/69abce90142d5b4265fd377c?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Mar 06 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69abe9c52747003c3d51d0c1?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Mar 06 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Spanish Fork Hospital Undergrad Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/69abc50f7e1fab39d3837caa?utm_campaign=1050&utm_source=git)** | Intermountain Health Spanish Fork Hospital | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ad0fb42747003c3d529dfb?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 06 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Effectiveness and Training (BET) Intern](https://jobright.ai/jobs/info/69aa6cbb2ebd316bece22b47?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 06 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9c272747003c3d51258b?utm_campaign=1050&utm_source=git)** | Montpelier, VT | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9c272747003c3d51258c?utm_campaign=1050&utm_source=git)** | Trenton, NJ | Remote | Mar 06 |
-| ↳ | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9bfd2747003c3d512538?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
