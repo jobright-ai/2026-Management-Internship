@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 08 |
+| **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Mar 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782d1e88e2b47213bc2de8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ad45d62747003c3d52d987?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Mar 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ad3911142d5b4265fe7191?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 08 |
 | **[HII](https://hii.com)** | **[Project Management Intern (IT Intern 3)](https://jobright.ai/jobs/info/69ad2e982747003c3d52bfe1?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
 | **[American Electric Power](http://aep.com)** | **[Project Solutions Summer Internship](https://jobright.ai/jobs/info/69ad2e0d7e1fab39d384a95a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 08 |
@@ -73,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac8cf4142d5b4265fdcac3?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
@@ -140,10 +144,11 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69abf9fa7e1fab39d383c420?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 07 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[PMO INTERN](https://jobright.ai/jobs/info/698fb53e0cc8ea15f1da4fe1?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/698f7f320cc8ea15f1da0a25?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Mar 07 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Technology PMO - Student Internship](https://jobright.ai/jobs/info/698a20c54db8972cecff65ae?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 07 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69900cb66ea51a7610f27939?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 07 |
 | **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Mar 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac0e57142d5b4265fd7af0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac0e747e1fab39d383c8ee?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac0e747e1fab39d383c8ee?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac0e57142d5b4265fd7af0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e602747003c3d51e31b?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac0e602747003c3d51e31d?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac0e3c142d5b4265fd7aa5?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Operations Logistics Intern](https://jobright.ai/jobs/info/69abd4e8142d5b4265fd39e3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Mar 06 |
 | **[Ryan Gootee General Contractors, LLC](https://www.rggc.com)** | **[Internship](https://jobright.ai/jobs/info/69abce90142d5b4265fd377c?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Mar 06 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69abe9c52747003c3d51d0c1?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Mar 06 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Spanish Fork Hospital Undergrad Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/69abc50f7e1fab39d3837caa?utm_campaign=1050&utm_source=git)** | Intermountain Health Spanish Fork Hospital | On Site | Mar 06 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program (Nashville) 2025-2026](https://jobright.ai/jobs/info/69abc2917e1fab39d38376b3?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ad0fb42747003c3d529dfb?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 06 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Effectiveness and Training (BET) Intern](https://jobright.ai/jobs/info/69aa6cbb2ebd316bece22b47?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 06 |
-| **[Pearson](https://www.pearson.com/)** | **[Associate, Strategy Intern](https://jobright.ai/jobs/info/69ab9c272747003c3d51258b?utm_campaign=1050&utm_source=git)** | Montpelier, VT | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
