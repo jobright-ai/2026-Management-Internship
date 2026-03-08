@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Material Strategic Planning (Summer 2026)](https://jobright.ai/jobs/info/6973cb11206da320f49dc420?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Mar 08 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/697b293a1136d179eeee8b87?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 08 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697441aa37785856350e3a5f?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Mar 08 |
 | **[Zipline](https://www.zipline.com/)** | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Mar 08 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac82372747003c3d521cbc?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 07 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Visitor Research & Evaluation Project](https://jobright.ai/jobs/info/69ac7cc07e1fab39d3840608?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Mar 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Credit Modeling & Analytics (Hybrid)](https://jobright.ai/jobs/info/6990197d0cc8ea15f1dac0d9?utm_campaign=1050&utm_source=git)** | Morristown, NJ | Hybrid | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Supply Chain](https://jobright.ai/jobs/info/691e57c63f782d2f1afb401d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Nurse Leader                                                                                                                                                             Internal Only](https://jobright.ai/jobs/info/69ac10ac142d5b4265fd7b67?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 07 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/698f9e310f6f7e7a2cebe8a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 07 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/69583751f1f8465b79eed504?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69013d564539ea1f2141e6f7?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
