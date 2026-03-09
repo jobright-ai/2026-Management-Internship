@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/69ae7b517c309707d4afc2da?utm_campaign=1050&utm_source=git)** | Salisbury, MD, US | On Site | Mar 09 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Internship – Operations and Strategy Management](https://jobright.ai/jobs/info/699fa903ce78e77b4fe58d81?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Mar 08 |
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69ae4c614f6bcc182809676f?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ae2719142d5b4265fee5f7?utm_campaign=1050&utm_source=git)** | Forest Lake, MN | On Site | Mar 08 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 08 |
 | **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782d1e88e2b47213bc2de8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ae6d0c4f6bcc182809977a?utm_campaign=1050&utm_source=git)** | Arlington, OR | On Site | Mar 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ad3911142d5b4265fe7191?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 08 |
 | **[HII](https://hii.com)** | **[Project Management Intern (IT Intern 3)](https://jobright.ai/jobs/info/69ad2e982747003c3d52bfe1?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
 | **[American Electric Power](http://aep.com)** | **[Project Solutions Summer Internship](https://jobright.ai/jobs/info/69ad2e0d7e1fab39d384a95a?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 08 |
@@ -112,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Women Unlimited! San Antonio](https://www.womenunlimitedsa.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69aca2d4142d5b4265fdee08?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Mar 07 |
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac82372747003c3d521cbc?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 07 |
