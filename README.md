@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Mar 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL Internship & Co-Op 2025](https://jobright.ai/jobs/info/698abe8a4db8972cec002e45?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Administrative Intern - UNPAID](https://jobright.ai/jobs/info/69a5710f0da45516f16e2335?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Atlanta Internship & Co Op 25-26](https://jobright.ai/jobs/info/6992ec5ae0bddb6acac12574?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Women Unlimited! San Antonio](https://www.womenunlimitedsa.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69aca2d4142d5b4265fdee08?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Mar 07 |
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69ac82372747003c3d521cbc?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Chandler, AZ)](https://jobright.ai/jobs/info/698caff8f64d441a164e962d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 07 |
 | **[GWL Realty Advisors](http://www.gwlrealtyadvisors.com/)** | **[Property Administrator Summer Student 2026](https://jobright.ai/jobs/info/698f810f6ea51a7610f1dacf?utm_campaign=1050&utm_source=git)** | West Vancouver, British Columbia, Canada | On Site | Mar 07 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Production Operations Management Intern - Summer 2026](https://jobright.ai/jobs/info/698fbdd40cc8ea15f1da5ad2?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Mar 07 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[TKM Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/69ac4df12747003c3d52075a?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
