@@ -111,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Women Unlimited! San Antonio](https://www.womenunlimitedsa.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69aca2d4142d5b4265fdee08?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Mar 07 |
 | **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69ac970b7e1fab39d3842e51?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8d0d2747003c3d52218b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f10?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69ac8ced7e1fab39d3841f12?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/69ac89a3142d5b4265fdca22?utm_campaign=1050&utm_source=git)** | Edison, NJ | Hybrid | Mar 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d4f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 07 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69ac844e2747003c3d521d50?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 07 |
@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc8220f6f7e7a2cec1611?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Mar 07 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Project Management/Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69ac6473142d5b4265fdab51?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fd2036ea51a7610f23b04?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Mar 07 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6978373b52f3c27ec6446b80?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 07 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Strategy Panning Intern](https://jobright.ai/jobs/info/69ac7c1c142d5b4265fdb21e?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Operation Intern](https://jobright.ai/jobs/info/6973af4a37785856350d89ac?utm_campaign=1050&utm_source=git)** | Uxbridge, MA | On Site | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccc465a77e5d7d744f53a5?utm_campaign=1050&utm_source=git)** | Hyattsville, MD | On Site | Mar 07 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Supplier Analyst Intern](https://jobright.ai/jobs/info/69ac2845142d5b4265fd98f6?utm_campaign=1050&utm_source=git)** | Richardson, TX, US | On Site | Mar 07 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/69ac28347e1fab39d383e702?utm_campaign=1050&utm_source=git)** | New London, CT, US | On Site | Mar 07 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
