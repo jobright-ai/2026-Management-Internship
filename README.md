@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vestmark](https://www.vestmark.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69aeaa865224a240f103b706?utm_campaign=1050&utm_source=git)** | Wakefield, MA | Hybrid | Mar 09 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Summer Only - Strategic Solutions Services](https://jobright.ai/jobs/info/69aea9f85224a240f103b6ee?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Mar 09 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Communications Intern, Strategy & Operations](https://jobright.ai/jobs/info/69aea6145224a240f103b61d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/6956212d9f1b381eb26f5c70?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 09 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Mar 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfca206da320f4a086b7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
+| **[University of Brighton](http://www.brighton.ac.uk)** | **[SLN Programme Manager - Internal Only](https://jobright.ai/jobs/info/69ae9b38bd1a716b43103ea2?utm_campaign=1050&utm_source=git)** | Brighton, New Brunswick, Canada | Hybrid | Mar 09 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697d80d07f40342e15d6467c?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Mar 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Summer Only - Strategic Solutions Services](https://jobright.ai/jobs/info/69ae8ede3de6821aaccde7ea?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US | Hybrid | Mar 09 |
 | **[HII](https://hii.com)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ae8c3a4f6bcc182809cba1?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 09 |
@@ -69,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69ae4c614f6bcc182809676f?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ae2719142d5b4265fee5f7?utm_campaign=1050&utm_source=git)** | Forest Lake, MN | On Site | Mar 08 |
 | **[Usui International Corporation](https://usuiusa.com/)** | **[Production Manager Intern](https://jobright.ai/jobs/info/698a450247434001cc687aad?utm_campaign=1050&utm_source=git)** | Sharonville, OH | On Site | Mar 08 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Visitor Research &amp; Evaluation Project](https://jobright.ai/jobs/info/69ade7a17e1fab39d3850de0?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Mar 08 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Accident and Health Underwriting Intern (Summer 2026) - QBE Insurance](https://jobright.ai/jobs/info/69ade5d72747003c3d5329c0?utm_campaign=1050&utm_source=git)** | Marblehead, MA | Hybrid | Mar 08 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69add6cc142d5b4265febb11?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69add48f7e1fab39d3850a3a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Production Operations Management Intern - Summer 2026](https://jobright.ai/jobs/info/698fba4f6ea51a7610f2251b?utm_campaign=1050&utm_source=git)** | Florence, KY | On Site | Mar 07 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/69ac46362747003c3d520634?utm_campaign=1050&utm_source=git)** | Windham, NH | On Site | Mar 07 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Mar 07 |
-| **[Prometric](https://www.prometric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698fa3160cc8ea15f1da3eb8?utm_campaign=1050&utm_source=git)** | Middle River, MD | Hybrid | Mar 07 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Mar 07 |
-| **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc63b0cc8ea15f1da64de?utm_campaign=1050&utm_source=git)** | Phoenixville, PA | On Site | Mar 07 |
-| **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Mar 07 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698fc6370f6f7e7a2cec14b3?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Mar 07 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c83b41983e6768bc54b037?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
