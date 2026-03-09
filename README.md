@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunsweet Growers Inc.](http://www.sunsweet.com/)** | **[Supply Chain/Planning Intern](https://jobright.ai/jobs/info/69af1f486b21de023e6033ee?utm_campaign=1050&utm_source=git)** | Yuba City, California, United States | On Site | Mar 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Digital Media Business Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69af1ef8dfaeda6ff5972091?utm_campaign=1050&utm_source=git)** | Burbank, CA, USA | On Site | Mar 09 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Supply Chain Intern; Part Time; Mount Sinai Health System; Days](https://jobright.ai/jobs/info/69af1ed6749500645093894d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Land Management Intern](https://jobright.ai/jobs/info/69af1b4adfaeda6ff5971db9?utm_campaign=1050&utm_source=git)** | Jackson, SC | On Site | Mar 09 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69af1b28749500645093866d?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 09 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Centralized Operational Resources Intern](https://jobright.ai/jobs/info/698d2004f64d441a164f10d2?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 09 |
@@ -115,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aed9d7dfaeda6ff596d07d?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Mar 09 |
 | **[Jabil](https://www.jabil.com)** | **[IT Business Engagement Intern](https://jobright.ai/jobs/info/69aed9d46b21de023e5fe47b?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Mar 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69aed9c6dfaeda6ff596d038?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Mar 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aed9bd7495006450933716?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aed9bd7495006450933717?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | Mar 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69aed9bd7495006450933716?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Mar 09 |
 | **[Jabil](https://www.jabil.com)** | **[IT Business Engagement Intern](https://jobright.ai/jobs/info/69aed954dfaeda6ff596cf98?utm_campaign=1050&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Mar 09 |
 | **[ThetaRay](http://www.thetaray.com)** | **[Office Manager NY - Intern](https://jobright.ai/jobs/info/69856360348f733a5c39c1c9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[CentroMotion](https://www.centromotion.com/contact/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/698a167647434001cc6849c8?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Mar 09 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Atlanta Internship & Co Op 25-26](https://jobright.ai/jobs/info/6992ec5ae0bddb6acac12574?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[Ankura](https://ankura.com)** | **[University Internship (MBA), Strategy & Performance](https://jobright.ai/jobs/info/68cf7fc3fb49c96ca6ea9019?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 09 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[NPD Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69038f87ff462851fefec303?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Mar 09 |
-| **[Vestmark](https://www.vestmark.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69aeaa865224a240f103b706?utm_campaign=1050&utm_source=git)** | Wakefield, MA | Hybrid | Mar 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Summer Only - Strategic Solutions Services](https://jobright.ai/jobs/info/69aea9f85224a240f103b6ee?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Mar 09 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/6956212d9f1b381eb26f5c70?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 09 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 PCG Spring Intern - Seattle](https://jobright.ai/jobs/info/69adc0a22747003c3d5308ec?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69af157e6b21de023e602bc4?utm_campaign=1050&utm_source=git)** | Arlington, OR | On Site | Mar 08 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6997e16781476f6176b01d0b?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Mar 08 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Supply Chain Logistics Intern- Bachelor's (Tracy, CA)](https://jobright.ai/jobs/info/698cc46478b4502f12a33af9?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Mar 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
