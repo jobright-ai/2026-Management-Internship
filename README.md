@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Arena Operations Intern](https://jobright.ai/jobs/info/69afa332f63f733065b32a92?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Mar 09 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate SWWI -Healthcare Administration - Temporary](https://jobright.ai/jobs/info/69afa0efdfaeda6ff597f83d?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Mar 09 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Kokomo](https://jobright.ai/jobs/info/69af9c38dfaeda6ff597e630?utm_campaign=1050&utm_source=git)** | Kokomo, IN | On Site | Mar 09 |
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/69ae50734f6bcc1828096f1e?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Mar 09 |
 | **[NEW Cooperative, Inc](https://www.newcoop.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69af8b916b21de023e60c612?utm_campaign=1050&utm_source=git)** | Fort Dodge, IA | On Site | Mar 09 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Development Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69af7699749500645093f0e9?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69af3268dfaeda6ff5974aa2?utm_campaign=1050&utm_source=git)** | CA-Los Angeles | On Site | Mar 09 |
 | **[EO](EOco.org)** | **[Intern – BVPS VHS Main Office](https://jobright.ai/jobs/info/69af3227dfaeda6ff5974a13?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 09 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/69af3224dfaeda6ff5974a02?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Mar 09 |
-| **[Blue Energy](https://blueenergy.co/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69af31f16b21de023e605b8b?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 09 |
-| **[Ports America](https://www.portsamerica.com/)** | **[Intern- Operations- New Orleans](https://jobright.ai/jobs/info/69a747ee76bbe83d3afaa4ef?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Mar 09 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69af2f746b21de023e605764?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
