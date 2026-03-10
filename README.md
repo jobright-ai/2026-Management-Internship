@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69afcfc1dfaeda6ff598aff9?utm_campaign=1050&utm_source=git)** | Morgan City, LA | On Site | Mar 10 |
+| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship](https://jobright.ai/jobs/info/69afcbf1f63f733065b3be4e?utm_campaign=1050&utm_source=git)** | Opa-Locka, FL | On Site | Mar 10 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Florida Region 2025 - 2026](https://jobright.ai/jobs/info/69afb75d749500645094b287?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TN Department of Correction 2026 Business Operations Internship-Summer-Internship-03102026-75948](https://jobright.ai/jobs/info/69afb539dfaeda6ff59856c4?utm_campaign=1050&utm_source=git)** | Davidson County, TN | On Site | Mar 09 |
 | **[Legends Global](http://legends.net)** | **[Arena Operations Intern](https://jobright.ai/jobs/info/69afa332f63f733065b32a92?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BBDO Atlanta](http://bbdoatl.com/)** | **[Summer Internship - Business Leadership](https://jobright.ai/jobs/info/69af32f2dfaeda6ff5974bbc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Business Excellence (Operations) Intern](https://jobright.ai/jobs/info/69af32dfdfaeda6ff5974b81?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 09 |
 | **[Sparton](http://www.sparton.com)** | **[Supply Chain/Procurement Internship](https://jobright.ai/jobs/info/69af32c06b21de023e605d75?utm_campaign=1050&utm_source=git)** | De Leon Springs, FL | On Site | Mar 09 |
-| **[Vancity](http://www.vancity.com)** | **[Office of the CEO Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af3299dfaeda6ff5974aee?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
-| **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69af3268dfaeda6ff5974aa2?utm_campaign=1050&utm_source=git)** | CA-Los Angeles | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
