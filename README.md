@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a389?utm_campaign=1050&utm_source=git)** | Shawano, WI | On Site | Mar 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69af7d7d749500645093fc58?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d74749500645093fc4d?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | Mar 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc46?utm_campaign=1050&utm_source=git)** | Wausau, WI | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc45?utm_campaign=1050&utm_source=git)** | Mason City, IA | On Site | Mar 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc46?utm_campaign=1050&utm_source=git)** | Wausau, WI | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d5fdfaeda6ff597a312?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d5c6b21de023e60b38a?utm_campaign=1050&utm_source=git)** | Jeffersonville, IN | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d56dfaeda6ff597a2f2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Mar 09 |
@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Toray Advanced Composites](https://www.toraytac.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69af8b436b21de023e60c5c3?utm_campaign=1050&utm_source=git)** | Morgan Hill, CA | On Site | Mar 09 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | Mar 09 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[FWLE Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69af6a91749500645093df6f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
+| **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69af689a6b21de023e608c2e?utm_campaign=1050&utm_source=git)** | Durango, CO | On Site | Mar 09 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/69af6802749500645093de48?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Intern - Project Management Analyst](https://jobright.ai/jobs/info/69af824c6b21de023e60b9ef?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Mar 09 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Logistics](https://jobright.ai/jobs/info/69af64726b21de023e608a2d?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Energy](https://blueenergy.co/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69af31f16b21de023e605b8b?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 09 |
 | **[Ports America](https://www.portsamerica.com/)** | **[Intern- Operations- New Orleans](https://jobright.ai/jobs/info/69a747ee76bbe83d3afaa4ef?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Mar 09 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69af2f746b21de023e605764?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Mar 09 |
-| **[Amentum](https://www.amentum.com/)** | **[Business Operations Admin - Intern](https://jobright.ai/jobs/info/69af2e8b6b21de023e605612?utm_campaign=1050&utm_source=git)** | Crane, IN | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
