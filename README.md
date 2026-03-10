@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Bilingual Supply Chain Intern - Nespresso](https://jobright.ai/jobs/info/69a7407b76bbe83d3afa9be6?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 09 |
+| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | Mar 09 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[FWLE Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69af6a91749500645093df6f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
+| **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69af689a6b21de023e608c2e?utm_campaign=1050&utm_source=git)** | Durango, CO | On Site | Mar 09 |
+| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/69af6802749500645093de48?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Logistics](https://jobright.ai/jobs/info/69af64726b21de023e608a2d?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Florida Region 2025 - 2026](https://jobright.ai/jobs/info/69af5ec16b21de023e6086a9?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
+| ↳ | **[Internship Program - Florida Region 2025 - 2026](https://jobright.ai/jobs/info/69af5e88dfaeda6ff5977520?utm_campaign=1050&utm_source=git)** | GA_Atlanta_826060 | On Site | Mar 09 |
 | **[Schneider Electric](https://www.se.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69af588b749500645093d665?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Mar 09 |
 | **[Priority Waste](https://www.prioritywaste.com/)** | **[Operations Manager Trainee/Intern](https://jobright.ai/jobs/info/69af5612dfaeda6ff59771d9?utm_campaign=1050&utm_source=git)** | Corporate - Clinton Township, MI 48038 | On Site | Mar 09 |
 | **[BBDO Atlanta](http://bbdoatl.com/)** | **[Summer Internship - Project Management](https://jobright.ai/jobs/info/69af3960749500645093bd0e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Mar 09 |
@@ -111,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Procurement Category Management (NORAM)](https://jobright.ai/jobs/info/69af28976b21de023e60500d?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 09 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69af285e749500645093a1e0?utm_campaign=1050&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 09 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Business Excellence (Operations) Intern](https://jobright.ai/jobs/info/69af26a36b21de023e604df3?utm_campaign=1050&utm_source=git)** | US-NC-Charlotte | On Site | Mar 09 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Logistics Intern](https://jobright.ai/jobs/info/69af269c6b21de023e604de5?utm_campaign=1050&utm_source=git)** | Melville, NY, US | Hybrid | Mar 09 |
-| ↳ | **[2026 Canon Insights Summer Internship - Logistics Intern](https://jobright.ai/jobs/info/69af269cdfaeda6ff5973a56?utm_campaign=1050&utm_source=git)** | US-NY-Melville | Hybrid | Mar 09 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Logistics Intern](https://jobright.ai/jobs/info/69af269cdfaeda6ff5973a56?utm_campaign=1050&utm_source=git)** | US-NY-Melville | Hybrid | Mar 09 |
+| ↳ | **[2026 Canon Insights Summer Internship - Logistics Intern](https://jobright.ai/jobs/info/69af269c6b21de023e604de5?utm_campaign=1050&utm_source=git)** | Melville, NY, US | Hybrid | Mar 09 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69af268e6b21de023e604d94?utm_campaign=1050&utm_source=git)** | Frisco, TX, US | On Site | Mar 09 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Business Excellence (Operations) Intern](https://jobright.ai/jobs/info/69af268b7495006450939f82?utm_campaign=1050&utm_source=git)** | Charlotte, NC, US | On Site | Mar 09 |
 | **[General Dynamics](https://www.gd.com)** | **[Program Management Intern (CWL)](https://jobright.ai/jobs/info/69af2680dfaeda6ff597395d?utm_campaign=1050&utm_source=git)** | Manassas, VA, US | On Site | Mar 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Knowledge Management Program](https://jobright.ai/jobs/info/69aef94574950064509369c3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Mar 09 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern - Pricing & Analytics](https://jobright.ai/jobs/info/69aee616dfaeda6ff596ed74?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Mar 09 |
 | ↳ | **[Summer Intern - Pricing & Analytics](https://jobright.ai/jobs/info/69aee5fe6b21de023e5fffd8?utm_campaign=1050&utm_source=git)** | New York, United States - Remote | Remote | Mar 09 |
-| **[Audubon California](https://ca.audubon.org/)** | **[Land Management Intern](https://jobright.ai/jobs/info/69aef759dfaeda6ff596fc70?utm_campaign=1050&utm_source=git)** | Jackson, SC | On Site | Mar 09 |
-| **[Amentum](https://www.amentum.com/)** | **[Business Operations Admin - Intern](https://jobright.ai/jobs/info/69aef6b36b21de023e600cc6?utm_campaign=1050&utm_source=git)** | US-IN-Crane | On Site | Mar 09 |
-| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69aef5fe6b21de023e600bf5?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Mar 09 |
-| **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69aef5f86b21de023e600bdc?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Mar 09 |
-| **[Town of Newmarket](http://www.newmarket.ca)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/69aef5027495006450936354?utm_campaign=1050&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Mar 09 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Project Management Office - Project Manager](https://jobright.ai/jobs/info/69952e3281476f6176ad0ccc?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Mar 09 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Operations/Supply Chain Intern](https://jobright.ai/jobs/info/69aef01d7495006450935fd5?utm_campaign=1050&utm_source=git)** | Carthage, MO | On Site | Mar 09 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/69aeefffdfaeda6ff596f5f4?utm_campaign=1050&utm_source=git)** | Opp, AL, USA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
