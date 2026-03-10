@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69af7d81dfaeda6ff597a389?utm_campaign=1050&utm_source=git)** | Shawano, WI | On Site | Mar 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69af7d7d749500645093fc58?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d74749500645093fc4d?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | Mar 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc45?utm_campaign=1050&utm_source=git)** | Mason City, IA | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc46?utm_campaign=1050&utm_source=git)** | Wausau, WI | On Site | Mar 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d6f749500645093fc45?utm_campaign=1050&utm_source=git)** | Mason City, IA | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d5fdfaeda6ff597a312?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d5c6b21de023e60b38a?utm_campaign=1050&utm_source=git)** | Jeffersonville, IN | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7d56dfaeda6ff597a2f2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Mar 09 |
@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af7673749500645093f00e?utm_campaign=1050&utm_source=git)** | Chillicothe, OH | On Site | Mar 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69af766c749500645093efde?utm_campaign=1050&utm_source=git)** | De Pere, WI | On Site | Mar 09 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/69ab9663142d5b4265fcb86a?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 09 |
+| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Operations Intern](https://jobright.ai/jobs/info/69afb28b7495006450949f19?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Mar 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern – T5 Community College](https://jobright.ai/jobs/info/69af71ff749500645093e2bb?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 09 |
 | ↳ | **[Operations Intern – T5 Community College](https://jobright.ai/jobs/info/69af71ae6b21de023e609031?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Mar 09 |
 | **[Arclin](http://arclin.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69af71ae6b21de023e609027?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States | Hybrid | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Office of the CEO Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69af3299dfaeda6ff5974aee?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 09 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69af3268dfaeda6ff5974aa2?utm_campaign=1050&utm_source=git)** | CA-Los Angeles | On Site | Mar 09 |
 | **[EO](EOco.org)** | **[Intern – BVPS VHS Main Office](https://jobright.ai/jobs/info/69af3227dfaeda6ff5974a13?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 09 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/69af3224dfaeda6ff5974a02?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
