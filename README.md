@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern [TikTok LIVE-Ecosystem Governance] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6977e2ba52f3c27ec6440ab9?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Administrative Summer Intern - Celina](https://jobright.ai/jobs/info/69081970ff462851fe00c5c9?utm_campaign=1050&utm_source=git)** | Lima-Van Wert-Celina area | On Site | Mar 10 |
 | **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699381b2ce78e77b4fd75370?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb6167bcb7608b3d28ed7?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | Mar 10 |
 | **[Yotpo](http://www.yotpo.com)** | **[Revenue Operations - Summer Intern](https://jobright.ai/jobs/info/6992f7ea81476f6176aa9287?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69afcfc1dfaeda6ff598aff9?utm_campaign=1050&utm_source=git)** | Morgan City, LA | On Site | Mar 10 |
 | **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship](https://jobright.ai/jobs/info/69afcbf1f63f733065b3be4e?utm_campaign=1050&utm_source=git)** | Opa-Locka, FL | On Site | Mar 10 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**INTERNAL ONLY** Chief of Staff](https://jobright.ai/jobs/info/69afddf174950064509525ca?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 09 |
+| **[Pearl Abyss America](https://www.linkedin.com/company/74313020)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/69aff61a0b2db6275c0323f6?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 09 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Florida Region 2025 - 2026](https://jobright.ai/jobs/info/69afb75d749500645094b287?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TN Department of Correction 2026 Business Operations Internship-Summer-Internship-03102026-75948](https://jobright.ai/jobs/info/69afb539dfaeda6ff59856c4?utm_campaign=1050&utm_source=git)** | Davidson County, TN | On Site | Mar 09 |
 | **[Legends Global](http://legends.net)** | **[Arena Operations Intern](https://jobright.ai/jobs/info/69afa332f63f733065b32a92?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Operations Analyst Student, Wealth Operations](https://jobright.ai/jobs/info/69a9ffe12ebd316bece1bdea?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Mar 09 |
 | **[TSMC](http://www.tsmc.com)** | **[[Summer 2026] Facilities Project Coordinator - Intern](https://jobright.ai/jobs/info/69af3e596b21de023e60716f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 09 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69af3de0dfaeda6ff5975fa2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
-| **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69af3ad56b21de023e606cb7?utm_campaign=1050&utm_source=git)** | Bellevue, WA | Hybrid | Mar 09 |
-| **[BDO](https://global-www.bdo.global/)** | **[Assurance Operations Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/69af3a5b749500645093bdbf?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Mar 09 |
-| **[BDO USA](https://www.bdo.com/)** | **[Assurance Operations Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/69af3a50dfaeda6ff59759f9?utm_campaign=1050&utm_source=git)** | 200 Park Avenue, New York, NY, 10166, US | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
