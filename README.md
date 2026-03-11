@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Intern, Supply Chain Management](https://jobright.ai/jobs/info/69b0be640b2db6275c05345b?utm_campaign=1050&utm_source=git)** | Riverside, MO | On Site | Mar 10 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/69b0bc8d7495006450979698?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| **[Ann & Robert H. Lurie Children's Hospital of Chicago](https://www.luriechildrens.org)** | **[Administrative Intern - Budget](https://jobright.ai/jobs/info/69b0bc1b0b2db6275c052c80?utm_campaign=1050&utm_source=git)** | Streeterville, IL | On Site | Mar 10 |
+| **[Alumni Ventures](http://www.av.vc)** | **[Summer Analyst, Platform Operations (Internship)](https://jobright.ai/jobs/info/69b0ba077495006450978f81?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[Tactile Medical](https://tactilemedical.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b0b995dfaeda6ff59b13c1?utm_campaign=1050&utm_source=git)** | New Brighton, Minnesota | On Site | Mar 10 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/69b0b593dfaeda6ff59b0ed5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
+| **[Flex](https://flex.com)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69b0b4e90b2db6275c051b7f?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Mar 10 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69b0b4d30b2db6275c051b4e?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Mar 10 |
+| **[Schneider Electric](https://www.se.com)** | **[Operational & Business Strategy Intern](https://jobright.ai/jobs/info/69b0b2170b2db6275c0517fa?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[News Corp](https://newscorp.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b0afb60b2db6275c0513f0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Networking Technologies and Support, Inc.](https://www.thinknts.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69b0af25749500645097728e?utm_campaign=1050&utm_source=git)** | Midlothian, VA | On Site | Mar 10 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Operations Capacity Planning Intern](https://jobright.ai/jobs/info/69b0ac9f0b2db6275c050d9e?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | Mar 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[ESG Knowledge Management & Capacity Building Intern](https://jobright.ai/jobs/info/69942dc2e0bddb6acac293cd?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Engagement on Projects Intern-Summer 2026](https://jobright.ai/jobs/info/69b08705dfaeda6ff59a8aef?utm_campaign=1050&utm_source=git)** | Beavercreek Office - Beavercreek, OH 45431 | Hybrid | Mar 10 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern, Some Travel Required - Nashua, NH](https://jobright.ai/jobs/info/6978fc0252f3c27ec64547c3?utm_campaign=1050&utm_source=git)** | Nashua, NH | On Site | Mar 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1050&utm_source=git)** | Macomb, MI | On Site | Mar 10 |
-| **[Sentara Health](http://www.sentara.com)** | **[Healthcare Business Operations intern - Summer 2026](https://jobright.ai/jobs/info/69b04c32749500645096463a?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Mar 10 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Pool and Beach Intern - Seasonal (Tropicana Atlantic City](https://jobright.ai/jobs/info/69b0733a0b2db6275c046199?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ, United States | On Site | Mar 10 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Development Effectiveness and Impact Measurement for Private Sector Operations Intern](https://jobright.ai/jobs/info/69941ef681476f6176abdb28?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Small Business Administration (SBA)](https://jobright.ai/jobs/info/69b0495d0b2db6275c03eaf0?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
-| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Intern - Program Management](https://jobright.ai/jobs/info/69b073e20b2db6275c04625b?utm_campaign=1050&utm_source=git)** | Pascagoula, MS, US | On Site | Mar 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/68e9bca1feeb0006c1a56f55?utm_campaign=1050&utm_source=git)** | Bend, OR | On Site | Mar 10 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69b0769bdfaeda6ff59a5466?utm_campaign=1050&utm_source=git)** | USA, New Jersey, Burlington, 08016 | On Site | Mar 10 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Supply Chain Intern/Hybrid co-op](https://jobright.ai/jobs/info/69b07696dfaeda6ff59a5447?utm_campaign=1050&utm_source=git)** | Mettawa, IL | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
