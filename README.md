@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69b13d35d04c69566c735293?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69b13d2f65de58104c7018c6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
+| **[Red Hat](http://www.redhat.com)** | **[Program Manager Intern](https://jobright.ai/jobs/info/69a3a72c359fe034b1cea3d9?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Mar 11 |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/697936a988e2b47213bd5abc?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 11 |
+| **[Culligan International](http://www.culligan.com/)** | **[Intern, Project Management/Business Analyst](https://jobright.ai/jobs/info/698412660f6f7e7a2cde3523?utm_campaign=1050&utm_source=git)** | Rosemont, IL | Hybrid | Mar 11 |
+| ↳ | **[Intern, Strategy Analyst](https://jobright.ai/jobs/info/695c82e9f1f8465b79f2a750?utm_campaign=1050&utm_source=git)** | Rosemont, IL | On Site | Mar 11 |
 | **[VisionSpring](https://visionspring.org/home)** | **[Supply Chain, Internship](https://jobright.ai/jobs/info/69b12171dfaeda6ff59c187f?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Summer Project Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
@@ -80,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b0eb1bdfaeda6ff59bbcb3?utm_campaign=1050&utm_source=git)** | Florence, KY | On Site | Mar 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0f3487495006450982009?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0eb2cdfaeda6ff59bbcf5?utm_campaign=1050&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0f3610b2db6275c05e431?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0f3570b2db6275c05e411?utm_campaign=1050&utm_source=git)** | Burlington, WI | On Site | Mar 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0f3610b2db6275c05e431?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0eb38dfaeda6ff59bbd20?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Mar 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b0f3487495006450982008?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Mar 10 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Intern (Summer 2026) - Washington, DC](https://jobright.ai/jobs/info/69b0cba7dfaeda6ff59b540a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -102,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/69b0b593dfaeda6ff59b0ed5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Flex](https://flex.com)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69b0b4e90b2db6275c051b7f?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Mar 10 |
 | ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69b0b4d30b2db6275c051b4e?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Mar 10 |
-| **[Uber](http://www.uber.com)** | **[2026 Program Manager / Incubation GenAi Products MBA Intern , United States](https://jobright.ai/jobs/info/69b1072e0b2db6275c0604b0?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 10 |
-| ↳ | **[2026 Program Manager / Incubation GenAi Products MBA Intern , United States](https://jobright.ai/jobs/info/69b105a27495006450983adf?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 10 |
-| **[Kroll Konstruction LLC](https://www.krollkonstruction.com/)** | **[Rotational Intern](https://jobright.ai/jobs/info/69b102510b2db6275c05f95d?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | On Site | Mar 10 |
-| ↳ | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69b0fb097495006450983123?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | On Site | Mar 10 |
+| **[Uber](http://www.uber.com)** | **[2026 Program Manager / Incubation GenAi Products MBA Intern , United States](https://jobright.ai/jobs/info/69b105a27495006450983adf?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 10 |
+| ↳ | **[2026 Program Manager / Incubation GenAi Products MBA Intern , United States](https://jobright.ai/jobs/info/69b1072e0b2db6275c0604b0?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 10 |
+| **[Kroll Konstruction LLC](https://www.krollkonstruction.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69b0fb097495006450983123?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | On Site | Mar 10 |
+| ↳ | **[Rotational Intern](https://jobright.ai/jobs/info/69b102510b2db6275c05f95d?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | On Site | Mar 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69b1049ddfaeda6ff59be01f?utm_campaign=1050&utm_source=git)** | Kansas City, MO, US | On Site | Mar 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Operational & Business Strategy Intern](https://jobright.ai/jobs/info/69b0b2170b2db6275c0517fa?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[News Corp](https://newscorp.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b0afb60b2db6275c0513f0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084f9749500645096efc3?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 10 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084e3dfaeda6ff59a865e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 10 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084cbdfaeda6ff59a8617?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
-| **[Perlick](https://www.perlick.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697a818d8dbbf73badc7a741?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 10 |
-| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69aa6e9e1f59c56275e3470f?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 10 |
-| **[KELLER](https://www.keller-france.com/)** | **[Intern](https://jobright.ai/jobs/info/69979e2181476f6176afb926?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Mar 10 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Professional Internship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb3?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | On Site | Mar 10 |
-| **[Dometic](https://www.dometic.com)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/698cc2e70f6f7e7a2ce879ba?utm_campaign=1050&utm_source=git)** | Katy, TX | Hybrid | Mar 10 |
-| **[Eastern Communications Ltd.](https://easterncommunications.com)** | **[Summer Internship / Strategy and Operations](https://jobright.ai/jobs/info/69b07c8edfaeda6ff59a6695?utm_campaign=1050&utm_source=git)** | Long Island City, New York | On Site | Mar 10 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69b07bbd749500645096d0f7?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
