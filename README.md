@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Creative Project Management](https://jobright.ai/jobs/info/69b1c740548f140066e79667?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 11 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Agile Project Management](https://jobright.ai/jobs/info/69b1c6cfd04c69566c74100c?utm_campaign=1050&utm_source=git)** | Ambler, PA | Hybrid | Mar 11 |
+| **[Lake Trust Credit Union](https://laketrust.org/)** | **[Operations Internship](https://jobright.ai/jobs/info/69b1c6b365de58104c70d030?utm_campaign=1050&utm_source=git)** | Brighton, MI | On Site | Mar 11 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69b1c67665de58104c70ce9c?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Mar 11 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Internship, Office of the President (Summer 2026)](https://jobright.ai/jobs/info/69b1c5c3d04c69566c740e29?utm_campaign=1050&utm_source=git)** | New York,NY,US | On Site | Mar 11 |
+| **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Front of House Leadership Intern](https://jobright.ai/jobs/info/69b1c37465de58104c70c1fa?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
+| **[Ensono](https://www.ensono.com)** | **[Intern - Service Delivery Management](https://jobright.ai/jobs/info/69b1c32cd04c69566c740503?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
+| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69b1c30165de58104c70c007?utm_campaign=1050&utm_source=git)** | Conley, GA | On Site | Mar 11 |
+| ↳ | **[Intern - Operations](https://jobright.ai/jobs/info/69b1c2ed65de58104c70bfcc?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Mar 11 |
+| **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6994e243e0bddb6acac3624a?utm_campaign=1050&utm_source=git)** | Clermont, KY | On Site | Mar 11 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b1c024d04c69566c73fdc3?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[College Pro](http://collegepro.com)** | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/69b1bfaed04c69566c73fce3?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 11 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Systems & Data Intern – CDO Fund](https://jobright.ai/jobs/info/69b1bd61d04c69566c73fcac?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 11 |
@@ -84,6 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Club Operations Intern, Some Travel Required - Chesterfield, MI](https://jobright.ai/jobs/info/6978fdae88e2b47213bd0897?utm_campaign=1050&utm_source=git)** | Chesterfield, MI | On Site | Mar 11 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Technology PMO - Student Internship](https://jobright.ai/jobs/info/698a20c54db8972cecff65ae?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 11 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Branch Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6977e5b3fdeb8243a27ada03?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 11 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Operations Planning Intern](https://jobright.ai/jobs/info/69b1c2ed548f140066e786d3?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
+| ↳ | **[Operations Planning Intern](https://jobright.ai/jobs/info/69b1c2ba65de58104c70bf68?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
 | **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern (CHS)](https://jobright.ai/jobs/info/69b1a1dfd04c69566c73eb67?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Mar 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697991ccca92cf0d6a82be44?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Mar 11 |
 | **[US LBM](http://uslbm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69950d26e0bddb6acac395fc?utm_campaign=1050&utm_source=git)** | Waukee, IA | On Site | Mar 11 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Mar 11 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[2026 Summer Intern: Procurement Intern](https://jobright.ai/jobs/info/6994c54b81476f6176ac922a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/695dd78b89be3415c746322d?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 11 |
-| **[Brightline West Trains](https://www.BrightlineWest.com)** | **[Business Rotation Intern - Summer 2026](https://jobright.ai/jobs/info/6995887881476f6176ad7456?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Mar 11 |
-| **[Kerecis](http://www.kerecis.com)** | **[Project Support Intern](https://jobright.ai/jobs/info/69b16e4365de58104c707515?utm_campaign=1050&utm_source=git)** | Arlington County, VA | On Site | Mar 11 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6979668c39f7f96cc6d1efd4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - South Windsor Warehouse,](https://jobright.ai/jobs/info/6994a7c1e0bddb6acac31911?utm_campaign=1050&utm_source=git)** | South Windsor, CT | On Site | Mar 11 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Guest Operations Internship, Kennedy Space Center](https://jobright.ai/jobs/info/69b15eadd04c69566c7396e7?utm_campaign=1050&utm_source=git)** | Merritt Island, FL | On Site | Mar 11 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6994d7e5e0bddb6acac35509?utm_campaign=1050&utm_source=git)** | Saint Marys Township, OH | On Site | Mar 11 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698bdf4ac5761b521a9b7087?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co Op 25-26](https://jobright.ai/jobs/info/698acca10f6f7e7a2ce6210b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
-| **[Westwood Country Club](https://www.westwoodcc.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69b1792ad04c69566c73ca77?utm_campaign=1050&utm_source=git)** | Vienna,VA,US | On Site | Mar 11 |
-| **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b14c1ed04c69566c73708e?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Corporate Operations (Corp Ops)](https://jobright.ai/jobs/info/6995187fce78e77b4fd92fb8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
-| **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69794bf939f7f96cc6d1c3ba?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
