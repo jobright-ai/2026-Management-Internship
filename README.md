@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b14c1ed04c69566c73708e?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Corporate Operations (Corp Ops)](https://jobright.ai/jobs/info/6995187fce78e77b4fd92fb8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
+| **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69794bf939f7f96cc6d1c3ba?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 11 |
+| **[CDM Service Group, Inc.](http://www.cdminvestmentgroup.com)** | **[Intern](https://jobright.ai/jobs/info/695c60a722c9dc0d3d545bab?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | Mar 11 |
+| **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Internship - Supply Chain Strategy and Infrastructure Development](https://jobright.ai/jobs/info/6994ec0981476f6176acc374?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program Intern](https://jobright.ai/jobs/info/69a9698af6c22f2e36865131?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Mar 11 |
+| **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69785f0188e2b47213bc85aa?utm_campaign=1050&utm_source=git)** | Sherwood Park, Alberta, Canada | On Site | Mar 11 |
+| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697866a752f3c27ec644b7f7?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Mar 11 |
+| **[Kerry](https://www.kerry.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a90ca52580d3183f0141a7?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Mar 11 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (Clarke)](https://jobright.ai/jobs/info/695c0a3caa05c26e7ab55c9e?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 11 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Mar 11 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/6977e11752f3c27ec644098d?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 11 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Minnesota](https://jobright.ai/jobs/info/691ae6eabcdbf3560c9db773?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69b13d35d04c69566c735293?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69b13d2f65de58104c7018c6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field 1](https://jobright.ai/jobs/info/69b08b360b2db6275c04b26e?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Mar 10 |
 | **[ARA](https://www.ara.com)** | **[Program Analyst Intern](https://jobright.ai/jobs/info/69b08b2974950064509703e7?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Mar 10 |
 | **[New York Air Brake](http://nyab.com)** | **[Intern, Supply Chain Management](https://jobright.ai/jobs/info/69b08b1d74950064509703b8?utm_campaign=1050&utm_source=git)** | Riverside, MO | On Site | Mar 10 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern](https://jobright.ai/jobs/info/69b08b1d74950064509703bb?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Mar 10 |
-| **[Skechers](http://www.skechers.com)** | **[IT Portfolio Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69b0e557dfaeda6ff59bab8e?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 10 |
-| **[BMO](http://www.bmo.com)** | **[Portfolio Insights Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69b0e8e70b2db6275c05d33f?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 10 |
-| **[Duke University](http://www.duke.edu)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/69b08758dfaeda6ff59a8b7e?utm_campaign=1050&utm_source=git)** | Durham, NC, US, 27710 | On Site | Mar 10 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Business Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69b0e544dfaeda6ff59bab26?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 10 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Supply Chain Intern/Hybrid Co-op](https://jobright.ai/jobs/info/69b08686749500645096f71e?utm_campaign=1050&utm_source=git)** | Mettawa, IL | Hybrid | Mar 10 |
-| ↳ | **[Supply Chain Intern/Hybrid co-op](https://jobright.ai/jobs/info/69b0865fdfaeda6ff59a8a03?utm_campaign=1050&utm_source=git)** | Mettawa, IL | Hybrid | Mar 10 |
-| **[JCB North America](http://jcbna.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69b085e2dfaeda6ff59a88d3?utm_campaign=1050&utm_source=git)** | Bamford Blvd, Pooler, GA, USA | On Site | Mar 10 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Mokara Food & Beverage/ Omni Cares Internship / Summer 2026](https://jobright.ai/jobs/info/69b085860b2db6275c049fd0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b085270b2db6275c049e11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084f9749500645096efc3?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 10 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084e3dfaeda6ff59a865e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 10 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b084cbdfaeda6ff59a8617?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
