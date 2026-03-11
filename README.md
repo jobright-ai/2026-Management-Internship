@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[News Corp](https://newscorp.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b0afb60b2db6275c0513f0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[Networking Technologies and Support, Inc.](https://www.thinknts.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69b0af25749500645097728e?utm_campaign=1050&utm_source=git)** | Midlothian, VA | On Site | Mar 10 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Operations Capacity Planning Intern](https://jobright.ai/jobs/info/69b0ac9f0b2db6275c050d9e?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | Mar 10 |
+| **[Schneider Electric](https://www.se.com)** | **[Operational & Business Strategy Intern](https://jobright.ai/jobs/info/69b0ac597495006450976b23?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Baseball Operations Summer Intern](https://jobright.ai/jobs/info/69b0a9cb0b2db6275c050525?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 10 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Knowledge Management (Austin)](https://jobright.ai/jobs/info/69b0a99f0b2db6275c0503e7?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 10 |
 | **[Woodfield Boca Raton](https://www.woodfield.org/)** | **[F&B Management Internship](https://jobright.ai/jobs/info/69b0a988dfaeda6ff59af2fe?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Mar 10 |
@@ -115,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2025 - 2026](https://jobright.ai/jobs/info/69b07185749500645096aced?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69b0a3f874950064509753c5?utm_campaign=1050&utm_source=git)** | United States of America,New Jersey,Carteret,07008 | On Site | Mar 10 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern – Strategic Process and Automation Analyst (Summer 2026)](https://jobright.ai/jobs/info/69b06e8ddfaeda6ff59a411b?utm_campaign=1050&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Mar 10 |
+| **[Circular Materials](https://circularmaterials.ca/)** | **[Intern: Program Reporting Analyst / Remote Canada](https://jobright.ai/jobs/info/69b0b0127495006450977472?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 10 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Baseball Operations Summer Intern](https://jobright.ai/jobs/info/69b06a240b2db6275c04520d?utm_campaign=1050&utm_source=git)** | Oracle Park, SF | On Site | Mar 10 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[Associate, Evergreen](https://jobright.ai/jobs/info/69b06a230b2db6275c045209?utm_campaign=1050&utm_source=git)** | Boston, MA, United States | On Site | Mar 10 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Food & Beverage Internship - Summer 2026](https://jobright.ai/jobs/info/69b0679b0b2db6275c044992?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Mar 10 |
@@ -122,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[Assistant Project Manager Intern - Summer 2026 (InterClad Team)](https://jobright.ai/jobs/info/69b0678d74950064509695db?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | Mar 10 |
 | **[John L. Hunter and Associates](https://www.jlha.net)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69b067710b2db6275c0448ac?utm_campaign=1050&utm_source=git)** | Orange County, CA | Hybrid | Mar 10 |
 | **[Airgas](http://airgas.com/)** | **[Intern - Supply Chain and Logistics](https://jobright.ai/jobs/info/69b0676a7495006450969521?utm_campaign=1050&utm_source=git)** | Independence, OH | On Site | Mar 10 |
-| **[Leybold](https://www.leybold.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b0666a0b2db6275c0444cb?utm_campaign=1050&utm_source=git)** | Export, PA | On Site | Mar 10 |
 | **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Warehouse Summer Intern](https://jobright.ai/jobs/info/69b0642fdfaeda6ff59a272d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/69aeff4ddfaeda6ff597037c?utm_campaign=1050&utm_source=git)** | Whidbey Island Station, WA | On Site | Mar 10 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Westfield, MA - Summer 2026](https://jobright.ai/jobs/info/69b062800b2db6275c043885?utm_campaign=1050&utm_source=git)** | Westfield, MA | On Site | Mar 10 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f73ef29655e4dd658f6de?utm_campaign=1050&utm_source=git)** | Rincon, GA | On Site | Mar 10 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Third Party Management](https://jobright.ai/jobs/info/69b054450b2db6275c0408e2?utm_campaign=1050&utm_source=git)** | Lake Zurich, IL | On Site | Mar 10 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Real Estate Operations](https://jobright.ai/jobs/info/69b070c00b2db6275c045d67?utm_campaign=1050&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Mar 10 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern - Retail](https://jobright.ai/jobs/info/69b0a396749500645097525e?utm_campaign=1050&utm_source=git)** | Miami, Florida, USA | On Site | Mar 10 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Operations Intern, RJLU](https://jobright.ai/jobs/info/69b050fb7495006450965508?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 10 |
 | **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/6978327c88e2b47213bc3934?utm_campaign=1050&utm_source=git)** | Roswell, GA | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[ESG Knowledge Management & Capacity Building Intern](https://jobright.ai/jobs/info/69942dc2e0bddb6acac293cd?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/68e9bca1feeb0006c1a56f55?utm_campaign=1050&utm_source=git)** | Bend, OR | On Site | Mar 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69b0769bdfaeda6ff59a5466?utm_campaign=1050&utm_source=git)** | USA, New Jersey, Burlington, 08016 | On Site | Mar 10 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Supply Chain Intern/Hybrid co-op](https://jobright.ai/jobs/info/69b07696dfaeda6ff59a5447?utm_campaign=1050&utm_source=git)** | Mettawa, IL | Hybrid | Mar 10 |
-| **[Great Lakes Valley Conference](http://www.glvcsports.com)** | **[Conference Intern (2026-27)](https://jobright.ai/jobs/info/69b0447d749500645096309e?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
-| **[JNCC](https://jncc.gov.uk/)** | **[Summer Admin Intern](https://jobright.ai/jobs/info/69b0a8217495006450975c87?utm_campaign=1050&utm_source=git)** | Springfield, VA, US | On Site | Mar 10 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern – Artificial Intelligence (AI) Strategy Designer (Summer 2026)](https://jobright.ai/jobs/info/69b0a35d749500645097518e?utm_campaign=1050&utm_source=git)** | Montreal, Quebec | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
