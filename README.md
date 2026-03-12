@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69b27380ae2a534885e990a9?utm_campaign=1050&utm_source=git)** | Kennett Square, PA | On Site | Mar 12 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b27366ae2a534885e99062?utm_campaign=1050&utm_source=git)** | Pipersville, PA | On Site | Mar 12 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b2722da8ac8e70ff66647d?utm_campaign=1050&utm_source=git)** | Phoenixville, PA | On Site | Mar 12 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b2721ea8ac8e70ff6663e2?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Mar 12 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b2721da8ac8e70ff6663e0?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | Mar 12 |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Procurement Intern](https://jobright.ai/jobs/info/698ed6e9f64d441a16512821?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - T5 Community College](https://jobright.ai/jobs/info/69b283d9ad360c0340a760c1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 12 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b28236a8ac8e70ff667f60?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 12 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/69b2822cae2a534885e99feb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 12 |
+| ↳ | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/69b27e20ad360c0340a759c6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/69b27b0da8ac8e70ff667644?utm_campaign=1050&utm_source=git)** | KC Metro Area | On Site | Mar 12 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Technical Project Manager Intern - Software Delivery and Operations](https://jobright.ai/jobs/info/69b2760ea8ac8e70ff666f21?utm_campaign=1050&utm_source=git)** | Concord, MA | Remote | Mar 12 |
 | **[Huntington Hospital, NY](https://huntington.northwell.edu)** | **[Healthcare Management Intern](https://jobright.ai/jobs/info/69b27203ae2a534885e98ee8?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Mar 12 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Management Intern / Student Executive Assistant](https://jobright.ai/jobs/info/69b26e6cae2a534885e97de9?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Technical Project Manager Intern - Software Delivery and Operations](https://jobright.ai/jobs/info/69b25a18a8ac8e70ff66332d?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Mar 11 |
@@ -124,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Project Control Intern](https://jobright.ai/jobs/info/69b1de7ed04c69566c744c1b?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Trust Operations Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164db?utm_campaign=1050&utm_source=git)** | Abilene Main | On Site | Mar 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Supply Chain Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/69b1db45548f140066e7cc9e?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 11 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Program Management Intern (CWL)](https://jobright.ai/jobs/info/69af35e0dfaeda6ff59752cb?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Strategy & Planning Analyst, FIS University Program](https://jobright.ai/jobs/info/69b1fa8165de58104c716497?utm_campaign=1050&utm_source=git)** | US FL JAX 347 | On Site | Mar 11 |
 | **[Ensono](https://www.ensono.com)** | **[Intern - Service Delivery Management](https://jobright.ai/jobs/info/69b1d6f365de58104c70fffc?utm_campaign=1050&utm_source=git)** | Remote - United States | Remote | Mar 11 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b1d555d04c69566c74340b?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Mar 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Operations](https://jobright.ai/jobs/info/69b1c2ed65de58104c70bfcc?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Mar 11 |
 | **[Chromalloy](https://www.chromalloy.com)** | **[SIOP (Sales, Inventory, Operations, Planning) - Intern](https://jobright.ai/jobs/info/69b1ff7fd04c69566c74a666?utm_campaign=1050&utm_source=git)** | 601 Marshall Phelps Rd, Windsor, CT 06095, USA | On Site | Mar 11 |
 | **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6994e243e0bddb6acac3624a?utm_campaign=1050&utm_source=git)** | Clermont, KY | On Site | Mar 11 |
-| **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b1c024d04c69566c73fdc3?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
-| **[College Pro](http://collegepro.com)** | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/69b1bfaed04c69566c73fce3?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Mar 11 |
-| **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Business Operations Intern – Business Operations](https://jobright.ai/jobs/info/69b1fa2e65de58104c71630d?utm_campaign=1050&utm_source=git)** | New York, NY ( 200 Park Avenue) | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
