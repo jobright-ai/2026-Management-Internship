@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Effectiveness and Training (BET) Intern](https://jobright.ai/jobs/info/69aa6cbb2ebd316bece22b47?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 11 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69b23ef8ad360c0340a6f8f6?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 11 |
 | **[Indegene](https://www.indegene.com/)** | **[Indegene Udergraduate Internship  (Rising Junior)](https://jobright.ai/jobs/info/69b2373bad360c0340a6f104?utm_campaign=1050&utm_source=git)** | US | Remote | Mar 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - T5 Community College](https://jobright.ai/jobs/info/69b233a3a8ac8e70ff6607ef?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69b1e220d04c69566c745598?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e093548f140066e7dc3f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e088548f140066e7dbef?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Mar 11 |
-| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500e?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
+| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Project Control Intern](https://jobright.ai/jobs/info/69b1de7ed04c69566c744c1b?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Trust Operations Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164db?utm_campaign=1050&utm_source=git)** | Abilene Main | On Site | Mar 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Supply Chain Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/69b1db45548f140066e7cc9e?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern (CHS)](https://jobright.ai/jobs/info/69b1b9e6d04c69566c73fa15?utm_campaign=1050&utm_source=git)** | 1080 Morrison Dr. Suite 130 Charleston, SC 29403 | On Site | Mar 11 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Agile Project Management](https://jobright.ai/jobs/info/69b1b90865de58104c70b862?utm_campaign=1050&utm_source=git)** | Ambler, Pennsylvania, United States | Hybrid | Mar 11 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b1b84665de58104c70b831?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
-| **[Savvas Learning Company](https://www.savvas.com)** | **[Technology Project Management Intern](https://jobright.ai/jobs/info/69b1b5bad04c69566c73f860?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
