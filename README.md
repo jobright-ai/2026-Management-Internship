@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69b23ef8ad360c0340a6f8f6?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 11 |
 | **[Indegene](https://www.indegene.com/)** | **[Indegene Udergraduate Internship  (Rising Junior)](https://jobright.ai/jobs/info/69b2373bad360c0340a6f104?utm_campaign=1050&utm_source=git)** | US | Remote | Mar 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - T5 Community College](https://jobright.ai/jobs/info/69b233a3a8ac8e70ff6607ef?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
 | **[KEP Electric/ IES RESIDENTIAL](http://www.kepelectric.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69b229f7548f140066e86863?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69b1e220d04c69566c745598?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e093548f140066e7dc3f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e088548f140066e7dbef?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Mar 11 |
-| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500e?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500e?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Project Control Intern](https://jobright.ai/jobs/info/69b1de7ed04c69566c744c1b?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Trust Operations Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164db?utm_campaign=1050&utm_source=git)** | Abilene Main | On Site | Mar 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Supply Chain Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/69b1db45548f140066e7cc9e?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 11 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Business Operations Intern – Business Operations](https://jobright.ai/jobs/info/69b1fa2e65de58104c71630d?utm_campaign=1050&utm_source=git)** | New York, NY ( 200 Park Avenue) | On Site | Mar 11 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Systems & Data Intern – CDO Fund](https://jobright.ai/jobs/info/69b1bd61d04c69566c73fcac?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 11 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/69b1bd00d04c69566c73fbf2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 11 |
-| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa1d65de58104c71629f?utm_campaign=1050&utm_source=git)** | Irvine | On Site | Mar 11 |
-| ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a3?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
+| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a3?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
+| ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa1d65de58104c71629f?utm_campaign=1050&utm_source=git)** | Irvine | On Site | Mar 11 |
 | ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a0?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
 | **[Unisys](http://www.unisys.com)** | **[Advisor Relations Intern](https://jobright.ai/jobs/info/69b1bc8b65de58104c70baea?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Mar 11 |
 | **[Koniag](https://www.koniag.com)** | **[Intern - Enterprise Platform Team](https://jobright.ai/jobs/info/69b1ff80d04c69566c74a66e?utm_campaign=1050&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Agile Project Management](https://jobright.ai/jobs/info/69b1b90865de58104c70b862?utm_campaign=1050&utm_source=git)** | Ambler, Pennsylvania, United States | Hybrid | Mar 11 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b1b84665de58104c70b831?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Technology Project Management Intern](https://jobright.ai/jobs/info/69b1b5bad04c69566c73f860?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Mar 11 |
-| **[Pro Max Fence Systems, LLC](http://promaxfence.com)** | **[Intern Project Coordinator (Northern Pittsburgh)](https://jobright.ai/jobs/info/69b1b50dd04c69566c73f765?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
