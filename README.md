@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indegene](https://www.indegene.com/)** | **[Indegene Udergraduate Internship  (Rising Junior)](https://jobright.ai/jobs/info/69b2373bad360c0340a6f104?utm_campaign=1050&utm_source=git)** | US | Remote | Mar 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - T5 Community College](https://jobright.ai/jobs/info/69b233a3a8ac8e70ff6607ef?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
 | **[KEP Electric/ IES RESIDENTIAL](http://www.kepelectric.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69b229f7548f140066e86863?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Mar 11 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Retail Operations Analyst Intern](https://jobright.ai/jobs/info/69b2299d548f140066e86808?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Mar 11 |
 | **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973ae1b206da320f49db192?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Project Manager Intern - S2026](https://jobright.ai/jobs/info/69b2265965de58104c719c26?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 11 |
 | **[Werner Enterprises](http://www.werner.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69b22219548f140066e85d8d?utm_campaign=1050&utm_source=git)** | Oakbrook Terrace, IL | On Site | Mar 11 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b21da865de58104c7192cb?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 11 |
-| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b21da7548f140066e85b1c?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | Mar 11 |
 | **[Cisco](http://www.cisco.com)** | **[FLEX- Rising Leaders II (Intern) - United States](https://jobright.ai/jobs/info/69b21d6a548f140066e85af8?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Payer Data Operations](https://jobright.ai/jobs/info/69b21d67548f140066e85ae1?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Corporate Strategy MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69b21d47d04c69566c74d13c?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Mar 11 |
@@ -82,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b212add04c69566c74b6eb?utm_campaign=1050&utm_source=git)** | Silver Spring, MD | On Site | Mar 11 |
 | **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Enterprise Platform Team](https://jobright.ai/jobs/info/69b211df548f140066e84024?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Mar 11 |
 | **[Nuro](https://nuro.ai)** | **[Technical Program Manager Intern](https://jobright.ai/jobs/info/69b211de548f140066e8401e?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Mar 11 |
+| **[Folsom Cordova Unified School District](http://www.fcusd.org)** | **[2026 Summer VAPA Camp Administrative Assistant (June 1 - June 17, 2026) - Internal Only](https://jobright.ai/jobs/info/69b23bbca8ac8e70ff660fcd?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | Mar 11 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[Pre-Opening Operations Intern / Nightsky / San Luis Obispo, CA](https://jobright.ai/jobs/info/69b20959d04c69566c74ae0e?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 11 |
 | **[Vestar](http://vestar.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69b22656548f140066e863fe?utm_campaign=1050&utm_source=git)** | Tustin, CA, US | On Site | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Supply Chain - Summer Internship](https://jobright.ai/jobs/info/69b227add04c69566c74dd38?utm_campaign=1050&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69b1e220d04c69566c745598?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e093548f140066e7dc3f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1e088548f140066e7dbef?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Mar 11 |
-| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500e?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
+| ↳ | **[Digital Advisory Intern](https://jobright.ai/jobs/info/69b1df64d04c69566c74500b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Project Control Intern](https://jobright.ai/jobs/info/69b1de7ed04c69566c744c1b?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Mar 11 |
 | **[First Financial Bank Texas](https://ffin.com)** | **[Trust Operations Intern](https://jobright.ai/jobs/info/69b1fa8f65de58104c7164db?utm_campaign=1050&utm_source=git)** | Abilene Main | On Site | Mar 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Global Supply Chain Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/69b1db45548f140066e7cc9e?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 11 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[Intern - Service Delivery Management](https://jobright.ai/jobs/info/69b1d6f365de58104c70fffc?utm_campaign=1050&utm_source=git)** | Remote - United States | Remote | Mar 11 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b1d555d04c69566c74340b?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Mar 11 |
 | **[Leidos](https://www.leidos.com)** | **[Project Management Advancement & Analytics Intern](https://jobright.ai/jobs/info/69b1d41dd04c69566c74302f?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
-| ↳ | **[Project Management Advancement & Analytics Intern](https://jobright.ai/jobs/info/69b1d410d04c69566c742ff2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Athletics Administration](https://jobright.ai/jobs/info/69ab958a142d5b4265fcb581?utm_campaign=1050&utm_source=git)** | Weston, MA | On Site | Mar 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/69b1cdb565de58104c70e7f3?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | Hybrid | Mar 11 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Technical Project Manager Intern - Software Delivery and Operations](https://jobright.ai/jobs/info/69b1fa63548f140066e825cc?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 11 |
@@ -147,9 +146,9 @@ For a complete list, click the following sortable link below:
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Business Operations Intern – Business Operations](https://jobright.ai/jobs/info/69b1fa2e65de58104c71630d?utm_campaign=1050&utm_source=git)** | New York, NY ( 200 Park Avenue) | On Site | Mar 11 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Program Systems & Data Intern – CDO Fund](https://jobright.ai/jobs/info/69b1bd61d04c69566c73fcac?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 11 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/69b1bd00d04c69566c73fbf2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 11 |
-| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa1d65de58104c7162a1?utm_campaign=1050&utm_source=git)** | Irvine | On Site | Mar 11 |
-| ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a0?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
+| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa1d65de58104c71629f?utm_campaign=1050&utm_source=git)** | Irvine | On Site | Mar 11 |
 | ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a3?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
+| ↳ | **[Project Controller Intern](https://jobright.ai/jobs/info/69b1fa12548f140066e824a0?utm_campaign=1050&utm_source=git)** | Melbourne FL | On Site | Mar 11 |
 | **[Unisys](http://www.unisys.com)** | **[Advisor Relations Intern](https://jobright.ai/jobs/info/69b1bc8b65de58104c70baea?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Mar 11 |
 | **[Koniag](https://www.koniag.com)** | **[Intern - Enterprise Platform Team](https://jobright.ai/jobs/info/69b1ff80d04c69566c74a66e?utm_campaign=1050&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
 | **[STERIS](http://steris.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6998c3ad81476f6176b12f21?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Mar 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Ambler, Agile Project Management](https://jobright.ai/jobs/info/69b1b90865de58104c70b862?utm_campaign=1050&utm_source=git)** | Ambler, Pennsylvania, United States | Hybrid | Mar 11 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b1b84665de58104c70b831?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Technology Project Management Intern](https://jobright.ai/jobs/info/69b1b5bad04c69566c73f860?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Mar 11 |
+| **[Pro Max Fence Systems, LLC](http://promaxfence.com)** | **[Intern Project Coordinator (Northern Pittsburgh)](https://jobright.ai/jobs/info/69b1b50dd04c69566c73f765?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
