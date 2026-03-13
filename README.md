@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BGIS](https://www.bgis.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69b353f0ae2a534885eab6c3?utm_campaign=1050&utm_source=git)** | Markham, ON, Canada | Hybrid | Mar 12 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b3687dad360c0340a886ad?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
+| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b3685dae2a534885eac7a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
+| **[Marex](http://marexspectron.com)** | **[Global Payments Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69b36322ae2a534885eabe55?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Supply Chain (Distribution) Intern](https://jobright.ai/jobs/info/69b35feaae2a534885eabd1e?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Mar 12 |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Business Operations Internship](https://jobright.ai/jobs/info/69b35dbdad360c0340a879f6?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Mar 12 |
+| **[BGIS](https://www.bgis.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69b35794a8ac8e70ff67901f?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 12 |
+| ↳ | **[Intern, Project Management](https://jobright.ai/jobs/info/69b353f0ae2a534885eab6c3?utm_campaign=1050&utm_source=git)** | Markham, ON, Canada | Hybrid | Mar 12 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Project Management (Highway 11)](https://jobright.ai/jobs/info/69b35371ad360c0340a87339?utm_campaign=1050&utm_source=git)** | Coal Harbour, British Columbia, Canada | On Site | Mar 12 |
 | **[AV](https://www.avinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69b35302a8ac8e70ff678cc4?utm_campaign=1050&utm_source=git)** | 1300 Eubank Boulevard Southeast, Albuquerque, NM | On Site | Mar 12 |
 | **[Nutanix](http://www.nutanix.com)** | **[Technical Program Manager Intern - (GenAI adoption, Tableau, Jira - US base UNDERGRADS ONLY)](https://jobright.ai/jobs/info/69acef6b7e1fab39d38463fe?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Mar 12 |
@@ -71,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69b33b23ae2a534885eaa71e?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 12 |
 | ↳ | **[Intern Fleet & Field Service](https://jobright.ai/jobs/info/69b33b1fae2a534885eaa70f?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69b33a1cad360c0340a86401?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Mar 12 |
-| **[PROJXON](www.projxon.com)** | **[Project Management (Intern)](https://jobright.ai/jobs/info/69b3387ba8ac8e70ff677b22?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
+| **[GTI Fabrication](https://www.gtifabrication.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b3659dae2a534885eabf6a?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Mar 12 |
 | **[Turck USA](https://www.turck.us)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69b33661ae2a534885eaa04e?utm_campaign=1050&utm_source=git)** | Plymouth, MN, US | On Site | Mar 12 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Supply Chain (Distribution) Intern](https://jobright.ai/jobs/info/69b33640ae2a534885ea9fbe?utm_campaign=1050&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Mar 12 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Program Operations Coordinator Intern](https://jobright.ai/jobs/info/69b33609ad360c0340a85d76?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
@@ -123,11 +129,11 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b30482a8ac8e70ff672b6c?utm_campaign=1050&utm_source=git)** | Virtual - Illinois | Remote | Mar 12 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Construction Management and Operations Support Intern – ANS](https://jobright.ai/jobs/info/69b303bcad360c0340a8138d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 12 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69b30356ae2a534885ea4ccd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32631ad360c0340a84679?utm_campaign=1050&utm_source=git)** | Tampa, FL, US | On Site | Mar 12 |
-| ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32252a8ac8e70ff6751da?utm_campaign=1050&utm_source=git)** | Tampa - South Tampa | On Site | Mar 12 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32252a8ac8e70ff6751da?utm_campaign=1050&utm_source=git)** | Tampa - South Tampa | On Site | Mar 12 |
+| ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32631ad360c0340a84679?utm_campaign=1050&utm_source=git)** | Tampa, FL, US | On Site | Mar 12 |
+| ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32251a8ac8e70ff6751d2?utm_campaign=1050&utm_source=git)** | Sandy | On Site | Mar 12 |
 | ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32631ad360c0340a84677?utm_campaign=1050&utm_source=git)** | Sandy, UT, US | On Site | Mar 12 |
 | ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b327d5ae2a534885ea8a4b?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL, US | On Site | Mar 12 |
-| ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32251a8ac8e70ff6751d2?utm_campaign=1050&utm_source=git)** | Sandy | On Site | Mar 12 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Strategy & Business Intelligence Associate](https://jobright.ai/jobs/info/69a8bf177ac93962b70888ee?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 12 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b320c3ad360c0340a8397f?utm_campaign=1050&utm_source=git)** | Palatine, IL | On Site | Mar 12 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Inclusive Business Programs](https://jobright.ai/jobs/info/69b2fbd1ad360c0340a80ca2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Inclusive Business Programs](https://jobright.ai/jobs/info/69b2e828ae2a534885ea3357?utm_campaign=1050&utm_source=git)** | Remote US | Remote | Mar 12 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b2e826ae2a534885ea3346?utm_campaign=1050&utm_source=git)** | The MAV, Tampa, FL | On Site | Mar 12 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Engineering & Project Management Summer Intern](https://jobright.ai/jobs/info/69b2e7f4ae2a534885ea32f1?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Mar 12 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Internal Administration](https://jobright.ai/jobs/info/69b2e7eaae2a534885ea32bd?utm_campaign=1050&utm_source=git)** | Toronto - Wellington St | Hybrid | Mar 12 |
-| **[Mary Washington Healthcare](https://www.marywashingtonhealthcare.com/)** | **[Intern (Clerical)-Office Coordinator-PRN Days](https://jobright.ai/jobs/info/69b2e7a5a8ac8e70ff670c5c?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Mar 12 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 12 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Intern Opportunity - Strategic Planning Analyst](https://jobright.ai/jobs/info/69b2e68dae2a534885ea3208?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6996518f81476f6176ae1884?utm_campaign=1050&utm_source=git)** | Hamden, CT | On Site | Mar 12 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6997252481476f6176af41bd?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
