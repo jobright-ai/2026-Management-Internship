@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/69b39d3fad360c0340a8c5e7?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Mar 12 |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
+| **[SmartSense by Digi](https://www.smartsense.co/)** | **[Intern, Project Coordinator, SmartSense (Mishawaka, IN)](https://jobright.ai/jobs/info/69b3926cad360c0340a8b6c7?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | Hybrid | Mar 12 |
 | **[Amrize](https://www.amrize.com)** | **[Internship, Procurement](https://jobright.ai/jobs/info/69b3810ba8ac8e70ff67c6fa?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 12 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Nursing Business Operations Intern](https://jobright.ai/jobs/info/69b37e34a8ac8e70ff67c57e?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 12 |
 | **[AV](https://www.avinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69b37e22a8ac8e70ff67c56f?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 12 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37334ad360c0340a89a16?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Mar 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b3731aa8ac8e70ff67b915?utm_campaign=1050&utm_source=git)** | Superior, WI | On Site | Mar 12 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Strategic Assets Recovery Program Coordinator](https://jobright.ai/jobs/info/69b37306ae2a534885eade4b?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade45?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Mar 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade44?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Mar 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade44?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Mar 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade45?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Mar 12 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship \- Project Management (Highway 11)](https://jobright.ai/jobs/info/69b372cead360c0340a89983?utm_campaign=1050&utm_source=git)** | Vancouver (Waterfront \/ Coal Harbour \/ Canada Place), British Columbia, Canada | On Site | Mar 12 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/69b36e8da8ac8e70ff67b546?utm_campaign=1050&utm_source=git)** | Tempe AZ  850 W Southern Ave, Tempe, Arizona, United States | Hybrid | Mar 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - West Bend](https://jobright.ai/jobs/info/69b36dc9ae2a534885eadb46?utm_campaign=1050&utm_source=git)** | West Bend, WI, US | On Site | Mar 12 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Ground Up International](https://www.groundupintl.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69b30356ae2a534885ea4ccd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32252a8ac8e70ff6751da?utm_campaign=1050&utm_source=git)** | Tampa - South Tampa | On Site | Mar 12 |
 | ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b32631ad360c0340a84679?utm_campaign=1050&utm_source=git)** | Tampa, FL, US | On Site | Mar 12 |
+| ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32251a8ac8e70ff6751d2?utm_campaign=1050&utm_source=git)** | Sandy | On Site | Mar 12 |
 | ↳ | **[Summer Management Trainee Intern](https://jobright.ai/jobs/info/69b327d5ae2a534885ea8a4b?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL, US | On Site | Mar 12 |
 | ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32631ad360c0340a84677?utm_campaign=1050&utm_source=git)** | Sandy, UT, US | On Site | Mar 12 |
-| ↳ | **[Management Trainee Summer Internship - Sandy](https://jobright.ai/jobs/info/69b32251a8ac8e70ff6751d2?utm_campaign=1050&utm_source=git)** | Sandy | On Site | Mar 12 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Strategy & Business Intelligence Associate](https://jobright.ai/jobs/info/69a8bf177ac93962b70888ee?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 12 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b320c3ad360c0340a8397f?utm_campaign=1050&utm_source=git)** | Palatine, IL | On Site | Mar 12 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Inclusive Business Programs](https://jobright.ai/jobs/info/69b2fbd1ad360c0340a80ca2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Kwest Group](https://kwestgroup.com/)** | **[2027 Internships (General)](https://jobright.ai/jobs/info/69b2fb3ba8ac8e70ff671fd0?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Mar 12 |
-| **[Epicor](https://www.epicor.com)** | **[Intern / Operations Project Analyst](https://jobright.ai/jobs/info/698e55ca78b4502f12a51d43?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Mar 12 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Carrier Energy Commercial Operations Intern - Summer](https://jobright.ai/jobs/info/69b2f9f0a8ac8e70ff671d13?utm_campaign=1050&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA | On Site | Mar 12 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Operations Intern, Some Travel Required - Yorktown Heights, NY](https://jobright.ai/jobs/info/6978ff2688e2b47213bd0936?utm_campaign=1050&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
