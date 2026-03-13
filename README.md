@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b426e63b74eb1e2c813f96?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Mar 13 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Strategist](https://jobright.ai/jobs/info/68e6deefae2b894b1d71f10f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Mar 13 |
+| **[DP World](https://www.dpworld.com/)** | **[Business Operations (Port Operations) Intern](https://jobright.ai/jobs/info/69b425f806c1ba00c5455d5c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
+| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6997ad93e0bddb6acac66817?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Mar 13 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69b423833b74eb1e2c8139b4?utm_campaign=1050&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 13 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/69b41e48569738374138b363?utm_campaign=1050&utm_source=git)** | Pittsford, NY | Hybrid | Mar 13 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/6997f129e0bddb6acac6d9ce?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Mar 13 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Mar 13 |
@@ -80,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69b11227dfaeda6ff59c013d?utm_campaign=1050&utm_source=git)** | Haslet, TX | On Site | Mar 13 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f7c963b706703e110a52?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Mar 13 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3ca4d652f044775c021?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Mar 13 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 13 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6a333864f172f9bc058?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Mar 13 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6ed33864f172f9bc086?utm_campaign=1050&utm_source=git)** | Springdale, OH | On Site | Mar 13 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6a333864f172f9bc058?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Mar 13 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 13 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69275102d47de4798ecdb58a?utm_campaign=1050&utm_source=git)** | Camp Hill, PA | On Site | Mar 13 |
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69448cacdd382f5f566ab54a?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 13 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f4454d652f044775c079?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 13 |
@@ -104,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Maintenance Administrative Intern - Fresh/Soph](https://jobright.ai/jobs/info/6997e3b581476f6176b02415?utm_campaign=1050&utm_source=git)** | Elgin, OR | On Site | Mar 13 |
 | **[Lennox](http://www.lennox.com)** | **[Supplier Analyst Intern](https://jobright.ai/jobs/info/6922e51fc0cefa13343d9c45?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Mar 13 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Summer Internship - Hotel Boulderado](https://jobright.ai/jobs/info/695dcef8924bd9135dd45286?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Mar 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69782e8e39f7f96cc6d07566?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 13 |
+| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69782e8e39f7f96cc6d07566?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Program Management](https://jobright.ai/jobs/info/69af97266b21de023e60e304?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Mar 13 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[FCRM Intern (Hybrid)](https://jobright.ai/jobs/info/69608dc3a1bbea1d9a7b581a?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Mar 13 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6908ac3ebcccf20de59d2a59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 13 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37334ad360c0340a89a16?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Mar 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b3731aa8ac8e70ff67b915?utm_campaign=1050&utm_source=git)** | Superior, WI | On Site | Mar 12 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Strategic Assets Recovery Program Coordinator](https://jobright.ai/jobs/info/69b37306ae2a534885eade4b?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade44?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Mar 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade45?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Mar 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade45?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Mar 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b37301ae2a534885eade44?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Mar 12 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship \- Project Management (Highway 11)](https://jobright.ai/jobs/info/69b372cead360c0340a89983?utm_campaign=1050&utm_source=git)** | Vancouver (Waterfront \/ Coal Harbour \/ Canada Place), British Columbia, Canada | On Site | Mar 12 |
 | **[CBRE](https://www.cbre.com)** | **[Digital Business Operations Summer Intern 2026 (IA&R)](https://jobright.ai/jobs/info/69b3ff085697383741388e0b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/69b36e8da8ac8e70ff67b546?utm_campaign=1050&utm_source=git)** | Tempe AZ  850 W Southern Ave, Tempe, Arizona, United States | Hybrid | Mar 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGIS](https://www.bgis.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69b353f0ae2a534885eab6c3?utm_campaign=1050&utm_source=git)** | Markham, ON, Canada | Hybrid | Mar 12 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Project Management (Highway 11)](https://jobright.ai/jobs/info/69b35371ad360c0340a87339?utm_campaign=1050&utm_source=git)** | Coal Harbour, British Columbia, Canada | On Site | Mar 12 |
 | **[AV](https://www.avinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69b35302a8ac8e70ff678cc4?utm_campaign=1050&utm_source=git)** | 1300 Eubank Boulevard Southeast, Albuquerque, NM | On Site | Mar 12 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Strategy & Operations Digital Intern - Summer](https://jobright.ai/jobs/info/69b34df3ad360c0340a86fb3?utm_campaign=1050&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA | On Site | Mar 12 |
-| **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Financial Information Systems – 2026 Summer Internship](https://jobright.ai/jobs/info/69b34d5fad360c0340a86eb1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[The AZEK Company](https://azekco.com)** | **[SIOP Planning Intern](https://jobright.ai/jobs/info/69b34b53ae2a534885eab024?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 12 |
-| **[Temp-Con, LLC](tempconkc.com)** | **[Summer Project College Intern](https://jobright.ai/jobs/info/69b36d8cad360c0340a895d7?utm_campaign=1050&utm_source=git)** | Shawnee, KS | On Site | Mar 12 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Strategy & Growth, AI Tools -  Intern](https://jobright.ai/jobs/info/69b34a05ad360c0340a86c68?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
