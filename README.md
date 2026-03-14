@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69b5d18106c1ba00c547bd40?utm_campaign=1050&utm_source=git)** | Medford, OR | On Site | Mar 14 |
+| **[Allstar Services](https://www.allstarservicesnow.com/)** | **[Strategy & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b5d17e06c1ba00c547bd3b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b5cb893b74eb1e2c839935?utm_campaign=1050&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
+| **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern (CLT)](https://jobright.ai/jobs/info/69ab9816142d5b4265fcbb69?utm_campaign=1050&utm_source=git)** | 1616 Camden Rd Charlotte, NC 28203 | On Site | Mar 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69b5c5273b74eb1e2c839778?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b5c3873b74eb1e2c839711?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
 | **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern - Family Office](https://jobright.ai/jobs/info/69b5bafa56973837413b2810?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 14 |
 | **[Job Corps | Eckerd Connects](https://eckerd.org/)** | **[Workforce Operations Assistant Intern](https://jobright.ai/jobs/info/69b5b8de06c1ba00c547b549?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Mar 14 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/699d394881476f6176b5f9a0?utm_campaign=1050&utm_source=git)** | Carberry, Manitoba, Canada | On Site | Mar 14 |
@@ -78,15 +84,14 @@ For a complete list, click the following sortable link below:
 | **[Amtec, LLC](http://www.amtecinc.net)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b5978306c1ba00c5478a3c?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 14 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69b5903b56973837413ae2ed?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b58baa56973837413adf74?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69991c4181476f6176b19969?utm_campaign=1050&utm_source=git)** | Fletcher, NC | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Pre-Construction Intern, Data Centers, Summer 2026](https://jobright.ai/jobs/info/697d347e3f57a335696702c5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Mar 14 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 14 |
 | **[St. Mary's Medical Center - Huntington, WV](http://www.st-marys.org)** | **[Administrative Intern - HIMG - Admin (Part Time) - 7301](https://jobright.ai/jobs/info/69b59ad456973837413af543?utm_campaign=1050&utm_source=git)** | Huntington, WV | On Site | Mar 14 |
 | **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b577f756973837413aba40?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
 | **[ServiceNow](http://www.servicenow.com)** | **[MBA Corporate Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/6997f7d381476f6176b0568f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Mar 14 |
@@ -134,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Burlington, NJ](https://jobright.ai/jobs/info/69b5303506c1ba00c546f535?utm_campaign=1050&utm_source=git)** | Burlington, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b530353b74eb1e2c82d213?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b5302f56973837413a6012?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
+| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302556973837413a5ff7?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 14 |
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69b5302356973837413a5ff1?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302206c1ba00c546f502?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grifols Shared Services North America, Inc.](https://www.linkedin.com/company/56758682)** | **[Intern - Operational Excellence](https://jobright.ai/jobs/info/69b5462006c1ba00c5470224?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5193b06c1ba00c546d1a8?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5192e06c1ba00c546d165?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b517f256973837413a3c58?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b517e156973837413a3bb5?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5157a06c1ba00c546c9d5?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 14 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Procurement Intern - Remote](https://jobright.ai/jobs/info/69b50fd956973837413a2c68?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Remote | Mar 14 |
-| **[Midea RAC North America](http://www.midea.com/global/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69b50f053b74eb1e2c829e5d?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
