@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoffman Construction Company](http://www.hoffmancorp.com)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/69b4b30a5697383741398d85?utm_campaign=1050&utm_source=git)** | Boise Metropolitan Area | On Site | Mar 13 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69b4b30806c1ba00c54626a2?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Mar 13 |
+| **[Allstar Services](https://www.allstarservicesnow.com/)** | **[Strategy & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4a038569738374139837c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 13 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Supply Chain - Sourcing Strategy Intern](https://jobright.ai/jobs/info/69b49b153b74eb1e2c81f8ed?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | Remote | Mar 13 |
 | **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69b497085697383741397c34?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | Mar 13 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Mar 13 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[City of Carpinteria](https://carpinteriaca.gov/)** | **[Management Intern](https://jobright.ai/jobs/info/69b495fd3b74eb1e2c81f41e?utm_campaign=1050&utm_source=git)** | Carpinteria, CA | On Site | Mar 13 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Contracting](https://jobright.ai/jobs/info/69b470523b74eb1e2c81c007?utm_campaign=1050&utm_source=git)** | Cherokee, NC | On Site | Mar 13 |
 | **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69b470363b74eb1e2c81bfb0?utm_campaign=1050&utm_source=git)** | Pueblo, CO | On Site | Mar 13 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b46ffa06c1ba00c545df22?utm_campaign=1050&utm_source=git)** | Pueblo, CO | On Site | Mar 13 |
 | **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69b46fd03b74eb1e2c81be87?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Getinge](https://www.getinge.com)** | **[Intern, Cardiovascular Surgery - Project Management Office (PMO)](https://jobright.ai/jobs/info/69b46f1e06c1ba00c545dd95?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Mar 13 |
 | **[HumanKind OS](https://www.linkedin.com/company/109231052)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69b46f0c569738374139449a?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 13 |
@@ -111,9 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Superior](http://superiorgroup.net)** | **[Procurement Internship, Fall 2026](https://jobright.ai/jobs/info/69b46bc5569738374139379c?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Mar 13 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69b46b025697383741393303?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Mar 13 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69b4691a5697383741392b99?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Mar 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69b4899006c1ba00c546079f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Research and Technology Project Management (Summer 2026)](https://jobright.ai/jobs/info/697c1d6a1136d179eeefcfd5?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
-| **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69a503a6359fe034b1cf9a27?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Mar 13 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69b467a43b74eb1e2c819d19?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b46768569738374139275d?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Mar 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship Program - Program Management (Frisco, TX)](https://jobright.ai/jobs/info/69b467675697383741392753?utm_campaign=1050&utm_source=git)** | Frisco, Texas | On Site | Mar 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Company Planning & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69975acfce78e77b4fdbb6f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 13 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Master Scheduling Intern](https://jobright.ai/jobs/info/69b445e33b74eb1e2c817076?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Mar 13 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Service Center Project Management Internship](https://jobright.ai/jobs/info/6997a8a3e0bddb6acac66032?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Mar 13 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Engineering & Construction Project Management Intern - Warrendale, PA](https://jobright.ai/jobs/info/68d451a617554c2d9eef861b?utm_campaign=1050&utm_source=git)** | Warrendale, PA | On Site | Mar 13 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern](https://jobright.ai/jobs/info/69b441923b74eb1e2c8169e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
