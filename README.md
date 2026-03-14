@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b5e2993b74eb1e2c83a71f?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69b5d18106c1ba00c547bd40?utm_campaign=1050&utm_source=git)** | Medford, OR | On Site | Mar 14 |
 | **[Allstar Services](https://www.allstarservicesnow.com/)** | **[Strategy & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b5d17e06c1ba00c547bd3b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b5cb893b74eb1e2c839935?utm_campaign=1050&utm_source=git)** | Cerritos, CA, US | On Site | Mar 14 |
 | **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern (CLT)](https://jobright.ai/jobs/info/69ab9816142d5b4265fcbb69?utm_campaign=1050&utm_source=git)** | 1616 Camden Rd Charlotte, NC 28203 | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69b5c5273b74eb1e2c839778?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b5c3873b74eb1e2c839711?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Mar 14 |
-| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern - Family Office](https://jobright.ai/jobs/info/69b5bafa56973837413b2810?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 14 |
 | **[Job Corps | Eckerd Connects](https://eckerd.org/)** | **[Workforce Operations Assistant Intern](https://jobright.ai/jobs/info/69b5b8de06c1ba00c547b549?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Mar 14 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/699d394881476f6176b5f9a0?utm_campaign=1050&utm_source=git)** | Carberry, Manitoba, Canada | On Site | Mar 14 |
 | **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Amtec, LLC](http://www.amtecinc.net)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b5978306c1ba00c5478a3c?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 14 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69b5903b56973837413ae2ed?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b58baa56973837413adf74?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69991c4181476f6176b19969?utm_campaign=1050&utm_source=git)** | Fletcher, NC | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 14 |
@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 14 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 14 |
 | **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Enterprise Management Program Office Intern](https://jobright.ai/jobs/info/69a7bcc0637232443f651210?utm_campaign=1050&utm_source=git)** | Canton, MA | Hybrid | Mar 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b572eb56973837413aabd3?utm_campaign=1050&utm_source=git)** | International Falls, MN | On Site | Mar 14 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Mar 14 |
 | **[Grifols Shared Services North America, Inc.](https://www.linkedin.com/company/56758682)** | **[Intern - Operational Excellence](https://jobright.ai/jobs/info/69b5462006c1ba00c5470224?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5193b06c1ba00c546d1a8?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5192e06c1ba00c546d165?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
