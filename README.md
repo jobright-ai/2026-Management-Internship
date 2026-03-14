@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Southeast Permanente Medical Group](https://www.tspmg.com/)** | **[Intern (Operations)](https://jobright.ai/jobs/info/69b48d0b5697383741397237?utm_campaign=1050&utm_source=git)** | Georgia, United States | On Site | Mar 13 |
+| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Operations Analyst I (5204) Administration & Analysis](https://jobright.ai/jobs/info/69b48a2b5697383741396f64?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Mar 13 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/69b489aa3b74eb1e2c81e718?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
+| **[Clarivate](http://clarivate.com)** | **[Futures Business Intern-2](https://jobright.ai/jobs/info/69b485295697383741396830?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 13 |
+| **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support (Summer)](https://jobright.ai/jobs/info/69b485225697383741396815?utm_campaign=1050&utm_source=git)** | Sterling, VA | Hybrid | Mar 13 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| **[Highgate](https://www.highgate.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b4842606c1ba00c545ff38?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Mar 13 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b481f256973837413963b4?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Mar 13 |
+| **[Hyundai Capital America](http://www.hyundaicapitalamerica.com/)** | **[Intern (Irvine, CA)](https://jobright.ai/jobs/info/69b4815c06c1ba00c545fd92?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 13 |
 | **[The Old Dominion Group](https://olddominion.group)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b480313b74eb1e2c81db49?utm_campaign=1050&utm_source=git)** | Midlothian, Virginia, United States | On Site | Mar 13 |
 | **[Hyundai Capital Canada](http://www.hyundaicapitalcanada.ca/)** | **[Intern (Irvine, CA)](https://jobright.ai/jobs/info/69b47f5c3b74eb1e2c81da00?utm_campaign=1050&utm_source=git)** | United States-California-Irvine | On Site | Mar 13 |
 | ↳ | **[Intern (Irvine, CA)](https://jobright.ai/jobs/info/69b47f3a06c1ba00c545fa8e?utm_campaign=1050&utm_source=git)** | Headquarters 13161 Michelson Dr. Ste 1900 | On Site | Mar 13 |
@@ -96,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Superior](http://superiorgroup.net)** | **[Procurement Internship, Fall 2026](https://jobright.ai/jobs/info/69b46bc5569738374139379c?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Mar 13 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69b46b025697383741393303?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Mar 13 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69b4691a5697383741392b99?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Mar 13 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69b4899006c1ba00c546079f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Research and Technology Project Management (Summer 2026)](https://jobright.ai/jobs/info/697c1d6a1136d179eeefcfd5?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69a503a6359fe034b1cf9a27?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Mar 13 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69b467a43b74eb1e2c819d19?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[Operations Rotational Intern](https://jobright.ai/jobs/info/697c32810b88cc7d64233988?utm_campaign=1050&utm_source=git)** | Delta, PA | On Site | Mar 13 |
 | **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b45a4006c1ba00c545ad40?utm_campaign=1050&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Colorado Operations Intern](https://jobright.ai/jobs/info/69b45a3506c1ba00c545ad09?utm_campaign=1050&utm_source=git)** | Remote, CO, US | Remote | Mar 13 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support (Summer)](https://jobright.ai/jobs/info/69b4586806c1ba00c545aae7?utm_campaign=1050&utm_source=git)** | US-VA-Sterling | Hybrid | Mar 13 |
-| **[NORWICH PHARMACEUTICALS, INC.](http://saveonpainmedicine.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad0e?utm_campaign=1050&utm_source=git)** | Morristown, NJ, US | On Site | Mar 13 |
-| **[Ikigai Cases](www.ikigaicases.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69b4382e06c1ba00c5456d6a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 13 |
-| **[US LBM](http://uslbm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6997578581476f6176af7cc8?utm_campaign=1050&utm_source=git)** | Killeen-Temple Area | On Site | Mar 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69984200e0bddb6acac752eb?utm_campaign=1050&utm_source=git)** | Apopka, FL | On Site | Mar 13 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/699847e9ce78e77b4fdcfa13?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 13 |
-| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/69b43722569738374138d6c4?utm_campaign=1050&utm_source=git)** | CINCINNATI, OH - HEADQUARTERS | On Site | Mar 13 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69b4364a3b74eb1e2c815347?utm_campaign=1050&utm_source=git)** | Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC | On Site | Mar 13 |
-| **[HABcore Inc](https://habcore.org)** | **[Intern](https://jobright.ai/jobs/info/69b43566569738374138d4a6?utm_campaign=1050&utm_source=git)** | Tinton Falls, NJ | On Site | Mar 13 |
-| **[Unrivaled Teamwear](https://www.unrivaledteamwear.com/)** | **[Production Planning Intern](https://jobright.ai/jobs/info/69b455835697383741390cd3?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
