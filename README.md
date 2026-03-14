@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Summer Internship - Hotel Boulderado](https://jobright.ai/jobs/info/69b5b29606c1ba00c547a353?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Mar 14 |
+| **[Mcap-Labs](www.mcap-labs.com)** | **[Strategy & Operations Intern – Mcap Labs / LockScore](https://jobright.ai/jobs/info/69b5ae683b74eb1e2c837c08?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Mar 14 |
+| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Project Manager (Irvine, CA)](https://jobright.ai/jobs/info/69994f51e0bddb6acac873c7?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
+| **[ABB](https://global.abb/group/en)** | **[PMO Project Specialist -Finance Intern- Summer 2026](https://jobright.ai/jobs/info/699e8372e0bddb6acace2ca3?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 14 |
+| **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Logistics](https://jobright.ai/jobs/info/69b5a95e3b74eb1e2c837a6a?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Mar 14 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/697d19003f57a3356966cf90?utm_campaign=1050&utm_source=git)** | Burley, ID | On Site | Mar 14 |
 | ↳ | **[Global Agriculture Business Process Mapping Intern](https://jobright.ai/jobs/info/697d285b137a0510256626b2?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Mar 14 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/6999dc8081476f6176b28b52?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 14 |
@@ -100,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Mar 14 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Mar 14 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Mar 14 |
-| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91c?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 14 |
-| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
+| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
+| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91c?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 14 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/697bdc700b88cc7d6422b6e5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT/OT_MFG Applications Project Coordinator](https://jobright.ai/jobs/info/69963395ce78e77b4fda296a?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 14 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Mar 14 |
@@ -124,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Burlington, NJ](https://jobright.ai/jobs/info/69b5303506c1ba00c546f535?utm_campaign=1050&utm_source=git)** | Burlington, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b530353b74eb1e2c82d213?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b5302f56973837413a6012?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
+| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302556973837413a5ff7?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 14 |
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69b5302356973837413a5ff1?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302206c1ba00c546f502?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Production Intern (Brand/Franchise Team)](https://jobright.ai/jobs/info/69af4e94dfaeda6ff5976d93?utm_campaign=1050&utm_source=git)** | Remote/Flexible - USA/Canada | Remote | Mar 14 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Business Office Intern FR](https://jobright.ai/jobs/info/69b4fcc906c1ba00c5469c00?utm_campaign=1050&utm_source=git)** | Naples, FL | On Site | Mar 13 |
 | **[Production Resource Group](https://www.prg.com/)** | **[Summer Intern- Shop Operations (Rotational)](https://jobright.ai/jobs/info/69b4ef1a06c1ba00c5468dda?utm_campaign=1050&utm_source=git)** | La Grange, IL | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Shop Operations (Rotational)](https://jobright.ai/jobs/info/69b4ef1606c1ba00c5468dd4?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Mar 13 |
-| ↳ | **[Summer Intern- Scenic Project Management](https://jobright.ai/jobs/info/69b4e7a13b74eb1e2c825c12?utm_campaign=1050&utm_source=git)** | New Windsor, NY | On Site | Mar 13 |
-| **[Christian Brothers Services](https://www.cbservices.org/)** | **[IT Intern - Project Management Office (PMO)](https://jobright.ai/jobs/info/69b4cdf2569738374139c4d8?utm_campaign=1050&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 13 |
-| **[CBRE](https://www.cbre.com)** | **[2026 CBRE Facilities Intern](https://jobright.ai/jobs/info/69b4cb0b3b74eb1e2c8227b9?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Mar 13 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/69b4ca38569738374139b8c4?utm_campaign=1050&utm_source=git)** | Hercules, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
