@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997e17b81476f6176b01da7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Mar 15 |
+| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Mar 15 |
+| **[Multnomah County](https://multco.us)** | **[DCS - Strategy and Communications Internship](https://jobright.ai/jobs/info/69b6e4863b74eb1e2c8489f8?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Mar 15 |
+| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c917a112b402661056ab?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Mar 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Mar 15 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026](https://jobright.ai/jobs/info/69b6e03456973837413c1ef5?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 15 |
 | **[The Cadence Institute for Policy & Society](https://cadenceinstitute.org/)** | **[Management and Operations Fellow (Stipend)](https://jobright.ai/jobs/info/69b6d94e06c1ba00c548a7fb?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 15 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Intern Opportunity - Strategic Planning Analyst](https://jobright.ai/jobs/info/69b6d66f06c1ba00c548a74f?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 15 |
 | **[Admar Neuro](www.admarneuro.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69b6d66906c1ba00c548a744?utm_campaign=1050&utm_source=git)** | Wellington, FL | Hybrid | Mar 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/697bdc700b88cc7d6422b6e5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT/OT_MFG Applications Project Coordinator](https://jobright.ai/jobs/info/69963395ce78e77b4fda296a?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 14 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Mar 14 |
-| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Mar 14 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68d00672dbd9fb154edece90?utm_campaign=1050&utm_source=git)** | Pharr, TX | On Site | Mar 14 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/697d56b4727747250d5838de?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Mar 14 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b5406856973837413a687e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b5405d56973837413a6865?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 14 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69b53fc03b74eb1e2c82db6f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
