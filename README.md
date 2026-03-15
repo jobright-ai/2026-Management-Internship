@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
+| **[Midea Canada](https://www.midea.com/ca)** | **[Logistics Intern](https://jobright.ai/jobs/info/69b6ff3156973837413c3742?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 15 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d557f0f6f7e7a2ce93206?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 15 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997e17b81476f6176b01da7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Mar 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Mar 14 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Mar 14 |
 | **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
-| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91c?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 14 |
-| **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/697bdc700b88cc7d6422b6e5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT/OT_MFG Applications Project Coordinator](https://jobright.ai/jobs/info/69963395ce78e77b4fda296a?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
