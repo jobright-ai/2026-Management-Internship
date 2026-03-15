@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d557f0f6f7e7a2ce93206?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 15 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997e17b81476f6176b01da7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Mar 15 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Mar 15 |
 | **[Multnomah County](https://multco.us)** | **[DCS - Strategy and Communications Internship](https://jobright.ai/jobs/info/69b6e4863b74eb1e2c8489f8?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Mar 15 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
 | **[CN](http://www.cn.ca)** | **[Intern, Assistant Project Manager- EN](https://jobright.ai/jobs/info/69b5b8443b74eb1e2c838ed8?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Summer Internship - Hotel Boulderado](https://jobright.ai/jobs/info/69b5b29606c1ba00c547a353?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Mar 14 |
-| **[Mcap-Labs](www.mcap-labs.com)** | **[Strategy & Operations Intern – Mcap Labs / LockScore](https://jobright.ai/jobs/info/69b5ae683b74eb1e2c837c08?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Mar 14 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Project Manager (Irvine, CA)](https://jobright.ai/jobs/info/69994f51e0bddb6acac873c7?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | **[ABB](https://global.abb/group/en)** | **[PMO Project Specialist -Finance Intern- Summer 2026](https://jobright.ai/jobs/info/699e8372e0bddb6acace2ca3?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 14 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Logistics](https://jobright.ai/jobs/info/69b5a95e3b74eb1e2c837a6a?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Mar 14 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Mar 14 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Mar 14 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Mar 14 |
-| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91c?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 14 |
-| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
+| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
+| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91c?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 14 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/697bdc700b88cc7d6422b6e5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT/OT_MFG Applications Project Coordinator](https://jobright.ai/jobs/info/69963395ce78e77b4fda296a?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 14 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
