@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d2f750f6f7e7a2ce8f5f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 15 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69b6cb663b74eb1e2c848047?utm_campaign=1050&utm_source=git)** | Maidstone, Saskatchewan, Canada | On Site | Mar 15 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/699fee1f81476f6176b9c632?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Mar 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69b6ba9f3b74eb1e2c847879?utm_campaign=1050&utm_source=git)** | Jackson, TN, US | On Site | Mar 15 |
 | **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/696c6c5fdb26b618950fc6cc?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Mar 15 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Effectiveness and Training (BET) Intern](https://jobright.ai/jobs/info/69aa6cbb2ebd316bece22b47?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operation Intern](https://jobright.ai/jobs/info/69b53e4c06c1ba00c546fe20?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
 | ↳ | **[Estimating Intern](https://jobright.ai/jobs/info/69b53e4706c1ba00c546fe13?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 14 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Pulte Family Foundation Gateway to Hospitality Internship](https://jobright.ai/jobs/info/69b53b813b74eb1e2c82d9ef?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Mar 14 |
-| **[Hudl](http://www.hudl.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69990bfbe0bddb6acac803d2?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 14 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69b53aa306c1ba00c546fca0?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 14 |
-| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dee08c62e63bc7fd0665?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
