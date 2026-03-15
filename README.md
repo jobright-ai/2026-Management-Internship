@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/69b6ba9f3b74eb1e2c847879?utm_campaign=1050&utm_source=git)** | Jackson, TN, US | On Site | Mar 15 |
+| **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/696c6c5fdb26b618950fc6cc?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Mar 15 |
+| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Business Effectiveness and Training (BET) Intern](https://jobright.ai/jobs/info/69aa6cbb2ebd316bece22b47?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 15 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697daa727f40342e15d69135?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Mar 15 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Resilience Intern - Summer 2026](https://jobright.ai/jobs/info/6945d883951654073538096a?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 15 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 15 |
@@ -123,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Mar 14 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 14 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961ca85e7ed9a5731ba9a9a?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Mar 14 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 14 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Business Operations Intern (Cross-Functional)](https://jobright.ai/jobs/info/69b56e1556973837413a98c2?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Mar 14 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Project Management, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69994f7de0bddb6acac873f0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b0dbd6dfaeda6ff59b92ad?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69990bfbe0bddb6acac803d2?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 14 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69b53aa306c1ba00c546fca0?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 14 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dee08c62e63bc7fd0665?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 14 |
-| **[Intrado](https://www.intrado.com/)** | **[Intern Technical Project Management](https://jobright.ai/jobs/info/69b536773b74eb1e2c82d6f0?utm_campaign=1050&utm_source=git)** | Longmont, CO | On Site | Mar 14 |
-| **[Danfoss](https://www.danfoss.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b692b006c1ba00c548772f?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Mar 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69b5303a3b74eb1e2c82d221?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 14 |
-| **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Burlington, NJ](https://jobright.ai/jobs/info/69b5303506c1ba00c546f535?utm_campaign=1050&utm_source=git)** | Burlington, NJ | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
