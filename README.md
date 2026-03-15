@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Amtec, LLC](http://www.amtecinc.net)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b5978306c1ba00c5478a3c?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 14 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69b5903b56973837413ae2ed?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b58baa56973837413adf74?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69991c4181476f6176b19969?utm_campaign=1050&utm_source=git)** | Fletcher, NC | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 14 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Burlington, NJ](https://jobright.ai/jobs/info/69b5303506c1ba00c546f535?utm_campaign=1050&utm_source=git)** | Burlington, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b530353b74eb1e2c82d213?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69b5302f56973837413a6012?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 14 |
-| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 14 |
+| ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302b06c1ba00c546f51d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | ↳ | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302556973837413a5ff7?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 14 |
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69b5302356973837413a5ff1?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Mar 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/69b5302206c1ba00c546f502?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
