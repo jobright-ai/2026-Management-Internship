@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Admar Neuro](www.admarneuro.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69b726db06c1ba00c548e817?utm_campaign=1050&utm_source=git)** | Wellington, FL | Hybrid | Mar 15 |
+| **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69b71c7056973837413c4c33?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Mar 15 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
 | **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
-| ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
@@ -76,9 +78,7 @@ For a complete list, click the following sortable link below:
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c917a112b402661056ab?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Mar 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Mar 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026](https://jobright.ai/jobs/info/69b6e03456973837413c1ef5?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 15 |
-| **[The Cadence Institute for Policy & Society](https://cadenceinstitute.org/)** | **[Management and Operations Fellow (Stipend)](https://jobright.ai/jobs/info/69b6d94e06c1ba00c548a7fb?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 15 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Intern Opportunity - Strategic Planning Analyst](https://jobright.ai/jobs/info/69b6d66f06c1ba00c548a74f?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 15 |
-| **[Admar Neuro](www.admarneuro.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69b6d66906c1ba00c548a744?utm_campaign=1050&utm_source=git)** | Wellington, FL | Hybrid | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d2f750f6f7e7a2ce8f5f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 15 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69b6cb663b74eb1e2c848047?utm_campaign=1050&utm_source=git)** | Maidstone, Saskatchewan, Canada | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/699fee1f81476f6176b9c632?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Mar 15 |
