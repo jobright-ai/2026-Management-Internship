@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
+| **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
+| ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
+| ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
+| ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
 | **[Midea Canada](https://www.midea.com/ca)** | **[Logistics Intern](https://jobright.ai/jobs/info/69b6ff3156973837413c3742?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 15 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b0dbd6dfaeda6ff59b92ad?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Mar 14 |
 | **[Rubrik](http://rubrik.com)** | **[Executive Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6998ff03e0bddb6acac7f3d4?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Management (May 2026)](https://jobright.ai/jobs/info/6999167d81476f6176b18f6d?utm_campaign=1050&utm_source=git)** | Bowmanville, Ontario, Canada | On Site | Mar 14 |
-| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bef561136d179eeef9005?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | Mar 14 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 14 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Mar 14 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Mar 14 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Mar 14 |
-| **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Mar 14 |
-| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b560933b74eb1e2c82e91d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
