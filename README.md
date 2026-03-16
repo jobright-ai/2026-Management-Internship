@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Director, CINSAM (NKU Internal Apply Only)](https://jobright.ai/jobs/info/69b7430156973837413c5903?utm_campaign=1050&utm_source=git)** | Newport, KY | On Site | Mar 15 |
 | **[Admar Neuro](www.admarneuro.com)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69b726db06c1ba00c548e817?utm_campaign=1050&utm_source=git)** | Wellington, FL | Hybrid | Mar 15 |
 | **[Wolgast Corporation](http://wolgast.com)** | **[Intern Assistant Field Manager](https://jobright.ai/jobs/info/69b71c7056973837413c4c33?utm_campaign=1050&utm_source=git)** | Saginaw, MI | On Site | Mar 15 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
-| ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
 | ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
+| ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Project Management, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69994f7de0bddb6acac873f0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b0dbd6dfaeda6ff59b92ad?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Mar 14 |
 | **[Rubrik](http://rubrik.com)** | **[Executive Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6998ff03e0bddb6acac7f3d4?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 14 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Management (May 2026)](https://jobright.ai/jobs/info/6999167d81476f6176b18f6d?utm_campaign=1050&utm_source=git)** | Bowmanville, Ontario, Canada | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
