@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, Program Management Office](https://jobright.ai/jobs/info/69b81fd23b74eb1e2c85c2fc?utm_campaign=1050&utm_source=git)** | United States Remote Office | Remote | Mar 16 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, CX/Transformation Project Management Support](https://jobright.ai/jobs/info/69b81fc23b74eb1e2c85c2b1?utm_campaign=1050&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
+| **[Coolibar - Technical. Elegant. Sun Protection You Wear.®](http://www.coolibar.com/)** | **[Product Project Coordinator Intern](https://jobright.ai/jobs/info/69b81f3256973837413d4c60?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 16 |
+| **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Player Operations, Research & Analytics Summer Intern](https://jobright.ai/jobs/info/69b81f1a56973837413d4c44?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69b1a12e548f140066e770ab?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/69b80fa256973837413d3fee?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Mar 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services MBA Intern - Tauber Project](https://jobright.ai/jobs/info/69b80b8106c1ba00c549cfab?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Mar 16 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b80b653b74eb1e2c85a69c?utm_campaign=1050&utm_source=git)** | New Philadelphia, OH | On Site | Mar 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Intern -Tauber Project](https://jobright.ai/jobs/info/69b80b6256973837413d3cbf?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Mar 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b80b2606c1ba00c549cdd7?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Mar 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b80b2606c1ba00c549cdd8?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Mar 16 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69b80b2606c1ba00c549cdd8?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Mar 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b80b2606c1ba00c549cdd7?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Mar 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69b80b1756973837413d3c3d?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Mar 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Mar 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Toledo)](https://jobright.ai/jobs/info/69af97f974950064509424e2?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Mar 16 |
@@ -91,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
-| ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
+| ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
@@ -137,10 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Fall 2026 - Boston, MA](https://jobright.ai/jobs/info/69b780573b74eb1e2c851588?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Mar 14 |
 | **[Orange County SC](https://www.orangecountysoccer.com)** | **[Ticket Operations- Internship](https://jobright.ai/jobs/info/69b60cbe3b74eb1e2c83c4d4?utm_campaign=1050&utm_source=git)** | Irvine, CA | Remote | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
-| ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
-| ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b753a606c1ba00c5490287?utm_campaign=1050&utm_source=git)** | Greater Wilmington Area | On Site | Mar 14 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
+| ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b753a006c1ba00c549027e?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Mar 14 |
+| ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b753a606c1ba00c5490287?utm_campaign=1050&utm_source=git)** | Greater Wilmington Area | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b5e2993b74eb1e2c83a71f?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69b5d18106c1ba00c547bd40?utm_campaign=1050&utm_source=git)** | Medford, OR | On Site | Mar 14 |
 | **[Allstar Services](https://www.allstarservicesnow.com/)** | **[Strategy & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b5d17e06c1ba00c547bd3b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 14 |
 | **[CN](http://www.cn.ca)** | **[Intern, Assistant Project Manager- EN](https://jobright.ai/jobs/info/69b5b8443b74eb1e2c838ed8?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Summer Internship - Hotel Boulderado](https://jobright.ai/jobs/info/69b5b29606c1ba00c547a353?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Mar 14 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Project Manager (Irvine, CA)](https://jobright.ai/jobs/info/69994f51e0bddb6acac873c7?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
-| **[ABB](https://global.abb/group/en)** | **[PMO Project Specialist -Finance Intern- Summer 2026](https://jobright.ai/jobs/info/699e8372e0bddb6acace2ca3?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 14 |
-| **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Logistics](https://jobright.ai/jobs/info/69b5a95e3b74eb1e2c837a6a?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Mar 14 |
-| **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/697d19003f57a3356966cf90?utm_campaign=1050&utm_source=git)** | Burley, ID | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
