@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cordial Solutions](www.cordialsolutions.in)** | **[Founders Office (Intern)](https://jobright.ai/jobs/info/69b79abc06c1ba00c5495268?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 15 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/69b75c7306c1ba00c5491192?utm_campaign=1050&utm_source=git)** | Riverside, MO | On Site | Mar 15 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/69b74d1b06c1ba00c548f30b?utm_campaign=1050&utm_source=git)** | Edgewater Park, NJ | On Site | Mar 15 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Director, CINSAM (NKU Internal Apply Only)](https://jobright.ai/jobs/info/69b7430156973837413c5903?utm_campaign=1050&utm_source=git)** | Newport, KY | On Site | Mar 15 |
@@ -113,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Fall 2026 - Boston, MA](https://jobright.ai/jobs/info/69b780573b74eb1e2c851588?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Mar 14 |
 | **[Orange County SC](https://www.orangecountysoccer.com)** | **[Ticket Operations- Internship](https://jobright.ai/jobs/info/69b60cbe3b74eb1e2c83c4d4?utm_campaign=1050&utm_source=git)** | Irvine, CA | Remote | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
-| ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
+| ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b753a006c1ba00c549027e?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Mar 14 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b753a606c1ba00c5490287?utm_campaign=1050&utm_source=git)** | Greater Wilmington Area | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b5e2993b74eb1e2c83a71f?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 14 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 14 |
+| **[Boston Mutual Life Insurance](https://www.bostonmutual.com/)** | **[Enterprise Management Program Office Intern](https://jobright.ai/jobs/info/69a7bcc0637232443f651210?utm_campaign=1050&utm_source=git)** | Canton, MA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
