@@ -65,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
 | ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
-| ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
+| ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
 | **[PaleBlueDot AI](https://palebluedot.ai)** | **[Strategy and Research Intern](https://jobright.ai/jobs/info/69b7025556973837413c378f?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Mar 15 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c917a112b402661056ab?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Mar 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Mar 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026](https://jobright.ai/jobs/info/69b6e03456973837413c1ef5?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 15 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Intern Opportunity - Strategic Planning Analyst](https://jobright.ai/jobs/info/69b6d66f06c1ba00c548a74f?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d2f750f6f7e7a2ce8f5f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 15 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69b6cb663b74eb1e2c848047?utm_campaign=1050&utm_source=git)** | Maidstone, Saskatchewan, Canada | On Site | Mar 15 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/699fee1f81476f6176b9c632?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Mar 15 |
@@ -110,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 14 |
 | **[Orange County SC](https://www.orangecountysoccer.com)** | **[Ticket Operations- Internship](https://jobright.ai/jobs/info/69b60cbe3b74eb1e2c83c4d4?utm_campaign=1050&utm_source=git)** | Irvine, CA | Remote | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 14 |
 | **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b753a006c1ba00c549027e?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Mar 14 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Amtec, LLC](http://www.amtecinc.net)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b5978306c1ba00c5478a3c?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 14 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69b5903b56973837413ae2ed?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b58baa56973837413adf74?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69991c4181476f6176b19969?utm_campaign=1050&utm_source=git)** | Fletcher, NC | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 14 |
