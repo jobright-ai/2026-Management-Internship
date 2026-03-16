@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/69b7127606c1ba00c548de9b?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d6325137a051025668396?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2540 - Office Services Part-Time Intern](https://jobright.ai/jobs/info/69b70faa06c1ba00c548dd85?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Mar 15 |
-| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
-| ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfb?utm_campaign=1050&utm_source=git)** | Florida | On Site | Mar 15 |
+| ↳ | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbf9?utm_campaign=1050&utm_source=git)** | Texas | On Site | Mar 15 |
 | ↳ | **[Internship- Kentucky Projects](https://jobright.ai/jobs/info/69b70a5706c1ba00c548dbfa?utm_campaign=1050&utm_source=git)** | Kentucky | On Site | Mar 15 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b708fb56973837413c4752?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Mar 15 |
 | ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b708fa56973837413c474f?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Mar 15 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[Thalle Construction Company, Inc.](http://tullygroup.us)** | **[Internship- Texas Projects](https://jobright.ai/jobs/info/69b753a83b74eb1e2c84e31d?utm_campaign=1050&utm_source=git)** | Waco Area | On Site | Mar 14 |
 | ↳ | **[Internship- Colorado Projects](https://jobright.ai/jobs/info/69b753a93b74eb1e2c84e31f?utm_campaign=1050&utm_source=git)** | Pueblo-Cañon City Area | On Site | Mar 14 |
-| ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b753a606c1ba00c5490287?utm_campaign=1050&utm_source=git)** | Greater Wilmington Area | On Site | Mar 14 |
 | ↳ | **[Internship- Florida Projects](https://jobright.ai/jobs/info/69b753a006c1ba00c549027e?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Mar 14 |
+| ↳ | **[Internship- North Carolina Projects](https://jobright.ai/jobs/info/69b753a606c1ba00c5490287?utm_campaign=1050&utm_source=git)** | Greater Wilmington Area | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b5e2993b74eb1e2c83a71f?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69b5d18106c1ba00c547bd40?utm_campaign=1050&utm_source=git)** | Medford, OR | On Site | Mar 14 |
 | **[Allstar Services](https://www.allstarservicesnow.com/)** | **[Strategy & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69b5d17e06c1ba00c547bd3b?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 14 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Amtec, LLC](http://www.amtecinc.net)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b5978306c1ba00c5478a3c?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Mar 14 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 14 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69b5903b56973837413ae2ed?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Mar 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 14 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b58baa56973837413adf74?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Mar 14 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69991c4181476f6176b19969?utm_campaign=1050&utm_source=git)** | Fletcher, NC | On Site | Mar 14 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Mar 14 |
