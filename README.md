@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern- Franklin, WI](https://jobright.ai/jobs/info/69b8759556973837413dcf3e?utm_campaign=1050&utm_source=git)** | 251 West Franklin Drive, Franklin, WI, 53132, US | On Site | Mar 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69b84a3506c1ba00c54a0928?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
 | **[Plastics Family Americas](https://plasticsfamilyamericas.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b849fd3b74eb1e2c85e530?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 16 |
-| **[Skanska](http://skanska.com)** | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b0d?utm_campaign=1050&utm_source=git)** | Durham, NC, US | On Site | Mar 16 |
-| ↳ | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b868a93b74eb1e2c863557?utm_campaign=1050&utm_source=git)** | US-NC-Durham | On Site | Mar 16 |
+| **[Skanska](http://skanska.com)** | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b868a93b74eb1e2c863557?utm_campaign=1050&utm_source=git)** | US-NC-Durham | On Site | Mar 16 |
+| ↳ | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b0d?utm_campaign=1050&utm_source=git)** | Durham, NC, US | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
