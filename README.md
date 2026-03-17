@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern--City of Bloomington PT Spring '26 FT Summer '26](https://jobright.ai/jobs/info/69b9b20106c1ba00c54bb793?utm_campaign=1050&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Mar 17 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Warehouse Operations &amp; Supply Chain Intern](https://jobright.ai/jobs/info/69b9b12456973837413f2b94?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, Pennsylvania (PA) | On Site | Mar 17 |
+| ↳ | **[Warehouse Operations &amp; Supply Chain Intern](https://jobright.ai/jobs/info/69b9b0f73b74eb1e2c87952b?utm_campaign=1050&utm_source=git)** | CM Scranton (2590) | On Site | Mar 17 |
+| ↳ | **[Warehouse Operations &amp; Supply Chain Intern](https://jobright.ai/jobs/info/69b9b0f73b74eb1e2c87952d?utm_campaign=1050&utm_source=git)** | Pennsylvania | On Site | Mar 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b9abf13b74eb1e2c878b1e?utm_campaign=1050&utm_source=git)** | Remote - Arizona | Remote | Mar 17 |
 | **[First American](http://www.firstam.com)** | **[Business Operations Undergraduate Intern (Onsite)](https://jobright.ai/jobs/info/69b9ab3756973837413f1f19?utm_campaign=1050&utm_source=git)** | USA, Idaho, Idaho Falls | On Site | Mar 17 |
 | **[Oakbrook Corporation](http://oakbrookcorp.com)** | **[Property Management Summer Intern - Yankee Hill Apartments](https://jobright.ai/jobs/info/69b9aad63b74eb1e2c878957?utm_campaign=1050&utm_source=git)** | Milwaukee, WI 53202, USA | On Site | Mar 17 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Troy, NY. E. Greenbush, NY, and Latham, NY](https://jobright.ai/jobs/info/69b9953d3b74eb1e2c877e52?utm_campaign=1050&utm_source=git)** | Troy | On Site | Mar 17 |
 | **[City of Wood Dale](http://www.wooddale.com)** | **[Administrative/Special Events Intern](https://jobright.ai/jobs/info/69b994583b74eb1e2c877d71?utm_campaign=1050&utm_source=git)** | WOOD DALE, IL 60191 | On Site | Mar 17 |
 | **[Docusign](http://www.docusign.com)** | **[Brand & Creative Project Manager Intern](https://jobright.ai/jobs/info/69b9942506c1ba00c54b9fd1?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | Mar 17 |
+| **[Western Midstream](http://www.westernmidstream.com/)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/69b9b0fc06c1ba00c54bb703?utm_campaign=1050&utm_source=git)** | The Woodlands, TX, US, 77380 | Hybrid | Mar 17 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - General Services (9504)](https://jobright.ai/jobs/info/69b98f063b74eb1e2c8773ad?utm_campaign=1050&utm_source=git)** | Brooksville, Florida, United States | On Site | Mar 17 |
 | **[Capital City Bank Group, Inc.](https://www.ccbg.com/)** | **[CRE Banking Intern - Trust](https://jobright.ai/jobs/info/69b98dec06c1ba00c54b9553?utm_campaign=1050&utm_source=git)** | Tallahassee, Florida, United States | On Site | Mar 17 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Corporate Intern - Digital & Analytics](https://jobright.ai/jobs/info/69b98d9456973837413f0362?utm_campaign=1050&utm_source=git)** | Decatur, Illinois | On Site | Mar 17 |
@@ -83,40 +88,40 @@ For a complete list, click the following sortable link below:
 | **[JAS Worldwide](http://www.jas.com)** | **[Project Management M&A Intern](https://jobright.ai/jobs/info/69b97b4b56973837413efa6a?utm_campaign=1050&utm_source=git)** | United States of America, Georgia, Atlanta | On Site | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b463b74eb1e2c876a37?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3d56973837413efa29?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Mar 17 |
-| ↳ | **[Executive Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc1?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc3?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
+| ↳ | **[Executive Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc1?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3906c1ba00c54b8bad?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Mar 17 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68ca453e0456a931db296a96?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Mar 17 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/69b9774f56973837413ef838?utm_campaign=1050&utm_source=git)** | Fall River, Massachusetts | On Site | Mar 17 |
 | **[Raben](https://www.raben.co/)** | **[Strategy and Impact Intern (Summer 2026)](https://jobright.ai/jobs/info/69b976c406c1ba00c54b892f?utm_campaign=1050&utm_source=git)** | Washington,DC,US | Hybrid | Mar 17 |
 | **[Enovis](https://enovis.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699cd94fce78e77b4fe192af?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 17 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe7?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fec?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe1?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe4?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe2?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe6?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fec?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe3?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe2?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe4?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe1?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe6?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe7?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a106c1ba00c54b7fd1?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a106c1ba00c54b7fd2?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f03?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f0b?utm_campaign=1050&utm_source=git)** | Greeley, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f0c?utm_campaign=1050&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f08?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f05?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f07?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f06?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f0a?utm_campaign=1050&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f04?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f08?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f06?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f0c?utm_campaign=1050&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f07?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f09?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f0b?utm_campaign=1050&utm_source=git)** | Greeley, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f03?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f05?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f04?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970fe56973837413eeaed?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970fc56973837413eeae9?utm_campaign=1050&utm_source=git)** | Greeley, Colorado, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970fb56973837413eeae7?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970f456973837413eeacf?utm_campaign=1050&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970f456973837413eeacc?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970f456973837413eead1?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970f456973837413eeace?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970f456973837413eeacc?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970f456973837413eeacd?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970f456973837413eeacf?utm_campaign=1050&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b970f356973837413eeacb?utm_campaign=1050&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b970f356973837413eeaca?utm_campaign=1050&utm_source=git)** | Bristol, Town of, Rhode Island, United States | On Site | Mar 17 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/69b777c956973837413c940d?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Mar 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[Centralized Operational Resources Intern](https://jobright.ai/jobs/info/698d2004f64d441a164f10d2?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 16 |
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/69b8854f56973837413de918?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Mar 16 |
 | **[Independence Realty Trust Inc.](https://www.irtliving.com/)** | **[Specialized Operations Intern](https://jobright.ai/jobs/info/69b881fc56973837413de631?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Mar 16 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b881dd06c1ba00c54a7f35?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 16 |
-| **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern- Franklin, WI](https://jobright.ai/jobs/info/69b8816e3b74eb1e2c865bf0?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Mar 16 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/69b880f13b74eb1e2c865aaf?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 16 |
-| **[YMCA of Metuchen Edison Woodbridge and South Amboy](http://www.ymcaofmewsa.org)** | **[Summer Camp Administration Intern](https://jobright.ai/jobs/info/69b8808156973837413de3ea?utm_campaign=1050&utm_source=git)** | Metuchen, NJ, US | On Site | Mar 16 |
-| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Administrative Intern](https://jobright.ai/jobs/info/69b87f7756973837413de2aa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
