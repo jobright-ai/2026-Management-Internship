@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Strategy & Operations (NA Midwest MU) - SUMMER 2026](https://jobright.ai/jobs/info/69b91ae206c1ba00c54b308b?utm_campaign=1050&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 17 |
+| **[Tencent](https://www.tencent.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69b90e8856973837413e8efc?utm_campaign=1050&utm_source=git)** | US-California-Los Angeles | On Site | Mar 17 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Construction Management and Operations Support Intern – ANS](https://jobright.ai/jobs/info/69b303bcad360c0340a8138d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 16 |
 | **[Ingram Barge Company](https://www.ingrambarge.com)** | **[Dry Cargo Logistics Internship](https://jobright.ai/jobs/info/69b8d02f06c1ba00c54af6a7?utm_campaign=1050&utm_source=git)** | Reserve, LA | On Site | Mar 16 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT/OT_MFG Applications Project Coordinator](https://jobright.ai/jobs/info/69963395ce78e77b4fda296a?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 16 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern- Franklin, WI](https://jobright.ai/jobs/info/69b8759556973837413dcf3e?utm_campaign=1050&utm_source=git)** | 251 West Franklin Drive, Franklin, WI, 53132, US | On Site | Mar 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69b84a3506c1ba00c54a0928?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
 | **[Plastics Family Americas](https://plasticsfamilyamericas.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b849fd3b74eb1e2c85e530?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 16 |
-| **[Skanska](http://skanska.com)** | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b868a93b74eb1e2c863557?utm_campaign=1050&utm_source=git)** | US-NC-Durham | On Site | Mar 16 |
-| ↳ | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b0d?utm_campaign=1050&utm_source=git)** | Durham, NC, US | On Site | Mar 16 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69996b29e0bddb6acac8a623?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 16 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/69b8f50c56973837413e75c7?utm_campaign=1050&utm_source=git)** | US-OH-Highland Heights | On Site | Mar 16 |
+| **[Skanska](http://skanska.com)** | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b0d?utm_campaign=1050&utm_source=git)** | Durham, NC, US | On Site | Mar 16 |
+| ↳ | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b868a93b74eb1e2c863557?utm_campaign=1050&utm_source=git)** | US-NC-Durham | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
