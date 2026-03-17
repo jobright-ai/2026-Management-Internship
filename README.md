@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paper Transport](http://www.papertransport.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/69b8b3e806c1ba00c54ad514?utm_campaign=1050&utm_source=git)** | De Pere, Wisconsin, United States | On Site | Mar 16 |
+| **[Leslie's](https://lesliespool.com/)** | **[Intern - Commercial](https://jobright.ai/jobs/info/69b8b3e106c1ba00c54ad50b?utm_campaign=1050&utm_source=git)** | PHOENIX, Arizona, United States | On Site | Mar 16 |
+| ↳ | **[Intern - Real Estate Operations](https://jobright.ai/jobs/info/69b8b3c256973837413e3bdf?utm_campaign=1050&utm_source=git)** | PHOENIX, Arizona, United States | Hybrid | Mar 16 |
 | **[YWCA Seattle | King | Snohomish](http://www.ywcaworks.org/)** | **[Program Supervisor - Edmonds, WA](https://jobright.ai/jobs/info/69b8b23056973837413e3b30?utm_campaign=1050&utm_source=git)** | Edmonds, WA | On Site | Mar 16 |
+| **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Commercial Real Estate](https://jobright.ai/jobs/info/69b8c33156973837413e60af?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b8c37a3b74eb1e2c86ce4d?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69b893783b74eb1e2c8667ec?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 16 |
 | **[Formlabs](http://www.formlabs.com)** | **[Supply Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/69b890873b74eb1e2c86653f?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Mar 16 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Supply Chain Manager](https://jobright.ai/jobs/info/69b88b7756973837413ded47?utm_campaign=1050&utm_source=git)** | Londonderry, NH | Hybrid | Mar 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Intern](https://jobright.ai/jobs/info/69b840bc56973837413d6a26?utm_campaign=1050&utm_source=git)** | 6 Cadillac Dr Ste 410  - BRENTWOOD, TN | On Site | Mar 16 |
 | **[RBC](https://www.rbc.com)** | **[Branch Manager Intern](https://jobright.ai/jobs/info/69b840ba56973837413d6a1b?utm_campaign=1050&utm_source=git)** | LA SARRE, Quebec, Canada | On Site | Mar 16 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Operations Strategy Intern (Analyst)](https://jobright.ai/jobs/info/69b8408a06c1ba00c54a030e?utm_campaign=1050&utm_source=git)** | US - CA - San Diego - Summers Ridge | On Site | Mar 16 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Operational Excellence Summer Intern](https://jobright.ai/jobs/info/690ec64244146d3b6ec57b54?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 16 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/699feea053d97f23ee6580e4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/699fb8b481476f6176b97163?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Mar 16 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Innovation & Growth Internship - Undergraduate or Graduate](https://jobright.ai/jobs/info/69b83bfc3b74eb1e2c85da94?utm_campaign=1050&utm_source=git)** | Jackson, MS | On Site | Mar 16 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b83b973b74eb1e2c85da13?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
