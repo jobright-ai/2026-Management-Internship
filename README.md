@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[MBA Strategy and Operations Intern](https://jobright.ai/jobs/info/69b9662d56973837413ee6d7?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 17 |
+| **[Charlesbridge](www.charlesbridgegroup.com)** | **[Branch Admin Intern](https://jobright.ai/jobs/info/69b9561406c1ba00c54b722f?utm_campaign=1050&utm_source=git)** | Headquarters / Any Bank Location, MA | On Site | Mar 17 |
 | **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/695f68690badca5763afd222?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Mar 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Strategy & Operations (NA Midwest MU) - SUMMER 2026](https://jobright.ai/jobs/info/69b91ae206c1ba00c54b308b?utm_campaign=1050&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 17 |
 | **[Tencent](https://www.tencent.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69b90e8856973837413e8efc?utm_campaign=1050&utm_source=git)** | US-California-Los Angeles | On Site | Mar 17 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/69b880f13b74eb1e2c865aaf?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 16 |
 | **[YMCA of Metuchen Edison Woodbridge and South Amboy](http://www.ymcaofmewsa.org)** | **[Summer Camp Administration Intern](https://jobright.ai/jobs/info/69b8808156973837413de3ea?utm_campaign=1050&utm_source=git)** | Metuchen, NJ, US | On Site | Mar 16 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Administrative Intern](https://jobright.ai/jobs/info/69b87f7756973837413de2aa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 16 |
-| **[Sensata Technologies](http://www.sensata.com)** | **[Transformation Office Intern - Summer 2026](https://jobright.ai/jobs/info/69b87e3a06c1ba00c54a7882?utm_campaign=1050&utm_source=git)** | Attleboro, Massachusetts | On Site | Mar 16 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/69b87c4056973837413ddd68?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
 | **[PNC](http://www.pnc.com)** | **[Executive Assistant to the Regional President](https://jobright.ai/jobs/info/69b87bbc3b74eb1e2c865254?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Mar 16 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern  (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/69b87b2e06c1ba00c54a7559?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 16 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Concrete Project Manager Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6984015a0f6f7e7a2cde0bac?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Commodity Supply Chain (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f9956973837413d7830?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 16 |
 | ↳ | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/69b84f9056973837413d781f?utm_campaign=1050&utm_source=git)** | Edgewater Park, NJ | On Site | Mar 16 |
-| **[Aecon U.S.](https://www.aecon.com/us)** | **[Coordinator, Project (Nuclear) - Intern](https://jobright.ai/jobs/info/69b84f3e3b74eb1e2c85ed38?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 16 |
-| ↳ | **[Coordinator, Project (Nuclear) - Intern](https://jobright.ai/jobs/info/69b84f3e06c1ba00c54a10b6?utm_campaign=1050&utm_source=git)** | Surry, VA | On Site | Mar 16 |
+| **[Aecon U.S.](https://www.aecon.com/us)** | **[Coordinator, Project (Nuclear) - Intern](https://jobright.ai/jobs/info/69b84f3e06c1ba00c54a10b6?utm_campaign=1050&utm_source=git)** | Surry, VA | On Site | Mar 16 |
+| ↳ | **[Coordinator, Project (Nuclear) - Intern](https://jobright.ai/jobs/info/69b84f3e3b74eb1e2c85ed38?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69b84f3a3b74eb1e2c85ed32?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Mar 16 |
 | ↳ | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69b84f163b74eb1e2c85ecfb?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Mar 16 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69b8791506c1ba00c54a71a4?utm_campaign=1050&utm_source=git)** | 701 Corporate Center Drive, #475, Raleigh, NC, United States | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern- Franklin, WI](https://jobright.ai/jobs/info/69b8759556973837413dcf3e?utm_campaign=1050&utm_source=git)** | 251 West Franklin Drive, Franklin, WI, 53132, US | On Site | Mar 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69b84a3506c1ba00c54a0928?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
 | **[Plastics Family Americas](https://plasticsfamilyamericas.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b849fd3b74eb1e2c85e530?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 16 |
-| **[Skanska](http://skanska.com)** | **[Intern - Summer 2027](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b0d?utm_campaign=1050&utm_source=git)** | Durham, NC, US | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
