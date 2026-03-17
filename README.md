@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69b893783b74eb1e2c8667ec?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 16 |
+| **[Formlabs](http://www.formlabs.com)** | **[Supply Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/69b890873b74eb1e2c86653f?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Mar 16 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Supply Chain Manager](https://jobright.ai/jobs/info/69b88b7756973837413ded47?utm_campaign=1050&utm_source=git)** | Londonderry, NH | Hybrid | Mar 16 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69b889f906c1ba00c54a8525?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | Mar 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Manager, Fleet & Municipal Services, Grounds and Roads, Facilities Management](https://jobright.ai/jobs/info/69b886f13b74eb1e2c86605e?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Innovation & Growth Internship - Undergraduate or Graduate](https://jobright.ai/jobs/info/69b83bfc3b74eb1e2c85da94?utm_campaign=1050&utm_source=git)** | Jackson, MS | On Site | Mar 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b83b973b74eb1e2c85da13?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Plunkett's Pest Control](https://plunketts.net/)** | **[Seasonal Administrative Intern](https://jobright.ai/jobs/info/69b83b4b3b74eb1e2c85d9ac?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Mar 16 |
-| **[HERITAGE](https://www.heritagesvs.com)** | **[Summer Internship - Business Operations and Event Production](https://jobright.ai/jobs/info/69b8390656973837413d62be?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
-| ↳ | **[Summer Internship - Business Operations and Event Production](https://jobright.ai/jobs/info/69b838f13b74eb1e2c85d909?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
