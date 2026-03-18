@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Toronto](http://www.toronto.ca)** | **[SUPERVISOR ADMINISTRATIVE SERVICES PS](https://jobright.ai/jobs/info/69b483ed06c1ba00c545fee3?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Administrative Intern – Ambulatory Care Network – Columbia - 12 week Internship](https://jobright.ai/jobs/info/69ba40c13b74eb1e2c8829b3?utm_campaign=1050&utm_source=git)** | NYP/Columbia University Irving Medical Center | On Site | Mar 17 |
 | **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[Strategy Undergrad Intern - Summer 2026](https://jobright.ai/jobs/info/69ba2e2c06c1ba00c54c4585?utm_campaign=1050&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | ↳ | **[Delivery Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e1756973837413fae54?utm_campaign=1050&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
@@ -72,14 +73,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Office Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69b9d60e3b74eb1e2c87d32f?utm_campaign=1050&utm_source=git)** | US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 | On Site | Mar 17 |
 | ↳ | **[Program Management Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/69b9d6013b74eb1e2c87d2f8?utm_campaign=1050&utm_source=git)** | US-KS-LENEXA-885 ~ 15701 W 95Th St ~ KIN01 W 95TH 885 | On Site | Mar 17 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Mar 17 |
-| **[Hines](https://www.hines.com)** | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f05206c1ba00c54c0994?utm_campaign=1050&utm_source=git)** | US-DC-Washington | On Site | Mar 17 |
-| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1e83b74eb1e2c87e931?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 17 |
+| **[Hines](https://www.hines.com)** | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1e83b74eb1e2c87e931?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Mar 17 |
 | ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f05206c1ba00c54c0996?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | Mar 17 |
-| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1e83b74eb1e2c87e933?utm_campaign=1050&utm_source=git)** | US-TX-Plano | On Site | Mar 17 |
-| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1b756973837413f7b73?utm_campaign=1050&utm_source=git)** | US-IL-Chicago | On Site | Mar 17 |
+| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1b756973837413f7b71?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 17 |
 | ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1e83b74eb1e2c87e92f?utm_campaign=1050&utm_source=git)** | Washington, DC, US | On Site | Mar 17 |
 | ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1b756973837413f7b7a?utm_campaign=1050&utm_source=git)** | Plano, TX, US | On Site | Mar 17 |
-| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1b756973837413f7b71?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 17 |
+| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1e83b74eb1e2c87e933?utm_campaign=1050&utm_source=git)** | US-TX-Plano | On Site | Mar 17 |
+| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f1b756973837413f7b73?utm_campaign=1050&utm_source=git)** | US-IL-Chicago | On Site | Mar 17 |
+| ↳ | **[Summer Intern - Property Management](https://jobright.ai/jobs/info/69b9f05206c1ba00c54c0994?utm_campaign=1050&utm_source=git)** | US-DC-Washington | On Site | Mar 17 |
 | **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Retail Administration Intern](https://jobright.ai/jobs/info/69b9cee93b74eb1e2c87ca58?utm_campaign=1050&utm_source=git)** | Lebanon,NH,US | Hybrid | Mar 17 |
 | **[MRIGlobal](http://www.mriglobal.org)** | **[Intern Mission Support](https://jobright.ai/jobs/info/69b9efcb56973837413f7995?utm_campaign=1050&utm_source=git)** | MRIGlobal, 425 Dr Martin Luther King Jr Blvd, Kansas City, Missouri, United States of America | On Site | Mar 17 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Facilities Administrator](https://jobright.ai/jobs/info/69b9cb473b74eb1e2c87c07c?utm_campaign=1050&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 17 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[JAS Worldwide](http://www.jas.com)** | **[Project Management M&A Intern](https://jobright.ai/jobs/info/69b97b4b56973837413efa6a?utm_campaign=1050&utm_source=git)** | United States of America, Georgia, Atlanta | On Site | Mar 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b463b74eb1e2c876a37?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3d56973837413efa29?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Mar 17 |
-| ↳ | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc3?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Executive Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc1?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
+| ↳ | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3b06c1ba00c54b8bc3?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Mar 17 |
 | ↳ | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69b97b3906c1ba00c54b8bad?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Mar 17 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68b29e911ade4306aa639121?utm_campaign=1050&utm_source=git)** | Shakopee, MN | On Site | Mar 17 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68ca453e0456a931db296a96?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Mar 17 |
@@ -146,15 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Raben](https://www.raben.co/)** | **[Strategy and Impact Intern (Summer 2026)](https://jobright.ai/jobs/info/69b976c406c1ba00c54b892f?utm_campaign=1050&utm_source=git)** | Washington,DC,US | Hybrid | Mar 17 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c7988ac96a22563ecf2c06?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Mar 17 |
 | **[Enovis](https://enovis.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699cd94fce78e77b4fe192af?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 17 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe3?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fec?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe1?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fec?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe2?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe1?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe6?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe7?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe4?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe6?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a106c1ba00c54b7fd2?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a906c1ba00c54b7fe3?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a106c1ba00c54b7fd1?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f05?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 17 |
-| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f06?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69b971a106c1ba00c54b7fd2?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 17 |
+| ↳ | **[Operations Intern - NSBE](https://jobright.ai/jobs/info/69b9717e3b74eb1e2c875f04?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
