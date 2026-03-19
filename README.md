@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Director of Operations(Community Development Director)](https://jobright.ai/jobs/info/69bba7b33b74eb1e2c8a2691?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Mar 19 |
+| **[LPGA](http://www.lpga.com)** | **[FM Championship Operations Intern (Boston, MA)](https://jobright.ai/jobs/info/69bba47b3b74eb1e2c8a24f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Gallagher](https://www.ajg.com/)** | **[GTS Corp Intern](https://jobright.ai/jobs/info/69bba0a806c1ba00c54e35a7?utm_campaign=1050&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 19 |
 | **[Vail Valley Foundation](http://vvf.org/)** | **[Arts Administration Intern / Vilar](https://jobright.ai/jobs/info/69bb9202569738374141aae0?utm_campaign=1050&utm_source=git)** | Avon, CO | On Site | Mar 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[SFGE - SO - Park Ops Intern](https://jobright.ai/jobs/info/69bb91933b74eb1e2c8a1735?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Mar 18 |
 | **[UC San Diego Academic Jobs](https://apol-recruit.ucsd.edu/apply)** | **[Executive Director of the Sullivan Center for Entrepreneurship and Innovation](https://jobright.ai/jobs/info/69bb8efc3b74eb1e2c8a16b8?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Mar 18 |
@@ -123,11 +126,11 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[5S Improvement Project Lead Intern](https://jobright.ai/jobs/info/69bb23c006c1ba00c54d9a7f?utm_campaign=1050&utm_source=git)** | Grand Forks | On Site | Mar 18 |
 | ↳ | **[Administrative/Communication Intern](https://jobright.ai/jobs/info/69bb23bf06c1ba00c54d9a71?utm_campaign=1050&utm_source=git)** | Grand Forks | On Site | Mar 18 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Procurement & Global Supply Chain Intern](https://jobright.ai/jobs/info/69bb23bd3b74eb1e2c89901f?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Mar 18 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Convention Center Event Management Intern / Part-Time / Utah Valley Convention Center](https://jobright.ai/jobs/info/69bb3ea506c1ba00c54dba8c?utm_campaign=1050&utm_source=git)** | US-UT-Provo | On Site | Mar 18 |
-| ↳ | **[Convention Center Event Management Intern / Part-Time / Utah Valley Convention Center](https://jobright.ai/jobs/info/69bb3ea95697383741414128?utm_campaign=1050&utm_source=git)** | Provo, UT, US | On Site | Mar 18 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Convention Center Event Management Intern / Part-Time / Utah Valley Convention Center](https://jobright.ai/jobs/info/69bb3ea95697383741414128?utm_campaign=1050&utm_source=git)** | Provo, UT, US | On Site | Mar 18 |
 | ↳ | **[Convention Center Event Management Intern / Part-Time / Utah Valley Convention Center](https://jobright.ai/jobs/info/69bb3ea83b74eb1e2c89b069?utm_campaign=1050&utm_source=git)** | Utah Valley Convention Center | On Site | Mar 18 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69bb3ea9569738374141412b?utm_campaign=1050&utm_source=git)** | Galveston, TX, US | On Site | Mar 18 |
-| ↳ | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69bb3ea83b74eb1e2c89b068?utm_campaign=1050&utm_source=git)** | Galveston | On Site | Mar 18 |
+| ↳ | **[Convention Center Event Management Intern / Part-Time / Utah Valley Convention Center](https://jobright.ai/jobs/info/69bb3ea506c1ba00c54dba8c?utm_campaign=1050&utm_source=git)** | US-UT-Provo | On Site | Mar 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69bb3ea83b74eb1e2c89b068?utm_campaign=1050&utm_source=git)** | Galveston | On Site | Mar 18 |
+| ↳ | **[Management Trainee Summer Internship Galveston and Webster](https://jobright.ai/jobs/info/69bb3ea9569738374141412b?utm_campaign=1050&utm_source=git)** | Galveston, TX, US | On Site | Mar 18 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Commercial Excellence, Launch Readiness - Parsippany, NJ (Hybrid)](https://jobright.ai/jobs/info/69bb20753b74eb1e2c898e1e?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | Hybrid | Mar 18 |
 | **[Fike Corporation](https://www.fike.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69bb20753b74eb1e2c898e1b?utm_campaign=1050&utm_source=git)** | Blue Springs, MO | On Site | Mar 18 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Strategy & Business Intelligence Associate](https://jobright.ai/jobs/info/69a8bf177ac93962b70888ee?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Project Manager IT](https://jobright.ai/jobs/info/69bb0df106c1ba00c54d78ec?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 18 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69bb0dac3b74eb1e2c896cf3?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Mar 18 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Project Management](https://jobright.ai/jobs/info/69bb2d4b06c1ba00c54da3fc?utm_campaign=1050&utm_source=git)** | North Carolina, United States | Remote | Mar 18 |
-| **[Invenergy](https://invenergy.com)** | **[Intern, Corporate Business Initiatives](https://jobright.ai/jobs/info/69bb2c7f3b74eb1e2c899b75?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/69bb0a803b74eb1e2c8962f7?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Mar 18 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Project Manager](https://jobright.ai/jobs/info/69bb09a706c1ba00c54d6a1b?utm_campaign=1050&utm_source=git)** | Alaska, United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
