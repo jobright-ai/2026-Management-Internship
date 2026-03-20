@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69bcede34828227293ff02da?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, PMO/Performance Reporting IT](https://jobright.ai/jobs/info/69a72afc1fc3d83b78093262?utm_campaign=1050&utm_source=git)** | Hazelwood, MO | On Site | Mar 19 |
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69bce49ee6a0d97925850f8d?utm_campaign=1050&utm_source=git)** | San Antonio, TX (North Loop 1604) | On Site | Mar 19 |
 | **[PNC](http://www.pnc.com)** | **[Innovation Lead](https://jobright.ai/jobs/info/69bcdbba45e08b3dc1f9beea?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69bcda6545e08b3dc1f9bad2?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Mar 19 |
@@ -65,13 +67,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Innovation Lead](https://jobright.ai/jobs/info/69bcd591e6a0d9792584f6ee?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Mar 19 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/69a3c646b600907a9629c4f8?utm_campaign=1050&utm_source=git)** | Del Mar, CA | Hybrid | Mar 19 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69b1900865de58104c709ac7?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Chicago Women in Philanthropy](http://www.cwiponline.org)** | **[Executive Director / Chicago Appleseed Center for Fair Courts](https://jobright.ai/jobs/info/69bcee314828227293ff0310?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[Development Director / Friends of the Children](https://jobright.ai/jobs/info/69bcee4045e08b3dc1f9ded7?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[Chief Development Officer / Hope Chicago](https://jobright.ai/jobs/info/69bcee834828227293ff032e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[Executive Director / Literacy Works](https://jobright.ai/jobs/info/69bcee814828227293ff032d?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 19 |
+| ↳ | **[Executive Director of Development- College of Engineering / UIC Advancement](https://jobright.ai/jobs/info/69bcee674828227293ff0321?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
+| ↳ | **[Development Project Manager, Research & Major Gifts / WTTW / WFMT](https://jobright.ai/jobs/info/69bcee3a4828227293ff0313?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69bcceace6a0d9792584ea11?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69bccb8a4828227293fec72f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/69bcc23445e08b3dc1f98eae?utm_campaign=1050&utm_source=git)** | US-CA-El Monte | On Site | Mar 19 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Real Estate Asset Management Intern](https://jobright.ai/jobs/info/69bcc0bd4828227293feacc0?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Mar 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bcc0964828227293feabbe?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Mar 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcc07e4828227293feab4d?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Mar 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcc07e4828227293feab4e?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Mar 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcc07e4828227293feab4d?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Mar 19 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/69bcbff9e6a0d9792584c7f5?utm_campaign=1050&utm_source=git)** | Longo Toyota | On Site | Mar 19 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69bcbfc54828227293fea920?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern -Strategy, Research and Financial Analysis - SUMMER 2026](https://jobright.ai/jobs/info/69bcbf87e6a0d9792584c5e7?utm_campaign=1050&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Mar 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KB Signaling](https://www.linkedin.com/company/104418543)** | **[Intern, Material/Production Planner and Scheduler (Supply Chain)](https://jobright.ai/jobs/info/69bc6b5845e08b3dc1f918fe?utm_campaign=1050&utm_source=git)** | Warrensburg, MO | On Site | Mar 19 |
 | **[Gen](https://www.gendigital.com)** | **[Corporate Development Analyst Intern](https://jobright.ai/jobs/info/69bc6b1a4828227293fe4046?utm_campaign=1050&utm_source=git)** | USA - California, Mountain View | On Site | Mar 19 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Platform Enablement](https://jobright.ai/jobs/info/69bc6af84828227293fe3faf?utm_campaign=1050&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 19 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Gloucester, MA)](https://jobright.ai/jobs/info/69bc6af74828227293fe3faa?utm_campaign=1050&utm_source=git)** | Gloucester,MA | On Site | Mar 19 |
-| **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69bc6a8845e08b3dc1f91745?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Mar 19 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[CoOp Intern](https://jobright.ai/jobs/info/69bc6a375b89c002acf212e3?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Mar 19 |
-| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Innovation Project Manager - 138871](https://jobright.ai/jobs/info/69bc8b544828227293fe6d63?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Mar 19 |
-| **[Vontier](https://www.vontier.com)** | **[Global Category Management & Procurement Analytics Intern (Remote)](https://jobright.ai/jobs/info/69bc697b4828227293fe3d65?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 19 |
-| **[CareMetx, LLC](http://www.caremetx.com/)** | **[Summer 2026 Commercial Execution Internship](https://jobright.ai/jobs/info/69bc68c545e08b3dc1f91158?utm_campaign=1050&utm_source=git)** | United States | On Site | Mar 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69bc68914828227293fe3abd?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
-| **[Segra](https://www.segra.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc686f45e08b3dc1f9107c?utm_campaign=1050&utm_source=git)** | Raleigh, NC, USA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
