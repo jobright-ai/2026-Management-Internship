@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69bcceace6a0d9792584ea11?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69bccb8a4828227293fec72f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
+| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/69bcc23445e08b3dc1f98eae?utm_campaign=1050&utm_source=git)** | US-CA-El Monte | On Site | Mar 19 |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Real Estate Asset Management Intern](https://jobright.ai/jobs/info/69bcc0bd4828227293feacc0?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Mar 19 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bcc0964828227293feabbe?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Mar 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcc07e4828227293feab4d?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Mar 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcc07e4828227293feab4e?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Mar 19 |
+| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/69bcbff9e6a0d9792584c7f5?utm_campaign=1050&utm_source=git)** | Longo Toyota | On Site | Mar 19 |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69bcbfc54828227293fea920?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern -Strategy, Research and Financial Analysis - SUMMER 2026](https://jobright.ai/jobs/info/69bcbf87e6a0d9792584c5e7?utm_campaign=1050&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Mar 19 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern  -Supply Chain](https://jobright.ai/jobs/info/69bcbe504828227293fea381?utm_campaign=1050&utm_source=git)** | HOUSTON, Texas, United States | On Site | Mar 19 |
+| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/69bcbdda4828227293fea0cf?utm_campaign=1050&utm_source=git)** | El Monte, CA, US | On Site | Mar 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bcbc8645e08b3dc1f979a4?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Mar 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcbc7fe6a0d9792584b8df?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Mar 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69bcbc7745e08b3dc1f97993?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Mar 19 |
@@ -73,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Administrative Support Coordinator (Administrative Support Coordinator I), Academic Success and Undergraduate Advising](https://jobright.ai/jobs/info/69bcac324828227293fe9161?utm_campaign=1050&utm_source=git)** | San Bernardino, CA | On Site | Mar 19 |
 | **[Stantec](http://www.stantec.com)** | **[Project Controls Analyst](https://jobright.ai/jobs/info/69bcac0d4828227293fe9109?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | **[West Chester Township, Ohio](https://www.westchesteroh.org)** | **[Property Advisor Intern](https://jobright.ai/jobs/info/69bcaa9445e08b3dc1f96f32?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Mar 19 |
+| **[Reser's Fine Foods](http://www.resers.com)** | **[Intern- Administration](https://jobright.ai/jobs/info/69bcce6ae6a0d9792584e97b?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Mar 19 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship, Summer 2026](https://jobright.ai/jobs/info/69bca85b4828227293fe9034?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Mar 19 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Customer Service - Summer 2026](https://jobright.ai/jobs/info/69bca84545e08b3dc1f96df1?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69bca7bf45e08b3dc1f96ca0?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 19 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stress-Free](https://www.StressFree.com)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/69bc605e5b89c002acf1fc8c?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 19 |
 | **[CRH](http://crh.com)** | **[Seasonal Intern - Omaha, NE](https://jobright.ai/jobs/info/69bc5f2a5b89c002acf1fa6f?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Mar 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Administrative Support Coordinator (Administrative Support Coordinator II), College of Education - Dean's Office](https://jobright.ai/jobs/info/69bc5e9e5b89c002acf1f895?utm_campaign=1050&utm_source=git)** | San Bernardino, CA | On Site | Mar 19 |
-| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Supply Chain Operations](https://jobright.ai/jobs/info/69bc5e9845e08b3dc1f8f49b?utm_campaign=1050&utm_source=git)** | Holly Springs, NC | On Site | Mar 19 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69bc5d375b89c002acf1f2f3?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Mar 19 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69bc5d375b89c002acf1f2f4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69bc5d2f5b89c002acf1f2cb?utm_campaign=1050&utm_source=git)** | West Orange, NJ | On Site | Mar 19 |
-| **[AMBOSS](https://www.amboss.com)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/69b8579f56973837413d885a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 19 |
-| **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Business Services Professionals Summer Intern](https://jobright.ai/jobs/info/69bc4def4828227293fded07?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Mar 19 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699fec0581476f6176b9c072?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 19 |
-| **[Cadent, powered by Syneos Health](https://www.cadentmedcomms.com)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69a0072881476f6176ba009c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699fa63f81476f6176b95f3c?utm_campaign=1050&utm_source=git)** | Peachtree Corners, GA | On Site | Mar 19 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Summer 2026](https://jobright.ai/jobs/info/6966b53ba112b4026614aaf9?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Mar 19 |
-| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Manager, International Control Center (ICC)](https://jobright.ai/jobs/info/69bc7e0645e08b3dc1f93c73?utm_campaign=1050&utm_source=git)** | Saint Paul Church, MN | On Site | Mar 19 |
-| **[Stantec](http://www.stantec.com)** | **[Project Controls Analyst](https://jobright.ai/jobs/info/69bc7dda45e08b3dc1f93c3c?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | Mar 19 |
-| ↳ | **[Project Controls Analyst](https://jobright.ai/jobs/info/69bc5a644828227293fe1616?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
