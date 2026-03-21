@@ -85,9 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1524482822729300ca59?utm_campaign=1050&utm_source=git)** | Jamestown, ND | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1540482822729300ca87?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1578b106024562837849?utm_campaign=1050&utm_source=git)** | Omaha, Nebraska, United States | On Site | Mar 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be157fb106024562837850?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1519482822729300ca37?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be15bab106024562837888?utm_campaign=1050&utm_source=git)** | Alexandria, MN | On Site | Mar 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1519482822729300ca37?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be157fb106024562837850?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 20 |
 | **[Stantec](http://www.stantec.com)** | **[Project Manager - Environmental Services](https://jobright.ai/jobs/info/69be1cf7482822729300d610?utm_campaign=1050&utm_source=git)** | Newfoundland and Labrador, Canada | On Site | Mar 20 |
 | ↳ | **[Senior Land Development Project Manager](https://jobright.ai/jobs/info/69be1af4393a1008f743f969?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[NetSteady](http://www.netsteady.com/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/69be233eb106024562838ed1?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Mar 20 |
