@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BIG Construction](https://www.buildbig.com/)** | **[Project Intern](https://jobright.ai/jobs/info/6952ca9b5bb7de448ef5df88?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
+| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
+| **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern (Orlando, FL) - June 2026](https://jobright.ai/jobs/info/69a1be65359fe034b1cd123c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[Administrative Analyst - Quality Assurance Team](https://jobright.ai/jobs/info/69be7f204828227293014b46?utm_campaign=1050&utm_source=git)** | Chesterfield, VA | On Site | Mar 21 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69be7c1a393a1008f7446e2f?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Mar 21 |
@@ -94,16 +97,16 @@ For a complete list, click the following sortable link below:
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[ESY Office Manager, Esperanza- 8:00am-1:00 pm](https://jobright.ai/jobs/info/69bdfb1eb106024562836079?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Mar 20 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Project Manager](https://jobright.ai/jobs/info/69bdfb0a393a1008f743d713?utm_campaign=1050&utm_source=git)** | Lawrence, KS | On Site | Mar 20 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Student Intern / TECPAD Research Operations / Per Diem / Days](https://jobright.ai/jobs/info/69bdf8d6b106024562835ada?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 20 |
-| **[University of the Pacific](https://www.pacific.edu)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69bdf861482822729300ad16?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Mar 20 |
+| **[University of the Pacific](http://www.pacific.edu/)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69bdf861482822729300ad16?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Mar 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bdf85ab1060245628358fd?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Mar 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be15cab106024562837896?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be150c482822729300ca27?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Mar 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be15cab106024562837896?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1578b106024562837849?utm_campaign=1050&utm_source=git)** | Omaha, Nebraska, United States | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1540482822729300ca87?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1524482822729300ca59?utm_campaign=1050&utm_source=git)** | Jamestown, ND | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be15bab106024562837888?utm_campaign=1050&utm_source=git)** | Alexandria, MN | On Site | Mar 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be157fb106024562837850?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be1519482822729300ca37?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69be157fb106024562837850?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 20 |
 | **[Stantec](http://www.stantec.com)** | **[Project Manager - Environmental Services](https://jobright.ai/jobs/info/69be1cf7482822729300d610?utm_campaign=1050&utm_source=git)** | Newfoundland and Labrador, Canada | On Site | Mar 20 |
 | ↳ | **[Senior Land Development Project Manager](https://jobright.ai/jobs/info/69be1af4393a1008f743f969?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[NetSteady](http://www.netsteady.com/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/69be233eb106024562838ed1?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Warehouse Innovation Intern](https://jobright.ai/jobs/info/69bdc4e0b10602456282ecec?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | Mar 20 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern  (Unpaid, Remote)](https://jobright.ai/jobs/info/69bdc387b10602456282e6fc?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 20 |
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[Adult Rec League Intern](https://jobright.ai/jobs/info/69bde71f4828227293009a13?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Mar 20 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Intern Global Supply Chain - R10226591](https://jobright.ai/jobs/info/69bdc2bcb10602456282e203?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Mar 20 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Internsip](https://jobright.ai/jobs/info/69bdc2a0b10602456282e118?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 20 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[IT Project Manager I](https://jobright.ai/jobs/info/69bdc23bb10602456282dfb7?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
