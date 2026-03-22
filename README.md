@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 22 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Mar 22 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69bfa8827798f73e35e481d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southeast Division (Georgia)](https://jobright.ai/jobs/info/69bf8a492c312363dcd249bd?utm_campaign=1050&utm_source=git)** | Moultrie, GA | On Site | Mar 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bf62767798f73e35e42a6e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Mar 21 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
 | **[Roadtex](http://roadtex.com)** | **[Supply Chain Analyst Intern- Greenfield, IN](https://jobright.ai/jobs/info/699022c60f6f7e7a2cec79b6?utm_campaign=1050&utm_source=git)** | Greenfield, IN | On Site | Mar 21 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/6912ee65c98948514c47f9b8?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Mar 21 |
-| **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Mar 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a2696a359fe034b1cda8aa?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
