@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado College](http://www.coloradocollege.edu/)** | **[Development Specialist](https://jobright.ai/jobs/info/69c034b22c312363dcd2c762?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 22 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Klick](https://www.klick.com)** | **[Project Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a228030da45516f16b70cc?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Central Operations Internship](https://jobright.ai/jobs/info/69bef3d8b10602456284539e?utm_campaign=1050&utm_source=git)** | Waterford, MI | On Site | Mar 21 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, DTC](https://jobright.ai/jobs/info/69bef248482822729301a1f7?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 21 |
-| **[Kootenai County](http://www.kcgov.us)** | **[Secretary I](https://jobright.ai/jobs/info/69beedba4828227293019a3d?utm_campaign=1050&utm_source=git)** | Coeur d'Alene, ID | On Site | Mar 21 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69bee8b2b106024562844a25?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Mar 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Branch Operations Solutions & Enablement (Hybrid)](https://jobright.ai/jobs/info/69a266b6b600907a9628b377?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Mar 21 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intake Admin Intern](https://jobright.ai/jobs/info/69a1c43a0da45516f16b2028?utm_campaign=1050&utm_source=git)** | Wayne, PA | Hybrid | Mar 21 |
