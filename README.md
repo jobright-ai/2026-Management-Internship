@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986941e8ca8121a3a68e33d?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 22 |
+| **[Precision BioSciences, Inc.](https://precisionbiosciences.com)** | **[Summer Intern - Program & Process Management](https://jobright.ai/jobs/info/69a1db67359fe034b1cd2414?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Mar 22 |
+| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69105f41bb519377733ebeb0?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Mar 22 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69bfceeb7798f73e35e4a4f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
 | **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a4c0c1e9f1c744da123c35?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 22 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6976df3cbc8e722e7b1b50d9?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bf62767798f73e35e42a6e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Mar 21 |
 | **[Arevon](https://arevonenergy.com)** | **[Project Development Intern, Greenfield](https://jobright.ai/jobs/info/69b476d65697383741394e74?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Assistant, Associate Dean of Undergraduate and Graduate Studies](https://jobright.ai/jobs/info/69bfbbd57798f73e35e49864?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Mar 21 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69bf2849393a1008f744eb22?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0e00482822729301bea5?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Business Administration Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bf0daa393a1008f744e17d?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0d7b393a1008f744e0c9?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Mar 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | Mar 21 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Case Management Office Intern](https://jobright.ai/jobs/info/69be9995b1060245628411b1?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 21 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Technical Project Manager Intern - Software Delivery and Operations](https://jobright.ai/jobs/info/69b2760ea8ac8e70ff666f21?utm_campaign=1050&utm_source=git)** | Concord, MA | Remote | Mar 21 |
-| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Chief Executive Officer, Health Care (Safety) - Wasco State Prison](https://jobright.ai/jobs/info/69b3a5f0ad360c0340a8d147?utm_campaign=1050&utm_source=git)** | Kern County, CA | On Site | Mar 21 |
-| **[Almo Corporation](http://www.almo.com)** | **[Operations Coordination Intern](https://jobright.ai/jobs/info/69b726c906c1ba00c548e812?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Mar 21 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Technical Project Manager](https://jobright.ai/jobs/info/69850b860f6f7e7a2cdf8435?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | Remote | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
