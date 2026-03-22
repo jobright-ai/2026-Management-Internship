@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69bf2849393a1008f744eb22?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0e00482822729301bea5?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Business Administration Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bf0daa393a1008f744e17d?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0d7b393a1008f744e0c9?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Mar 21 |
 | **[Grassfed Culture Hospitality](https://www.grassfedculture.com/)** | **[Operations & Events Intern](https://jobright.ai/jobs/info/69bf092db106024562846563?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Mar 21 |
+| **[Octagon](http://www.octagon.com)** | **[Experiential Manager (Global Soccer) (On-Demand Delivery Client) (Contract)](https://jobright.ai/jobs/info/69bf26ce482822729301c4c1?utm_campaign=1050&utm_source=git)** | USA | On Site | Mar 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Mar 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/698542360f6f7e7a2cdfe3e2?utm_campaign=1050&utm_source=git)** | Dorval, QC | Hybrid | Mar 21 |
 | ↳ | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Mar 21 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[BIG Construction](https://www.buildbig.com/)** | **[Project Intern](https://jobright.ai/jobs/info/6952ca9b5bb7de448ef5df88?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern (Orlando, FL) - June 2026](https://jobright.ai/jobs/info/69a1be65359fe034b1cd123c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69be7c1a393a1008f7446e2f?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Mar 21 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a29c6b359fe034b1cde982?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Mar 21 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69be5767393a1008f7445354?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 | **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 21 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Project Manager](https://jobright.ai/jobs/info/69be6324b10602456283ec70?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
