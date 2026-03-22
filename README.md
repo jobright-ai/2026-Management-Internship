@@ -57,20 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69c0501d79e36d3a847caea2?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae603db26b618950e48ae?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Mar 22 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Business Operations Undergraduate Intern (Onsite)](https://jobright.ai/jobs/info/69c048cb2c312363dcd2d169?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Mar 22 |
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Internship -  Game Day Operations](https://jobright.ai/jobs/info/69c046b07798f73e35e4e613?utm_campaign=1050&utm_source=git)** | Lakewood Ranch, FL | On Site | Mar 22 |
-| **[Colorado College](http://www.coloradocollege.edu/)** | **[Development Specialist](https://jobright.ai/jobs/info/69c034b22c312363dcd2c762?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 22 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
+| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Mar 22 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/696ac100350cf4380311cf0a?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Construction Project Management - (Renewables)](https://jobright.ai/jobs/info/69a266c70da45516f16bad64?utm_campaign=1050&utm_source=git)** | Broomfield, CO | Hybrid | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69a2b707359fe034b1ce12e7?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Mar 22 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69c053f17798f73e35e4e977?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 22 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Mar 22 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
@@ -115,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Mar 21 |
 | ↳ | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, QC | Hybrid | Mar 21 |
 | **[Klick](https://www.klick.com)** | **[Project Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a228030da45516f16b70cc?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/695fc5fba112b402660e6f68?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Mar 21 |
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Central Operations Internship](https://jobright.ai/jobs/info/69bef3d8b10602456284539e?utm_campaign=1050&utm_source=git)** | Waterford, MI | On Site | Mar 21 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, DTC](https://jobright.ai/jobs/info/69bef248482822729301a1f7?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 21 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69bee8b2b106024562844a25?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Mar 21 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfebd85c5d5f14f46dad3b?utm_campaign=1050&utm_source=git)** | Bal Harbour, FL | On Site | Mar 21 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/69a2394c359fe034b1cd75b1?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Mar 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Command Center Scheduling, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/698592660f6f7e7a2ce06c7c?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 21 |
-| **[Almo Corporation](http://www.almo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a269660da45516f16bb057?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Mar 21 |
-| **[Dometic](https://www.dometic.com)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/69b5095b06c1ba00c546a6c9?utm_campaign=1050&utm_source=git)** | Katy, TX | Hybrid | Mar 21 |
-| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69af8a177495006450940779?utm_campaign=1050&utm_source=git)** | Goodland, KS | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
