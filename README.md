@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
+| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
