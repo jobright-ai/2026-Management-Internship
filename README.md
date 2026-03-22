@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Mar 22 |
+| **[Magna International](http://www.magna.com/)** | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| ↳ | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/69b3877fa8ac8e70ff67c974?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Mar 22 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Mar 22 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Administrative Assistant, Division of Student Affairs](https://jobright.ai/jobs/info/69bff6b82c312363dcd2aa7d?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Mar 22 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Replenishment & Planning - Summer 2026](https://jobright.ai/jobs/info/6959e3b8aa05c26e7ab38505?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Mar 22 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defbb944d32141e0c048f7?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 22 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Mar 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Mar 22 |
+| **[Cemex US](http://www.cemex.com/)** | **[FINANCE/STRATEGIC PLANNING PROFESSIONAL INTERNSHIP DEVELOPMENT](https://jobright.ai/jobs/info/691ae18445fb6f5ead8ae84d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Mar 22 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986941e8ca8121a3a68e33d?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 22 |
 | **[Precision BioSciences, Inc.](https://precisionbiosciences.com)** | **[Summer Intern - Program & Process Management](https://jobright.ai/jobs/info/69a1db67359fe034b1cd2414?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Mar 22 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
@@ -110,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Memphis, TN (FDC)](https://jobright.ai/jobs/info/694c136f5d73121134708775?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Mar 21 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a3c8cb1ab5f8579e8a82d0?utm_campaign=1050&utm_source=git)** | Charlestown, IN | On Site | Mar 21 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Line Management](https://jobright.ai/jobs/info/691718e9370fde633d07d42c?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
-| **[McKesson](http://www.mckesson.com)** | **[OBF Specialty Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/694c14b5d64ebf28d821b295?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Mar 21 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Software Technical Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/698d79c30f6f7e7a2ce95980?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Mar 21 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a36f3e37d3cc6b0d576bfd?utm_campaign=1050&utm_source=git)** | Grayling, MI | On Site | Mar 21 |
-| **[Galaxy](https://www.galaxy.com)** | **[2026 Operations Internship - NYC](https://jobright.ai/jobs/info/6913a1421465e02904e96256?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 21 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69be9d18b1060245628414f5?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | Mar 21 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Client Program Manager](https://jobright.ai/jobs/info/69be9c034828227293015d99?utm_campaign=1050&utm_source=git)** | Canton, MA | Hybrid | Mar 21 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/69860c418da7a6120460bbb1?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Mar 21 |
-| ↳ | **[2026 Summer Logistics Intern](https://jobright.ai/jobs/info/698609eb0f6f7e7a2ce0eaf2?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Mar 21 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | Mar 21 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Case Management Office Intern](https://jobright.ai/jobs/info/69be9995b1060245628411b1?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 21 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Technical Project Manager Intern - Software Delivery and Operations](https://jobright.ai/jobs/info/69b2760ea8ac8e70ff666f21?utm_campaign=1050&utm_source=git)** | Concord, MA | Remote | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
