@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bf62767798f73e35e42a6e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Mar 21 |
 | **[Arevon](https://arevonenergy.com)** | **[Project Development Intern, Greenfield](https://jobright.ai/jobs/info/69b476d65697383741394e74?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 21 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69bf2849393a1008f744eb22?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0e00482822729301bea5?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Mar 21 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 | **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69be659e4828227293013c5f?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Mar 21 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Hospitality Intern - Summer and Fall](https://jobright.ai/jobs/info/69be65044828227293013c3f?utm_campaign=1050&utm_source=git)** | St Helena, CA | On Site | Mar 21 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a29c6b359fe034b1cde982?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Mar 21 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69be5767393a1008f7445354?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
