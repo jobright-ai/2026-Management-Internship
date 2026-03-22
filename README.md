@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69a2b707359fe034b1ce12e7?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Mar 22 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Mar 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69bfa8827798f73e35e481d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southeast Division (Georgia)](https://jobright.ai/jobs/info/69bf8a492c312363dcd249bd?utm_campaign=1050&utm_source=git)** | Moultrie, GA | On Site | Mar 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bf62767798f73e35e42a6e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Mar 21 |
 | **[Arevon](https://arevonenergy.com)** | **[Project Development Intern, Greenfield](https://jobright.ai/jobs/info/69b476d65697383741394e74?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 21 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Assistant, Associate Dean of Undergraduate and Graduate Studies](https://jobright.ai/jobs/info/69bfbbd57798f73e35e49864?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Mar 21 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69bf2849393a1008f744eb22?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 21 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69bf0e00482822729301bea5?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Mar 21 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Business Administration Internship - Hourly - Albany](https://jobright.ai/jobs/info/69bf0daa393a1008f744e17d?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Mar 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern (Orlando, FL) - June 2026](https://jobright.ai/jobs/info/69a1be65359fe034b1cd123c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
 | **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Mar 21 |
-| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[SSD Business Operations Intern - i-0061](https://jobright.ai/jobs/info/69a2573f359fe034b1cd90cd?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
-| **[Roadtex](http://roadtex.com)** | **[Supply Chain Analyst Intern- Greenfield, IN](https://jobright.ai/jobs/info/699022c60f6f7e7a2cec79b6?utm_campaign=1050&utm_source=git)** | Greenfield, IN | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
