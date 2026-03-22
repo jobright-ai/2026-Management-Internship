@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Mar 22 |
+| **[Magna International](http://www.magna.com/)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/696ac100350cf4380311cf0a?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Mar 22 |
 | **[Magna International](http://www.magna.com/)** | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
 | ↳ | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69bea291393a1008f7448423?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - VA/DC](https://jobright.ai/jobs/info/69a65a462c0d8b0f5cd07813?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Mar 21 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Memphis, TN (FDC)](https://jobright.ai/jobs/info/694c136f5d73121134708775?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 21 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Mar 21 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a3c8cb1ab5f8579e8a82d0?utm_campaign=1050&utm_source=git)** | Charlestown, IN | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
