@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Project Manager (Intern)](https://jobright.ai/jobs/info/69c0a7267798f73e35e51c85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
+| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/69c0a4de79e36d3a847ce1a7?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Mar 22 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Risk Advisory Services](https://jobright.ai/jobs/info/69bb87bd06c1ba00c54dfeb6?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 22 |
+| ↳ | **[Manager, Risk Advisory Services](https://jobright.ai/jobs/info/69bb87a706c1ba00c54dfe37?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 22 |
 | **[Ardene](https://www.ardene.com)** | **[IT Business & Project Intern](https://jobright.ai/jobs/info/69c087347798f73e35e50888?utm_campaign=1050&utm_source=git)** | Laval, QC | On Site | Mar 22 |
 | **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/69c07fa379e36d3a847ccf7b?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Mar 22 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c06a2c2c312363dcd2e381?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
@@ -87,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Mar 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[FINANCE/STRATEGIC PLANNING PROFESSIONAL INTERNSHIP DEVELOPMENT](https://jobright.ai/jobs/info/691ae18445fb6f5ead8ae84d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Mar 22 |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Mar 22 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986941e8ca8121a3a68e33d?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 22 |
 | **[Precision BioSciences, Inc.](https://precisionbiosciences.com)** | **[Summer Intern - Program & Process Management](https://jobright.ai/jobs/info/69a1db67359fe034b1cd2414?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Mar 22 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Mar 22 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 21 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Field Intern - Southeast Division (Georgia)](https://jobright.ai/jobs/info/69bf8a492c312363dcd249bd?utm_campaign=1050&utm_source=git)** | Moultrie, GA | On Site | Mar 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Key Account Manager Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69311dc9fa28370be26b6fd6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69bf62767798f73e35e42a6e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Mar 21 |
 | **[Arevon](https://arevonenergy.com)** | **[Project Development Intern, Greenfield](https://jobright.ai/jobs/info/69b476d65697383741394e74?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Mar 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Assistant, Associate Dean of Undergraduate and Graduate Studies](https://jobright.ai/jobs/info/69bfbbd57798f73e35e49864?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Mar 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a8936279f3f4037f4283eb?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Mar 21 |
 | ↳ | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a258c80da45516f16b9c90?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Nursing Administration Intern](https://jobright.ai/jobs/info/69bebf14393a1008f7449cde?utm_campaign=1050&utm_source=git)** | Middlebury, VT | On Site | Mar 21 |
-| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a251a4b600907a96289abc?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Mar 21 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Deposit & Payment Operations (Collections) (Hybrid)](https://jobright.ai/jobs/info/69a2a31f0da45516f16c00b3?utm_campaign=1050&utm_source=git)** | Danville, VA | Hybrid | Mar 21 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Facilities Management Internship](https://jobright.ai/jobs/info/69beb64bb106024562842c96?utm_campaign=1050&utm_source=git)** | Sewickley, PA | On Site | Mar 21 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfebd85c5d5f14f46dad3b?utm_campaign=1050&utm_source=git)** | Bal Harbour, FL | On Site | Mar 21 |
-| **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/69a2394c359fe034b1cd75b1?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Mar 21 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Command Center Scheduling, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/698592660f6f7e7a2ce06c7c?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
