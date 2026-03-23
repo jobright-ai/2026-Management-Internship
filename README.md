@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PROJECT MANAGER TW](https://jobright.ai/jobs/info/69c0f8867798f73e35e5b678?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0e40579e36d3a847d4145?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Mar 22 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e3157798f73e35e57a3d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e30a7798f73e35e57a1c?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 22 |
@@ -65,13 +66,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c24?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Mar 22 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0de9c7798f73e35e56eb5?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Mar 22 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 03232026-76132](https://jobright.ai/jobs/info/69c0d5b02c312363dcd35071?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 22 |
-| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69c0c5412c312363dcd33512?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Mar 22 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
-| **[PROJXON](www.projxon.com)** | **[Project Manager (Intern)](https://jobright.ai/jobs/info/69c0a7267798f73e35e51c85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/69c0a4de79e36d3a847ce1a7?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Mar 22 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Risk Advisory Services](https://jobright.ai/jobs/info/69bb87bd06c1ba00c54dfeb6?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 22 |
 | ↳ | **[Manager, Risk Advisory Services](https://jobright.ai/jobs/info/69bb87a706c1ba00c54dfe37?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 22 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Vice President for Strategic Initiatives and Community Engagement (Reg, FT)](https://jobright.ai/jobs/info/69c0f8d57798f73e35e5b7ce?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
 | **[Ardene](https://www.ardene.com)** | **[IT Business & Project Intern](https://jobright.ai/jobs/info/69c087347798f73e35e50888?utm_campaign=1050&utm_source=git)** | Laval, QC | On Site | Mar 22 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Assistant II (Reg FT)](https://jobright.ai/jobs/info/69c0f8d57798f73e35e5b7cd?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
 | **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/69c07fa379e36d3a847ccf7b?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Mar 22 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c06a2c2c312363dcd2e381?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69c0501d79e36d3a847caea2?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
