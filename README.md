@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69c0c5412c312363dcd33512?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Mar 22 |
+| **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[PROJXON](www.projxon.com)** | **[Project Manager (Intern)](https://jobright.ai/jobs/info/69c0a7267798f73e35e51c85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[MBA Intern, Strategy](https://jobright.ai/jobs/info/69c0a4de79e36d3a847ce1a7?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Mar 22 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Senior Manager, Risk Advisory Services](https://jobright.ai/jobs/info/69bb87bd06c1ba00c54dfeb6?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 22 |
@@ -70,10 +72,10 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Internship -  Game Day Operations](https://jobright.ai/jobs/info/69c046b07798f73e35e4e613?utm_campaign=1050&utm_source=git)** | Lakewood Ranch, FL | On Site | Mar 22 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
+| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Mar 22 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Mar 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/69b3a5c8ad360c0340a8d059?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 21 |
 | **[Genea](https://www.getgenea.com/)** | **[Operations & Events Coordinator](https://jobright.ai/jobs/info/69bec1b1393a1008f7449f58?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Mar 21 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a8936279f3f4037f4283eb?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Mar 21 |
-| ↳ | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a258c80da45516f16b9c90?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
-| **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Nursing Administration Intern](https://jobright.ai/jobs/info/69bebf14393a1008f7449cde?utm_campaign=1050&utm_source=git)** | Middlebury, VT | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
