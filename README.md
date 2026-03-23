@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0e40579e36d3a847d4145?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Mar 22 |
+| **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e3157798f73e35e57a3d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e30a7798f73e35e57a1c?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1992c312363dcd35c31?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c25?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c24?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Mar 22 |
+| **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0de9c7798f73e35e56eb5?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Mar 22 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 03232026-76132](https://jobright.ai/jobs/info/69c0d5b02c312363dcd35071?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 22 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69c0c5412c312363dcd33512?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Mar 22 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[PROJXON](www.projxon.com)** | **[Project Manager (Intern)](https://jobright.ai/jobs/info/69c0a7267798f73e35e51c85?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 22 |
@@ -72,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Internship -  Game Day Operations](https://jobright.ai/jobs/info/69c046b07798f73e35e4e613?utm_campaign=1050&utm_source=git)** | Lakewood Ranch, FL | On Site | Mar 22 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Mar 22 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
 | **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Mar 21 |
-| **[Garlock Family of Companies](https://www.associatedmachine.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bec724393a1008f744a6b8?utm_campaign=1050&utm_source=git)** | Palmyra, NY | On Site | Mar 21 |
-| **[IKM Building Solutions](https://illingworth-kilgust.com)** | **[Internship - Assistant Project Manager](https://jobright.ai/jobs/info/69a8ff322580d3183f012eb2?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Mar 21 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69438f4b50bbaf765055959a?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Mar 21 |
-| **[Monroe Community College](http://www.monroecc.edu/)** | **[Chief Information Officer and Associate Vice President, Administrative Services  Monroe Community College](https://jobright.ai/jobs/info/69bec4e3393a1008f744a5b7?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Mar 21 |
-| **[Dignity Health](https://www.dignityhealth.org)** | **[Intern, Facility Management Manager Trainee](https://jobright.ai/jobs/info/69a2a94f359fe034b1cdff89?utm_campaign=1050&utm_source=git)** | Merced, CA | On Site | Mar 21 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/69b3a5c8ad360c0340a8d059?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 21 |
-| **[Genea](https://www.getgenea.com/)** | **[Operations & Events Coordinator](https://jobright.ai/jobs/info/69bec1b1393a1008f7449f58?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Mar 21 |
-| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a8936279f3f4037f4283eb?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
