@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[CTD Temporary Summer Office Manager, PreK – Grade 5](https://jobright.ai/jobs/info/69b065ec0b2db6275c044366?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Mar 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/69b62c2c56973837413b6c55?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 23 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c129f32c312363dcd3ee47?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/69510b6a29655e4dd65a297b?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 23 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e3157798f73e35e57a3d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e30a7798f73e35e57a1c?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1992c312363dcd35c31?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
-| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c25?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c24?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c25?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 22 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0de9c7798f73e35e56eb5?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Mar 22 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 03232026-76132](https://jobright.ai/jobs/info/69c0d5b02c312363dcd35071?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 22 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Mar 22 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69b3ba61ad360c0340a8decc?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Mar 22 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Mar 22 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Mar 22 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Mar 22 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/698542360f6f7e7a2cdfe3e2?utm_campaign=1050&utm_source=git)** | Dorval, QC | Hybrid | Mar 21 |
 | ↳ | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Mar 21 |
 | ↳ | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, QC | Hybrid | Mar 21 |
-| **[Klick](https://www.klick.com)** | **[Project Coordinator, Summer 2026](https://jobright.ai/jobs/info/69a228030da45516f16b70cc?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/695fc5fba112b402660e6f68?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Mar 21 |
 | **[Road Commission For Oakland County](http://www.rcocweb.org)** | **[Central Operations Internship](https://jobright.ai/jobs/info/69bef3d8b10602456284539e?utm_campaign=1050&utm_source=git)** | Waterford, MI | On Site | Mar 21 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, DTC](https://jobright.ai/jobs/info/69bef248482822729301a1f7?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 21 |
