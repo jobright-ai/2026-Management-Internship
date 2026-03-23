@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/69510b6a29655e4dd65a297b?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa56381f59c56275e33005?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/691a9ecdbcdbf3560c9d9366?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 23 |
+| ↳ | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317543fa28370be26baf59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 23 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PROJECT MANAGER TW](https://jobright.ai/jobs/info/69c0f8867798f73e35e5b678?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0e40579e36d3a847d4145?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Mar 22 |
 | **[Prism Electric](http://prismelectric.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e3157798f73e35e57a3d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e30a7798f73e35e57a1c?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1992c312363dcd35c31?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 22 |
-| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c25?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 22 |
 | ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c24?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Mar 22 |
+| ↳ | **[Intern Project Management](https://jobright.ai/jobs/info/69c0e1922c312363dcd35c25?utm_campaign=1050&utm_source=git)** | Leander, TX | On Site | Mar 22 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69c0de9c7798f73e35e56eb5?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Mar 22 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 03232026-76132](https://jobright.ai/jobs/info/69c0d5b02c312363dcd35071?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 22 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Mar 21 |
 | **[Gardner Cryogenics](https://www.gardnercryo.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/69bf776a79e36d3a847c1052?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Mar 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Mar 21 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Mar 21 |
-| **[Marathon Cheese Corporation](https://www.mcheese.com)** | **[Production Internship](https://jobright.ai/jobs/info/69a1d3f4b600907a96282dff?utm_campaign=1050&utm_source=git)** | Marathon, WI | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
