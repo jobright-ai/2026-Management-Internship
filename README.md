@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Supply Chain Planning](https://jobright.ai/jobs/info/69c2155b75f7ff1cd810cd80?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Mar 23 |
+| **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/6986dada8ca8121a3a695f6d?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Mar 23 |
+| ↳ | **[Procurement Intern – Summer - Fall 2026](https://jobright.ai/jobs/info/69b73d5356973837413c57d2?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Mar 23 |
+| **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Supply Chain Planning (Graduate)](https://jobright.ai/jobs/info/69c21163c9ad035e829abc24?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Mar 23 |
+| **[Vigor Marine Group](http://vigor.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/69c2112fc9ad035e829abb01?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Mar 23 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/69c2110d75f7ff1cd810c8ab?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 23 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Supervisor Data](https://jobright.ai/jobs/info/69c2109c75f7ff1cd810c759?utm_campaign=1050&utm_source=git)** | Etobicoke, ON | On Site | Mar 23 |
+| **[Equinix](http://www.equinix.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69c20fec75f7ff1cd810c537?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c20baa75f7ff1cd810b530?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Mar 23 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c20ba275f7ff1cd810b503?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Mar 23 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c20b9775f7ff1cd810b4c2?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Mar 23 |
@@ -81,6 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c1f6f675f7ff1cd810616e?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 23 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/69c1f6f575f7ff1cd810616d?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 23 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c1f6f175f7ff1cd8106169?utm_campaign=1050&utm_source=git)** | Port St Lucie, FL | On Site | Mar 23 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c212542c312363dcd5a05a?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Mar 23 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c2117bc9ad035e829abcba?utm_campaign=1050&utm_source=git)** | West Monroe, LA | On Site | Mar 23 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Development Administrative Coordinator](https://jobright.ai/jobs/info/69c212342c312363dcd59fbc?utm_campaign=1050&utm_source=git)** | Santa Cruz County, CA | Hybrid | Mar 23 |
 | **[Haworth](http://www.haworth.com/)** | **[Logistics Intern (International) - Holland, MI](https://jobright.ai/jobs/info/69c1ecf879e36d3a847f015a?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Mar 23 |
 | **[Steel Sports](https://steelsports.com)** | **[Sports Event Operations Intern](https://jobright.ai/jobs/info/69c1ecef2c312363dcd5214c?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Mar 23 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Strategic Initiatives - Summer Internship](https://jobright.ai/jobs/info/69c1ece575f7ff1cd8104c19?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Mar 23 |
@@ -109,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d75179e36d3a847ee89c?utm_campaign=1050&utm_source=git)** | St John’s, NL | Hybrid | Mar 23 |
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d74275f7ff1cd8102e34?utm_campaign=1050&utm_source=git)** | Vancouver, BC | Hybrid | Mar 23 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69c1d71f75f7ff1cd8102dcf?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | On Site | Mar 23 |
-| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8d?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
+| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8e?utm_campaign=1050&utm_source=git)** | Prince George, BC | Hybrid | Mar 23 |
+| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8d?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 23 |
-| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8e?utm_campaign=1050&utm_source=git)** | Prince George, BC | Hybrid | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69c1d4de2c312363dcd50c5e?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 23 |
 | **[Connecticut College](http://www.conncoll.edu/)** | **[Senior Assistant to Senior Administrator/Administrative Coordinator](https://jobright.ai/jobs/info/69c1d36f2c312363dcd50c21?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Mar 23 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c1d35575f7ff1cd8102cab?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conestoga College School of Business](http://www.conestogac.on.ca/business/)** | **[Project Coordinator, Conestoga Entrepreneurship Collective](https://jobright.ai/jobs/info/69c1bb1875f7ff1cd8100bd9?utm_campaign=1050&utm_source=git)** | Waterloo, ON | Hybrid | Mar 23 |
 | **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Retail Administration Intern](https://jobright.ai/jobs/info/69bb8b705697383741419d1b?utm_campaign=1050&utm_source=git)** | Lebanon, NH | Hybrid | Mar 23 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern - Project Coordinator](https://jobright.ai/jobs/info/69bb29213b74eb1e2c8998d7?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Mar 23 |
-| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c1db5a75f7ff1cd81037a6?utm_campaign=1050&utm_source=git)** | US-OH-Burton | On Site | Mar 23 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026- Operations Intern- Supply Chain](https://jobright.ai/jobs/info/69c1b67d2c312363dcd4deb2?utm_campaign=1050&utm_source=git)** | 2700 E 4th Ave, Hutchinson, KS, 67501, US | On Site | Mar 23 |
-| **[CLEAResult](http://www.clearesult.com)** | **[MBA or Graduate Student Intern – Corporate Development & Strategy](https://jobright.ai/jobs/info/69c1b5d175f7ff1cd8100372?utm_campaign=1050&utm_source=git)** | Toronto ON - University Avenue | Hybrid | Mar 23 |
-| **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Strategic Initiatives - Summer Internship](https://jobright.ai/jobs/info/69c1b57779e36d3a847eb9a2?utm_campaign=1050&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX | Hybrid | Mar 23 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/69c1b2a379e36d3a847eb74c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 23 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/69c1b24d75f7ff1cd8100030?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 23 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[SkillBridge (DoD) Internship – Program Management Analyst](https://jobright.ai/jobs/info/69c1b19775f7ff1cd80ffee6?utm_campaign=1050&utm_source=git)** | Huntsville, AL, US | On Site | Mar 23 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[Operations Coordinator Intern](https://jobright.ai/jobs/info/69c1b1612c312363dcd4da38?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Mar 23 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[SkillBridge (DoD) Internship – Program Management Analyst](https://jobright.ai/jobs/info/69c1b0b62c312363dcd4d8b7?utm_campaign=1050&utm_source=git)** | US-AL-Huntsville | On Site | Mar 23 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Monmouth and Ocean County](https://jobright.ai/jobs/info/69c1b0a72c312363dcd4d861?utm_campaign=1050&utm_source=git)** | Central NJ (Redbank/Asbury) | On Site | Mar 23 |
-| **[Radiant Digital](https://www.radiant.digital/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/69c1b03b79e36d3a847eb576?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
