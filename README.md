@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d74275f7ff1cd8102e34?utm_campaign=1050&utm_source=git)** | Vancouver, BC | Hybrid | Mar 23 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69c1d71f75f7ff1cd8102dcf?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | On Site | Mar 23 |
 | **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8d?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
-| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 23 |
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8e?utm_campaign=1050&utm_source=git)** | Prince George, BC | Hybrid | Mar 23 |
+| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69c1d4de2c312363dcd50c5e?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 23 |
 | **[Connecticut College](http://www.conncoll.edu/)** | **[Senior Assistant to Senior Administrator/Administrative Coordinator](https://jobright.ai/jobs/info/69c1d36f2c312363dcd50c21?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Mar 23 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c1d35575f7ff1cd8102cab?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
