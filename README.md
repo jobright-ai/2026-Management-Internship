@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 03242026-76017](https://jobright.ai/jobs/info/69c23a90c9ad035e829aecdb?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 24 |
+| **[PROJXON](www.projxon.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69c233d4c9ad035e829aeb1e?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Administrative Support New Business Intern](https://jobright.ai/jobs/info/69a8d4a07ac93962b708ad18?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | Hybrid | Mar 23 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Supply Chain Planning](https://jobright.ai/jobs/info/69c2155b75f7ff1cd810cd80?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Mar 23 |
 | **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/6986dada8ca8121a3a695f6d?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Mar 23 |
 | ↳ | **[Procurement Intern – Summer - Fall 2026](https://jobright.ai/jobs/info/69b73d5356973837413c57d2?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Mar 23 |
@@ -120,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d75179e36d3a847ee89c?utm_campaign=1050&utm_source=git)** | St John’s, NL | Hybrid | Mar 23 |
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d74275f7ff1cd8102e34?utm_campaign=1050&utm_source=git)** | Vancouver, BC | Hybrid | Mar 23 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69c1d71f75f7ff1cd8102dcf?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | On Site | Mar 23 |
-| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8e?utm_campaign=1050&utm_source=git)** | Prince George, BC | Hybrid | Mar 23 |
-| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8d?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
+| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8d?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Mar 23 |
 | ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | Hybrid | Mar 23 |
+| ↳ | **[Cancer Information Project Manager](https://jobright.ai/jobs/info/69c1d6eb2c312363dcd50d8e?utm_campaign=1050&utm_source=git)** | Prince George, BC | Hybrid | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69c1d4de2c312363dcd50c5e?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 23 |
 | **[Connecticut College](http://www.conncoll.edu/)** | **[Senior Assistant to Senior Administrator/Administrative Coordinator](https://jobright.ai/jobs/info/69c1d36f2c312363dcd50c21?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Mar 23 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c1d35575f7ff1cd8102cab?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 23 |
@@ -146,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Cancer Center Administrative Intern](https://jobright.ai/jobs/info/69c1c74a75f7ff1cd8101e2a?utm_campaign=1050&utm_source=git)** | Virginia, United States | On Site | Mar 23 |
 | **[Loenbro](http://loenbro.com)** | **[Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed26e?utm_campaign=1050&utm_source=git)** | Gilbert, AZ | On Site | Mar 23 |
 | **[Olympic Steel](https://olysteel.com)** | **[Intern (Safety)](https://jobright.ai/jobs/info/69c1e4cf75f7ff1cd8103fd1?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Mar 23 |
-| **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Real Estate Administrative Intern](https://jobright.ai/jobs/info/69c1c4452c312363dcd4f4ab?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Loenbro](http://loenbro.com)** | **[Intern](https://jobright.ai/jobs/info/69c1c26979e36d3a847ecfdb?utm_campaign=1050&utm_source=git)** | Arizona | On Site | Mar 23 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69c1c10375f7ff1cd810175d?utm_campaign=1050&utm_source=git)** | USA, South Carolina, Ridgeville, 29472 | On Site | Mar 23 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Operational Systems Intern/Co-Op](https://jobright.ai/jobs/info/69c1c04d79e36d3a847ecc9e?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLEAResult](http://www.clearesult.com)** | **[MBA or Graduate Student Intern – Corporate Development & Strategy](https://jobright.ai/jobs/info/69c1be4875f7ff1cd81013dd?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 23 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69c1bb362c312363dcd4e5d7?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Mar 23 |
 | **[Conestoga College School of Business](http://www.conestogac.on.ca/business/)** | **[Project Coordinator, Conestoga Entrepreneurship Collective](https://jobright.ai/jobs/info/69c1bb1875f7ff1cd8100bd9?utm_campaign=1050&utm_source=git)** | Waterloo, ON | Hybrid | Mar 23 |
-| **[Mascoma Bank](https://www.mascomabank.com/business-banking/mascoma-community-development/)** | **[Retail Administration Intern](https://jobright.ai/jobs/info/69bb8b705697383741419d1b?utm_campaign=1050&utm_source=git)** | Lebanon, NH | Hybrid | Mar 23 |
-| **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern - Project Coordinator](https://jobright.ai/jobs/info/69bb29213b74eb1e2c8998d7?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
