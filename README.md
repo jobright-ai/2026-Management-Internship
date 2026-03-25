@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alstom](https://www.alstom.com/)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69bca57845e08b3dc1f96b49?utm_campaign=1050&utm_source=git)** | West Mifflin, PA | On Site | Mar 25 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69c3c1c56f4f855eeda5df67?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Mar 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Business office - Project Analyst Intern](https://jobright.ai/jobs/info/69c3c175d5a1016e98da8e27?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Mar 25 |
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Vice President for Strategic Initiatives and Community Engagement (Reg, FT)](https://jobright.ai/jobs/info/696ad3925fc862418539f790?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 25 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69c37f40753c101b215758db?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Mar 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c3784c7a7a0045db893d93?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Mar 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c37801753c101b21574639?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Mar 24 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462e?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Mar 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462f?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 24 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462e?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Mar 24 |
 | **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 24 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Executive Board Secretariat Intern](https://jobright.ai/jobs/info/69bb57513b74eb1e2c89c3cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 24 |
 | **[TixTrack](http://tixtrack.com)** | **[Executive Assistant (Hybrid - NYC)](https://jobright.ai/jobs/info/69c35e0294007a2195dfc96a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Executive Intern](https://jobright.ai/jobs/info/69c3271594007a2195df6e5f?utm_campaign=1050&utm_source=git)** | US-MI-Grand Rapids | On Site | Mar 24 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op/Intern - Master Planning & Logistics  (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/69c3263894007a2195df6dd7?utm_campaign=1050&utm_source=git)** | Stratford, CA, N4Z 1H3 | On Site | Mar 24 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Project Coordinator, Facilities Development](https://jobright.ai/jobs/info/69c32577753c101b2156c213?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 24 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | On Site | Mar 24 |
 | **[Metrolinx](http://www.metrolinx.com/)** | **[Co-op/Intern Student, Payments Delivery (PRESTO)](https://jobright.ai/jobs/info/69c32268ec22f8310ab14b07?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 24 |
 | **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/69c3220d753c101b2156b6ca?utm_campaign=1050&utm_source=git)** | United State, US | On Site | Mar 24 |
 | **[Voya Financial](https://www.voya.com/)** | **[Enterprise Global Shared Services Operations Intern](https://jobright.ai/jobs/info/69c321dd753c101b2156b64a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Revenue Cycle Managed Services Intern](https://jobright.ai/jobs/info/69c3110e753c101b21568f03?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | **[Credit Corp](http://www.creditcorp.com.au)** | **[Outsourced Performance Manager](https://jobright.ai/jobs/info/69c30dcc94007a2195df36ad?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 24 |
 | **[Select Specialty Hospital](https://www.selectspecialtyhospitals.com/)** | **[Executive Intern](https://jobright.ai/jobs/info/69c30c47ec22f8310ab11a0a?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Office of Data & Innovation - Innovation & Strategy Intern](https://jobright.ai/jobs/info/69c32b0d753c101b2156c966?utm_campaign=1050&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
-| ↳ | **[Office of Data & Innovation - Innovation & Strategy Intern](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161d1?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Office of Data & Innovation - Innovation & Strategy Intern](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161d1?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
+| ↳ | **[Office of Data & Innovation - Innovation & Strategy Intern](https://jobright.ai/jobs/info/69c32b0d753c101b2156c966?utm_campaign=1050&utm_source=git)** | 2001 S STATE ST | Hybrid | Mar 24 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op/Intern - Master Planning & Logistics (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/69c30bf2753c101b21568685?utm_campaign=1050&utm_source=git)** | Stratford, ON | On Site | Mar 24 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Change Management](https://jobright.ai/jobs/info/69c30ba4ec22f8310ab11907?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | Mar 24 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Executive Intern](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161a8?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, US | On Site | Mar 24 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Summer Forum](https://jobright.ai/jobs/info/69c30972753c101b21567b12?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 24 |
-| **[Intersect](https://www.intersectpower.com)** | **[Texas Development MBA Intern](https://jobright.ai/jobs/info/69c3090cec22f8310ab10e86?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
