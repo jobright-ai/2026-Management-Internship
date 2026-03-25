@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 24 |
+| **[UN Women](http://www.unwomen.org/en)** | **[Executive Board Secretariat Intern](https://jobright.ai/jobs/info/69bb57513b74eb1e2c89c3cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 24 |
 | **[TixTrack](http://tixtrack.com)** | **[Executive Assistant (Hybrid - NYC)](https://jobright.ai/jobs/info/69c35e0294007a2195dfc96a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Director of Programming](https://jobright.ai/jobs/info/69c35dfe94007a2195dfc961?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 24 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/69c35c34753c101b21571452?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Mar 24 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2026 Summer Internship - General Office Operations](https://jobright.ai/jobs/info/69c31418ec22f8310ab127cd?utm_campaign=1050&utm_source=git)** | Paterson, NJ | On Site | Mar 24 |
 | **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Fall 2026](https://jobright.ai/jobs/info/69c3139794007a2195df3e1b?utm_campaign=1050&utm_source=git)** | Michael Owens Way, Perrysburg, OH 43551, USA | Hybrid | Mar 24 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Revenue Cycle Managed Services Intern](https://jobright.ai/jobs/info/69c3110e753c101b21568f03?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
-| **[Stantec](http://www.stantec.com)** | **[Project Manager Site / Civil Engineering](https://jobright.ai/jobs/info/69c310fe94007a2195df39d0?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 24 |
 | **[Credit Corp](http://www.creditcorp.com.au)** | **[Outsourced Performance Manager](https://jobright.ai/jobs/info/69c30dcc94007a2195df36ad?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 24 |
 | **[Select Specialty Hospital](https://www.selectspecialtyhospitals.com/)** | **[Executive Intern](https://jobright.ai/jobs/info/69c30c47ec22f8310ab11a0a?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Office of Data & Innovation - Innovation & Strategy Intern](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161d1?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 24 |
@@ -126,16 +127,16 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Summer Forum](https://jobright.ai/jobs/info/69c30972753c101b21567b12?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Mar 24 |
 | **[Intersect](https://www.intersectpower.com)** | **[Texas Development MBA Intern](https://jobright.ai/jobs/info/69c3090cec22f8310ab10e86?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[Arcosa Inc.](https://www.arcosa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c3087d753c101b21567a00?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 24 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f2?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f5?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f3?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f4?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f5?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f2?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f1?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f4?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087a753c101b215679f3?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251d?utm_campaign=1050&utm_source=git)** | Norfolk, Virginia, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251f?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 24 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251a?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df2519?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251e?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251d?utm_campaign=1050&utm_source=git)** | Norfolk, Virginia, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251a?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Mar 24 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3087794007a2195df251f?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c30870ec22f8310ab10e38?utm_campaign=1050&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3086fec22f8310ab10e2d?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Mar 24 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3086eec22f8310ab10e29?utm_campaign=1050&utm_source=git)** | Greeley, Colorado, United States | On Site | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[Lead Care Manager](https://jobright.ai/jobs/info/69c3196494007a2195df54ff?utm_campaign=1050&utm_source=git)** | Atlantic, IA | On Site | Mar 24 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/69c2f70eec22f8310ab0fc02?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 24 |
 | **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/69c2f67e753c101b215667e9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/69c2f5ef94007a2195df10f8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
