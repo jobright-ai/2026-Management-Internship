@@ -57,21 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Grocery Operations](https://jobright.ai/jobs/info/698ba91a0f6f7e7a2ce723e0?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Mar 25 |
+| **[YES Network](http://web.yesnetwork.com)** | **[Strategy and Operations Intern – Summer 2026 (NYC)](https://jobright.ai/jobs/info/69c40d0433eecf3107942797?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Project Management Summer Intern](https://jobright.ai/jobs/info/69a712ca2672cb0acb4b7ad7?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | Hybrid | Mar 25 |
+| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, IT Project Management](https://jobright.ai/jobs/info/698fcd8c0cc8ea15f1da6989?utm_campaign=1050&utm_source=git)** | Canton, MI | On Site | Mar 25 |
+| **[Jabil](https://www.jabil.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69c40499d5a1016e98db099d?utm_campaign=1050&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Mar 25 |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69c40156d5a1016e98db0826?utm_campaign=1050&utm_source=git)** | Lugoff, SC | On Site | Mar 25 |
+| **[True Anomaly](https://www.trueanomaly.space)** | **[Program Manager Intern](https://jobright.ai/jobs/info/698aa89f4db8972cec0004cc?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 25 |
+| **[ORC](http://orcolan.com)** | **[Utilities Right of Way Document Specialist - St. Charles, MO](https://jobright.ai/jobs/info/69a70a2e76bbe83d3afa5af9?utm_campaign=1050&utm_source=git)** | St Charles, MO | Hybrid | Mar 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/69a7458b76bbe83d3afaa1d9?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 25 |
 | ↳ | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/698a576b0f6f7e7a2ce571e5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 25 |
-| **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69c3fc2133eecf31079415dd?utm_campaign=1050&utm_source=git)** | Morrisville, NC | Hybrid | Mar 25 |
 | **[Wajax](https://www.wajax.com/)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69a776c82672cb0acb4bedfb?utm_campaign=1050&utm_source=git)** | Acheson, AB | On Site | Mar 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Coordinator Region Office Operations - Levis, QC](https://jobright.ai/jobs/info/69b4eaaf3b74eb1e2c826611?utm_campaign=1050&utm_source=git)** | Québec, QC | On Site | Mar 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at Arlington](https://jobright.ai/jobs/info/698a523447434001cc6886f4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 25 |
 | **[Wajax](https://www.wajax.com/)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69a7784376bbe83d3afadcbd?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
 | ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69a77c3f76bbe83d3afae107?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Mar 25 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6979668c39f7f96cc6d1efd4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 25 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - South Windsor Warehouse,](https://jobright.ai/jobs/info/69c3f589d5a1016e98db009a?utm_campaign=1050&utm_source=git)** | South Windsor, CT | On Site | Mar 25 |
 | **[Major League Soccer](http://www.mlssoccer.com)** | **[Director, International](https://jobright.ai/jobs/info/69c3f54fd5a1016e98db0042?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Transportation Support, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/698b7c0a0f6f7e7a2ce6eb02?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Mar 25 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a5c70f359fe034b1d060ba?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6969890f639b452fb57f6574?utm_campaign=1050&utm_source=git)** | New Jersey, United States | On Site | Mar 25 |
 | **[ISDA](https://www.isda.org)** | **[Solutions Adoption Intern](https://jobright.ai/jobs/info/69c3efdcd5a1016e98daf717?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 25 |
 | **[Planet](http://www.planet.com)** | **[Senior Technical Program Manager, Infrastructure](https://jobright.ai/jobs/info/698a4b1647434001cc687f9a?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 25 |
+| **[ITT Inc.](http://www.itt.com)** | **[Strategy & Business Development Intern](https://jobright.ai/jobs/info/69c40d9c6f4f855eeda666d1?utm_campaign=1050&utm_source=git)** | US-CT-Stamford | On Site | Mar 25 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c40cf633eecf3107942746?utm_campaign=1050&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Mar 25 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern – VA and Eastern NC,](https://jobright.ai/jobs/info/69a7abc876bbe83d3afb1232?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Mar 25 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Casualty Subrogation Manager (Tallahassee, FL)](https://jobright.ai/jobs/info/69c1fc0a75f7ff1cd8106981?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Mar 25 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/698c168ce4f6572f0e4411c6?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Mar 25 |
@@ -124,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69c37f40753c101b215758db?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Mar 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c3784c7a7a0045db893d93?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Mar 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c37801753c101b21574639?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Mar 24 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462f?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462e?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Mar 24 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c377fd753c101b2157462f?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Mar 24 |
 | **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Mar 24 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Executive Board Secretariat Intern](https://jobright.ai/jobs/info/69bb57513b74eb1e2c89c3cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 24 |
 | **[TixTrack](http://tixtrack.com)** | **[Executive Assistant (Hybrid - NYC)](https://jobright.ai/jobs/info/69c35e0294007a2195dfc96a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voya Financial](https://www.voya.com/)** | **[Enterprise Global Shared Services Operations Intern](https://jobright.ai/jobs/info/69c33426ec22f8310ab17139?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Mar 24 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate Level, Computer Science)](https://jobright.ai/jobs/info/69c3340894007a2195df8674?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Project & Product Strategy Office (Fall 2026)](https://jobright.ai/jobs/info/69c331f094007a2195df855c?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Mar 24 |
-| **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern Wholesale Operations (Summer 2026)](https://jobright.ai/jobs/info/69c331afec22f8310ab16fe1?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Mar 24 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Operational Excellence Program Leader (Hybrid in Gold River, CA)](https://jobright.ai/jobs/info/69c330be94007a2195df7f1c?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | Hybrid | Mar 24 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Smithfield, UT - Summer 2026](https://jobright.ai/jobs/info/69c32da1ec22f8310ab16528?utm_campaign=1050&utm_source=git)** | Smithfield, UT | On Site | Mar 24 |
-| **[Logitech](https://www.logitech.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c32da1ec22f8310ab16526?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Mar 24 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Administrative Student Assistant](https://jobright.ai/jobs/info/69c394a17a7a0045db8963dd?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
-| ↳ | **[Business and Program Operations Support Assistant](https://jobright.ai/jobs/info/69c398d1753c101b21577111?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Special Assistant to the Vice President of Enrollment Strategy](https://jobright.ai/jobs/info/69c3a4f4753c101b21578723?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Mar 24 |
-| ↳ | **[Associate Vice President, Development](https://jobright.ai/jobs/info/69c3a6c57a7a0045db8982a8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| ↳ | **[AI Strategy & Operations Manager](https://jobright.ai/jobs/info/69c3a71794007a2195e03c72?utm_campaign=1050&utm_source=git)** | Bronx, NY | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
