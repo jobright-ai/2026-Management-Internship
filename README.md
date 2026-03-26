@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Administrative Coordinator, VP Finance](https://jobright.ai/jobs/info/69c499246f4f855eeda73558?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 IT Project Management Intern - Redondo Beach CA - R10227087](https://jobright.ai/jobs/info/69c4971333eecf310794faa6?utm_campaign=1050&utm_source=git)** | Redondo Beach, CA | On Site | Mar 25 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, EAC Data & Program Operations](https://jobright.ai/jobs/info/69c496d533eecf310794f9f9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Operations Intern: D2C](https://jobright.ai/jobs/info/69c48942d5a1016e98dbcac2?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c45e9f6f4f855eeda6e541?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Mar 25 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Business intern, Northern Ontario Operations](https://jobright.ai/jobs/info/69c45d8f33eecf310794a9da?utm_campaign=1050&utm_source=git)** | Kapuskasing, ON | On Site | Mar 25 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c4832333eecf310794de77?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Mar 25 |
-| ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c483276f4f855eeda718b9?utm_campaign=1050&utm_source=git)** | Aiken, SC, US | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c48332d5a1016e98dbc6c9?utm_campaign=1050&utm_source=git)** | US-SC-Aiken | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c483276f4f855eeda718b9?utm_campaign=1050&utm_source=git)** | Aiken, SC, US | On Site | Mar 25 |
 | **[Scale AI](https://scale.com)** | **[AI Deployment Strategist Intern](https://jobright.ai/jobs/info/69c45bf533eecf310794a9ac?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Project Manager Technical  Support Intern](https://jobright.ai/jobs/info/69c45b6dd5a1016e98db9121?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69c45b6dd5a1016e98db9118?utm_campaign=1050&utm_source=git)** | Ingleside, TX | On Site | Mar 25 |
@@ -119,6 +120,8 @@ For a complete list, click the following sortable link below:
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69c4419a33eecf3107947181?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Mar 25 |
 | **[Stanislaus Food Products](https://stanislaus.com/)** | **[Distribution Operations Internship](https://jobright.ai/jobs/info/69c46c4433eecf310794be62?utm_campaign=1050&utm_source=git)** | Modesto, California, United States | On Site | Mar 25 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Tauber Internship-Summer 2026](https://jobright.ai/jobs/info/69c4413233eecf3107947107?utm_campaign=1050&utm_source=git)** | Imlay City, MI | On Site | Mar 25 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/69c49e40d5a1016e98dbed1a?utm_campaign=1050&utm_source=git)** | Chandler, AZ, US | On Site | Mar 25 |
+| ↳ | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/69c49e1c33eecf3107950355?utm_campaign=1050&utm_source=git)** | US-AZ-Chandler | On Site | Mar 25 |
 | **[Electrolux Group](https://www.electroluxappliances.com)** | **[Internship Procurement – HQ Stockholm, Sweden](https://jobright.ai/jobs/info/69c4408f6f4f855eeda6ac36?utm_campaign=1050&utm_source=git)** | Stockholm, NY | Hybrid | Mar 25 |
 | **[Taurus Engineering & Testing](http://www.taurusig.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c4632d6f4f855eeda6e92b?utm_campaign=1050&utm_source=git)** | Port Lavaca, TX, US | On Site | Mar 25 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Operations Intern: D2C](https://jobright.ai/jobs/info/69c45b6333eecf310794a834?utm_campaign=1050&utm_source=git)** | New York, New York, United States | Hybrid | Mar 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[DTS Summer Intern](https://jobright.ai/jobs/info/69c42dbcd5a1016e98db3f54?utm_campaign=1050&utm_source=git)** | Stratford, CT | On Site | Mar 25 |
 | **[PTSD Foundation Of America](http://www.ptsdusa.org/)** | **[President Office Graduate Level Intern](https://jobright.ai/jobs/info/69c450c16f4f855eeda6c3ed?utm_campaign=1050&utm_source=git)** | Houston, TX, US | Hybrid | Mar 25 |
 | **[Airbnb](https://www.airbnb.com)** | **[Sourcing Operations & Innovation Intern (MBA)](https://jobright.ai/jobs/info/69c4712ed5a1016e98dbab64?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Ports America](https://www.portsamerica.com/)** | **[Operations Intern- Auto-Processing - Newark, NJ](https://jobright.ai/jobs/info/69a938c379f3f4037f4405ae?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Mar 25 |
-| **[WM](https://www.wm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c42899d5a1016e98db349a?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 25 |
-| **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Operations Project Management Intern](https://jobright.ai/jobs/info/69c428436f4f855eeda68559?utm_campaign=1050&utm_source=git)** | Michigan City, IN | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
