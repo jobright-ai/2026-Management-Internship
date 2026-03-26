@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 IT Project Management Intern - Redondo Beach CA - R10227087](https://jobright.ai/jobs/info/69c4971333eecf310794faa6?utm_campaign=1050&utm_source=git)** | Redondo Beach, CA | On Site | Mar 25 |
+| **[Empire State Development](https://esd.ny.gov/)** | **[Intern, EAC Data & Program Operations](https://jobright.ai/jobs/info/69c496d533eecf310794f9f9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Enhanced](https://www.enhanced.com/)** | **[Operations Intern: D2C](https://jobright.ai/jobs/info/69c48942d5a1016e98dbcac2?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Washington Commanders](http://www.commanders.com/)** | **[2026 Training Camp Internship](https://jobright.ai/jobs/info/69c486a0d5a1016e98dbc8f4?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Mar 25 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69c481ff33eecf310794dc39?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Clerk FT – 6690](https://jobright.ai/jobs/info/69c4809cd5a1016e98dbc153?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 25 |
 | **[Stantec](http://www.stantec.com)** | **[Administrative Support Student - Summer 2026](https://jobright.ai/jobs/info/69c47d4b6f4f855eeda70e8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | On Site | Mar 25 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Administrative Assistant](https://jobright.ai/jobs/info/69c46a9233eecf310794bcef?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Mar 25 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/69c4475133eecf31079478d1?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69c46bcad5a1016e98dba55c?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46d9333eecf310794c094?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Mar 25 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46d8f6f4f855eeda6fa66?utm_campaign=1050&utm_source=git)** | Rocklin | Hybrid | Mar 25 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46d9333eecf310794c094?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Mar 25 |
 | **[Children's Home Society of Florida](https://chsfl.org)** | **[M- Power Intern](https://jobright.ai/jobs/info/69c46c34d5a1016e98dba5ef?utm_campaign=1050&utm_source=git)** | Pensacola, FL 32502, USA | On Site | Mar 25 |
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Operation Analyst Intern AV](https://jobright.ai/jobs/info/69c46c676f4f855eeda6f880?utm_campaign=1050&utm_source=git)** | Miami, Florida, United States | On Site | Mar 25 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - MarComm](https://jobright.ai/jobs/info/69c443a06f4f855eeda6ae8b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ports America](https://www.portsamerica.com/)** | **[Operations Intern- Auto-Processing - Newark, NJ](https://jobright.ai/jobs/info/69a938c379f3f4037f4405ae?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Mar 25 |
 | **[WM](https://www.wm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c42899d5a1016e98db349a?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 25 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Operations Project Management Intern](https://jobright.ai/jobs/info/69c428436f4f855eeda68559?utm_campaign=1050&utm_source=git)** | Michigan City, IN | On Site | Mar 25 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c42807d5a1016e98db32df?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Mar 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c427f7d5a1016e98db32ca?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Mar 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Gas Transmission Project Management Process and Safety Planning Intern](https://jobright.ai/jobs/info/69c427b66f4f855eeda68293?utm_campaign=1050&utm_source=git)** | San Ramon, CA | Hybrid | Mar 25 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69c427b26f4f855eeda6827e?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
