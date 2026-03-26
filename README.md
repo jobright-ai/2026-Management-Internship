@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Break Time Convenience Store](https://mybreaktime.com/home/)** | **[Management Trainee](https://jobright.ai/jobs/info/69c5017af7bed33dee481a6e?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Mar 26 |
+| **[Schneider Electric](https://www.se.com)** | **[Project Coordinator - Intern](https://jobright.ai/jobs/info/69c4fe5c33eecf3107957a5f?utm_campaign=1050&utm_source=git)** | Milton, ON | On Site | Mar 26 |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[BSG Inventory Management Intern](https://jobright.ai/jobs/info/698bf0670f6f7e7a2ce77358?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 26 |
 | **[Klick](https://www.klick.com)** | **[Pitch Coordinator, Summer 2026](https://jobright.ai/jobs/info/69c4f3ec33eecf3107957109?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[City of Toronto](http://www.toronto.ca)** | **[STRATEGIC ENTERPRISE INTEGRATION & MODERNIZATION LEAD (Data Lead: Anaplan FP&A implementation)](https://jobright.ai/jobs/info/69c4f3a0d5a1016e98dc6206?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
 | **[Wichita Public Schools - USD259](https://www.usd259.org)** | **[Administrative Assistant 3 (2025-2026 School Year)](https://jobright.ai/jobs/info/69c4f07433eecf3107956f50?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Mar 26 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Remote Supply Chain Management Intern](https://jobright.ai/jobs/info/69c4e9f76f4f855eeda7adf1?utm_campaign=1050&utm_source=git)** | Arlington, VA | Remote | Mar 26 |
 | **[ByteDance](http://bytedance.com)** | **[Facilities Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c4e3b46f4f855eeda79a66?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/69c4e2ca6f4f855eeda79551?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Mar 26 |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69c4fe8033eecf3107957b5a?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 26 |
 | **[TransLink](http://www.translink.ca)** | **[Technology Business Management Intern - FTT](https://jobright.ai/jobs/info/69c4daa56f4f855eeda78d68?utm_campaign=1050&utm_source=git)** | Vancouver, BC | Hybrid | Mar 26 |
 | **[Ellucian](http://www.ellucian.com)** | **[Corporate Development MBA Intern](https://jobright.ai/jobs/info/69c4d62c6f4f855eeda782d2?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Data Analytics & Project Management Intern](https://jobright.ai/jobs/info/69c4f37733eecf31079570c5?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | Mar 25 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, EAC Data & Program Operations](https://jobright.ai/jobs/info/69c496d533eecf310794f9f9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations Safety Strategy (Summer 2026)](https://jobright.ai/jobs/info/69c4bd496f4f855eeda7669e?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 25 |
 | **[Enhanced](https://www.enhanced.com/)** | **[Operations Intern: D2C](https://jobright.ai/jobs/info/69c48942d5a1016e98dbcac2?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| **[Washington Commanders](http://www.commanders.com/)** | **[2026 Training Camp Internship](https://jobright.ai/jobs/info/69c486a0d5a1016e98dbc8f4?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Mar 25 |
 | **[Office Depot](http://officedepot.com)** | **[2026 Summer Intern: Commercial Strategy & Market Development](https://jobright.ai/jobs/info/69c481ff33eecf310794dc39?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Clerk FT – 6690](https://jobright.ai/jobs/info/69c4809cd5a1016e98dbc153?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 25 |
 | **[Stantec](http://www.stantec.com)** | **[Administrative Support Student - Summer 2026](https://jobright.ai/jobs/info/69c47d4b6f4f855eeda70e8f?utm_campaign=1050&utm_source=git)** | Ottawa, ON | On Site | Mar 25 |
@@ -104,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[International Workplace Group plc](http://www.iwgplc.com)** | **[Project Intern - Facilities](https://jobright.ai/jobs/info/69c46133d5a1016e98db95ba?utm_campaign=1050&utm_source=git)** | Addison, TX | Remote | Mar 25 |
 | **[Maximus](http://www.maximus.com/)** | **[Global Impact & Belonging Intern](https://jobright.ai/jobs/info/69c4610fd5a1016e98db959d?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 25 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Business intern, Northern Ontario Operations](https://jobright.ai/jobs/info/69c45d8f33eecf310794a9da?utm_campaign=1050&utm_source=git)** | Kapuskasing, ON | On Site | Mar 25 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c4832333eecf310794de77?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Mar 25 |
-| ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c483276f4f855eeda718b9?utm_campaign=1050&utm_source=git)** | Aiken, SC, US | On Site | Mar 25 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c483276f4f855eeda718b9?utm_campaign=1050&utm_source=git)** | Aiken, SC, US | On Site | Mar 25 |
 | ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c48332d5a1016e98dbc6c9?utm_campaign=1050&utm_source=git)** | US-SC-Aiken | On Site | Mar 25 |
+| ↳ | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69c4832333eecf310794de77?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Mar 25 |
 | **[Scale AI](https://scale.com)** | **[AI Deployment Strategist Intern](https://jobright.ai/jobs/info/69c45bf533eecf310794a9ac?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Project Manager Technical  Support Intern](https://jobright.ai/jobs/info/69c45b6dd5a1016e98db9121?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Mar 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69c45b6dd5a1016e98db9118?utm_campaign=1050&utm_source=git)** | Ingleside, TX | On Site | Mar 25 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Motor Vehicles](https://www.txdmv.gov/)** | **[TxDMV - Administrative Assistant](https://jobright.ai/jobs/info/69c46a9233eecf310794bcef?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Mar 25 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Internship - Summer 2026](https://jobright.ai/jobs/info/69c4475133eecf31079478d1?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Mar 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69c46d8f6f4f855eeda6fa66?utm_campaign=1050&utm_source=git)** | Rocklin | Hybrid | Mar 25 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46bcad5a1016e98dba55c?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46d9333eecf310794c094?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Mar 25 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c46bcad5a1016e98dba55c?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
 | **[Children's Home Society of Florida](https://chsfl.org)** | **[M- Power Intern](https://jobright.ai/jobs/info/69c46c34d5a1016e98dba5ef?utm_campaign=1050&utm_source=git)** | Pensacola, FL 32502, USA | On Site | Mar 25 |
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Operation Analyst Intern AV](https://jobright.ai/jobs/info/69c46c676f4f855eeda6f880?utm_campaign=1050&utm_source=git)** | Miami, Florida, United States | On Site | Mar 25 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - MarComm](https://jobright.ai/jobs/info/69c443a06f4f855eeda6ae8b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - ORD](https://jobright.ai/jobs/info/69c438646f4f855eeda69f01?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Management Team Secretary](https://jobright.ai/jobs/info/69c45a6b33eecf310794a491?utm_campaign=1050&utm_source=git)** | Headquarters, KY | On Site | Mar 25 |
 | ↳ | **[Team Secretary - Adult Community Mental Health/Crisis & Liaison](https://jobright.ai/jobs/info/69c45a7c33eecf310794a4e3?utm_campaign=1050&utm_source=git)** | House, NM | On Site | Mar 25 |
-| **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c438086f4f855eeda69e8d?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 25 |
-| **[PURIS](https://teamipr.com/)** | **[Intern](https://jobright.ai/jobs/info/69c437e5d5a1016e98db4df2?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Mar 25 |
-| **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Project Management Intern](https://jobright.ai/jobs/info/69c437cfd5a1016e98db4dd3?utm_campaign=1050&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
