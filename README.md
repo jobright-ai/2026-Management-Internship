@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Healthcare Operations Intern (Summer 2026 – Paid)](https://jobright.ai/jobs/info/69c6084f83ea553769fd2449?utm_campaign=1050&utm_source=git)** | Missoula, MT | On Site | Mar 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c606a21818a24cd84bd63b?utm_campaign=1050&utm_source=git)** | Freeport, IL | On Site | Mar 26 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Transportation & Supply Chain Intern](https://jobright.ai/jobs/info/69c602751b5ad0288737bcbe?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 26 |
 | **[Morada Senior Living](https://www.moradaseniorliving.com/)** | **[10p-6am Med Tech/Care Manager needed](https://jobright.ai/jobs/info/69c5fc1caa9a29199e80c634?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/69c5fae983ea553769fd1e0c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Red Stag Fulfillment](https://redstagfulfillment.com/)** | **[Operations Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/69c5f88eaa3c2c1995e065b7?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AgCertain Industries, Inc.](https://www.agcertain.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c59078aa9a29199e80757e?utm_campaign=1050&utm_source=git)** | Boone, IA | On Site | Mar 26 |
 | ↳ | **[Intern, Logistics](https://jobright.ai/jobs/info/69c58fe5e565c26a70012372?utm_campaign=1050&utm_source=git)** | Boone, IA 50036 | On Site | Mar 26 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Nursery Planning and Strategy Intern](https://jobright.ai/jobs/info/69c58f7983ea553769fcca70?utm_campaign=1050&utm_source=git)** | US - Redding, California | On Site | Mar 26 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696562f3a112b402661338a3?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 26 |
-| **[Forsyth County Government](http://www.forsythco.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69c58ccaaa9a29199e807157?utm_campaign=1050&utm_source=git)** | Cumming, GA | On Site | Mar 26 |
-| **[UDT](http://www.udtonline.com)** | **[Intern - Lifecycle Services Rotational Internship](https://jobright.ai/jobs/info/69c58967e565c26a70011fa9?utm_campaign=1050&utm_source=git)** | Miramar, FL | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
