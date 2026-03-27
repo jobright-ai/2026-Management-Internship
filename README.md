@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GKN Automotive](https://www.gknautomotive.com/)** | **[Continuous Improvement - Summer Intern](https://jobright.ai/jobs/info/69c6d09b1818a24cd84c8b66?utm_campaign=1050&utm_source=git)** | Newton, NC | On Site | Mar 27 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69726bd04ccbf64f8df2623e?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Mar 27 |
+| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Operations Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/69c6d02de565c26a70022e45?utm_campaign=1050&utm_source=git)** | Rock Hill, NY | Hybrid | Mar 27 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c6cf5983ea553769fddabd?utm_campaign=1050&utm_source=git)** | Wichita Falls, TX | On Site | Mar 27 |
+| **[AXA XL](https://axaxl.com)** | **[Underwriting Operations Intern - Middle Market Intern, Americas](https://jobright.ai/jobs/info/698eaf06f64d441a1650f61b?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 27 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - EPMO Department (2026)](https://jobright.ai/jobs/info/69c6cd271818a24cd84c8a79?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 27 |
+| ↳ | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/69c6cccce565c26a70022d76?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 27 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[IT Project Management Intern (UNPAID)](https://jobright.ai/jobs/info/69c6ca1db773006330b72eac?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
+| **[ABBA Roller](https://abbaroller.com/)** | **[Intern - Continuous Improvement & Operations](https://jobright.ai/jobs/info/69c6c98783ea553769fdd6d5?utm_campaign=1050&utm_source=git)** | Bloomfield, CT, US | On Site | Mar 27 |
+| **[IRP Medical](http://www.irpi.com)** | **[Intern - Continuous Improvement & Operations](https://jobright.ai/jobs/info/69c6c974e565c26a700229f7?utm_campaign=1050&utm_source=git)** | Bloomfield, CT, US | On Site | Mar 27 |
+| **[Providence Equity Partners](http://www.provequity.com)** | **[MBA Intern, Portfolio Operations](https://jobright.ai/jobs/info/69c6c95e1818a24cd84c8696?utm_campaign=1050&utm_source=git)** | US NY New York | On Site | Mar 27 |
+| ↳ | **[MBA Intern, Portfolio Operations](https://jobright.ai/jobs/info/69c6c95caa3c2c1995e11fee?utm_campaign=1050&utm_source=git)** | US MA Boston (500 Boylston Street) | On Site | Mar 27 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69c6c4ebe565c26a70022839?utm_campaign=1050&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 27 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Mar 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/69c6c2c31b5ad02887386baa?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
@@ -77,6 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Mar 27 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Software Project Management Internship](https://jobright.ai/jobs/info/698e59d10f6f7e7a2cea6147?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[MRI Center Administrative Director](https://jobright.ai/jobs/info/69c6ae3683ea553769fdc981?utm_campaign=1050&utm_source=git)** | Burlington, VT | On Site | Mar 27 |
+| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6cd091818a24cd84c8a5b?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 27 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Executive Operations Support Intern – Summer 2026](https://jobright.ai/jobs/info/69c6ca161b5ad0288738711f?utm_campaign=1050&utm_source=git)** | West Des Moines, IA, US | On Site | Mar 27 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate, Business Management)](https://jobright.ai/jobs/info/69bdd7ed482822729300799c?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 27 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Project Manager (Administrative Analyst/Specialist – Exempt III)](https://jobright.ai/jobs/info/695c7dea9a87b95a9397ce79?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Milwaukee](https://jobright.ai/jobs/info/68ca518b06a34016008c6a4d?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 27 |
@@ -108,10 +122,13 @@ For a complete list, click the following sortable link below:
 | **[UNC Health](https://www.unchealth.org)** | **[Grad Student Intern - Supply Chain](https://jobright.ai/jobs/info/69c697a783ea553769fdbdd9?utm_campaign=1050&utm_source=git)** | Triangle Area | On Site | Mar 27 |
 | **[University of Maryland, Baltimore (UMB)](http://www.umaryland.edu/)** | **[Office Manager - Student and Academic Services](https://jobright.ai/jobs/info/69c586bfaa9a29199e806ed5?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 27 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69c6b3681b5ad02887386294?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 27 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Mar 27 |
+| ↳ | **[District Manager Intern - Southern California and Phoenix,](https://jobright.ai/jobs/info/698415918da7a612045e0321?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Mar 27 |
 | **[Optum](https://www.optum.com/)** | **[PBDP Grad Intern - U of UT](https://jobright.ai/jobs/info/69c6925eb773006330b712fc?utm_campaign=1050&utm_source=git)** | Draper, UT | Hybrid | Mar 27 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69c07d617798f73e35e505df?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern & Southwest Florida,](https://jobright.ai/jobs/info/69a5d1d6359fe034b1d07489?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL | On Site | Mar 27 |
 | ↳ | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/69a5db9bb600907a962b9ae8?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Mar 27 |
+| ↳ | **[District Manager Intern – VA and Eastern NC,](https://jobright.ai/jobs/info/69a7abc876bbe83d3afb1232?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Mar 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1050&utm_source=git)** | Rock Hill, SC | On Site | Mar 27 |
 | **[GKN Automotive](https://www.gknautomotive.com/)** | **[Continuous Improvement - Summer Intern](https://jobright.ai/jobs/info/69c68e3cb773006330b71103?utm_campaign=1050&utm_source=git)** | 1848 GKN Way, Newton, North Carolina, 28658, US | On Site | Mar 27 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCO Operations Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69719b8651f726477183f57b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 27 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Procurement & Logistics Intern](https://jobright.ai/jobs/info/69c653bf1eeb5c04d406eb5e?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Mar 27 |
 | **[Photronics](http://www.photronics.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c6512a83ea553769fd9a1e?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Mar 27 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c650d11eeb5c04d406df35?utm_campaign=1050&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
-| **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Program Operations Analyst 2](https://jobright.ai/jobs/info/69c64bc283ea553769fd8b71?utm_campaign=1050&utm_source=git)** | Berkeley, CA | Hybrid | Mar 27 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69c6481183ea553769fd751e?utm_campaign=1050&utm_source=git)** | Home, KS | Hybrid | Mar 27 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69c647ffaa9a29199e811b8d?utm_campaign=1050&utm_source=git)** | West Mifflin, PA | Hybrid | Mar 27 |
-| **[UN Women](http://www.unwomen.org/en)** | **[Executive Board Secretariat Intern](https://jobright.ai/jobs/info/69bb57513b74eb1e2c89c3cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc22?utm_campaign=1050&utm_source=git)** | Branford, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc21?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c64299aa3c2c1995e0bc17?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c64293aa3c2c1995e0bc0f?utm_campaign=1050&utm_source=git)** | Excelsior, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6427b83ea553769fd7022?utm_campaign=1050&utm_source=git)** | Minnetonka, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c642561818a24cd84c20b9?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c642501818a24cd84c20b2?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c6424f1818a24cd84c20ae?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6424a1818a24cd84c20a9?utm_campaign=1050&utm_source=git)** | Westport, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c641621b5ad02887380898?utm_campaign=1050&utm_source=git)** | Norwalk, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6415e1b5ad02887380891?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad0288738088b?utm_campaign=1050&utm_source=git)** | West Haven, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad02887380889?utm_campaign=1050&utm_source=git)** | Trumbull, CT | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
