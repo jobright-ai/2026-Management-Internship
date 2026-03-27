@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morada Senior Living](https://www.moradaseniorliving.com/)** | **[10p-6am Med Tech/Care Manager needed](https://jobright.ai/jobs/info/69c5fc1caa9a29199e80c634?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
+| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/69c5fae983ea553769fd1e0c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Red Stag Fulfillment](https://redstagfulfillment.com/)** | **[Operations Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/69c5f88eaa3c2c1995e065b7?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 26 |
 | **[Children's Health](https://www.childrens.com/)** | **[Pharmacy Administrative Intern](https://jobright.ai/jobs/info/69c5f79eaa3c2c1995e06594?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Director of Operations](https://jobright.ai/jobs/info/69c5f079aa3c2c1995e05fd8?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 26 |
 | **[Welldoc](https://www.welldoc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69c5dca31818a24cd84bbe4f?utm_campaign=1050&utm_source=git)** | Columbia, MD | Hybrid | Mar 26 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c5cbe4aa9a29199e80aa59?utm_campaign=1050&utm_source=git)** | New Iberia, LA | On Site | Mar 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Assistant to the Athletic Director](https://jobright.ai/jobs/info/69c5cbd6aa9a29199e80aa39?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Mar 26 |
 | **[MAT Friction](http://www.matholdingsinc.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c5cb151818a24cd84bb30e?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Mar 26 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Project Coordinator](https://jobright.ai/jobs/info/69c600a51b5ad0288737babd?utm_campaign=1050&utm_source=git)** | Bronx, NY | Hybrid | Mar 26 |
 | **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/69c5c955aa9a29199e80a8f6?utm_campaign=1050&utm_source=git)** | United, LA | On Site | Mar 26 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Facilities & MRO / Indirect Sourcing](https://jobright.ai/jobs/info/69c5c9511818a24cd84bb2e0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Mar 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE](https://jobright.ai/jobs/info/69c5c94f1818a24cd84bb2de?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696562f3a112b402661338a3?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 26 |
 | **[Forsyth County Government](http://www.forsythco.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69c58ccaaa9a29199e807157?utm_campaign=1050&utm_source=git)** | Cumming, GA | On Site | Mar 26 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Lifecycle Services Rotational Internship](https://jobright.ai/jobs/info/69c58967e565c26a70011fa9?utm_campaign=1050&utm_source=git)** | Miramar, FL | Hybrid | Mar 26 |
-| **[MAHLE](https://www.mahle.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69c5891fe565c26a70011ee5?utm_campaign=1050&utm_source=git)** | Lockport, NY | On Site | Mar 26 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69c588dee565c26a70011ea1?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Mar 26 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c5a6341b5ad02887377741?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
-| **[University of Maryland, Baltimore (UMB)](http://www.umaryland.edu/)** | **[Administrative Assistant II - SOM Office of the Dean](https://jobright.ai/jobs/info/69c586dfaa3c2c1995e012cf?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
