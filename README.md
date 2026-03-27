@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Secretary 1(Office/On-site)](https://jobright.ai/jobs/info/69c62d83aa9a29199e810548?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Mar 27 |
+| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69c6379483ea553769fd6957?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Mar 27 |
+| **[Utah Tech University](https://utahtech.edu)** | **[Executive Director of Business Services](https://jobright.ai/jobs/info/69c63607aa3c2c1995e0b444?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Mar 27 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Fiscal/Administrative Manager 1](https://jobright.ai/jobs/info/69c6323e83ea553769fd6467?utm_campaign=1050&utm_source=git)** | Newington, CT | Hybrid | Mar 27 |
+| ↳ | **[Secretary 1(Office/On-site)](https://jobright.ai/jobs/info/69c62d83aa9a29199e810548?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Mar 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c61d0eaa3c2c1995e08d0c?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Mar 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c61cd41818a24cd84bf238?utm_campaign=1050&utm_source=git)** | Scottsbluff, NE | On Site | Mar 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c61bf3aa9a29199e80e8bf?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69c5a1c6e565c26a700131e9?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Mar 26 |
 | **[Leidos](https://www.leidos.com)** | **[Strategy and Process Intern](https://jobright.ai/jobs/info/69bb66c206c1ba00c54ddb04?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Sustainability Department (2026)](https://jobright.ai/jobs/info/69c59f101818a24cd84b8c42?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 26 |
-| **[HAT Design Works](https://www.hatdw.com/)** | **[Supply Chain & Logistics intern](https://jobright.ai/jobs/info/69c59f051818a24cd84b8bf9?utm_campaign=1050&utm_source=git)** | Easton Headquarter - Easton, PA 18040 | On Site | Mar 26 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Sustainability Department (2026)](https://jobright.ai/jobs/info/69c59ef983ea553769fcda44?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 26 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Food & Beverage Project Management Intern, Kohler](https://jobright.ai/jobs/info/69c59d9aaa9a29199e807a0b?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
