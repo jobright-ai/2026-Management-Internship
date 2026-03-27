@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Photronics](http://www.photronics.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69c650d11eeb5c04d406df35?utm_campaign=1050&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
+| **[Blue Energy](https://blueenergy.co/)** | **[Project Development Intern](https://jobright.ai/jobs/info/69a9993e7f9271426f8873b6?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Mar 27 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa44159ca4e908ec659cbf?utm_campaign=1050&utm_source=git)** | Everett, WA | Hybrid | Mar 27 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Transport Material Logistics (Summer 2026)](https://jobright.ai/jobs/info/69c65b171818a24cd84c5c8c?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Mar 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Program Manager Project Intern - BI Advertising Experience - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/698e95aa78b4502f12a56f32?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | Mar 27 |
+| **[Chenega Security SBU](http://chenegasecurity.com)** | **[Procurement & Logistics Intern](https://jobright.ai/jobs/info/69c653bf1eeb5c04d406eb5e?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Mar 27 |
+| **[Photronics](http://www.photronics.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c6512a83ea553769fd9a1e?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Mar 27 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69c650d11eeb5c04d406df35?utm_campaign=1050&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
 | **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Program Operations Analyst 2](https://jobright.ai/jobs/info/69c64bc283ea553769fd8b71?utm_campaign=1050&utm_source=git)** | Berkeley, CA | Hybrid | Mar 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69c6481183ea553769fd751e?utm_campaign=1050&utm_source=git)** | Home, KS | Hybrid | Mar 27 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Procurement & Supply Chain Internship Summer 2027](https://jobright.ai/jobs/info/69c647ffaa9a29199e811b8d?utm_campaign=1050&utm_source=git)** | West Mifflin, PA | Hybrid | Mar 27 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Executive Board Secretariat Intern](https://jobright.ai/jobs/info/69bb57513b74eb1e2c89c3cd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc21?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc22?utm_campaign=1050&utm_source=git)** | Branford, CT | On Site | Mar 27 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc22?utm_campaign=1050&utm_source=git)** | Branford, CT | On Site | Mar 27 |
+| ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6429aaa3c2c1995e0bc21?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c64299aa3c2c1995e0bc17?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c64293aa3c2c1995e0bc0f?utm_campaign=1050&utm_source=git)** | Excelsior, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6427b83ea553769fd7022?utm_campaign=1050&utm_source=git)** | Minnetonka, MN | On Site | Mar 27 |
@@ -73,40 +79,40 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6424a1818a24cd84c20a9?utm_campaign=1050&utm_source=git)** | Westport, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c641621b5ad02887380898?utm_campaign=1050&utm_source=git)** | Norwalk, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6415e1b5ad02887380891?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad02887380889?utm_campaign=1050&utm_source=git)** | Trumbull, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad0288738088b?utm_campaign=1050&utm_source=git)** | West Haven, CT | On Site | Mar 27 |
+| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad02887380889?utm_campaign=1050&utm_source=git)** | Trumbull, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6415c1b5ad02887380887?utm_campaign=1050&utm_source=git)** | Chaska, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager - COLORADO SOUTH DISTRICT](https://jobright.ai/jobs/info/69c641531b5ad0288738087b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 27 |
 | ↳ | **[Branch Manager West Panhandle](https://jobright.ai/jobs/info/69c641531b5ad0288738087a?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL | On Site | Mar 27 |
+| ↳ | **[Branch Manager - COLORADO SOUTH DISTRICT](https://jobright.ai/jobs/info/69c641531b5ad0288738087b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6414fe565c26a7001c595?utm_campaign=1050&utm_source=git)** | El Cerrito, CA | On Site | Mar 27 |
 | ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c6414ae565c26a7001c591?utm_campaign=1050&utm_source=git)** | Two Harbors, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c64145e565c26a7001c57f?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager West Panhandle](https://jobright.ai/jobs/info/69c6413ce565c26a7001c567?utm_campaign=1050&utm_source=git)** | Santa Rosa Beach, FL | On Site | Mar 27 |
+| ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c64137e565c26a7001c55c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6413783ea553769fd6fe6?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6413783ea553769fd6fe5?utm_campaign=1050&utm_source=git)** | Mound, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c64137e565c26a7001c55c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager South Metro Twin Cities, MN](https://jobright.ai/jobs/info/69c64130e565c26a7001c558?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6412f1818a24cd84c2079?utm_campaign=1050&utm_source=git)** | Old Greenwich, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6412e1818a24cd84c2074?utm_campaign=1050&utm_source=git)** | Berkeley, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6412e83ea553769fd6fd4?utm_campaign=1050&utm_source=git)** | Savage, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c6412e83ea553769fd6fd2?utm_campaign=1050&utm_source=git)** | Holly Springs, NC | On Site | Mar 27 |
+| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6412e83ea553769fd6fd4?utm_campaign=1050&utm_source=git)** | Savage, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c641261818a24cd84c206d?utm_campaign=1050&utm_source=git)** | Ansonia, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c641251818a24cd84c206c?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c641251818a24cd84c206b?utm_campaign=1050&utm_source=git)** | Pinole, CA | On Site | Mar 27 |
+| ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c641251818a24cd84c206c?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Mar 27 |
 | ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c641201818a24cd84c2063?utm_campaign=1050&utm_source=git)** | Cloquet, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c640bbaa3c2c1995e0bbd3?utm_campaign=1050&utm_source=git)** | Madison, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63fb883ea553769fd6fba?utm_campaign=1050&utm_source=git)** | Fairfield, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c63fb883ea553769fd6fbb?utm_campaign=1050&utm_source=git)** | Hercules, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63fac1818a24cd84c2046?utm_campaign=1050&utm_source=git)** | New Haven, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager South Metro Twin Cities, MN](https://jobright.ai/jobs/info/69c63fac1818a24cd84c2047?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63fac1818a24cd84c2045?utm_campaign=1050&utm_source=git)** | East Haven, CT | On Site | Mar 27 |
+| ↳ | **[Branch Manager South Metro Twin Cities, MN](https://jobright.ai/jobs/info/69c63fac1818a24cd84c2047?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Mar 27 |
+| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63fac1818a24cd84c2046?utm_campaign=1050&utm_source=git)** | New Haven, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c63fab1818a24cd84c2041?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63f8faa3c2c1995e0bbbd?utm_campaign=1050&utm_source=git)** | Hamden, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c63f8aaa3c2c1995e0bbba?utm_campaign=1050&utm_source=git)** | Greenwich, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63f12e565c26a7001c542?utm_campaign=1050&utm_source=git)** | Woodbridge, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager South Metro Twin Cities, MN](https://jobright.ai/jobs/info/69c63f10e565c26a7001c53e?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c63f10e565c26a7001c53d?utm_campaign=1050&utm_source=git)** | Rye Brook, NY | On Site | Mar 27 |
 | ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c63f10e565c26a7001c541?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
+| ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c63f10e565c26a7001c53d?utm_campaign=1050&utm_source=git)** | Rye Brook, NY | On Site | Mar 27 |
+| ↳ | **[Branch Manager South Metro Twin Cities, MN](https://jobright.ai/jobs/info/69c63f10e565c26a7001c53e?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Mar 27 |
 | ↳ | **[Branch Manager Triangle Southwest District](https://jobright.ai/jobs/info/69c63efc1b5ad0288738083d?utm_campaign=1050&utm_source=git)** | Fuquay-Varina, NC | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63efb1b5ad02887380833?utm_campaign=1050&utm_source=git)** | Old Saybrook, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c63ef2aa9a29199e81167b?utm_campaign=1050&utm_source=git)** | Orange, CT | On Site | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69c5cd84aa3c2c1995e04e26?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c5cd241b5ad02887379c26?utm_campaign=1050&utm_source=git)** | Laredo, TX | On Site | Mar 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69c5ccfde565c26a7001572f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Mar 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c5ccfd83ea553769fd034a?utm_campaign=1050&utm_source=git)** | Missouri City, TX | On Site | Mar 26 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c5ccba1b5ad02887379be0?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Mar 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69c5cbe4aa9a29199e80aa59?utm_campaign=1050&utm_source=git)** | New Iberia, LA | On Site | Mar 26 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Assistant to the Athletic Director](https://jobright.ai/jobs/info/69c5cbd6aa9a29199e80aa39?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Mar 26 |
-| **[MAT Friction](http://www.matholdingsinc.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c5cb151818a24cd84bb30e?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Mar 26 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Project Coordinator](https://jobright.ai/jobs/info/69c600a51b5ad0288737babd?utm_campaign=1050&utm_source=git)** | Bronx, NY | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
