@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69c6c4ebe565c26a70022839?utm_campaign=1050&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 27 |
+| **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Mar 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/69c6c2c31b5ad02887386baa?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Coordinator - ISIT team (Summer 2026)](https://jobright.ai/jobs/info/696f1cf79c3c52633455db65?utm_campaign=1050&utm_source=git)** | Dorval, QC | Hybrid | Mar 27 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Intern - Front Office (Seasonal)](https://jobright.ai/jobs/info/69c6beb5b773006330b728b8?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Planning & Allocation Intern](https://jobright.ai/jobs/info/698d129e78b4502f12a38f6b?utm_campaign=1050&utm_source=git)** | Marlborough, MA | Hybrid | Mar 27 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/69c6bd1fb773006330b727f7?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
 | ↳ | **[Fall Intern - EPMO Department (2026)](https://jobright.ai/jobs/info/69c6bbb01b5ad0288738699c?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
 | ↳ | **[Fall Intern - EPMO Department (2026)](https://jobright.ai/jobs/info/69c6bbafe565c26a70022543?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 27 |
@@ -80,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Dexis](http://dexisonline.com)** | **[Administrative Assistant III (EA), CPE CBRND](https://jobright.ai/jobs/info/697279239b83b424830e6847?utm_campaign=1050&utm_source=git)** | Stafford, VA | On Site | Mar 27 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Mar 27 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/69c6a6031818a24cd84c772c?utm_campaign=1050&utm_source=git)** | Manhattan,KS,US | On Site | Mar 27 |
+| **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69a9b90a2ebd316bece1473d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern – MD, VA, DE, Washington DC, and Southeastern PA,](https://jobright.ai/jobs/info/69a7b26576bbe83d3afb20ac?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Mar 27 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b3a634a8ac8e70ff67f268?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Mar 27 |
@@ -89,10 +96,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee,](https://jobright.ai/jobs/info/69841dc48da7a612045e1336?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Mar 27 |
 | ↳ | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS),](https://jobright.ai/jobs/info/698412998da7a612045dfd01?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 27 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Business Planning (Summer)](https://jobright.ai/jobs/info/698ceb1df64d441a164ec909?utm_campaign=1050&utm_source=git)** | Melville, NY | On Site | Mar 27 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Business Analytics Internship - Chicago, IL](https://jobright.ai/jobs/info/69a9bf271f59c56275e2758a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
+| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/698de5c20f6f7e7a2ce9eff9?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Western Slope District](https://jobright.ai/jobs/info/69c69c9a1b5ad02887385a6d?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Mar 27 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 27 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69a896ad79f3f4037f42925f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
+| **[VaynerMedia](http://vaynermedia.com)** | **[Resident - Project Management](https://jobright.ai/jobs/info/69c6bfd2aa3c2c1995e11c8b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Resource & Operations Analyst Lead](https://jobright.ai/jobs/info/69aa354b2ebd316bece1f987?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Intermodal Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69acf7fd7e1fab39d3846e82?utm_campaign=1050&utm_source=git)** | South Gate, CA | On Site | Mar 27 |
 | **[UNC Health](https://www.unchealth.org)** | **[Grad Student Intern - Supply Chain](https://jobright.ai/jobs/info/69c697a783ea553769fdbdd9?utm_campaign=1050&utm_source=git)** | Triangle Area | On Site | Mar 27 |
@@ -145,16 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6424a1818a24cd84c20a9?utm_campaign=1050&utm_source=git)** | Westport, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c641621b5ad02887380898?utm_campaign=1050&utm_source=git)** | Norwalk, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6415e1b5ad02887380891?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad02887380889?utm_campaign=1050&utm_source=git)** | Trumbull, CT | On Site | Mar 27 |
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad0288738088b?utm_campaign=1050&utm_source=git)** | West Haven, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6415c1b5ad02887380887?utm_campaign=1050&utm_source=git)** | Chaska, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager West Panhandle](https://jobright.ai/jobs/info/69c641531b5ad0288738087a?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL | On Site | Mar 27 |
-| ↳ | **[Branch Manager - COLORADO SOUTH DISTRICT](https://jobright.ai/jobs/info/69c641531b5ad0288738087b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 27 |
-| ↳ | **[Branch Manager Bayside Terrace District](https://jobright.ai/jobs/info/69c6414fe565c26a7001c595?utm_campaign=1050&utm_source=git)** | El Cerrito, CA | On Site | Mar 27 |
-| ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c6414ae565c26a7001c591?utm_campaign=1050&utm_source=git)** | Two Harbors, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c64145e565c26a7001c57f?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Mar 27 |
-| ↳ | **[Branch Manager West Panhandle](https://jobright.ai/jobs/info/69c6413ce565c26a7001c567?utm_campaign=1050&utm_source=git)** | Santa Rosa Beach, FL | On Site | Mar 27 |
-| ↳ | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c64137e565c26a7001c55c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southwest Suburban District, MN](https://jobright.ai/jobs/info/69c6413783ea553769fd6fe5?utm_campaign=1050&utm_source=git)** | Mound, MN | On Site | Mar 27 |
-| ↳ | **[Branch Manager Southern CT Westchester District](https://jobright.ai/jobs/info/69c6413783ea553769fd6fe6?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Mar 27 |
+| ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69c6415d1b5ad02887380889?utm_campaign=1050&utm_source=git)** | Trumbull, CT | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
