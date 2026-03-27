@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Secretary 1(Office/On-site)](https://jobright.ai/jobs/info/69c62d83aa9a29199e810548?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Mar 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c61d0eaa3c2c1995e08d0c?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Mar 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c61cd41818a24cd84bf238?utm_campaign=1050&utm_source=git)** | Scottsbluff, NE | On Site | Mar 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c61bf3aa9a29199e80e8bf?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Mar 26 |
+| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Facilities & MRO / Indirect Sourcing](https://jobright.ai/jobs/info/69c6160c1818a24cd84bec9e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[Photronics](http://www.photronics.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69c6152483ea553769fd3604?utm_campaign=1050&utm_source=git)** | Brookfield, CT, US | On Site | Mar 26 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c614e0e565c26a700188bf?utm_campaign=1050&utm_source=git)** | Allen, TX, US | On Site | Mar 26 |
+| **[Pelmorex](http://www.pelmorex.com)** | **[AI Strategy Co-op](https://jobright.ai/jobs/info/69c60db3e565c26a70017abc?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 26 |
+| **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Administrative Assistant Research - Research Innovation & Discovery](https://jobright.ai/jobs/info/69c60d52e565c26a70017a85?utm_campaign=1050&utm_source=git)** | Halifax, NS | On Site | Mar 26 |
 | **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Healthcare Operations Intern (Summer 2026 – Paid)](https://jobright.ai/jobs/info/69c6084f83ea553769fd2449?utm_campaign=1050&utm_source=git)** | Missoula, MT | On Site | Mar 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c606a21818a24cd84bd63b?utm_campaign=1050&utm_source=git)** | Freeport, IL | On Site | Mar 26 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Transportation & Supply Chain Intern](https://jobright.ai/jobs/info/69c602751b5ad0288737bcbe?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 26 |
@@ -122,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Intern](https://jobright.ai/jobs/info/69c5ab95aa3c2c1995e02e63?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Mar 26 |
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Logistics](https://jobright.ai/jobs/info/69c5aa9a1818a24cd84b9492?utm_campaign=1050&utm_source=git)** | 290 Milton Dr, Piperton, TN 38017, USA | On Site | Mar 26 |
 | **[Welldoc](https://www.welldoc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69c5aa9883ea553769fce2aa?utm_campaign=1050&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Mar 26 |
-| **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69c5aa83aa3c2c1995e02d5f?utm_campaign=1050&utm_source=git)** | 6700 Wildlife Wy, Long Grove, IL 60047, USA | On Site | Mar 26 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c5aa83aa3c2c1995e02d5e?utm_campaign=1050&utm_source=git)** | 6700 Wildlife Wy, Long Grove, IL 60047, USA | On Site | Mar 26 |
+| **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c5aa83aa3c2c1995e02d5e?utm_campaign=1050&utm_source=git)** | 6700 Wildlife Wy, Long Grove, IL 60047, USA | On Site | Mar 26 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69c5aa83aa3c2c1995e02d5f?utm_campaign=1050&utm_source=git)** | 6700 Wildlife Wy, Long Grove, IL 60047, USA | On Site | Mar 26 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Lifecycle Services Rotational Internship](https://jobright.ai/jobs/info/69c5aa151818a24cd84b9327?utm_campaign=1050&utm_source=git)** | Miramar, FL, US | Hybrid | Mar 26 |
 | **[Franciscan Missionaries of Our Lady University](https://www.franu.edu/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c5aa01aa3c2c1995e02bfe?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA, United States | On Site | Mar 26 |
 | **[FMOL Health](https://fmolhs.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69c5aa01aa9a29199e808826?utm_campaign=1050&utm_source=git)** | 6955 Perkins Rd, Baton Rouge, LA, 70810, US | On Site | Mar 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HAT Design Works](https://www.hatdw.com/)** | **[Supply Chain & Logistics intern](https://jobright.ai/jobs/info/69c59f051818a24cd84b8bf9?utm_campaign=1050&utm_source=git)** | Easton Headquarter - Easton, PA 18040 | On Site | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern - Sustainability Department (2026)](https://jobright.ai/jobs/info/69c59ef983ea553769fcda44?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 26 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Food & Beverage Project Management Intern, Kohler](https://jobright.ai/jobs/info/69c59d9aaa9a29199e807a0b?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Mar 26 |
-| **[The Springs Living, LLC](https://www.thespringsliving.com)** | **[Long Term Care Intern (Healthcare / Process Improvement) – Summer 2026](https://jobright.ai/jobs/info/69c5c5d31b5ad02887379108?utm_campaign=1050&utm_source=git)** | Missoula, MT | On Site | Mar 26 |
-| **[The North West Company](http://northwest.ca/)** | **[Logistics Administrator](https://jobright.ai/jobs/info/69c59609aa3c2c1995e01b93?utm_campaign=1050&utm_source=git)** | Winnipeg, MB | On Site | Mar 26 |
-| **[Maguire](http://maguireiron.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69c593e2e565c26a700125eb?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Mar 26 |
-| **[Metrolinx](http://www.metrolinx.com/)** | **[Co-op/Intern Student, Business Operations Support](https://jobright.ai/jobs/info/69c593cbaa9a29199e8076b7?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 26 |
-| **[University of Southern California](http://www.usc.edu)** | **[Associate Research Administrator](https://jobright.ai/jobs/info/69c591fe1b5ad028873766f4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Special Assistant Intern (OPI)](https://jobright.ai/jobs/info/69c591d083ea553769fcce6b?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
-| **[AgCertain Industries, Inc.](https://www.agcertain.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c59078aa9a29199e80757e?utm_campaign=1050&utm_source=git)** | Boone, IA | On Site | Mar 26 |
-| ↳ | **[Intern, Logistics](https://jobright.ai/jobs/info/69c58fe5e565c26a70012372?utm_campaign=1050&utm_source=git)** | Boone, IA 50036 | On Site | Mar 26 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Nursery Planning and Strategy Intern](https://jobright.ai/jobs/info/69c58f7983ea553769fcca70?utm_campaign=1050&utm_source=git)** | US - Redding, California | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
