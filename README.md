@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Administrative Assistant(EASTERN CONNECTICUT STATE UNIVERSITY)](https://jobright.ai/jobs/info/69c781951818a24cd84cf556?utm_campaign=1050&utm_source=git)** | Windham, CT | On Site | Mar 28 |
+| **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69c775bb1b5ad0288738d01a?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Mar 27 |
 | **[Stantec](http://www.stantec.com)** | **[Project Manager, Drinking Water and Sanitary Sewer Modeling](https://jobright.ai/jobs/info/69c76e5a83ea553769fe34ee?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69c76cc6e565c26a70028c01?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Mar 27 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69c75e2ee565c26a700280a8?utm_campaign=1050&utm_source=git)** | Stem, NC | On Site | Mar 27 |
 | ↳ | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69c75e14aa3c2c1995e1761d?utm_campaign=1050&utm_source=git)** | Russell, VA | On Site | Mar 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c7506a1b5ad0288738becb?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Mar 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c773a6e565c26a70028da5?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Mar 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c7738483ea553769fe3621?utm_campaign=1050&utm_source=git)** | Warsaw, IN | On Site | Mar 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c7506a1b5ad0288738becb?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Mar 27 |
 | **[Bear Robotics](https://bearrobotics.ai)** | **[Workplace Operations Internship](https://jobright.ai/jobs/info/69c74ef61b5ad0288738bae2?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Mar 27 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69c74e4de565c26a70027a03?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Mar 27 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Production Intern](https://jobright.ai/jobs/info/69c749adb773006330b777a7?utm_campaign=1050&utm_source=git)** | Mission, TX | On Site | Mar 27 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69c767f883ea553769fe303b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69c73a18aa3c2c1995e167af?utm_campaign=1050&utm_source=git)** | Research Triangle Park, NC | Hybrid | Mar 27 |
-| ↳ | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69c73a0c1818a24cd84ccb50?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Mar 27 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - INFORMATION MANAGEMENT](https://jobright.ai/jobs/info/69c7559fb773006330b77d28?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Mar 27 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69c73616e565c26a70027139?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 27 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Vice President, Operations](https://jobright.ai/jobs/info/69c732fae565c26a70026f03?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | On Site | Mar 27 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69c70628e565c26a700251fb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704a71818a24cd84cacf9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[Strategy Internship](https://jobright.ai/jobs/info/69c7031faa3c2c1995e146ed?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Logistics/Supply Chain Intern](https://jobright.ai/jobs/info/69c71fba1818a24cd84cbd9f?utm_campaign=1050&utm_source=git)** | Kentwood, MI | On Site | Mar 27 |
-| ↳ | **[Administrative Assistant](https://jobright.ai/jobs/info/69c71f9ee565c26a70026379?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Mar 27 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69c71f9ee565c26a70026379?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Mar 27 |
+| ↳ | **[Logistics/Supply Chain Intern](https://jobright.ai/jobs/info/69c71fba1818a24cd84cbd9f?utm_campaign=1050&utm_source=git)** | Kentwood, MI | On Site | Mar 27 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/69c70171aa3c2c1995e1460e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 27 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c7016caa3c2c1995e14602?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 27 |
 | **[The Lacek Group](http://www.lacek.com)** | **[Strategy Internship](https://jobright.ai/jobs/info/69c70163b773006330b7516d?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ABBA Roller](https://abbaroller.com/)** | **[Intern - Continuous Improvement & Operations](https://jobright.ai/jobs/info/69c6c98783ea553769fdd6d5?utm_campaign=1050&utm_source=git)** | Bloomfield, CT, US | On Site | Mar 27 |
 | **[IRP Medical](http://www.irpi.com)** | **[Intern - Continuous Improvement & Operations](https://jobright.ai/jobs/info/69c6c974e565c26a700229f7?utm_campaign=1050&utm_source=git)** | Bloomfield, CT, US | On Site | Mar 27 |
 | **[Providence Equity Partners](http://www.provequity.com)** | **[MBA Intern, Portfolio Operations](https://jobright.ai/jobs/info/69c6c95e1818a24cd84c8696?utm_campaign=1050&utm_source=git)** | US NY New York | On Site | Mar 27 |
-| ↳ | **[MBA Intern, Portfolio Operations](https://jobright.ai/jobs/info/69c6c95caa3c2c1995e11fee?utm_campaign=1050&utm_source=git)** | US MA Boston (500 Boylston Street) | On Site | Mar 27 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69c6c4ebe565c26a70022839?utm_campaign=1050&utm_source=git)** | Cherry Hill, NJ | On Site | Mar 27 |
-| **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
