@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
+| **[Olympic Steel](https://olysteel.com)** | **[Intern (Operations)](https://jobright.ai/jobs/info/69c6f759e565c26a7002491d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
+| **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Transportation & Supply Chain Intern](https://jobright.ai/jobs/info/69c6f6d51818a24cd84ca486?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 27 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PROJECT MANAGEMENT Job ID : 274879](https://jobright.ai/jobs/info/69c6f6d41818a24cd84ca480?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Program Cost and Schedule Control Analyst Intern - Elkton MD - R10227548](https://jobright.ai/jobs/info/69c6f694aa3c2c1995e13e9b?utm_campaign=1050&utm_source=git)** | Elkton, MD | On Site | Mar 27 |
+| **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Business Operations & Planning Intern (San Jose, CA)(7471)](https://jobright.ai/jobs/info/69c6f670aa3c2c1995e13e7f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
+| **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Assistant Project Manager (Special Systems)](https://jobright.ai/jobs/info/695c3ab2aa05c26e7ab58b56?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[IWK Health](https://www.iwk.nshealth.ca)** | **[Administrative Assistant, Research](https://jobright.ai/jobs/info/69c6f3f3aa3c2c1995e13da7?utm_campaign=1050&utm_source=git)** | Halifax, NS | On Site | Mar 27 |
+| **[The Great Basin Institute](https://www.thegreatbasininstitute.org)** | **[Administrative Intern (BOR, Brackish Groundwater National Desalination Research Facility)](https://jobright.ai/jobs/info/69c6f3c1e565c26a70024793?utm_campaign=1050&utm_source=git)** | Alamogordo, NM 88310 | On Site | Mar 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Grant Project Director - DIS - req13606](https://jobright.ai/jobs/info/69c6f36683ea553769fdf228?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
+| **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Internship](https://jobright.ai/jobs/info/69c6f2fce565c26a700243b7?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Mar 27 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Program Management Office (PMO) Analyst (Intern)](https://jobright.ai/jobs/info/69c6f2c5aa3c2c1995e13864?utm_campaign=1050&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
 | **[Kapitus](https://kapitus.com/)** | **[Intern, Operations Strategy](https://jobright.ai/jobs/info/69c6ee5583ea553769fdecc3?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Mar 27 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[MINO AUTOMATION USA, INC](https://mino-automation.com)** | **[Project Installation Management Intern](https://jobright.ai/jobs/info/69c6ec801b5ad02887388433?utm_campaign=1050&utm_source=git)** | Michigan, United States | On Site | Mar 27 |
@@ -126,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Western Slope District](https://jobright.ai/jobs/info/69c6a3bbe565c26a700218b5?utm_campaign=1050&utm_source=git)** | Glenwood Springs, CO | On Site | Mar 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central Northeast Indiana and Louisville/Lexington areas,](https://jobright.ai/jobs/info/698415da348f733a5c37e21b?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Mar 27 |
 | ↳ | **[District Manager Intern - Upstate New York Area,](https://jobright.ai/jobs/info/69841a1f8da7a612045e0bef?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Mar 27 |
-| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee,](https://jobright.ai/jobs/info/69841dc48da7a612045e1336?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Mar 27 |
 | ↳ | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS),](https://jobright.ai/jobs/info/698412998da7a612045dfd01?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Mar 27 |
+| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee,](https://jobright.ai/jobs/info/69841dc48da7a612045e1336?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Mar 27 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, Business Planning (Summer)](https://jobright.ai/jobs/info/698ceb1df64d441a164ec909?utm_campaign=1050&utm_source=git)** | Melville, NY | On Site | Mar 27 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Business Analytics Internship - Chicago, IL](https://jobright.ai/jobs/info/69a9bf271f59c56275e2758a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 27 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[PBDP Grad Intern - U of UT](https://jobright.ai/jobs/info/69c6925eb773006330b712fc?utm_campaign=1050&utm_source=git)** | Draper, UT | Hybrid | Mar 27 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69c07d617798f73e35e505df?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern & Southwest Florida,](https://jobright.ai/jobs/info/69a5d1d6359fe034b1d07489?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL | On Site | Mar 27 |
-| ↳ | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/69a5db9bb600907a962b9ae8?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Mar 27 |
-| ↳ | **[District Manager Intern – VA and Eastern NC,](https://jobright.ai/jobs/info/69a7abc876bbe83d3afb1232?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Mar 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1050&utm_source=git)** | Rock Hill, SC | On Site | Mar 27 |
-| **[GKN Automotive](https://www.gknautomotive.com/)** | **[Continuous Improvement - Summer Intern](https://jobright.ai/jobs/info/69c68e3cb773006330b71103?utm_campaign=1050&utm_source=git)** | 1848 GKN Way, Newton, North Carolina, 28658, US | On Site | Mar 27 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCO Operations Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69719b8651f726477183f57b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Aptos](https://jobright.ai/jobs/info/69c68425e565c26a70020e81?utm_campaign=1050&utm_source=git)** | Aptos, CA | On Site | Mar 27 |
-| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Mar 27 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698d10b878b4502f12a38b5c?utm_campaign=1050&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 27 |
-| ↳ | **[Project Coordinator Intern](https://jobright.ai/jobs/info/698d21f3f64d441a164f1484?utm_campaign=1050&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 27 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69c67b50aa3c2c1995e10157?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Mar 27 |
-| **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69a98e29f6c22f2e368690b6?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Mar 27 |
-| **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69aa16cf2ebd316bece1d291?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
