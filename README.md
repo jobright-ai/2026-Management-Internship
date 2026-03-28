@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Vice President, Operations](https://jobright.ai/jobs/info/69c732fae565c26a70026f03?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | On Site | Mar 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Saxonburg Warehouse,](https://jobright.ai/jobs/info/69c2b351753c101b2155fbb5?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Mar 27 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Operations Continuous Improvement - Operations Quality Assurance Specialist](https://jobright.ai/jobs/info/69c72aaf1818a24cd84cc477?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 27 |
 | **[ERM](http://www.erm.com/)** | **[Analyst Intern, Capital Project Delivery](https://jobright.ai/jobs/info/69c727b4aa3c2c1995e15d27?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Mar 27 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[telMAX Inc.](https://telmax.com)** | **[Project & Reporting Analyst Co-op](https://jobright.ai/jobs/info/69a0211381476f6176ba2c98?utm_campaign=1050&utm_source=git)** | Markham, ON | On Site | Mar 27 |
 | **[Improv](https://www.improvizations.com/)** | **[Healthcare Business Strategy Internship – Remote (USA)](https://jobright.ai/jobs/info/69c71a1faa3c2c1995e15385?utm_campaign=1050&utm_source=git)** | US | Remote | Mar 27 |
 | **[Calgary Airports](https://www.yyc.com)** | **[Project Manager II, Enterprise Projects (12-month Term)](https://jobright.ai/jobs/info/69c716acaa3c2c1995e15283?utm_campaign=1050&utm_source=git)** | Calgary, AB | Hybrid | Mar 27 |
+| **[DT Midstream](https://dtmidstream.com/)** | **[Operations Intern- Cambridge, OH](https://jobright.ai/jobs/info/69c7333883ea553769fe19ba?utm_campaign=1050&utm_source=git)** | Cambridge, OH | On Site | Mar 27 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69c71375b773006330b75d02?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69c71324aa3c2c1995e151db?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
@@ -82,13 +84,14 @@ For a complete list, click the following sortable link below:
 | **[U.S. Naval Academy Alumni Association & Foundation](http://www.usna.com/)** | **[Gift Fund Administration Intern](https://jobright.ai/jobs/info/69c70ebc1b5ad028873898de?utm_campaign=1050&utm_source=git)** | 301 King George Street, Annapolis, MD 21402, USA | On Site | Mar 27 |
 | **[BMO](http://www.bmo.com)** | **[Strategy  Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69c70e4c1818a24cd84cb07c?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Membership Groups and Special Events (Spring/Summer 2026)](https://jobright.ai/jobs/info/69c70c0de565c26a7002548d?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c72bf51818a24cd84cc4bd?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 27 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Data Strategy Unit Assistantship, Office of Research, Innovation & Economic Development](https://jobright.ai/jobs/info/69c7082083ea553769fdfe3b?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Mar 27 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69c70628e565c26a700251fb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704a71818a24cd84cacf9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[Strategy Internship](https://jobright.ai/jobs/info/69c7031faa3c2c1995e146ed?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Logistics/Supply Chain Intern](https://jobright.ai/jobs/info/69c71fba1818a24cd84cbd9f?utm_campaign=1050&utm_source=git)** | Kentwood, MI | On Site | Mar 27 |
-| ↳ | **[Administrative Assistant](https://jobright.ai/jobs/info/69c71f9ee565c26a70026379?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Mar 27 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69c71f9ee565c26a70026379?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Mar 27 |
+| ↳ | **[Logistics/Supply Chain Intern](https://jobright.ai/jobs/info/69c71fba1818a24cd84cbd9f?utm_campaign=1050&utm_source=git)** | Kentwood, MI | On Site | Mar 27 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/69c70171aa3c2c1995e1460e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 27 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69c7016caa3c2c1995e14602?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 27 |
 | **[The Lacek Group](http://www.lacek.com)** | **[Strategy Internship](https://jobright.ai/jobs/info/69c70163b773006330b7516d?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Finnegan, Henderson, Farabow, Garrett & Dunner, LLP](http://www.finnegan.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69c6bb831b5ad02887386926?utm_campaign=1050&utm_source=git)** | Washington, DC, USA | On Site | Mar 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c6e8d81b5ad028873882ed?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Mar 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69c6e8d483ea553769fdea88?utm_campaign=1050&utm_source=git)** | Kokomo, IN | On Site | Mar 27 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/69c6bb63aa3c2c1995e11bb2?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 27 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Project Manager, Onshore Wind Due Diligence](https://jobright.ai/jobs/info/69c6e6cae565c26a70023dd7?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 27 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c6b6f7aa3c2c1995e11625?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
