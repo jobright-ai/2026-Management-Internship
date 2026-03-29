@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc8220f6f7e7a2cec1611?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Mar 29 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Mar 29 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25eb773006330b7b1d3?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25a1818a24cd84d0a8d?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7b253aa3c2c1995e1a548?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 28 |
-| ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25083ea553769fe5b58?utm_campaign=1050&utm_source=git)** | Centreville, VA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
