@@ -80,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Operation Intern](https://jobright.ai/jobs/info/6973af4a37785856350d89ac?utm_campaign=1050&utm_source=git)** | Uxbridge, MA | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69ac4dff142d5b4265fda359?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Mar 28 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Monmouth and Ocean County](https://jobright.ai/jobs/info/69c803e3b773006330b7d55f?utm_campaign=1050&utm_source=git)** | Neptune, NJ | On Site | Mar 28 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Office Manager - Electrical and Computer Engineering](https://jobright.ai/jobs/info/69ab66562747003c3d5105c5?utm_campaign=1050&utm_source=git)** | Urbana, IL | On Site | Mar 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Mar 28 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Mar 28 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/693ce08450bbaf7650500599?utm_campaign=1050&utm_source=git)** | Woodbridge, VA | On Site | Mar 28 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Mar 28 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/69c7fb3283ea553769fe7de4?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Mar 28 |
@@ -95,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern- Fleet](https://jobright.ai/jobs/info/69ab0ebb7e1fab39d3829a8a?utm_campaign=1050&utm_source=git)** | Markham, ON | On Site | Mar 28 |
 | **[Flex](https://getflex.com)** | **[VP, Strategic Finance](https://jobright.ai/jobs/info/69018b44f8ce7a040fdc0ad3?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Project Controls- USA - AZ - Tempe - West 10th Place - R26-01596](https://jobright.ai/jobs/info/698fc47b0cc8ea15f1da6280?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Mar 28 |
+| **[Sentara Health](http://www.sentara.com)** | **[IT Clinical & Revenue Cycle Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69ab65292747003c3d510047?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 28 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/697293d4584a1c1ef6fd9325?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Mar 28 |
 | **[Risepoint](https://risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1050&utm_source=git)** | Windsor, ON | On Site | Mar 28 |
@@ -125,25 +125,25 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7add31818a24cd84d0854?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7add21818a24cd84d0851?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7add21818a24cd84d0847?utm_campaign=1050&utm_source=git)** | Issaquah, WA | On Site | Mar 28 |
-| ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7add0aa3c2c1995e1a2fa?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7add0aa3c2c1995e1a2f8?utm_campaign=1050&utm_source=git)** | McMinnville, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69c7adab83ea553769fe5954?utm_campaign=1050&utm_source=git)** | Hurricane, UT | On Site | Mar 28 |
+| ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7add0aa3c2c1995e1a2fa?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7adab83ea553769fe5950?utm_campaign=1050&utm_source=git)** | Oregon City, OR | On Site | Mar 28 |
+| ↳ | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69c7adab83ea553769fe5954?utm_campaign=1050&utm_source=git)** | Hurricane, UT | On Site | Mar 28 |
 | ↳ | **[Branch Manager Arbor Trails](https://jobright.ai/jobs/info/69c7adab83ea553769fe5949?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5948?utm_campaign=1050&utm_source=git)** | Woodburn, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5942?utm_campaign=1050&utm_source=git)** | Seabrook, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager Cedar City](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5944?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Mar 28 |
+| ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5942?utm_campaign=1050&utm_source=git)** | Seabrook, TX | On Site | Mar 28 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69ab3b3e2747003c3d50e8d0?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7ad971b5ad0288738f100?utm_campaign=1050&utm_source=git)** | Gainesville, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Brodie and Slaughter](https://jobright.ai/jobs/info/69c7ad961b5ad0288738f0fc?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ad951b5ad0288738f0f5?utm_campaign=1050&utm_source=git)** | Burien, WA | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad7db773006330b7afc0?utm_campaign=1050&utm_source=git)** | West Linn, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7ad7cb773006330b7afb8?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad77b773006330b7afa8?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad77b773006330b7afae?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa4?utm_campaign=1050&utm_source=git)** | Des Moines, WA | On Site | Mar 28 |
+| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad77b773006330b7afa8?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa2?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa0?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Mar 28 |
+| ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa4?utm_campaign=1050&utm_source=git)** | Des Moines, WA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Palm Beach West District](https://jobright.ai/jobs/info/69c8689f1b5ad028873934fd?utm_campaign=1050&utm_source=git)** | Wellington, FL | On Site | Mar 28 |
 | ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7ac1be565c26a7002ac4d?utm_campaign=1050&utm_source=git)** | San Fernando, CA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7ac1ae565c26a7002ac4b?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7ac16aa3c2c1995e1a249?utm_campaign=1050&utm_source=git)** | Corona, CA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7ac13e565c26a7002ac3b?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ac13aa3c2c1995e1a231?utm_campaign=1050&utm_source=git)** | Canby, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ac12e565c26a7002ac35?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ac12e565c26a7002ac39?utm_campaign=1050&utm_source=git)** | Tukwila, WA | On Site | Mar 28 |
+| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ac12e565c26a7002ac35?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7ac12e565c26a7002ac34?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Arbor Trails](https://jobright.ai/jobs/info/69c7ac11e565c26a7002ac26?utm_campaign=1050&utm_source=git)** | Dripping Springs, TX | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
