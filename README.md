@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1050&utm_source=git)** | Homestead, FL | On Site | Mar 29 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Mar 29 |
+| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69c9440d1818a24cd84da712?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Mar 29 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Technical Project Manager (Summer Internship)](https://jobright.ai/jobs/info/69b3910bae2a534885eaf90b?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 29 |
 | **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69c9408a83ea553769fef61b?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Mar 29 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Master Planning & Logistics (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/6973df2bbc8e722e7b18aef6?utm_campaign=1050&utm_source=git)** | Stratford, ON | On Site | Mar 29 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Mar 29 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Project Manager](https://jobright.ai/jobs/info/698f9b630f6f7e7a2cebe3aa?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Mar 29 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 29 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Executive Director (Senior Living)](https://jobright.ai/jobs/info/698c057be4f6572f0e43fe7d?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7b248e565c26a7002af1b?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Circle C](https://jobright.ai/jobs/info/69c7b2221b5ad0288738f34a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager Palm Beach West District](https://jobright.ai/jobs/info/69c7b2191b5ad0288738f341?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Mar 28 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/698f9e310f6f7e7a2cebe8a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
-| **[InterPro Pipe + Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Mar 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Circle C](https://jobright.ai/jobs/info/69c7add7aa3c2c1995e1a30b?utm_campaign=1050&utm_source=git)** | Dripping Springs, TX | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
