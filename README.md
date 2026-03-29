@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Mar 29 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Mar 29 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
+| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/69c952331b5ad02887398eaf?utm_campaign=1050&utm_source=git)** | Toronto, ON | Remote | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1050&utm_source=git)** | Homestead, FL | On Site | Mar 29 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Mar 29 |
-| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69c9440d1818a24cd84da712?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Mar 29 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Technical Project Manager (Summer Internship)](https://jobright.ai/jobs/info/69b3910bae2a534885eaf90b?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 29 |
 | **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69c9408a83ea553769fef61b?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Mar 29 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Master Planning & Logistics (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/6973df2bbc8e722e7b18aef6?utm_campaign=1050&utm_source=git)** | Stratford, ON | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25a1818a24cd84d0a8d?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7b253aa3c2c1995e1a548?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25083ea553769fe5b58?utm_campaign=1050&utm_source=git)** | Centreville, VA | On Site | Mar 28 |
-| ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7b248e565c26a7002af1b?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Mar 28 |
-| ↳ | **[Branch Manager Circle C](https://jobright.ai/jobs/info/69c7b2221b5ad0288738f34a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
-| ↳ | **[Branch Manager Palm Beach West District](https://jobright.ai/jobs/info/69c7b2191b5ad0288738f341?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
