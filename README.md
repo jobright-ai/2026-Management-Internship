@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69b4cc6e06c1ba00c5464b3c?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Credit Modeling & Analytics (Hybrid)](https://jobright.ai/jobs/info/6990197d0cc8ea15f1dac0d9?utm_campaign=1050&utm_source=git)** | Morristown, NJ | Hybrid | Mar 29 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc8220f6f7e7a2cec1611?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Mar 29 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/6974a2e637785856350eb952?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Mar 29 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Downtown Chicago](https://jobright.ai/jobs/info/6974a0b437785856350eb874?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 29 |
-| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/69c952331b5ad02887398eaf?utm_campaign=1050&utm_source=git)** | Toronto, ON | Remote | Mar 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1050&utm_source=git)** | Homestead, FL | On Site | Mar 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69744fc637785856350e5c4a?utm_campaign=1050&utm_source=git)** | Homestead, FL | On Site | Mar 29 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Mar 29 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Technical Project Manager (Summer Internship)](https://jobright.ai/jobs/info/69b3910bae2a534885eaf90b?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 29 |
 | **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69c9408a83ea553769fef61b?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Mar 29 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
-| ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
+| ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Mar 29 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Project Manager](https://jobright.ai/jobs/info/698f9b630f6f7e7a2cebe3aa?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Mar 29 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 29 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Executive Director (Senior Living)](https://jobright.ai/jobs/info/698c057be4f6572f0e43fe7d?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Mar 29 |
@@ -106,12 +107,10 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c881ca1818a24cd84d52eb?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Mar 28 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[International Enterprise SCM Category Manager](https://jobright.ai/jobs/info/69c8f4911818a24cd84d8a48?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 28 |
 | **[CORE Transformers](http://www.coretransformers.com)** | **[Operations Project Manager](https://jobright.ai/jobs/info/69c8d25f1b5ad028873958e0?utm_campaign=1050&utm_source=git)** | Seneca, SC | On Site | Mar 28 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c869bf83ea553769fe9d8d?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 28 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c8603bb773006330b7ee6b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c860231818a24cd84d4730?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 28 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a84aa3c2c1995e1e3c2?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Mar 28 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69c85a3d83ea553769fe9722?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Mar 28 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 28 |
 | **[99 Healthcare Management](https://www.99mgmt.com)** | **[Healthcare Operations Intern](https://jobright.ai/jobs/info/69c82d601818a24cd84d3b78?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 28 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/69728a4e584a1c1ef6fd85da?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Mar 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25eb773006330b7b1d3?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25a1818a24cd84d0a8d?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7b253aa3c2c1995e1a548?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 28 |
+| ↳ | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7b25083ea553769fe5b58?utm_campaign=1050&utm_source=git)** | Centreville, VA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
