@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Mar 29 |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Administrative Assistant (Temporary)](https://jobright.ai/jobs/info/69c90f13b773006330b83c1d?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
+| **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c9044b1b5ad02887397674?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 29 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69c9043b1818a24cd84d8f5e?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Mar 29 |
+| ↳ | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69c904281818a24cd84d8f5c?utm_campaign=1050&utm_source=git)** | Pawtucket, RI | On Site | Mar 29 |
+| **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69c900e4b773006330b83589?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Mar 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69013d564539ea1f2141e6f7?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Mar 29 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aec43503c5f15c2fd8b71d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Mar 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
@@ -143,18 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Arbor Trails](https://jobright.ai/jobs/info/69c7adab83ea553769fe5949?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7adab83ea553769fe5950?utm_campaign=1050&utm_source=git)** | Oregon City, OR | On Site | Mar 28 |
 | ↳ | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69c7adab83ea553769fe5954?utm_campaign=1050&utm_source=git)** | Hurricane, UT | On Site | Mar 28 |
-| ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5942?utm_campaign=1050&utm_source=git)** | Seabrook, TX | On Site | Mar 28 |
-| ↳ | **[Branch Manager Cedar City](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5944?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Mar 28 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5948?utm_campaign=1050&utm_source=git)** | Woodburn, OR | On Site | Mar 28 |
+| ↳ | **[Branch Manager Cedar City](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5944?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Mar 28 |
+| ↳ | **[Branch Manager Southeast Gulf Coast District](https://jobright.ai/jobs/info/69c7adaa83ea553769fe5942?utm_campaign=1050&utm_source=git)** | Seabrook, TX | On Site | Mar 28 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69ab3b3e2747003c3d50e8d0?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Prince William North](https://jobright.ai/jobs/info/69c7ad971b5ad0288738f100?utm_campaign=1050&utm_source=git)** | Gainesville, VA | On Site | Mar 28 |
 | ↳ | **[Branch Manager Brodie and Slaughter](https://jobright.ai/jobs/info/69c7ad961b5ad0288738f0fc?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ad951b5ad0288738f0f5?utm_campaign=1050&utm_source=git)** | Burien, WA | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad7db773006330b7afc0?utm_campaign=1050&utm_source=git)** | West Linn, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7ad7cb773006330b7afb8?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad77b773006330b7afa8?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7ad77b773006330b7afae?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa4?utm_campaign=1050&utm_source=git)** | Des Moines, WA | On Site | Mar 28 |
-| ↳ | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa2?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Mar 28 |
-| ↳ | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69c7ad76b773006330b7afa0?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
