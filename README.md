@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69c9966083ea553769ff2755?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Mar 29 |
+| **[Melhem Holdings](melhemholdings.com)** | **[Protocol Intern to the President](https://jobright.ai/jobs/info/69c98c981b5ad0288739b02f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 29 |
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Office of the CFO](https://jobright.ai/jobs/info/69c98472e565c26a700358f2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 29 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fd2036ea51a7610f23b04?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Mar 29 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/69c97e86aa3c2c1995e24c3c?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Mar 29 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Mar 29 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Project Manager](https://jobright.ai/jobs/info/698f9b630f6f7e7a2cebe3aa?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Mar 29 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 29 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Executive Director (Senior Living)](https://jobright.ai/jobs/info/698c057be4f6572f0e43fe7d?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Mar 29 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c881ca1818a24cd84d52eb?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Mar 28 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[International Enterprise SCM Category Manager](https://jobright.ai/jobs/info/69c8f4911818a24cd84d8a48?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 28 |
-| **[CORE Transformers](http://www.coretransformers.com)** | **[Operations Project Manager](https://jobright.ai/jobs/info/69c8d25f1b5ad028873958e0?utm_campaign=1050&utm_source=git)** | Seneca, SC | On Site | Mar 28 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c8603bb773006330b7ee6b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c860231818a24cd84d4730?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Technical Project Manager](https://jobright.ai/jobs/info/69ab64e47e1fab39d382ea10?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Mar 28 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Project Services- EN](https://jobright.ai/jobs/info/69ab3be67e1fab39d382d333?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 28 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7b265b773006330b7b1db?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
