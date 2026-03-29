@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proctor Loan Protector](https://proctorlp.com)** | **[Technical Project Manager (Summer Internship)](https://jobright.ai/jobs/info/69b3910bae2a534885eaf90b?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Mar 29 |
+| **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69c9408a83ea553769fef61b?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Mar 29 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-op/Intern - Master Planning & Logistics (Automotive; May 2026) - 8 - 12 months](https://jobright.ai/jobs/info/6973df2bbc8e722e7b18aef6?utm_campaign=1050&utm_source=git)** | Stratford, ON | On Site | Mar 29 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Mar 29 |
+| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Project Management/Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69c4c5eb6f4f855eeda76b8d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 29 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/699000a66ea51a7610f27085?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 29 |
+| **[Prometric](https://www.prometric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698fa3160cc8ea15f1da3eb8?utm_campaign=1050&utm_source=git)** | Middle River, MD | Hybrid | Mar 29 |
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
@@ -80,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f6351818a24cd84d8b2b?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f630aa3c2c1995e22394?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Mar 29 |
-| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
+| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61a83ea553769fedb99?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f5e7e565c26a70032f50?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Mar 29 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/698f9e310f6f7e7a2cebe8a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
 | **[InterPro Pipe + Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Circle C](https://jobright.ai/jobs/info/69c7add7aa3c2c1995e1a30b?utm_campaign=1050&utm_source=git)** | Dripping Springs, TX | On Site | Mar 28 |
-| **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[FT Care Manager / Med Manager (6a-2p)](https://jobright.ai/jobs/info/69c7add6e565c26a7002ad1c?utm_campaign=1050&utm_source=git)** | Carroll, IA | On Site | Mar 28 |
-| **[Luther Seminary](http://www.luthersem.edu)** | **[Executive Assistant to the President and Board, Administrative Coordinator](https://jobright.ai/jobs/info/69c7add4e565c26a7002ad1a?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Central Inland Empire District](https://jobright.ai/jobs/info/69c7add31818a24cd84d0854?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7add21818a24cd84d0851?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7add21818a24cd84d0847?utm_campaign=1050&utm_source=git)** | Issaquah, WA | On Site | Mar 28 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69c7add0aa3c2c1995e1a2f8?utm_campaign=1050&utm_source=git)** | McMinnville, OR | On Site | Mar 28 |
-| ↳ | **[Branch Manager Northwest Valley District](https://jobright.ai/jobs/info/69c7add0aa3c2c1995e1a2fa?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
