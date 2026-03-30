@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cohabs](http://www.cohabs.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b64f1e3b74eb1e2c840fdb?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 30 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ca3e8aaa3c2c1995e2b7e8?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Mar 30 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca29cae565c26a7003b0cd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Carolinas & Tri-Cities Region,](https://jobright.ai/jobs/info/69bb6ece3b74eb1e2c89da08?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Mar 29 |
 | **[Chase](https://www.chase.com/)** | **[2026 Operational Controls/Quality Assurance/Risk Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5ccaa3c2c1995e28e4b?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f6351818a24cd84d8b2b?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f630aa3c2c1995e22394?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Mar 29 |
-| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
+| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61a83ea553769fedb99?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f5e7e565c26a70032f50?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Mar 29 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sentara Health](http://www.sentara.com)** | **[IT Clinical & Revenue Cycle Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69ab65292747003c3d510047?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 28 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/697293d4584a1c1ef6fd9325?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Mar 28 |
 | **[Risepoint](https://risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1050&utm_source=git)** | Windsor, ON | On Site | Mar 28 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Planning Associate](https://jobright.ai/jobs/info/691e42c909cc522e87738291?utm_campaign=1050&utm_source=git)** | Newmarket, ON | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
