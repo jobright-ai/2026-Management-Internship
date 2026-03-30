@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69ca6510a8c1822476e1c8e7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 30 |
+| **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69ca63a1aa3c2c1995e2cad1?utm_campaign=1050&utm_source=git)** | Oakley, KS | On Site | Mar 30 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Retail Operations Analyst Intern](https://jobright.ai/jobs/info/69ca60f71b5ad028873a158a?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Mar 30 |
+| **[UNC Health](https://www.unchealth.org)** | **[Grad Student Intern - Supply Chain](https://jobright.ai/jobs/info/69c697a783ea553769fdbdd9?utm_campaign=1050&utm_source=git)** | Triangle Area | On Site | Mar 30 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Administrative Assistant (Temporary)](https://jobright.ai/jobs/info/69ca5b06aa3c2c1995e2c3b6?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 30 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca58fbe565c26a7003cd8f?utm_campaign=1050&utm_source=git)** | Nashville Metro | On Site | Mar 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcdee7e6a0d979258507a8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
@@ -67,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bce492e6a0d97925850f55?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | ↳ | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | ↳ | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 30 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Mar 30 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Mar 30 |
 | **[Cohabs](http://www.cohabs.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b64f1e3b74eb1e2c840fdb?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 30 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca29cae565c26a7003b0cd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Carolinas & Tri-Cities Region,](https://jobright.ai/jobs/info/69bb6ece3b74eb1e2c89da08?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Mar 29 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Project Managment/Product/Client Operations Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f52f83ea553769ff4489?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
 | ↳ | **[2026 Operational Controls/Quality Assurance/Risk Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f520b773006330b89ba6?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Saxonburg Warehouse,](https://jobright.ai/jobs/info/69c2b351753c101b2155fbb5?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Mar 29 |
-| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[MIS College Intern (Part-Time)](https://jobright.ai/jobs/info/69c9e55ab773006330b89183?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69c9cde1e565c26a700389e7?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Mar 29 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69c9a59f1818a24cd84ddb28?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 29 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69c9966083ea553769ff2755?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Mar 28 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/69c7fb3283ea553769fe7de4?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Mar 28 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Mar 28 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Strategy / M&A Intern](https://jobright.ai/jobs/info/69ab26d72747003c3d50c501?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
