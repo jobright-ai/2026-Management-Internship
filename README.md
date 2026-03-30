@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69c881ca1818a24cd84d52eb?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Mar 28 |
 | **[Southwest Airline Career Page](http://www.southwest.com)** | **[International Enterprise SCM Category Manager](https://jobright.ai/jobs/info/69c8f4911818a24cd84d8a48?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 28 |
+| **[CORE Transformers](http://www.coretransformers.com)** | **[Operations Project Manager](https://jobright.ai/jobs/info/69c9c0781b5ad0288739c7a7?utm_campaign=1050&utm_source=git)** | Seneca, SC | On Site | Mar 28 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c8603bb773006330b7ee6b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c860231818a24cd84d4730?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Mar 28 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Technical Intern - Technical Project Manager](https://jobright.ai/jobs/info/69ab64e47e1fab39d382ea10?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Mar 28 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Project Services- EN](https://jobright.ai/jobs/info/69ab3be67e1fab39d382d333?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 28 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69c7b265b773006330b7b1db?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
