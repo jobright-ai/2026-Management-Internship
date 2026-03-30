@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f6351818a24cd84d8b2b?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f630aa3c2c1995e22394?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Mar 29 |
-| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
+| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61a83ea553769fedb99?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f5e7e565c26a70032f50?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Mar 29 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 29 |
