@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Carolinas & Tri-Cities Region,](https://jobright.ai/jobs/info/69bb6ece3b74eb1e2c89da08?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Mar 29 |
 | **[Chase](https://www.chase.com/)** | **[2026 Operational Controls/Quality Assurance/Risk Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5ccaa3c2c1995e28e4b?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
 | ↳ | **[2026 Project Managment/Product/Client Operations Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5c5e565c26a7003985c?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Data Analytics/Business Intelligence/Process Automation Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f53083ea553769ff448d?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1050&utm_source=git)** | Windsor, ON | On Site | Mar 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Planning Associate](https://jobright.ai/jobs/info/691e42c909cc522e87738291?utm_campaign=1050&utm_source=git)** | Newmarket, ON | On Site | Mar 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/69ab1f172747003c3d50bcdc?utm_campaign=1050&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
