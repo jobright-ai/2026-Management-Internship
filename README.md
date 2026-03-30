@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca29cae565c26a7003b0cd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Carolinas & Tri-Cities Region,](https://jobright.ai/jobs/info/69bb6ece3b74eb1e2c89da08?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Mar 29 |
 | **[Chase](https://www.chase.com/)** | **[2026 Operational Controls/Quality Assurance/Risk Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5ccaa3c2c1995e28e4b?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
 | ↳ | **[2026 Project Managment/Product/Client Operations Management Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5c5e565c26a7003985c?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Mar 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Hialeah](https://jobright.ai/jobs/info/69745ad937785856350e7482?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Mar 29 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/699052d56ea51a7610f2de8d?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | ↳ | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Mar 29 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a291852e62f008223a8?utm_campaign=1050&utm_source=git)** | Humble, TX | On Site | Mar 29 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Project Manager](https://jobright.ai/jobs/info/698f9b630f6f7e7a2cebe3aa?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Mar 29 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 29 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Executive Director (Senior Living)](https://jobright.ai/jobs/info/698c057be4f6572f0e43fe7d?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Mar 29 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f6351818a24cd84d8b2b?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f630aa3c2c1995e22394?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Mar 29 |
-| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
+| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61a83ea553769fedb99?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f5e7e565c26a70032f50?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Mar 29 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Risepoint](https://risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1050&utm_source=git)** | Windsor, ON | On Site | Mar 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Planning Associate](https://jobright.ai/jobs/info/691e42c909cc522e87738291?utm_campaign=1050&utm_source=git)** | Newmarket, ON | On Site | Mar 28 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
