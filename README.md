@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Administrative Assistant (Temporary)](https://jobright.ai/jobs/info/69ca5b06aa3c2c1995e2c3b6?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Mar 30 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca58fbe565c26a7003cd8f?utm_campaign=1050&utm_source=git)** | Nashville Metro | On Site | Mar 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcdee7e6a0d979258507a8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
+| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa94449ca4e908ec660188?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6978574f52f3c27ec644af6e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Mar 30 |
+| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Mar 30 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bce492e6a0d97925850f55?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| ↳ | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| ↳ | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 30 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69acbefc142d5b4265fdf8f4?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Mar 30 |
 | **[Cohabs](http://www.cohabs.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69b64f1e3b74eb1e2c840fdb?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Mar 30 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69ca3e8aaa3c2c1995e2b7e8?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Mar 30 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[MBA Summer Intern, VIS-2](https://jobright.ai/jobs/info/69ca29cae565c26a7003b0cd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Carolinas & Tri-Cities Region,](https://jobright.ai/jobs/info/69bb6ece3b74eb1e2c89da08?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Mar 29 |
 | **[Chase](https://www.chase.com/)** | **[2026 Operational Controls/Quality Assurance/Risk Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c9f5ccaa3c2c1995e28e4b?utm_campaign=1050&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 29 |
@@ -99,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Project Manager](https://jobright.ai/jobs/info/698f9b630f6f7e7a2cebe3aa?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Mar 29 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 29 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Executive Director (Senior Living)](https://jobright.ai/jobs/info/698c057be4f6572f0e43fe7d?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Mar 29 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Supply Chain Internship-Raleigh](https://jobright.ai/jobs/info/69c8f060aa3c2c1995e21f47?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Mar 29 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e4ba983e6768bc5533b3?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Mar 29 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Mar 29 |
@@ -113,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f637b773006330b83186?utm_campaign=1050&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f6351818a24cd84d8b2b?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f630aa3c2c1995e22394?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Mar 29 |
-| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9b?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Mar 29 |
+| ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61b83ea553769fedb9a?utm_campaign=1050&utm_source=git)** | Franktown, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f61a83ea553769fedb99?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | ↳ | **[Branch Manager- Southwest Denver District](https://jobright.ai/jobs/info/69c8f5e7e565c26a70032f50?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Mar 29 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Mar 28 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Mar 28 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Strategy / M&A Intern](https://jobright.ai/jobs/info/69ab26d72747003c3d50c501?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 28 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Production Planning](https://jobright.ai/jobs/info/69ab91477e1fab39d382f9bc?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Mar 28 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management](https://jobright.ai/jobs/info/69ab6bdb2747003c3d510a5d?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 28 |
-| **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/69ac46362747003c3d520634?utm_campaign=1050&utm_source=git)** | Windham, NH | On Site | Mar 28 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern- Fleet](https://jobright.ai/jobs/info/69ab0ebb7e1fab39d3829a8a?utm_campaign=1050&utm_source=git)** | Markham, ON | On Site | Mar 28 |
-| **[Flex](https://getflex.com)** | **[VP, Strategic Finance](https://jobright.ai/jobs/info/69018b44f8ce7a040fdc0ad3?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
-| **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Project Controls- USA - AZ - Tempe - West 10th Place - R26-01596](https://jobright.ai/jobs/info/698fc47b0cc8ea15f1da6280?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Mar 28 |
-| **[Sentara Health](http://www.sentara.com)** | **[IT Clinical & Revenue Cycle Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69ab65292747003c3d510047?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 28 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/697293d4584a1c1ef6fd9325?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Mar 28 |
-| **[Risepoint](https://risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
