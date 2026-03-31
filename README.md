@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69c187ff2c312363dcd4873b?utm_campaign=1050&utm_source=git)** | Spokane | On Site | Mar 30 |
+| **[Poudre School District](http://www.psdschools.org)** | **[2026-27 School Office Manager-Elementary-Traut Core Knowledge Elementary School](https://jobright.ai/jobs/info/69cb6791466f1e133aacd72a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Mar 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - 03312026-76410](https://jobright.ai/jobs/info/69cb6740aa3c2c1995e3698c?utm_campaign=1050&utm_source=git)** | Washington County, TN | On Site | Mar 30 |
 | ↳ | **[SECRETARY - 03242026-76017](https://jobright.ai/jobs/info/69c23a90c9ad035e829aecdb?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 30 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Strategy & Business Operations Intern, Factor New Channels](https://jobright.ai/jobs/info/69cb63668fc6090c5d4575ee?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/69cade07e565c26a70041b80?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | **[LG Electronics](http://www.lg.com)** | **[SCM - Intern - National Operations (Best Buy Accounts)](https://jobright.ai/jobs/info/69cadd18a8c1822476e2117d?utm_campaign=1050&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 30 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69cadcb7a8c1822476e2112f?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 30 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/69cadc8f8fc6090c5d45202d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 30 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Unpaid, Remote, Internship)](https://jobright.ai/jobs/info/69cadb14466f1e133aac7f34?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
