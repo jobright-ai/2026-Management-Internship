@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring 2027](https://jobright.ai/jobs/info/69cb3cf7aa3c2c1995e35639?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 30 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Director, Operations and Training](https://jobright.ai/jobs/info/69cb43631b5ad028873aa248?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
+| **[Stantec](http://www.stantec.com)** | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb4265aa3c2c1995e35861?utm_campaign=1050&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 30 |
+| ↳ | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb42501b5ad028873aa22f?utm_campaign=1050&utm_source=git)** | North Bay, ON | On Site | Mar 30 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Fall 2026](https://jobright.ai/jobs/info/69cb3f9baa3c2c1995e356a1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 30 |
+| ↳ | **[Project Support Services Internship - Spring 2027](https://jobright.ai/jobs/info/69cb3cf7aa3c2c1995e35639?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 30 |
 | **[First National Bank Alaska](https://www.fnbalaska.com/)** | **[Intern II - Cordova Branch](https://jobright.ai/jobs/info/69cb3ad7aa3c2c1995e354d9?utm_campaign=1050&utm_source=git)** | Cordova, AK, US | On Site | Mar 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Project Management intern (supports Tabernacle Choir) one year - full time](https://jobright.ai/jobs/info/69cb38b1466f1e133aacbd26?utm_campaign=1050&utm_source=git)** | Riverton, UT | On Site | Mar 30 |
 | **[Equinix](http://www.equinix.com)** | **[Project, Process, and Change Management Intern](https://jobright.ai/jobs/info/69cb35ede565c26a700459d9?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Mar 30 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cb08061b5ad028873a800d?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0780aa3c2c1995e33539?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cb0779aa3c2c1995e334e9?utm_campaign=1050&utm_source=git)** | Modern Supply, 3409 W Market St, Johnson City, Tennessee, United States of America | On Site | Mar 30 |
-| **[UST](https://www.ust.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e23375?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
-| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e2337a?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
+| **[UST](https://www.ust.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e2337a?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
+| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e23375?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - TX - Pasadena - Houston Branch - R26-03196](https://jobright.ai/jobs/info/69cb0674aa3c2c1995e33063?utm_campaign=1050&utm_source=git)** | Pasadena, TX | On Site | Mar 30 |
 | ↳ | **[Intern, Operations - USA - LA - LaPlace - LA Core - R26-03140](https://jobright.ai/jobs/info/69cb066f466f1e133aac9dce?utm_campaign=1050&utm_source=git)** | LaPlace, LA | On Site | Mar 30 |
 | **[Suffolk Credit Union](https://www.suffolkfcu.org/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69cb0636aa3c2c1995e32eb7?utm_campaign=1050&utm_source=git)** | Medford,NY,US | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/69bd598a4828227293ff94f7?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Mar 30 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69cad284e565c26a700412b3?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Mar 30 |
 | **[Carpet City Flooring Center](https://www.carpetcitywi.com/)** | **[Youth Apprenticeship – Warehouse Associate](https://jobright.ai/jobs/info/69cb0e4a466f1e133aaca766?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69cad22ba8c1822476e208b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Mar 30 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69cae55caa3c2c1995e31a85?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 30 |
-| **[Vevolution](http://www.vevolution.com)** | **[Technical Project Manager](https://jobright.ai/jobs/info/69cacecba8c1822476e206c6?utm_campaign=1050&utm_source=git)** | Shirley, KS | On Site | Mar 30 |
-| **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Summer Internship - Logistics](https://jobright.ai/jobs/info/69cacb67aa3c2c1995e3054a?utm_campaign=1050&utm_source=git)** | Romeoville, IL | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
