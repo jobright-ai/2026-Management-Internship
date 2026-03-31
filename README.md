@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69b25793ae2a534885e95116?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 31 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Land Management Intern](https://jobright.ai/jobs/info/69af1b4adfaeda6ff5971db9?utm_campaign=1050&utm_source=git)** | Jackson, SC | On Site | Mar 31 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Business Excellence (Operations) Intern](https://jobright.ai/jobs/info/69af32dfdfaeda6ff5974b81?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Facilities Management Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/69cb91ad8fc6090c5d45924e?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Mar 31 |
 | **[City of Toronto](http://www.toronto.ca)** | **[PROJECT MANAGER WATERFRONT](https://jobright.ai/jobs/info/69cb8dba1b5ad028873acf10?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Mar 31 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Intern - Advanced Technology Program Management - Tewksbury, MA (Onsite)](https://jobright.ai/jobs/info/69cb8baa466f1e133aacf13e?utm_campaign=1050&utm_source=git)** | Tewksbury, MA | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NNE](https://www.nne.com)** | **[Senior Project Manager - Clayton NC](https://jobright.ai/jobs/info/69cae4e2e565c26a70042452?utm_campaign=1050&utm_source=git)** | Clayton, NC | On Site | Mar 30 |
 | **[MAT Friction](http://www.matholdingsinc.com/)** | **[Summer Internship - Logistics](https://jobright.ai/jobs/info/69cb10e3aa3c2c1995e33ae8?utm_campaign=1050&utm_source=git)** | Romeoville, IL | On Site | Mar 30 |
 | **[Nixon Power Services](https://www.nixonpower.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69cae3b8e565c26a70041f66?utm_campaign=1050&utm_source=git)** | Brentwood, TN, US | On Site | Mar 30 |
-| **[Metrolinx](http://www.metrolinx.com/)** | **[Co-op/Intern Student, PRESTO Asset and Inventory Management](https://jobright.ai/jobs/info/69cae3b7e565c26a70041f55?utm_campaign=1050&utm_source=git)** | Canada | Remote | Mar 30 |
-| **[Rocky Mountain Youth Corps NM](https://youthcorps.org)** | **[Summer Operations Intern - Taos (NMCorps)](https://jobright.ai/jobs/info/69cae37b1b5ad028873a6111?utm_campaign=1050&utm_source=git)** | Taos, Taos, NM, US | On Site | Mar 30 |
-| ↳ | **[Summer Operations Intern - Albuquerque (NMCorps)](https://jobright.ai/jobs/info/69cae36aaa3c2c1995e31435?utm_campaign=1050&utm_source=git)** | Albuquerque, Albuquerque, NM, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
