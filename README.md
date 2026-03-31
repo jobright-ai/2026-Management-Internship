@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - 03312026-76410](https://jobright.ai/jobs/info/69cb6740aa3c2c1995e3698c?utm_campaign=1050&utm_source=git)** | Washington County, TN | On Site | Mar 30 |
+| ↳ | **[SECRETARY - 03242026-76017](https://jobright.ai/jobs/info/69c23a90c9ad035e829aecdb?utm_campaign=1050&utm_source=git)** | Hamilton County, TN | On Site | Mar 30 |
+| **[HelloFresh](http://www.hellofreshgroup.com)** | **[Strategy & Business Operations Intern, Factor New Channels](https://jobright.ai/jobs/info/69cb63668fc6090c5d4575ee?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| **[FAMU National Alumni Association](http://famunaa.org)** | **[Associate Vice President for Facilities and Campus Planning](https://jobright.ai/jobs/info/69cb5f17aa3c2c1995e367b5?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Mar 30 |
+| **[Spacebourne](https://spacebourne.com)** | **[Delta-V Scholar Program / Mission Operations Intern / CEO's Office](https://jobright.ai/jobs/info/69cb59c4aa3c2c1995e36465?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Unisys](http://www.unisys.com)** | **[Advisor Relations Intern](https://jobright.ai/jobs/info/69cb57931b5ad028873aaac5?utm_campaign=1050&utm_source=git)** | Remote, PA, United States of America | Remote | Mar 30 |
+| **[Planet](http://www.planet.com)** | **[Executive Operations Partner](https://jobright.ai/jobs/info/69cb53c0a8c1822476e25d73?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Mar 30 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69cb52568fc6090c5d456baa?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Mar 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Planning Specialist](https://jobright.ai/jobs/info/69cb50ab8fc6090c5d456b58?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 30 |
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Office of Administration and Innovations Intern](https://jobright.ai/jobs/info/69cb4b228fc6090c5d4568f4?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
 | **[City of Whittier](https://www.cityofwhittier.org/)** | **[Administrative Intern (03-26)](https://jobright.ai/jobs/info/69cb4adfe565c26a700466e3?utm_campaign=1050&utm_source=git)** | Whittier, CA | On Site | Mar 30 |
+| **[University of New Brunswick](http://www.unb.ca)** | **[Administrative Assistant PL4](https://jobright.ai/jobs/info/69cb673c466f1e133aacd711?utm_campaign=1050&utm_source=git)** | Saint John, NB | On Site | Mar 30 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Director, Operations and Training](https://jobright.ai/jobs/info/69cb43631b5ad028873aa248?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
 | **[Stantec](http://www.stantec.com)** | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb4265aa3c2c1995e35861?utm_campaign=1050&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 30 |
 | ↳ | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb42501b5ad028873aa22f?utm_campaign=1050&utm_source=git)** | North Bay, ON | On Site | Mar 30 |
@@ -97,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cb08061b5ad028873a800d?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0780aa3c2c1995e33539?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cb0779aa3c2c1995e334e9?utm_campaign=1050&utm_source=git)** | Modern Supply, 3409 W Market St, Johnson City, Tennessee, United States of America | On Site | Mar 30 |
-| **[UST](https://www.ust.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e2337a?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
-| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e23375?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
+| **[UST](https://www.ust.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e23375?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
+| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cb0736a8c1822476e2337a?utm_campaign=1050&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - TX - Pasadena - Houston Branch - R26-03196](https://jobright.ai/jobs/info/69cb0674aa3c2c1995e33063?utm_campaign=1050&utm_source=git)** | Pasadena, TX | On Site | Mar 30 |
 | ↳ | **[Intern, Operations - USA - LA - LaPlace - LA Core - R26-03140](https://jobright.ai/jobs/info/69cb066f466f1e133aac9dce?utm_campaign=1050&utm_source=git)** | LaPlace, LA | On Site | Mar 30 |
 | **[Suffolk Credit Union](https://www.suffolkfcu.org/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69cb0636aa3c2c1995e32eb7?utm_campaign=1050&utm_source=git)** | Medford,NY,US | On Site | Mar 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69cadcb7a8c1822476e2112f?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 30 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/69cadc8f8fc6090c5d45202d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations (Unpaid, Remote, Internship)](https://jobright.ai/jobs/info/69cadb14466f1e133aac7f34?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 30 |
-| **[CN](http://www.cn.ca)** | **[Intern, Transformation- EN](https://jobright.ai/jobs/info/69cad93c1b5ad028873a5a16?utm_campaign=1050&utm_source=git)** | Montreal, QC | On Site | Mar 30 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/69cad8cee565c26a7004153c?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 30 |
-| **[The North West Company](http://northwest.ca/)** | **[Lead Hand, Nights - Grocery](https://jobright.ai/jobs/info/69caf770e565c26a70043210?utm_campaign=1050&utm_source=git)** | Winnipeg, MB | On Site | Mar 30 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/69cad8bda8c1822476e20b25?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Mar 30 |
-| ↳ | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/69cad8a31b5ad028873a56ed?utm_campaign=1050&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 30 |
-| ↳ | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/69cad89d8fc6090c5d451a13?utm_campaign=1050&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 30 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Planning and Process Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69cad8798fc6090c5d451975?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, 55418 | Hybrid | Mar 30 |
-| **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/699ddf1ae0bddb6acacd39da?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
