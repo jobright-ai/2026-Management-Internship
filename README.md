@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69cb24061b5ad028873a91b9?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Mar 30 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Corporate and Foundation Relations College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69c5a7c083ea553769fcdf03?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Mar 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Planning Specialist](https://jobright.ai/jobs/info/69cb1fc1466f1e133aacb3fa?utm_campaign=1050&utm_source=git)** | Madison, Wisconsin | On Site | Mar 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Planning and Process Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69cb1ec98fc6090c5d454e79?utm_campaign=1050&utm_source=git)** | Twin Cities Area | Hybrid | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Loss Mitigation Strategic Services](https://jobright.ai/jobs/info/69cab8341b5ad028873a4237?utm_campaign=1050&utm_source=git)** | Highway 77 - Panama City, FL | On Site | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[CES Strategic Programs Intern](https://jobright.ai/jobs/info/69cab7f4e565c26a70040047?utm_campaign=1050&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/69cab7e7aa3c2c1995e2f5fa?utm_campaign=1050&utm_source=git)** | 221 East Fourth Street, Cincinnati, OH, 45202, US | On Site | Mar 30 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Loss Mitigation Strategic Services](https://jobright.ai/jobs/info/69cab7e5e565c26a7003fff2?utm_campaign=1050&utm_source=git)** | Bradenton Main - Bradenton, FL | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
