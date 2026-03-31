@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69cb52568fc6090c5d456baa?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Mar 30 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Planning Specialist](https://jobright.ai/jobs/info/69cb50ab8fc6090c5d456b58?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Mar 30 |
+| **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Office of Administration and Innovations Intern](https://jobright.ai/jobs/info/69cb4b228fc6090c5d4568f4?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
+| **[City of Whittier](https://www.cityofwhittier.org/)** | **[Administrative Intern (03-26)](https://jobright.ai/jobs/info/69cb4adfe565c26a700466e3?utm_campaign=1050&utm_source=git)** | Whittier, CA | On Site | Mar 30 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Director, Operations and Training](https://jobright.ai/jobs/info/69cb43631b5ad028873aa248?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Mar 30 |
 | **[Stantec](http://www.stantec.com)** | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb4265aa3c2c1995e35861?utm_campaign=1050&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 30 |
 | ↳ | **[Project Manager, Mining](https://jobright.ai/jobs/info/69cb42501b5ad028873aa22f?utm_campaign=1050&utm_source=git)** | North Bay, ON | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/69cad89d8fc6090c5d451a13?utm_campaign=1050&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Planning and Process Intern - Minneapolis, MN](https://jobright.ai/jobs/info/69cad8798fc6090c5d451975?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, 55418 | Hybrid | Mar 30 |
 | **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/699ddf1ae0bddb6acacd39da?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Mar 30 |
-| **[Kareem's Mission](www.kareemsmission.org)** | **[Program Manager](https://jobright.ai/jobs/info/69cad3a8e565c26a700412f6?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | Hybrid | Mar 30 |
-| **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/69bd598a4828227293ff94f7?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Mar 30 |
-| **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69cad284e565c26a700412b3?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Mar 30 |
-| **[Carpet City Flooring Center](https://www.carpetcitywi.com/)** | **[Youth Apprenticeship – Warehouse Associate](https://jobright.ai/jobs/info/69cb0e4a466f1e133aaca766?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
