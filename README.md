@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69cd643ccfdc6132f9418044?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
+| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Business Architecture Department (Winnipeg Office)](https://jobright.ai/jobs/info/69cd5ca4398fb071abf746ac?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 01 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69cd551acfdc6132f9417c24?utm_campaign=1050&utm_source=git)** | Fresno Resource Management Center | Hybrid | Apr 01 |
 | **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Construction Management - Internship](https://jobright.ai/jobs/info/69cd5516366bb95ba54faeaa?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Apr 01 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69cd5516398fb071abf743ca?utm_campaign=1050&utm_source=git)** | Fresno | Hybrid | Apr 01 |
@@ -88,9 +90,11 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69cd3fa5cdb525785fb85f27?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 01 |
 | **[US LBM](http://uslbm.com)** | **[Fulfillment Intern](https://jobright.ai/jobs/info/69a767f176bbe83d3afacaff?utm_campaign=1050&utm_source=git)** | Hammonton, NJ | On Site | Apr 01 |
 | **[Aqua](https://www.aquawater.com/)** | **[Peoples Gas Internship - Project Management](https://jobright.ai/jobs/info/69cd3c00398fb071abf732ad?utm_campaign=1050&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Apr 01 |
+| **[Western Connecticut State University](http://www.wcsu.edu/)** | **[Vice President for Operations and Chief Operating Officer](https://jobright.ai/jobs/info/69cd5ca7cdb525785fb87301?utm_campaign=1050&utm_source=git)** | Danbury, CT | On Site | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69cd3bce891d7b11cfcb6dfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/695c82df5e4962051b59a0a7?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/699481cee0bddb6acac2f1ba?utm_campaign=1050&utm_source=git)** | Blacksburg, VA | On Site | Apr 01 |
+| **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/69b09e66749500645097487e?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Apr 01 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69bc12fa5b89c002acf10c2e?utm_campaign=1050&utm_source=git)** | Lockport, IL | On Site | Apr 01 |
 | **[Seaman Paper](https://www.seamanpaper.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69cd3629cfdc6132f94168f8?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 01 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Logistics](https://jobright.ai/jobs/info/69cd3606cfdc6132f9416834?utm_campaign=1050&utm_source=git)** | 100 Planters Rd, Sunnyvale, TX, 75182, US | On Site | Apr 01 |
@@ -118,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[IT Portfolio Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69b0d170749500645097d675?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 01 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Temporary Administrative Assistant](https://jobright.ai/jobs/info/69951bf881476f6176acf979?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Apr 01 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Operations Capacity Planning Intern](https://jobright.ai/jobs/info/69bc25654828227293fd8467?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | Apr 01 |
+| **[EASE Property Services](https://www.leaseindc.com)** | **[Summer Leasing/Property Management Intern](https://jobright.ai/jobs/info/69cd5c8954f00230c6ceeab1?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Summer 2026 - Boston, MA](https://jobright.ai/jobs/info/69bc1a0b45e08b3dc1f817b1?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southwest NJ District](https://jobright.ai/jobs/info/69cd593c54f00230c6cee94f?utm_campaign=1050&utm_source=git)** | Somers Point, NJ | On Site | Apr 01 |
 | ↳ | **[Branch Manager Southwest NJ District](https://jobright.ai/jobs/info/69c5311e1b5ad0288737094d?utm_campaign=1050&utm_source=git)** | Woodbury, NJ | On Site | Apr 01 |
@@ -132,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southwest NJ District](https://jobright.ai/jobs/info/69cd3203398fb071abf72f89?utm_campaign=1050&utm_source=git)** | Clementon, NJ | On Site | Apr 01 |
 | **[Flex](https://flex.com)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69b0b4e90b2db6275c051b7f?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Apr 01 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b64e5056973837413b963d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
+| **[Infrastructure Ontario](https://www.infrastructureontario.ca/en/)** | **[Project Coordinator, Project Delivery - Various External Projects](https://jobright.ai/jobs/info/69cd65accfdc6132f941810d?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69b14c1ed04c69566c73708e?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Lead Project Manager IT](https://jobright.ai/jobs/info/6993b3e7e0bddb6acac1fc04?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Apr 01 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Controls Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69cd291954f00230c6cecdc9?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Apr 01 |
 | **[Brightline West Trains](https://www.BrightlineWest.com)** | **[Business Rotation Intern - Summer 2026](https://jobright.ai/jobs/info/6995887881476f6176ad7456?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 01 |
-| **[Mohr Partners, Inc.](http://mohrpartners.com)** | **[Real Estate Lease Administration Intern](https://jobright.ai/jobs/info/69b05db00b2db6275c042732?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/69b0bc8d7495006450979698?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Minnesota](https://jobright.ai/jobs/info/691ae6eabcdbf3560c9db773?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 01 |
 | **[Spin Master](https://www.spinmaster.com)** | **[Development Intern for Prodco Team](https://jobright.ai/jobs/info/69cd37ebcfdc6132f9416957?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Cherokee District](https://jobright.ai/jobs/info/69ccf4c5398fb071abf71934?utm_campaign=1050&utm_source=git)** | Canton, GA | On Site | Apr 01 |
 | ↳ | **[Branch Manager- Brandywine District, PA](https://jobright.ai/jobs/info/69ccf4bfcdb525785fb8456f?utm_campaign=1050&utm_source=git)** | Glen Mills, PA | On Site | Apr 01 |
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69ccf4aacfdc6132f941511b?utm_campaign=1050&utm_source=git)** | Reading, PA | On Site | Apr 01 |
-| ↳ | **[Branch Manager- Del South District- Middletown, DE](https://jobright.ai/jobs/info/69ccf4a9cfdc6132f9415118?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE | On Site | Apr 01 |
-| ↳ | **[Branch Manager Perimeter Gateway](https://jobright.ai/jobs/info/69ccf4a9398fb071abf71928?utm_campaign=1050&utm_source=git)** | Canton, GA | On Site | Apr 01 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69ccf4a8398fb071abf71923?utm_campaign=1050&utm_source=git)** | Trexlertown, PA | On Site | Apr 01 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69ccf48754f00230c6cebcfd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA | On Site | Apr 01 |
-| ↳ | **[Branch Manager Mid Cities North Dallas](https://jobright.ai/jobs/info/69ccf48654f00230c6cebcf4?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
