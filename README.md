@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Procurement Intern](https://jobright.ai/jobs/info/6941e06c14ee092a69fff2c5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Apr 02 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Procurement Intern (Onsite - Hopewell, NJ)](https://jobright.ai/jobs/info/6996e106e0bddb6acac57a83?utm_campaign=1050&utm_source=git)** | Hopewell, NJ | On Site | Apr 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - North County Coastal District](https://jobright.ai/jobs/info/69ce47d654f00230c6cfdf85?utm_campaign=1050&utm_source=git)** | Del Mar, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Tallahassee](https://jobright.ai/jobs/info/69ce47a3398fb071abf83c00?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Operations Internship](https://jobright.ai/jobs/info/69ce475354f00230c6cfdf3c?utm_campaign=1050&utm_source=git)** | Brighton, MI | On Site | Apr 02 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Corporate Operations (Corp Ops)](https://jobright.ai/jobs/info/6995187fce78e77b4fd92fb8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - North County Coastal District](https://jobright.ai/jobs/info/69ce4180366bb95ba5509a24?utm_campaign=1050&utm_source=git)** | Ramona, CA | On Site | Apr 02 |
-| ↳ | **[Branch Manager San Gabriels Mountain District](https://jobright.ai/jobs/info/69ce417e366bb95ba5509a0d?utm_campaign=1050&utm_source=git)** | Covina, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Midland Odessa](https://jobright.ai/jobs/info/69ce417e366bb95ba5509a13?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Apr 02 |
+| ↳ | **[Branch Manager San Gabriels Mountain District](https://jobright.ai/jobs/info/69ce417e366bb95ba5509a0d?utm_campaign=1050&utm_source=git)** | Covina, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce4179398fb071abf83414?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | On Site | Apr 02 |
 | ↳ | **[Branch Manager Dallas Northeast Suburban District](https://jobright.ai/jobs/info/69ce4178398fb071abf83411?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Apr 02 |
 | ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69ce4178398fb071abf8340e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 02 |
@@ -84,13 +87,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69ce4076cdb525785fb95a84?utm_campaign=1050&utm_source=git)** | Battle Ground, WA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Skyline District](https://jobright.ai/jobs/info/69ce4075cdb525785fb95a7c?utm_campaign=1050&utm_source=git)** | Waynesboro, VA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Skyline District](https://jobright.ai/jobs/info/69ce4074cdb525785fb95a6f?utm_campaign=1050&utm_source=git)** | Louisa, VA | On Site | Apr 02 |
-| ↳ | **[Branch Manager Dallas Northeast Suburban District](https://jobright.ai/jobs/info/69ce407354f00230c6cfd6e6?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Apr 02 |
 | ↳ | **[Branch Manager Southern Sacramento Valley](https://jobright.ai/jobs/info/69ce407354f00230c6cfd6e7?utm_campaign=1050&utm_source=git)** | Lodi, CA | On Site | Apr 02 |
+| ↳ | **[Branch Manager Dallas Northeast Suburban District](https://jobright.ai/jobs/info/69ce407354f00230c6cfd6e6?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Apr 02 |
 | ↳ | **[Branch Manager - North County Coastal District](https://jobright.ai/jobs/info/69ce407254f00230c6cfd6e4?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager San Gabriels Mountain District](https://jobright.ai/jobs/info/69ce407254f00230c6cfd6e3?utm_campaign=1050&utm_source=git)** | West Covina, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Tri County South District](https://jobright.ai/jobs/info/69ce407154f00230c6cfd6dc?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| ↳ | **[Branch Manager Skyline District](https://jobright.ai/jobs/info/69ce407154f00230c6cfd6d8?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce407154f00230c6cfd6db?utm_campaign=1050&utm_source=git)** | Chula Vista, CA | On Site | Apr 02 |
+| ↳ | **[Branch Manager Skyline District](https://jobright.ai/jobs/info/69ce407154f00230c6cfd6d8?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce407054f00230c6cfd6ca?utm_campaign=1050&utm_source=git)** | National City, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Southern Sacramento Valley](https://jobright.ai/jobs/info/69ce4065cfdc6132f94266c8?utm_campaign=1050&utm_source=git)** | Galt, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce406254f00230c6cfd681?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
@@ -98,9 +101,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69ce405b891d7b11cfcc6804?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce4056cfdc6132f9426684?utm_campaign=1050&utm_source=git)** | Bonita, CA | On Site | Apr 02 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69ce4056cfdc6132f942668b?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 02 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southern Sacramento Valley](https://jobright.ai/jobs/info/69ce4052891d7b11cfcc67ec?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce4052891d7b11cfcc67ef?utm_campaign=1050&utm_source=git)** | Coronado, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager Skyline District](https://jobright.ai/jobs/info/69ce4052891d7b11cfcc67ed?utm_campaign=1050&utm_source=git)** | Orange, VA | On Site | Apr 02 |
-| ↳ | **[Branch Manager - South San Diego District](https://jobright.ai/jobs/info/69ce4052891d7b11cfcc67ef?utm_campaign=1050&utm_source=git)** | Coronado, CA | On Site | Apr 02 |
+| ↳ | **[Branch Manager Southern Sacramento Valley](https://jobright.ai/jobs/info/69ce4052891d7b11cfcc67ec?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager San Gabriels Mountain District](https://jobright.ai/jobs/info/69ce4047891d7b11cfcc67bf?utm_campaign=1050&utm_source=git)** | Baldwin Park, CA | On Site | Apr 02 |
 | ↳ | **[Branch Manager - North County Coastal District](https://jobright.ai/jobs/info/69ce4046891d7b11cfcc67bb?utm_campaign=1050&utm_source=git)** | Poway, CA | On Site | Apr 02 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Business Operations Intern (TPG - PMO)](https://jobright.ai/jobs/info/6996a0cde0bddb6acac53287?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 02 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Supply Chain Intern - Global Sourcing](https://jobright.ai/jobs/info/69cdd08fcfdc6132f941fca3?utm_campaign=1050&utm_source=git)** | Moses Lake, WA | On Site | Apr 01 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cdac7ccdb525785fb8d912?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 01 |
 | **[Nextpower](https://nextpower.com/)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/69cdac70366bb95ba550178d?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Apr 01 |
+| **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Team Manager Research Finance](https://jobright.ai/jobs/info/69ce4a3d891d7b11cfcc772d?utm_campaign=1050&utm_source=git)** | Bristol, CT | Hybrid | Apr 01 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ce0156366bb95ba5506a16?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69cda875891d7b11cfcbe7d0?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of Alumni Relations](https://jobright.ai/jobs/info/69cdeee9398fb071abf7e39d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 01 |
-| **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e21d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[The School District of Philadelphia](http://www.philasd.org/)** | **[Executive Director of Multilingual Programs](https://jobright.ai/jobs/info/69ce0cfd398fb071abf80c0f?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69cda320cdb525785fb8d54f?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 01 |
-| ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69cda300891d7b11cfcbe642?utm_campaign=1050&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
