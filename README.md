@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Coordinator I - East Campus](https://jobright.ai/jobs/info/69ce0406cdb525785fb92e38?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Apr 01 |
 | **[Play N' Kick](https://www.playnkick.com/)** | **[Administrative Assistant Intern (paid)](https://jobright.ai/jobs/info/69cdfbe4366bb95ba5506828?utm_campaign=1050&utm_source=git)** | Fairfax, VA | Hybrid | Apr 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Value Chain Management](https://jobright.ai/jobs/info/69cdf7f254f00230c6cfa387?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Apr 01 |
 | **[City of Rancho Palos Verdes](http://www.rpvca.gov)** | **[INTERN](https://jobright.ai/jobs/info/69cdf6d0366bb95ba55064cf?utm_campaign=1050&utm_source=git)** | Rancho Palos Verdes, CA | On Site | Apr 01 |
@@ -66,7 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Soccer Operations Internship – Equipment](https://jobright.ai/jobs/info/69cde898891d7b11cfcc176a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/69cde854891d7b11cfcc16d9?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69cde147398fb071abf7d7e9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 01 |
+| **[Behind The Vision](http://www.btvsite.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69ce09df398fb071abf80a76?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Administrative Associate II](https://jobright.ai/jobs/info/69cdf5a1cfdc6132f9422d00?utm_campaign=1050&utm_source=git)** | Prairie View, TX | On Site | Apr 01 |
+| **[Sanhua International USA](https://www.sanhuausa.com)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/69ce0c93398fb071abf80ba1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[tastytrade](https://tastytrade.com)** | **[Business Operations Intern (MBA)](https://jobright.ai/jobs/info/69cdcb51891d7b11cfcbfbe2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69cde80e366bb95ba55043a0?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 01 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69cde7eb398fb071abf7dcfb?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 01 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69cdb554cdb525785fb8dee1?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[American Crane & Equipment Corporation](http://www.americancrane.com)** | **[Production / Supply Chain Intern](https://jobright.ai/jobs/info/69cdecc0891d7b11cfcc1b51?utm_campaign=1050&utm_source=git)** | Douglassville, PA | On Site | Apr 01 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Administrative Assistant to the Chair](https://jobright.ai/jobs/info/69cdd479891d7b11cfcc0390?utm_campaign=1050&utm_source=git)** | Guelph, ON | On Site | Apr 01 |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Summer 2026 Intern - Logistics](https://jobright.ai/jobs/info/69ce0a03366bb95ba5507006?utm_campaign=1050&utm_source=git)** | Sunnyvale, TX | On Site | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Operations Intern](https://jobright.ai/jobs/info/69cdf883366bb95ba5506578?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 Supply Chain Intern - Global Sourcing](https://jobright.ai/jobs/info/69cdd08fcfdc6132f941fca3?utm_campaign=1050&utm_source=git)** | Moses Lake, WA | On Site | Apr 01 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cdac7ccdb525785fb8d912?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 01 |
@@ -96,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69cda875891d7b11cfcbe7d0?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of Alumni Relations](https://jobright.ai/jobs/info/69cdeee9398fb071abf7e39d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 01 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cda56ecfdc6132f941e21d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[The School District of Philadelphia](http://www.philasd.org/)** | **[Executive Director of Multilingual Programs](https://jobright.ai/jobs/info/69ce0cfd398fb071abf80c0f?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 01 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69cda320cdb525785fb8d54f?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 01 |
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69cda300891d7b11cfcbe642?utm_campaign=1050&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 01 |
 | **[Landstar](http://www.landstar.com)** | **[College Internship - International & Air OperationsTransportation & Logistics](https://jobright.ai/jobs/info/69cda2e854f00230c6cf4f7e?utm_campaign=1050&utm_source=git)** | Landstar Transportation Logistics, 13410 Sutton Park Dr S, Jacksonville, Florida, United States of America | On Site | Apr 01 |
@@ -134,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69cdb53c366bb95ba5501da0?utm_campaign=1050&utm_source=git)** | East Haven, CT | On Site | Apr 01 |
 | ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/69cdb54bcdb525785fb8dea0?utm_campaign=1050&utm_source=git)** | Framingham, MA | On Site | Apr 01 |
 | **[Acrisure](http://acrisure.com)** | **[Part-Time Service Team Intern](https://jobright.ai/jobs/info/69cdb553891d7b11cfcbeff5?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | Apr 01 |
-| **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Central Office _Manager III, Facilities and Maintenance (Operations) 2025-2026](https://jobright.ai/jobs/info/69cdb55bcfdc6132f941eb67?utm_campaign=1050&utm_source=git)** | Tucker, GA | On Site | Apr 01 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Manager, Administrative Services](https://jobright.ai/jobs/info/69cdb576398fb071abf7b7b6?utm_campaign=1050&utm_source=git)** | Hayward, CA | On Site | Apr 01 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[Intern.Project Management](https://jobright.ai/jobs/info/69cd84c1cfdc6132f941a86d?utm_campaign=1050&utm_source=git)** | Nashville, TN, United States | On Site | Apr 01 |
 | **[Acrisure](http://acrisure.com)** | **[Part-Time Service Team Intern](https://jobright.ai/jobs/info/69cd84b1cdb525785fb89a93?utm_campaign=1050&utm_source=git)** | 259 Prospect Plains Rd Bldg. F, Suite 110 and Suite 130, Cranbury, NJ | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](http://www.mccain.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69cd7c66398fb071abf759a3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69cddafd891d7b11cfcc0d86?utm_campaign=1050&utm_source=git)** | Ambler, PA | On Site | Apr 01 |
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Summer Facilities Operations Internship](https://jobright.ai/jobs/info/69cdc5da366bb95ba550288c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
-| **[Energy Access Innovations](https://www.linkedin.com/company/106032652)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69cd7b8ecdb525785fb8854d?utm_campaign=1050&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
-| **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69cda6e6cfdc6132f941e2d2?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 01 |
-| **[Moog Inc.](http://www.moog.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69cd791554f00230c6cefa20?utm_campaign=1050&utm_source=git)** | Arvada, CO | On Site | Apr 01 |
-| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Process Documentation Intern](https://jobright.ai/jobs/info/69cd9af6891d7b11cfcbde83?utm_campaign=1050&utm_source=git)** | Oakland, NJ | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
