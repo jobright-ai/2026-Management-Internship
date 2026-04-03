@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnesota Department of Agriculture](https://www.mda.state.mn.us/)** | **[Logistics Coordinator - Office & Administrative Specialist Intermediate](https://jobright.ai/jobs/info/69cf6ce1cfdc6132f94336c2?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Apr 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[CMC Project Management Intern](https://jobright.ai/jobs/info/69cf5d32366bb95ba55158be?utm_campaign=1050&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/69cf517c54f00230c6d08ffd?utm_campaign=1050&utm_source=git)** | Bemidji, MN | On Site | Apr 02 |
 | **[AXA XL](https://axaxl.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf4066cdb525785fba0b15?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22bf891d7b11cfcd028b?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b4891d7b11cfcd0267?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b0cdb525785fb9ee27?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Apr 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2b?utm_campaign=1050&utm_source=git)** | Hollister, MO | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2c?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2b?utm_campaign=1050&utm_source=git)** | Hollister, MO | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22ab891d7b11cfcd024d?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22a4cdb525785fb9ee01?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Apr 02 |
 | **[Yesway](http://yesway.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b4bfe53b74eb1e2c821944?utm_campaign=1050&utm_source=git)** | Beverly, MA | On Site | Apr 02 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ceec7b891d7b11cfcce579?utm_campaign=1050&utm_source=git)** | New York | On Site | Apr 02 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Administrative Associate III (SBPS)](https://jobright.ai/jobs/info/69cf2227cdb525785fb9eda5?utm_campaign=1050&utm_source=git)** | Prairie View, TX | On Site | Apr 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69cee720cdb525785fb9ce9a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Apr 02 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern - Operational Excellence](https://jobright.ai/jobs/info/69cf06cbcfdc6132f942eef9?utm_campaign=1050&utm_source=git)** | Muncie, IN | On Site | Apr 02 |
 | **[247Cashman](https://247cashman.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69cf5cc4cdb525785fba1887?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[Tennessee Titans](http://www.titansonline.com)** | **[Training Camp Intern, Player Engagement](https://jobright.ai/jobs/info/69cee166366bb95ba551084f?utm_campaign=1050&utm_source=git)** | 460 Great Circle Rd, Nashville, TN 37228, USA | On Site | Apr 02 |
