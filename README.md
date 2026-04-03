@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Technical Program Manager Intern - (TPG PMO)](https://jobright.ai/jobs/info/699642dd81476f6176ae014f?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PROCESS IMPROVEMENT ANALYST SKILLBRDIGE INTERN](https://jobright.ai/jobs/info/695d8cbaf1f8465b79f3c9a1?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 03 |
+| **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69cf81aa891d7b11cfcd4569?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf763f366bb95ba5516ccb?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Minnesota Department of Agriculture](https://www.mda.state.mn.us/)** | **[Logistics Coordinator - Office & Administrative Specialist Intermediate](https://jobright.ai/jobs/info/69cf6ce1cfdc6132f94336c2?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Apr 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[CMC Project Management Intern](https://jobright.ai/jobs/info/69cf5d32366bb95ba55158be?utm_campaign=1050&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69cebc5c366bb95ba550ed7a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
 | **[wikiHow](http://www.wikihow.com)** | **[Project Management Internship (Graduating Seniors)](https://jobright.ai/jobs/info/69cf04d3891d7b11cfccf4cc?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Apr 02 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69cebb02398fb071abf887a9?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Apr 02 |
-| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceba57398fb071abf8844c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Apr 02 |
-| ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceb9f6398fb071abf881eb?utm_campaign=1050&utm_source=git)** | NY Brooklyn / Rockaway Parkway | On Site | Apr 02 |
-| ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceb9edcfdc6132f942b653?utm_campaign=1050&utm_source=git)** | NY Bronx / White Plains Road | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
