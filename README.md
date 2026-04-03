@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HealthEdge](http://www.healthedge.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b3685dae2a534885eac7a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f8d863b706703e110b13?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[SB Supply Chain Intern-2026 (Memphis)](https://jobright.ai/jobs/info/69bc0a4e4828227293fd28f5?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Apr 03 |
+| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69cfc38254f00230c6d0c4e2?utm_campaign=1050&utm_source=git)** | Menands, NY | Hybrid | Apr 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Fall '26 Intern- CT](https://jobright.ai/jobs/info/69b79e553b74eb1e2c853593?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Apr 03 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 03 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69b3687dad360c0340a886ad?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern - Primary Care (Per Diem)](https://jobright.ai/jobs/info/69cfb997cfdc6132f94357ba?utm_campaign=1050&utm_source=git)** | Wethersfield, CT | On Site | Apr 03 |
+| **[Palmetto](http://www.palmetto.com)** | **[Platform Operations Intern (CLT)](https://jobright.ai/jobs/info/69ab6bb12747003c3d5109eb?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
+| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd6cd1b2a74e1837ed6a6e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Project Coordinator](https://jobright.ai/jobs/info/695d6dcffbd62a0a65660461?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Apr 03 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Utilization Management](https://jobright.ai/jobs/info/69cd71af54f00230c6cef5e6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operation Intern](https://jobright.ai/jobs/info/69cfb428cfdc6132f94351eb?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
@@ -68,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/697ac6c1f6fc293b0a2cc0fd?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Apr 03 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Quality Improvement Specialist](https://jobright.ai/jobs/info/69b3388dad360c0340a85f70?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Toyota Tsusho America](http://www.taiamerica.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69681d5e1703f05405a9bb58?utm_campaign=1050&utm_source=git)** | Georgetown, KY | On Site | Apr 03 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cfbf64366bb95ba55189a8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf9925cfdc6132f943475d?utm_campaign=1050&utm_source=git)** | Brandywine, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf9921cdb525785fba38b6?utm_campaign=1050&utm_source=git)** | Montebello, CA | On Site | Apr 03 |
 | **[Slate Auto](https://slate.auto)** | **[Intern, Purchasing Supply Chain](https://jobright.ai/jobs/info/69965da9e0bddb6acac4cf10?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 03 |
@@ -76,26 +85,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Waco](https://jobright.ai/jobs/info/69cf98b2398fb071abf91211?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf98aa398fb071abf9120e?utm_campaign=1050&utm_source=git)** | Alhambra, CA | On Site | Apr 03 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Program Management](https://jobright.ai/jobs/info/69bbceb978a5df4797fd7061?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
+| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69604d29a1bbea1d9a7b2f0c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946fcdb525785fba37c7?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b161?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b163?utm_campaign=1050&utm_source=git)** | Kerrville, TX | On Site | Apr 03 |
-| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946ecdb525785fba37c4?utm_campaign=1050&utm_source=git)** | Waldorf, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b164?utm_campaign=1050&utm_source=git)** | Whittier, CA | On Site | Apr 03 |
+| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b161?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946ecdb525785fba37c4?utm_campaign=1050&utm_source=git)** | Waldorf, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946854f00230c6d0b152?utm_campaign=1050&utm_source=git)** | La Plata, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf9460398fb071abf9114b?utm_campaign=1050&utm_source=git)** | District Heights, MD | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf945f398fb071abf91147?utm_campaign=1050&utm_source=git)** | South Pasadena, CA | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf945f398fb071abf91146?utm_campaign=1050&utm_source=git)** | Pico Rivera, CA | On Site | Apr 03 |
+| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf945f398fb071abf91147?utm_campaign=1050&utm_source=git)** | South Pasadena, CA | On Site | Apr 03 |
 | ↳ | **[Branch Manager Waco](https://jobright.ai/jobs/info/69cf9451398fb071abf9112d?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager South Albuquerque District](https://jobright.ai/jobs/info/69cf9442366bb95ba5517796?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 03 |
 | ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf943e366bb95ba5517792?utm_campaign=1050&utm_source=git)** | Bulverde, TX | On Site | Apr 03 |
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Inclusive Business Programs](https://jobright.ai/jobs/info/69b2fbd1ad360c0340a80ca2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager North Albuquerque District](https://jobright.ai/jobs/info/69cf92e5cfdc6132f9434611?utm_campaign=1050&utm_source=git)** | Rio Rancho, NM | On Site | Apr 03 |
 | ↳ | **[Branch Manager South Albuquerque District](https://jobright.ai/jobs/info/69cf92ddcfdc6132f9434601?utm_campaign=1050&utm_source=git)** | Moriarty, NM | On Site | Apr 03 |
-| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48a8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Branch Manager Lower Manhattan](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48ad?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48a8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Branch Manager South Albuquerque District](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48ac?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Apr 03 |
 | ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf92cfcfdc6132f94345fb?utm_campaign=1050&utm_source=git)** | Comfort, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf92c9891d7b11cfcd4899?utm_campaign=1050&utm_source=git)** | Oxon Hill, MD | On Site | Apr 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Franchise Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/69cf17c6366bb95ba5512a18?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Apr 02 |
 | **[broadhead.](http://broadheadco.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cef79354f00230c6d05678?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
 | **[Veracode](http://www.veracode.com)** | **[PMO Summer Intern](https://jobright.ai/jobs/info/69cef4a154f00230c6d05460?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cef332398fb071abf8b03e?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 02 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[NAOU Commercial PMO Intern](https://jobright.ai/jobs/info/69cef300891d7b11cfcce854?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ceec7b891d7b11cfcce579?utm_campaign=1050&utm_source=git)** | New York | On Site | Apr 02 |
-| **[Prairie View A&M University](http://pvam.edu)** | **[Administrative Associate III (SBPS)](https://jobright.ai/jobs/info/69cf2227cdb525785fb9eda5?utm_campaign=1050&utm_source=git)** | Prairie View, TX | On Site | Apr 02 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69cee720cdb525785fb9ce9a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Apr 02 |
-| **[247Cashman](https://247cashman.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69cf5cc4cdb525785fba1887?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 02 |
-| **[Tennessee Titans](http://www.titansonline.com)** | **[Training Camp Intern, Player Engagement](https://jobright.ai/jobs/info/69cee166366bb95ba551084f?utm_campaign=1050&utm_source=git)** | 460 Great Circle Rd, Nashville, TN 37228, USA | On Site | Apr 02 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Office of Planning Summer Internship](https://jobright.ai/jobs/info/69cee15b891d7b11cfccdc48?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
