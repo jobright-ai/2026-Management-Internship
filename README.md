@@ -65,14 +65,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Waco](https://jobright.ai/jobs/info/69cf98b2398fb071abf91211?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf98aa398fb071abf9120e?utm_campaign=1050&utm_source=git)** | Alhambra, CA | On Site | Apr 03 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Program Management](https://jobright.ai/jobs/info/69bbceb978a5df4797fd7061?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
+| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | ↳ | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69604d29a1bbea1d9a7b2f0c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946fcdb525785fba37c7?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Apr 03 |
-| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946ecdb525785fba37c4?utm_campaign=1050&utm_source=git)** | Waldorf, MD | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b161?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b163?utm_campaign=1050&utm_source=git)** | Kerrville, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b164?utm_campaign=1050&utm_source=git)** | Whittier, CA | On Site | Apr 03 |
+| ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b163?utm_campaign=1050&utm_source=git)** | Kerrville, TX | On Site | Apr 03 |
+| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf946e54f00230c6d0b161?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
+| ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946ecdb525785fba37c4?utm_campaign=1050&utm_source=git)** | Waldorf, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf946854f00230c6d0b152?utm_campaign=1050&utm_source=git)** | La Plata, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf9460398fb071abf9114b?utm_campaign=1050&utm_source=git)** | District Heights, MD | On Site | Apr 03 |
 | ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf945f398fb071abf91146?utm_campaign=1050&utm_source=git)** | Pico Rivera, CA | On Site | Apr 03 |
@@ -83,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision Care](https://www.vsp.com/?utm_source=linkedin&utm_medium=social&utm_campaign=gcc_general)** | **[Internship, Inclusive Business Programs](https://jobright.ai/jobs/info/69b2fbd1ad360c0340a80ca2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager North Albuquerque District](https://jobright.ai/jobs/info/69cf92e5cfdc6132f9434611?utm_campaign=1050&utm_source=git)** | Rio Rancho, NM | On Site | Apr 03 |
 | ↳ | **[Branch Manager South Albuquerque District](https://jobright.ai/jobs/info/69cf92ddcfdc6132f9434601?utm_campaign=1050&utm_source=git)** | Moriarty, NM | On Site | Apr 03 |
-| ↳ | **[Branch Manager Lower Manhattan](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48ad?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48a8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Branch Manager South Albuquerque District](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48ac?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Apr 03 |
+| ↳ | **[Branch Manager Lower Manhattan](https://jobright.ai/jobs/info/69cf92d2891d7b11cfcd48ad?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | ↳ | **[Branch Manager Bulverde Crossing](https://jobright.ai/jobs/info/69cf92cfcfdc6132f94345fb?utm_campaign=1050&utm_source=git)** | Comfort, TX | On Site | Apr 03 |
 | ↳ | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf92c9891d7b11cfcd4899?utm_campaign=1050&utm_source=git)** | Oxon Hill, MD | On Site | Apr 03 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Technical Program Manager Intern - (TPG PMO)](https://jobright.ai/jobs/info/699642dd81476f6176ae014f?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/69cf517c54f00230c6d08ffd?utm_campaign=1050&utm_source=git)** | Bemidji, MN | On Site | Apr 02 |
 | **[AXA XL](https://axaxl.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf4066cdb525785fba0b15?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Program Coordinator, Certification](https://jobright.ai/jobs/info/69cf404ecdb525785fba0b03?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
-| **[Danfoss](https://www.danfoss.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69cf3e39398fb071abf8e3bb?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern - Operational Excellence](https://jobright.ai/jobs/info/69cf322acdb525785fb9fa49?utm_campaign=1050&utm_source=git)** | Muncie, IN | On Site | Apr 02 |
 | **[Infosphere Communications](https://www.linkedin.com/company/103848138)** | **[Operations Manager Intern (Startup / Remote / Unpaid Internship / Part-Time)](https://jobright.ai/jobs/info/69cf2cb8cfdc6132f94304f1?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69cf2bf4cdb525785fb9f70f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 02 |
@@ -110,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22bf891d7b11cfcd028b?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b4891d7b11cfcd0267?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b0cdb525785fb9ee27?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Apr 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2c?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2b?utm_campaign=1050&utm_source=git)** | Hollister, MO | On Site | Apr 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2c?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22ab891d7b11cfcd024d?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22a4cdb525785fb9ee01?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Apr 02 |
 | **[Yesway](http://yesway.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b4bfe53b74eb1e2c821944?utm_campaign=1050&utm_source=git)** | Beverly, MA | On Site | Apr 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Craftwork](https://craftwork.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69cedca0398fb071abf89e43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 02 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Office of the CEO AI & Customer Intelligence Summer Intern](https://jobright.ai/jobs/info/69bdb6104828227293ffff49?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Advarra](https://www.advarra.com/)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/69cedb1754f00230c6d03fc3?utm_campaign=1050&utm_source=git)** | United States | On Site | Apr 02 |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Administrative Office Intern](https://jobright.ai/jobs/info/69ced903398fb071abf89d23?utm_campaign=1050&utm_source=git)** | Greenbelt, MD | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
