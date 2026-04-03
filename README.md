@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/69cf517c54f00230c6d08ffd?utm_campaign=1050&utm_source=git)** | Bemidji, MN | On Site | Apr 02 |
 | **[AXA XL](https://axaxl.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf4066cdb525785fba0b15?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Program Coordinator, Certification](https://jobright.ai/jobs/info/69cf404ecdb525785fba0b03?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[Danfoss](https://www.danfoss.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69cf3e39398fb071abf8e3bb?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22bf891d7b11cfcd028b?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b4891d7b11cfcd0267?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22b0cdb525785fb9ee27?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Apr 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2b?utm_campaign=1050&utm_source=git)** | Hollister, MO | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2c?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22aecfdc6132f942fc2b?utm_campaign=1050&utm_source=git)** | Hollister, MO | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22ab891d7b11cfcd024d?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Apr 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69cf22a4cdb525785fb9ee01?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | Apr 02 |
 | **[Yesway](http://yesway.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69b4bfe53b74eb1e2c821944?utm_campaign=1050&utm_source=git)** | Beverly, MA | On Site | Apr 02 |
@@ -132,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Operations Support Services Department](https://jobright.ai/jobs/info/69ceee9c398fb071abf8ac42?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 02 |
 | ↳ | **[Fall Intern 2026 - Portfolio Strategy, Research Governance and Oversight Department](https://jobright.ai/jobs/info/69ceeea0398fb071abf8ac44?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 02 |
 | **[Prairie Band Construction](https://prairiebandllc.com/Companies/PrairieBandConstruction.aspx)** | **[Local Operations Intern](https://jobright.ai/jobs/info/69cf2ff3366bb95ba551399b?utm_campaign=1050&utm_source=git)** | Mayetta,KS,US | On Site | Apr 02 |
-| **[HomePlate](shophomeplate.com)** | **[Operations/GTM Intern (Summer 2026)](https://jobright.ai/jobs/info/69cece6a398fb071abf89395?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Apr 02 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69cece36366bb95ba550f8ce?utm_campaign=1050&utm_source=git)** | Wall, NJ | On Site | Apr 02 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c5f99aaa9a29199e80c4e7?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | Apr 02 |
 | **[Libbey](https://www.libbey.com/)** | **[Supply Chain Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69cec980891d7b11cfcccb21?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 02 |
+| **[University of Maryland, Baltimore (UMB)](http://www.mprc.umaryland.edu)** | **[Office Manager - Student and Academic Services](https://jobright.ai/jobs/info/69c80feeb773006330b7db06?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 02 |
 | **[Compass](http://www.prudentialcal.com/)** | **[Project Management Intern 2026](https://jobright.ai/jobs/info/69cf0f5ccdb525785fb9e85d?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | On Site | Apr 02 |
 | **[Spur Logistics LLC](https://www.spurlogistics.com)** | **[Summer Logistics Operations Paid Internship](https://jobright.ai/jobs/info/69cec3b6cdb525785fb9b36b?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 02 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Corporate Strategy - MBA Intern](https://jobright.ai/jobs/info/69cec379cfdc6132f942c165?utm_campaign=1050&utm_source=git)** | Livonia, MI, US | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ceb775cfdc6132f942b174?utm_campaign=1050&utm_source=git)** | Queens, NY | On Site | Apr 02 |
 | **[BBVA Global Wealth Advisors](https://www.bbvaglobalwealthadvisors.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cee6f8cfdc6132f942dc46?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Apr 02 |
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Logistics](https://jobright.ai/jobs/info/69cee32d891d7b11cfccdeea?utm_campaign=1050&utm_source=git)** | Piperton, TN | On Site | Apr 02 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69ceb555cfdc6132f942b08c?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
