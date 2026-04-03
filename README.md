@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXA XL](https://axaxl.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf4066cdb525785fba0b15?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Program Coordinator, Certification](https://jobright.ai/jobs/info/69cf404ecdb525785fba0b03?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
+| **[Danfoss](https://www.danfoss.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69cf3e39398fb071abf8e3bb?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern - Operational Excellence](https://jobright.ai/jobs/info/69cf322acdb525785fb9fa49?utm_campaign=1050&utm_source=git)** | Muncie, IN | On Site | Apr 02 |
 | **[Infosphere Communications](https://www.linkedin.com/company/103848138)** | **[Operations Manager Intern (Startup / Remote / Unpaid Internship / Part-Time)](https://jobright.ai/jobs/info/69cf2cb8cfdc6132f94304f1?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69cf2bf4cdb525785fb9f70f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BBVA Global Wealth Advisors](https://www.bbvaglobalwealthadvisors.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cee6f8cfdc6132f942dc46?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Apr 02 |
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Logistics](https://jobright.ai/jobs/info/69cee32d891d7b11cfccdeea?utm_campaign=1050&utm_source=git)** | Piperton, TN | On Site | Apr 02 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69ceb555cfdc6132f942b08c?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Apr 02 |
-| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69ceb530891d7b11cfccb4c9?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 02 |
-| **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6994e243e0bddb6acac3624a?utm_campaign=1050&utm_source=git)** | Clermont, KY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
