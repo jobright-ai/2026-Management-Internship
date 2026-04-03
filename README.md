@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/69ceff77cfdc6132f942ec83?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 02 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69cefb13366bb95ba5511c52?utm_campaign=1050&utm_source=git)** | Concord | Hybrid | Apr 02 |
+| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69cefacc398fb071abf8b618?utm_campaign=1050&utm_source=git)** | Concord SC | Hybrid | Apr 02 |
+| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69cefaa854f00230c6d05855?utm_campaign=1050&utm_source=git)** | San Francisco | Hybrid | Apr 02 |
+| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern - Operational Excellence](https://jobright.ai/jobs/info/69cefa7d54f00230c6d0574d?utm_campaign=1050&utm_source=git)** | 2401 W University Ave, Muncie, IN, 47303, US | On Site | Apr 02 |
+| **[broadhead.](http://broadheadco.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cef79354f00230c6d05678?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
+| **[Veracode](http://www.veracode.com)** | **[PMO Summer Intern](https://jobright.ai/jobs/info/69cef4a154f00230c6d05460?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cef332398fb071abf8b03e?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 02 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[NAOU Commercial PMO Intern](https://jobright.ai/jobs/info/69cef300891d7b11cfcce854?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69ceec7b891d7b11cfcce579?utm_campaign=1050&utm_source=git)** | New York | On Site | Apr 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69cee720cdb525785fb9ce9a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Apr 02 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 02 |
@@ -120,13 +129,14 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brookline, MA](https://jobright.ai/jobs/info/6978998139f7f96cc6d1055d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 02 |
 | **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Undergraduate Summer Intern, Executive Administrative Assistant](https://jobright.ai/jobs/info/69ceee44cdb525785fb9d231?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/69ceb206891d7b11cfccb425?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 02 |
-| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - CARE DELIVERY OPERATIONS](https://jobright.ai/jobs/info/69cede90cfdc6132f942d416?utm_campaign=1050&utm_source=git)** | Uniondale, NY | On Site | Apr 02 |
-| ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69cedea3366bb95ba55105af?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69cedea3366bb95ba55105af?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
+| ↳ | **[SUMMER INTERN - CARE DELIVERY OPERATIONS](https://jobright.ai/jobs/info/69cede90cfdc6132f942d416?utm_campaign=1050&utm_source=git)** | Uniondale, NY | On Site | Apr 02 |
 | ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69cede99398fb071abf89fc7?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Apr 02 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69ced712366bb95ba550fc32?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 02 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Materials Flow (Supply Chain)](https://jobright.ai/jobs/info/69ceb06354f00230c6d01c1f?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 02 |
 | **[STRATOS](http://stratoswealthpartners.com)** | **[Advisory Operations Summer Intern](https://jobright.ai/jobs/info/69ceb000366bb95ba550e068?utm_campaign=1050&utm_source=git)** | Beachwood, 3750 Park East Rd., US | On Site | Apr 02 |
-| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Summer Graduate Intern, Operations](https://jobright.ai/jobs/info/69cedce154f00230c6d0409a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/69cef746cfdc6132f942e7ae?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| ↳ | **[Summer Graduate Intern, Operations](https://jobright.ai/jobs/info/69cedce154f00230c6d0409a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[GALLO](http://www.gallocareers.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69ceada2cfdc6132f942adbc?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Apr 02 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - CARE DELIVERY OPERATIONS](https://jobright.ai/jobs/info/69cead5654f00230c6d01a03?utm_campaign=1050&utm_source=git)** | NY Uniondale / RXR Plaza | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern / Southern Nassau County](https://jobright.ai/jobs/info/69784a7e52f3c27ec64492df?utm_campaign=1050&utm_source=git)** | Deer Park, NY | On Site | Apr 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Women's Heart Health Clinical Research Chair in Cardiology](https://jobright.ai/jobs/info/691e72b23f782d2f1afb4a28?utm_campaign=1050&utm_source=git)** | Winnipeg, MB | On Site | Apr 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697991ccca92cf0d6a82be44?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Apr 02 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69caf646aa3c2c1995e3266f?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
-| ↳ | **[Intern, Program Management Support ECMs (Energy Conservation Measures)](https://jobright.ai/jobs/info/69a26357b600907a9628ae01?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 02 |
-| **[Brown Distributing Company VA](http://brown.com)** | **[Part Time Warehouse Summer Internship](https://jobright.ai/jobs/info/69ce9ef9cdb525785fb99937?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Portfolio Strategy, Research Governance and Oversight Department](https://jobright.ai/jobs/info/69ce9edd398fb071abf87304?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 02 |
-| ↳ | **[Fall Intern 2026 - Portfolio Strategy, Research Governance and Oversight Department](https://jobright.ai/jobs/info/69ce9edccfdc6132f942a6f7?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 02 |
-| **[Libbey](https://www.libbey.com/)** | **[Supply Chain Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69ce9ec5398fb071abf872a4?utm_campaign=1050&utm_source=git)** | 300 Madison Ave, Toledo, OH 43604, USA | On Site | Apr 02 |
-| **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69ce9e7d54f00230c6d01320?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69b17a5f65de58104c708bfa?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Apr 02 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Denver](https://jobright.ai/jobs/info/693b3698d4054a2bc0252410?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 02 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/695e6742a112b402660d24a8?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 02 |
-| **[Ultimate Fighting Championship](http://UFC.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ce9d4fcfdc6132f9429fb4?utm_campaign=1050&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
