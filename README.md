@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cf763f366bb95ba5516ccb?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Minnesota Department of Agriculture](https://www.mda.state.mn.us/)** | **[Logistics Coordinator - Office & Administrative Specialist Intermediate](https://jobright.ai/jobs/info/69cf6ce1cfdc6132f94336c2?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Apr 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[CMC Project Management Intern](https://jobright.ai/jobs/info/69cf5d32366bb95ba55158be?utm_campaign=1050&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/69cf517c54f00230c6d08ffd?utm_campaign=1050&utm_source=git)** | Bemidji, MN | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceba57398fb071abf8844c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Apr 02 |
 | ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceb9f6398fb071abf881eb?utm_campaign=1050&utm_source=git)** | NY Brooklyn / Rockaway Parkway | On Site | Apr 02 |
 | ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceb9edcfdc6132f942b653?utm_campaign=1050&utm_source=git)** | NY Bronx / White Plains Road | On Site | Apr 02 |
-| ↳ | **[SUMMER INTERN - CARE DELIVERY](https://jobright.ai/jobs/info/69ceb9eacdb525785fb9a84f?utm_campaign=1050&utm_source=git)** | NY Brooklyn / Stillwell Avenue | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
