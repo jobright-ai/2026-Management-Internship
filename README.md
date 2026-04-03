@@ -57,12 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01975891d7b11cfcd889d?utm_campaign=1050&utm_source=git)** | Warrensville Heights | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01973366bb95ba551b53a?utm_campaign=1050&utm_source=git)** | Florence SC USA | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01973366bb95ba551b53c?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d0196b54f00230c6d0f18a?utm_campaign=1050&utm_source=git)** | Phoenix | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d0196b54f00230c6d0f18d?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Apr 03 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[R&D Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69d015e8cdb525785fba74e5?utm_campaign=1050&utm_source=git)** | Superior, MI | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Global Logistics](https://jobright.ai/jobs/info/69d01360cfdc6132f94381d2?utm_campaign=1050&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69d0135ccdb525785fba72c4?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 03 |
+| **[SailPoint](http://www.sailpoint.com)** | **[GTM Enablement Impact & Strategy- Intern](https://jobright.ai/jobs/info/69d0135054f00230c6d0ef01?utm_campaign=1050&utm_source=git)** | Headquarters (Austin, Texas, USA) | On Site | Apr 03 |
+| **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69bd83de393a1008f742da0c?utm_campaign=1050&utm_source=git)** | Inola, OK | On Site | Apr 03 |
+| **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d00ff454f00230c6d0edf6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Transformation Office](https://jobright.ai/jobs/info/69d00f45cfdc6132f9438070?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 03 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997da3681476f6176b01233?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 03 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Stewarding Supervisor Internship - Summer 2026](https://jobright.ai/jobs/info/69d00c120b098b7a67075bcd?utm_campaign=1050&utm_source=git)** | Farmington, Pennsylvania, United States | On Site | Apr 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Fall 2026](https://jobright.ai/jobs/info/69d0092f0b098b7a67075b24?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 03 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69989bf0ce78e77b4fdd3952?utm_campaign=1050&utm_source=git)** | Cypress, CA | On Site | Apr 03 |
 | ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6997ad93e0bddb6acac66817?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69c11fff2c312363dcd3e1c6?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Apr 03 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/69d0036c0b098b7a670759b1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d001e5366bb95ba551a887?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69c49ad36f4f855eeda7392b?utm_campaign=1050&utm_source=git)** | Gardena, CA | On Site | Apr 03 |
 | **[Stick Grips Golf](stickgripsgolf.com)** | **[Operations Summer Intern (Summer 2026)](https://jobright.ai/jobs/info/69cffe0c0b098b7a67075865?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 03 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69bca7bf45e08b3dc1f96ca0?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 03 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/697ac6c1f6fc293b0a2cc0fd?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Apr 03 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Quality Improvement Specialist](https://jobright.ai/jobs/info/69b3388dad360c0340a85f70?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Toyota Tsusho America](http://www.taiamerica.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69681d5e1703f05405a9bb58?utm_campaign=1050&utm_source=git)** | Georgetown, KY | On Site | Apr 03 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69cfbf64366bb95ba55189a8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 03 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager DC Capitol Hill District](https://jobright.ai/jobs/info/69cf9925cfdc6132f943475d?utm_campaign=1050&utm_source=git)** | Brandywine, MD | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf9921cdb525785fba38b6?utm_campaign=1050&utm_source=git)** | Montebello, CA | On Site | Apr 03 |
-| **[Slate Auto](https://slate.auto)** | **[Intern, Purchasing Supply Chain](https://jobright.ai/jobs/info/69965da9e0bddb6acac4cf10?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 03 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf98bf891d7b11cfcd49de?utm_campaign=1050&utm_source=git)** | Monterey Park, CA | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf98b4366bb95ba551787c?utm_campaign=1050&utm_source=git)** | Rosemead, CA | On Site | Apr 03 |
-| ↳ | **[Branch Manager Waco](https://jobright.ai/jobs/info/69cf98b2398fb071abf91211?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 03 |
-| ↳ | **[Branch Manager - LA Valley Corridor](https://jobright.ai/jobs/info/69cf98aa398fb071abf9120e?utm_campaign=1050&utm_source=git)** | Alhambra, CA | On Site | Apr 03 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69cfc87854f00230c6d0c5d6?utm_campaign=1050&utm_source=git)** | Detroit Metro | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976fc48fdeb8243a279dbfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Program Management](https://jobright.ai/jobs/info/69bbceb978a5df4797fd7061?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fbdafdeb8243a279d9b9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
-| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
