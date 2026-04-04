@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d088c8891d7b11cfcdc698?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
+| **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4ca?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Apr 03 |
+| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d0831d54f00230c6d12c88?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb9366bb95ba551f0e9?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 03 |
+| ↳ | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb854f00230c6d12b47?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Apr 03 |
+| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f079?utm_campaign=1050&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7ce?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075f454f00230c6d122e8?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075f454f00230c6d122e7?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075f454f00230c6d122e8?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075ec54f00230c6d122d7?utm_campaign=1050&utm_source=git)** | West Milwaukee, WI | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075ea54f00230c6d122cf?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI | On Site | Apr 03 |
 | **[Baker Electric](http://baker-electric.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69d071f3cdb525785fbaa688?utm_campaign=1050&utm_source=git)** | Escondido, CA | On Site | Apr 03 |
@@ -75,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Product Services Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69d059c4cfdc6132f943a8ea?utm_campaign=1050&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern (Intern Program)](https://jobright.ai/jobs/info/69d058d50b098b7a670789a6?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Apr 03 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0585e0b098b7a67078942?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 03 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11437?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11434?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 03 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11437?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Production Planning - Intern](https://jobright.ai/jobs/info/69d05103366bb95ba551d7b8?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 03 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 03 |
 | ↳ | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04c55cdb525785fba96e6?utm_campaign=1050&utm_source=git)** | Garland, TX, US, 75040 | On Site | Apr 03 |
@@ -121,12 +127,12 @@ For a complete list, click the following sortable link below:
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[CM Intern](https://jobright.ai/jobs/info/69d021e7366bb95ba551b8cd?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Apr 03 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69d01a6254f00230c6d0f277?utm_campaign=1050&utm_source=git)** | New Prague, MN | On Site | Apr 03 |
 | ↳ | **[Healthcare Intern](https://jobright.ai/jobs/info/69d01a59cfdc6132f943851a?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Apr 03 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a450b098b7a6707660a?utm_campaign=1050&utm_source=git)** | Madison | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a450b098b7a67076606?utm_campaign=1050&utm_source=git)** | Arlington Heights | On Site | Apr 03 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a450b098b7a67076606?utm_campaign=1050&utm_source=git)** | Arlington Heights | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a450b098b7a6707660a?utm_campaign=1050&utm_source=git)** | Madison | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a29cfdc6132f943843b?utm_campaign=1050&utm_source=git)** | Wauwatosa | On Site | Apr 03 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Operations Program Management Intern](https://jobright.ai/jobs/info/69b3913aa8ac8e70ff67d380?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755d?utm_campaign=1050&utm_source=git)** | Waukesha | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755f?utm_campaign=1050&utm_source=git)** | Salt Lake City | On Site | Apr 03 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755f?utm_campaign=1050&utm_source=git)** | Salt Lake City | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755d?utm_campaign=1050&utm_source=git)** | Waukesha | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01975891d7b11cfcd889d?utm_campaign=1050&utm_source=git)** | Warrensville Heights | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01973366bb95ba551b53a?utm_campaign=1050&utm_source=git)** | Florence SC USA | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d0196b54f00230c6d0f18d?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Apr 03 |
@@ -137,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[SailPoint](http://www.sailpoint.com)** | **[GTM Enablement Impact & Strategy- Intern](https://jobright.ai/jobs/info/69d0135054f00230c6d0ef01?utm_campaign=1050&utm_source=git)** | Headquarters (Austin, Texas, USA) | On Site | Apr 03 |
 | **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69bd83de393a1008f742da0c?utm_campaign=1050&utm_source=git)** | Inola, OK | On Site | Apr 03 |
 | **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d00ff454f00230c6d0edf6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Transformation Office](https://jobright.ai/jobs/info/69d00f45cfdc6132f9438070?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 03 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997da3681476f6176b01233?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 03 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Stewarding Supervisor Internship - Summer 2026](https://jobright.ai/jobs/info/69d00c120b098b7a67075bcd?utm_campaign=1050&utm_source=git)** | Farmington, Pennsylvania, United States | On Site | Apr 03 |
 | **[e2E Rail](http://etoerail.com)** | **[Management Intern / Management Trainee](https://jobright.ai/jobs/info/69d02a1acfdc6132f9438e55?utm_campaign=1050&utm_source=git)** | Burlington, Ontario, Canada | On Site | Apr 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/69cffdde0b098b7a670757d7?utm_campaign=1050&utm_source=git)** | Chatsworth, California | On Site | Apr 03 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Supply Chain Distributions Medtech - Summer Intern](https://jobright.ai/jobs/info/69cffddc0b098b7a670757c8?utm_campaign=1050&utm_source=git)** | Mooresville, Indiana, United States of America | On Site | Apr 03 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Supply Chain Distributions Medtech - Summer Intern](https://jobright.ai/jobs/info/69cffdc4891d7b11cfcd7a20?utm_campaign=1050&utm_source=git)** | Mooresville, IN | On Site | Apr 03 |
-| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697be4a40b88cc7d6422c86d?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Apr 03 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern](https://jobright.ai/jobs/info/69b441923b74eb1e2c8169e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Global Logistics Intern](https://jobright.ai/jobs/info/69cffa37366bb95ba551a549?utm_campaign=1050&utm_source=git)** | Waterloo, WI | On Site | Apr 03 |
-| **[US LBM](http://uslbm.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/69967e6281476f6176ae5738?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Apr 03 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern, T-Line and Substation](https://jobright.ai/jobs/info/69cff829366bb95ba551a43b?utm_campaign=1050&utm_source=git)** | Fresno Resource Management Center | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
