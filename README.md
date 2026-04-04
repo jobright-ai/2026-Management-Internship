@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b60cdb525785fbb2d93?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 04 |
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b21891d7b11cfce3d3d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
 | **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Greater San Antonio West Laredo](https://jobright.ai/jobs/info/69d0e60254f00230c6d172c5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5fc54f00230c6d172b6?utm_campaign=1050&utm_source=git)** | Winter Garden, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5fb54f00230c6d172aa?utm_campaign=1050&utm_source=git)** | Statesville, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440745?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440748?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440745?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5ddcfdc6132f9440743?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5dccfdc6132f9440733?utm_campaign=1050&utm_source=git)** | Kannapolis, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Birmingham, AL](https://jobright.ai/jobs/info/69d0e5d4cfdc6132f9440725?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5d3cfdc6132f9440722?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cdcdb525785fbaf66d?utm_campaign=1050&utm_source=git)** | Bloomfield, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
+| ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/69ae3e543de6821aaccd76c9?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2b9366bb95ba55235b6?utm_campaign=1050&utm_source=git)** | Ringwood, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e2a70b098b7a6707e6b8?utm_campaign=1050&utm_source=git)** | Huntersville, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2a50b098b7a6707e6b2?utm_campaign=1050&utm_source=git)** | Nutley, NJ | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
