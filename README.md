@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Product Services Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69d059c4cfdc6132f943a8ea?utm_campaign=1050&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern (Intern Program)](https://jobright.ai/jobs/info/69d058d50b098b7a670789a6?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Apr 03 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0585e0b098b7a67078942?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 03 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11437?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11434?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 03 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Production Planning - Intern](https://jobright.ai/jobs/info/69d05103366bb95ba551d7b8?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 03 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 03 |
 | ↳ | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04c55cdb525785fba96e6?utm_campaign=1050&utm_source=git)** | Garland, TX, US, 75040 | On Site | Apr 03 |
@@ -105,10 +110,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a450b098b7a6707660a?utm_campaign=1050&utm_source=git)** | Madison | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a29cfdc6132f943843b?utm_campaign=1050&utm_source=git)** | Wauwatosa | On Site | Apr 03 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Operations Program Management Intern](https://jobright.ai/jobs/info/69b3913aa8ac8e70ff67d380?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755f?utm_campaign=1050&utm_source=git)** | Salt Lake City | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755d?utm_campaign=1050&utm_source=git)** | Waukesha | On Site | Apr 03 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755d?utm_campaign=1050&utm_source=git)** | Waukesha | On Site | Apr 03 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01a1bcdb525785fba755f?utm_campaign=1050&utm_source=git)** | Salt Lake City | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01975891d7b11cfcd889d?utm_campaign=1050&utm_source=git)** | Warrensville Heights | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01973366bb95ba551b53c?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d01973366bb95ba551b53a?utm_campaign=1050&utm_source=git)** | Florence SC USA | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d0196b54f00230c6d0f18d?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d0196b54f00230c6d0f18a?utm_campaign=1050&utm_source=git)** | Phoenix | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Apr 03 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Shellfish Logistics Intern](https://jobright.ai/jobs/info/69b30fbda8ac8e70ff67301c?utm_campaign=1050&utm_source=git)** | South Bend, WA | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69b2f6f8ad360c0340a8068b?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Apr 03 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/69cfecd0891d7b11cfcd6e23?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
-| **[Antora Energy](https://www.antoraenergy.com/)** | **[Strategy & Growth Intern](https://jobright.ai/jobs/info/69b3793bae2a534885eae57d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[Oklahoma State University](https://go.okstate.edu/)** | **[Research Associate/NSF Rural Confluence Project Manager BF9524](https://jobright.ai/jobs/info/69cf385ecfdc6132f9430ddf?utm_campaign=1050&utm_source=git)** | Stillwater, OK | Hybrid | Apr 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1050&utm_source=git)** | Williamsport, PA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
