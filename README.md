@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d0afd3cfdc6132f943e1b7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Supply Chain Intern - Undergraduate](https://jobright.ai/jobs/info/69d09f54cdb525785fbac437?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 03 |
 | **[Tk̓emlúps te Secwépemc](http://tkemlups.ca)** | **[Project Coordinator](https://jobright.ai/jobs/info/69d08f9acfdc6132f943c8c0?utm_campaign=1050&utm_source=git)** | Kamloops, BC | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Commercial Strategy and Operations (Latin America)](https://jobright.ai/jobs/info/69d08f6654f00230c6d13400?utm_campaign=1050&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d08a3854f00230c6d130a2?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Apr 03 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d088c8891d7b11cfcdc698?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4ca?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Apr 03 |
-| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d0831d54f00230c6d12c88?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb9366bb95ba551f0e9?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 03 |
 | ↳ | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb854f00230c6d12b47?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f079?utm_campaign=1050&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04c55cdb525785fba96e6?utm_campaign=1050&utm_source=git)** | Garland, TX, US, 75040 | On Site | Apr 03 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/69d04a91366bb95ba551d5e6?utm_campaign=1050&utm_source=git)** | Monticello, IN | On Site | Apr 03 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d049f654f00230c6d110d8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 03 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Supply Chain Intern - Undergraduate](https://jobright.ai/jobs/info/69d047e9cdb525785fba959d?utm_campaign=1050&utm_source=git)** | Greater Seattle Area | On Site | Apr 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Centralized Services AI Intern](https://jobright.ai/jobs/info/69d047000b098b7a6707850d?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | Apr 03 |
 | **[Uber](http://www.uber.com)** | **[Program Manager, uBecome Intern Experience & Community](https://jobright.ai/jobs/info/69d0466acdb525785fba91df?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[PT Operations Administrative Assistant](https://jobright.ai/jobs/info/69d0461e54f00230c6d10aee?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Fall 2026](https://jobright.ai/jobs/info/69d0092f0b098b7a67075b24?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 03 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69989bf0ce78e77b4fdd3952?utm_campaign=1050&utm_source=git)** | Cypress, CA | On Site | Apr 03 |
 | ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6997ad93e0bddb6acac66817?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
-| **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern ( Remote )](https://jobright.ai/jobs/info/69d02519366bb95ba551ba9f?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69c11fff2c312363dcd3e1c6?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Apr 03 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/69d0036c0b098b7a670759b1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69c49ad36f4f855eeda7392b?utm_campaign=1050&utm_source=git)** | Gardena, CA | On Site | Apr 03 |
+| **[Stick Grips Golf](stickgripsgolf.com)** | **[Operations Summer Intern (Summer 2026)](https://jobright.ai/jobs/info/69cffe0c0b098b7a67075865?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
