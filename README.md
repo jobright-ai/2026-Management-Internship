@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Distribution Center Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfc66e79e36d3a847c69b3?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Apr 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c8bdf137a051025658c24?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 04 |
+| **[Miller Electric Company](https://www.mecojax.com)** | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69272035f0beb07232627b11?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
+| **[Honeywell](http://www.honeywell.com)** | **[Supply Chain- Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/69b623353b74eb1e2c83db29?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6998471bce78e77b4fdcf9d7?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Apr 04 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Apr 04 |
+| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bef561136d179eeef9005?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | Apr 04 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | On Site | Apr 04 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 04 |
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
@@ -71,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern, T-Line and Substation](https://jobright.ai/jobs/info/69d11e65cdb525785fbb090a?utm_campaign=1050&utm_source=git)** | Fresno, CA | Hybrid | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Program Master Scheduler](https://jobright.ai/jobs/info/69b473373b74eb1e2c81c487?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Apr 04 |
 | **[ST Engineering MRAS](https://www.mras-usa.com/)** | **[MRAS 2026 Sourcing Summer Internship](https://jobright.ai/jobs/info/6997cf8fe0bddb6acac698d9?utm_campaign=1050&utm_source=git)** | Middle River, MD | On Site | Apr 04 |
+| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Management (May 2026)](https://jobright.ai/jobs/info/6999167d81476f6176b18f6d?utm_campaign=1050&utm_source=git)** | Bowmanville, ON | On Site | Apr 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69d110a00b098b7a6707f85d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Apr 04 |
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69601c7fa112b402660ed337?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
@@ -105,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e628366bb95ba5523639?utm_campaign=1050&utm_source=git)** | Caldwell, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e627366bb95ba5523637?utm_campaign=1050&utm_source=git)** | West Orange, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e626366bb95ba5523633?utm_campaign=1050&utm_source=git)** | Longwood, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e619891d7b11cfce07a2?utm_campaign=1050&utm_source=git)** | Ocoee, FL | On Site | Apr 04 |
 | ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
@@ -120,12 +128,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440748?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5ddcfdc6132f9440743?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5dccfdc6132f9440733?utm_campaign=1050&utm_source=git)** | Kannapolis, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Birmingham, AL](https://jobright.ai/jobs/info/69d0e5d4cfdc6132f9440725?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
+| ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5d3cfdc6132f9440722?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cdcdb525785fbaf66d?utm_campaign=1050&utm_source=git)** | Bloomfield, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
+| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/69ae3e543de6821aaccd76c9?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2b9366bb95ba55235b6?utm_campaign=1050&utm_source=git)** | Ringwood, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e2a70b098b7a6707e6b8?utm_campaign=1050&utm_source=git)** | Huntersville, NC | On Site | Apr 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb9366bb95ba551f0e9?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 03 |
 | ↳ | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d07fb854f00230c6d12b47?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69d07fb4366bb95ba551f079?utm_campaign=1050&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d07614cdb525785fbaa7ce?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075f454f00230c6d122e7?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075f454f00230c6d122e8?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075ec54f00230c6d122d7?utm_campaign=1050&utm_source=git)** | West Milwaukee, WI | On Site | Apr 03 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d075ea54f00230c6d122cf?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI | On Site | Apr 03 |
-| **[Baker Electric](http://baker-electric.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69d071f3cdb525785fbaa688?utm_campaign=1050&utm_source=git)** | Escondido, CA | On Site | Apr 03 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Administrative Assistant II, UNLV PRACTICE [R0151155]](https://jobright.ai/jobs/info/69d071bd54f00230c6d12159?utm_campaign=1050&utm_source=git)** | Memphis, Tennessee, United States | On Site | Apr 03 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d07085891d7b11cfcdb565?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
