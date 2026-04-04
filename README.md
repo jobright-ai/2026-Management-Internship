@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69d110a00b098b7a6707f85d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
+| **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Apr 04 |
+| **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69601c7fa112b402660ed337?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
+| **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69b068b70b2db6275c044eda?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Apr 04 |
+| **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/69602783a112b402660ee0d9?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | Apr 04 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d10ac1891d7b11cfce1837?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
+| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3a34d652f044775bffe?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Apr 04 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Operations Intern](https://jobright.ai/jobs/info/69b477683b74eb1e2c81c937?utm_campaign=1050&utm_source=git)** | Branchburg, NJ | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfb720702aa35207aa8bd4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/697bcf2c0b88cc7d64229c25?utm_campaign=1050&utm_source=git)** | Haverhill, MA | On Site | Apr 04 |
@@ -75,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0f343891d7b11cfce0e38?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Apr 04 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/69d0f33e54f00230c6d17910?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69d0f33954f00230c6d178fe?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d10daa0b098b7a6707f789?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 04 |
 | **[DP World](https://www.dpworld.com/)** | **[Business Operations (Port Operations) Intern](https://jobright.ai/jobs/info/69b425f806c1ba00c5455d5c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/69b5245156973837413a511b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Apr 04 |
@@ -85,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e619891d7b11cfce07a2?utm_campaign=1050&utm_source=git)** | Ocoee, FL | On Site | Apr 04 |
-| ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
+| ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e6110b098b7a6707e735?utm_campaign=1050&utm_source=git)** | Apopka, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6100b098b7a6707e725?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e60354f00230c6d172c7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
@@ -101,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5d3cfdc6132f9440722?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cdcdb525785fbaf66d?utm_campaign=1050&utm_source=git)** | Bloomfield, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
+| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/69ae3e543de6821aaccd76c9?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2b9366bb95ba55235b6?utm_campaign=1050&utm_source=git)** | Ringwood, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e2a70b098b7a6707e6b8?utm_campaign=1050&utm_source=git)** | Huntersville, NC | On Site | Apr 04 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Waystar](http://www.waystar.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69d0c806366bb95ba55229a5?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Product Services Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69d059c4cfdc6132f943a8ea?utm_campaign=1050&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern (Intern Program)](https://jobright.ai/jobs/info/69d058d50b098b7a670789a6?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Apr 03 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0585e0b098b7a67078942?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 03 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11434?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 03 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11437?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 03 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d0583b54f00230c6d11434?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 03 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Production Planning - Intern](https://jobright.ai/jobs/info/69d05103366bb95ba551d7b8?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 03 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 03 |
-| ↳ | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04c55cdb525785fba96e6?utm_campaign=1050&utm_source=git)** | Garland, TX, US, 75040 | On Site | Apr 03 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/69d04a91366bb95ba551d5e6?utm_campaign=1050&utm_source=git)** | Monticello, IN | On Site | Apr 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Centralized Services AI Intern](https://jobright.ai/jobs/info/69d047000b098b7a6707850d?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | Apr 03 |
-| **[Uber](http://www.uber.com)** | **[Program Manager, uBecome Intern Experience & Community](https://jobright.ai/jobs/info/69d0466acdb525785fba91df?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[PT Operations Administrative Assistant](https://jobright.ai/jobs/info/69d0461e54f00230c6d10aee?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 03 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Inventory Planning Intern (Semester 2) – Generation H](https://jobright.ai/jobs/info/69d042c90b098b7a67077e65?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[Mohawk Valley Community College](https://www.mvcc.edu)** | **[Executive Director of Budget & Finance / Chief Financial Officer](https://jobright.ai/jobs/info/69d03f03366bb95ba551cd86?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
