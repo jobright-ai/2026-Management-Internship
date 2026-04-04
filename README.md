@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e619891d7b11cfce07a2?utm_campaign=1050&utm_source=git)** | Ocoee, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
 | ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e6110b098b7a6707e735?utm_campaign=1050&utm_source=git)** | Apopka, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6100b098b7a6707e725?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e60354f00230c6d172c7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
@@ -146,12 +146,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440748?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5ddcfdc6132f9440743?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5dccfdc6132f9440733?utm_campaign=1050&utm_source=git)** | Kannapolis, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Birmingham, AL](https://jobright.ai/jobs/info/69d0e5d4cfdc6132f9440725?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Birmingham, AL](https://jobright.ai/jobs/info/69d0e5d4cfdc6132f9440725?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5d3cfdc6132f9440722?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cdcdb525785fbaf66d?utm_campaign=1050&utm_source=git)** | Bloomfield, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
+| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/69ae3e543de6821aaccd76c9?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2b9366bb95ba55235b6?utm_campaign=1050&utm_source=git)** | Ringwood, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e2a70b098b7a6707e6b8?utm_campaign=1050&utm_source=git)** | Huntersville, NC | On Site | Apr 04 |
