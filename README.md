@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69c187ff2c312363dcd4873b?utm_campaign=1050&utm_source=git)** | Spokane | On Site | Apr 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/69d26dc8cdb525785fbb99e9?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Apr 05 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933cb2bf131d96e48466fd8?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 05 |
+| **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d39093f57a33569670778?utm_campaign=1050&utm_source=git)** | Pompano Beach, FL | On Site | Apr 05 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697daa727f40342e15d69135?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategy and Innovation Intern](https://jobright.ai/jobs/info/69d26346366bb95ba552db30?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Apr 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Apr 05 |
@@ -129,11 +135,13 @@ For a complete list, click the following sortable link below:
 | **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/69602783a112b402660ee0d9?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | Apr 04 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d10ac1891d7b11cfce1837?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3a34d652f044775bffe?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Apr 04 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3ca4d652f044775c021?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Operations Intern](https://jobright.ai/jobs/info/69b477683b74eb1e2c81c937?utm_campaign=1050&utm_source=git)** | Branchburg, NJ | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfb720702aa35207aa8bd4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/697bcf2c0b88cc7d64229c25?utm_campaign=1050&utm_source=git)** | Haverhill, MA | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | **[Greystar](http://greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b455bd3b74eb1e2c818c2f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba5e71136d179eeef2db6?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Apr 04 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Real Estate](https://jobright.ai/jobs/info/69b48d6456973837413973fb?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68f04d2899530851ee6ec5c7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dee08c62e63bc7fd0665?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Apr 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69d0f33954f00230c6d178fe?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Real Estate Asset Management Intern](https://jobright.ai/jobs/info/69d12afccdb525785fbb10d2?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
 | **[DP World](https://www.dpworld.com/)** | **[Business Operations (Port Operations) Intern](https://jobright.ai/jobs/info/69b425f806c1ba00c5455d5c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/69b5245156973837413a511b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Apr 04 |
-| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Maintenance Administrative Intern - Fresh/Soph](https://jobright.ai/jobs/info/6997e3b581476f6176b02415?utm_campaign=1050&utm_source=git)** | Elgin, OR | On Site | Apr 04 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e628366bb95ba5523639?utm_campaign=1050&utm_source=git)** | Caldwell, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e627366bb95ba5523637?utm_campaign=1050&utm_source=git)** | West Orange, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e626366bb95ba5523633?utm_campaign=1050&utm_source=git)** | Longwood, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
