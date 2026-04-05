@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532e891d7b11cfcea43e?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 05 |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Apr 05 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 05 |
+| **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d24e92cfdc6132f944a4de?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 05 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d23c45cdb525785fbb8771?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d23bf60b098b7a6708795e?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Lodging Intern, The American Club](https://jobright.ai/jobs/info/69b78f6b3b74eb1e2c8528f5?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d1c489366bb95ba5528de8?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1ab94891d7b11cfce48e3?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 04 |
 | **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e6110b098b7a6707e735?utm_campaign=1050&utm_source=git)** | Apopka, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6100b098b7a6707e725?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e60354f00230c6d172c7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater San Antonio West Laredo](https://jobright.ai/jobs/info/69d0e60254f00230c6d172c5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
-| ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5fc54f00230c6d172b6?utm_campaign=1050&utm_source=git)** | Winter Garden, FL | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
