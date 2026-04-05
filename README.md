@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e90c366bb95ba552a57c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d1c489366bb95ba5528de8?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1ac13366bb95ba5527967?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 04 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1ab94891d7b11cfce48e3?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 04 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1ab94891d7b11cfce48e6?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 04 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d1ab94891d7b11cfce48e3?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 04 |
 | **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d1b6cc366bb95ba5528713?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 04 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Greater San Antonio West Laredo](https://jobright.ai/jobs/info/69d0e60254f00230c6d172c5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5fc54f00230c6d172b6?utm_campaign=1050&utm_source=git)** | Winter Garden, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5fb54f00230c6d172aa?utm_campaign=1050&utm_source=git)** | Statesville, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440745?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440748?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5decfdc6132f9440745?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5ddcfdc6132f9440743?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e5dccfdc6132f9440733?utm_campaign=1050&utm_source=git)** | Kannapolis, NC | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Birmingham, AL](https://jobright.ai/jobs/info/69d0e5d4cfdc6132f9440725?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
-| ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
