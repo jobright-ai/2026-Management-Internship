@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/6933eff6f131d96e484687ed?utm_campaign=1050&utm_source=git)** | Dartmouth, NS | On Site | Apr 05 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69c187ff2c312363dcd4873b?utm_campaign=1050&utm_source=git)** | Spokane | On Site | Apr 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/69d26dc8cdb525785fbb99e9?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Apr 05 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6933cb2bf131d96e48466fd8?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0f343891d7b11cfce0e38?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Apr 04 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/69d0f33e54f00230c6d17910?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69d0f33954f00230c6d178fe?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
-| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Real Estate Asset Management Intern](https://jobright.ai/jobs/info/69d12afccdb525785fbb10d2?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Apr 04 |
-| **[DP World](https://www.dpworld.com/)** | **[Business Operations (Port Operations) Intern](https://jobright.ai/jobs/info/69b425f806c1ba00c5455d5c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
