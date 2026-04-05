@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
+| **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b60cdb525785fbb2d93?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 04 |
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b21891d7b11cfce3d3d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6997b2f281476f6176afd3de?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69d157decfdc6132f94430ab?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 04 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7ef86a10b650604b622fb?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Apr 04 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69d19c76cfdc6132f9444894?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | **[Glenn O. Hawbaker, Inc.](http://goh-inc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d14d08cdb525785fbb1b8b?utm_campaign=1050&utm_source=git)** | Montoursville, PA | On Site | Apr 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/696084df7ebc25398eb67207?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 04 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
@@ -133,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e628366bb95ba5523639?utm_campaign=1050&utm_source=git)** | Caldwell, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e627366bb95ba5523637?utm_campaign=1050&utm_source=git)** | West Orange, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e626366bb95ba5523633?utm_campaign=1050&utm_source=git)** | Longwood, FL | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362f?utm_campaign=1050&utm_source=git)** | Wilkesboro, NC | On Site | Apr 04 |
+| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e61f366bb95ba552362b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e619891d7b11cfce07a2?utm_campaign=1050&utm_source=git)** | Ocoee, FL | On Site | Apr 04 |
 | ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e746?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e6170b098b7a6707e747?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | Apr 04 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager West Orange Osceola](https://jobright.ai/jobs/info/69d0e5d4cdb525785fbaf676?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5d3cfdc6132f9440722?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Apr 04 |
 | ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cdcdb525785fbaf66d?utm_campaign=1050&utm_source=git)** | Bloomfield, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 | ↳ | **[Branch Manager North Metro Orlando](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf667?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 04 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/69ae3e543de6821aaccd76c9?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Apr 04 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e2b9366bb95ba55235b6?utm_campaign=1050&utm_source=git)** | Ringwood, NJ | On Site | Apr 04 |
-| ↳ | **[Branch Manager - Lake Norman District](https://jobright.ai/jobs/info/69d0e2a70b098b7a6707e6b8?utm_campaign=1050&utm_source=git)** | Huntersville, NC | On Site | Apr 04 |
+| ↳ | **[Branch Manager Greater Passaic](https://jobright.ai/jobs/info/69d0e5cccdb525785fbaf660?utm_campaign=1050&utm_source=git)** | Hamburg, NJ | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
