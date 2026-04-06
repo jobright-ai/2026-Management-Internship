@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Apr 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d37d3d891d7b11cfcf15a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
 | **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d371a354f00230c6d27aad?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | Apr 06 |
 | **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Performance and Business Analytics Intern](https://jobright.ai/jobs/info/69d35e5acfdc6132f9450c24?utm_campaign=1050&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69caf9c01b5ad028873a7459?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Apr 04 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961ca85e7ed9a5731ba9a9a?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69c8f091b773006330b82ee8?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/69b4ca38569738374139b8c4?utm_campaign=1050&utm_source=git)** | Hercules, CA | On Site | Apr 04 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern, T-Line and Substation](https://jobright.ai/jobs/info/69d11e730b098b7a6707fa08?utm_campaign=1050&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
