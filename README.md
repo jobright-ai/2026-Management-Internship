@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
+| **[Jabil](https://www.jabil.com)** | **[Business Unit Project Manager Intern](https://jobright.ai/jobs/info/69ced751cfdc6132f942cb30?utm_campaign=1050&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b60cdb525785fbb2d93?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 04 |
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b21891d7b11cfce3d3d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba6c11136d179eeef2e18?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfb720702aa35207aa8bd4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/697bcf2c0b88cc7d64229c25?utm_campaign=1050&utm_source=git)** | Haverhill, MA | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
-| **[Greystar](http://greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b455bd3b74eb1e2c818c2f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
