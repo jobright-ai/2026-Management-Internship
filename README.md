@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d24e92cfdc6132f944a4de?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 05 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d23bf60b098b7a6708795e?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 05 |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Lodging Intern, The American Club](https://jobright.ai/jobs/info/69d2f1ce0b098b7a6708b553?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/690aa250d046ab6061cdeb48?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Business Operations Intern (Cross-Functional)](https://jobright.ai/jobs/info/69d2de84891d7b11cfcec76c?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 05 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d2020f366bb95ba552b258?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/697bcf2c0b88cc7d64229c25?utm_campaign=1050&utm_source=git)** | Haverhill, MA | On Site | Apr 04 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | **[Greystar](http://greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b455bd3b74eb1e2c818c2f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba5e71136d179eeef2db6?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
