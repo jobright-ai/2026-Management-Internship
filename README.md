@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Procurement Intern – Summer - Fall 2026](https://jobright.ai/jobs/info/69d3358654f00230c6d2556f?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Apr 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
+| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69d38ac6cdb525785fbc07c1?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Apr 06 |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Administrative Office Intern](https://jobright.ai/jobs/info/69d389110b098b7a6708fa33?utm_campaign=1050&utm_source=git)** | Greenbelt, MD | On Site | Apr 06 |
+| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Apr 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
+| ↳ | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Apr 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d37d3d891d7b11cfcf15a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 06 |
 | **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d371a354f00230c6d27aad?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | Apr 06 |
@@ -70,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d33a540b098b7a6708cc33?utm_campaign=1050&utm_source=git)** | Boston Campus | On Site | Apr 05 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69d33822891d7b11cfceea22?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d30edc891d7b11cfcedbda?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
+| **[Eaton Cummins Automated Transmission Technologies](https://www.eatoncummins.com)** | **[Regional Project Manager](https://jobright.ai/jobs/info/69d38d4b0b098b7a6708fa83?utm_campaign=1050&utm_source=git)** | Littleton, CO | Hybrid | Apr 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304f6366bb95ba5530b1a?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304ca0b098b7a6708ba71?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
 | ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d304b5cdb525785fbbc881?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
@@ -109,6 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Lodging Intern, The American Club](https://jobright.ai/jobs/info/69d2f1ce0b098b7a6708b553?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/690aa250d046ab6061cdeb48?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Business Operations Intern (Cross-Functional)](https://jobright.ai/jobs/info/69d2de84891d7b11cfcec76c?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 05 |
+| **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69d3867154f00230c6d28365?utm_campaign=1050&utm_source=git)** | Brampton, ON | On Site | Apr 05 |
+| ↳ | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69d3866a0b098b7a6708f994?utm_campaign=1050&utm_source=git)** | Montreal, QC | On Site | Apr 05 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d2020f366bb95ba552b258?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Apr 04 |
 | **[tastylive](https://www.tastylive.com)** | **[Business Operations Intern (MBA)](https://jobright.ai/jobs/info/69cd9bd8cfdc6132f941da0d?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1f1bb0b098b7a67085a1a?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Miller Electric Company](https://www.mecojax.com)** | **[Summer 2026 Project Management College Internship](https://jobright.ai/jobs/info/69272035f0beb07232627b11?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
 | **[Honeywell](http://www.honeywell.com)** | **[Supply Chain- Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/69b623353b74eb1e2c83db29?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6998471bce78e77b4fdcf9d7?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Apr 04 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Apr 04 |
-| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bef561136d179eeef9005?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | Apr 04 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | On Site | Apr 04 |
-| ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 04 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/6960c0e3a112b402660f6291?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
-| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Commodity Strategy Intern](https://jobright.ai/jobs/info/69a884cf7ac93962b7084671?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Apr 04 |
-| **[Fever](https://www.feverup.com)** | **[Assistant General Manager - Philadelphia (Freelancer)](https://jobright.ai/jobs/info/69c72e9eb773006330b76c65?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Apr 04 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961ca85e7ed9a5731ba9a9a?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69c8f091b773006330b82ee8?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
