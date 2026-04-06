@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d371a354f00230c6d27aad?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | Apr 06 |
 | **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Performance and Business Analytics Intern](https://jobright.ai/jobs/info/69d35e5acfdc6132f9450c24?utm_campaign=1050&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69caf9c01b5ad028873a7459?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
 | ↳ | **[Co-op, Airport Customer Service and Cargo Project Management (Fall 2026)](https://jobright.ai/jobs/info/69c90b111b5ad02887397b8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6a333864f172f9bc058?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e90c366bb95ba552a57c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d2dc73366bb95ba552f238?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697bf3670b88cc7d6422de90?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Apr 04 |
 | **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
