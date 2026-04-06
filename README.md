@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69d3b71dcfdc6132f9453205?utm_campaign=1050&utm_source=git)** | USA-NC-Morrisville | Hybrid | Apr 06 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d3a8b5366bb95ba55357ea?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 06 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Director, Evanston Office of Graduate Financial Aid](https://jobright.ai/jobs/info/6945ffc57d506e3808f149fd?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Apr 06 |
 | **[Air Mobility Command](https://www.amc.af.mil/)** | **[Summer Aid Intern.](https://jobright.ai/jobs/info/69d3a73a366bb95ba55357bd?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 06 |
@@ -121,14 +122,12 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Apr 05 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 05 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d24e92cfdc6132f944a4de?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 05 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69d3a32bcfdc6132f945265f?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69d396a8cfdc6132f94524e3?utm_campaign=1050&utm_source=git)** | Fullerton, CA | On Site | Apr 05 |
 | ↳ | **[Department Administrative Assistant](https://jobright.ai/jobs/info/69d3921fcdb525785fbc0f01?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 05 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Lodging Intern, The American Club](https://jobright.ai/jobs/info/69d2f1ce0b098b7a6708b553?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 05 |
 | **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/690aa250d046ab6061cdeb48?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Business Operations Intern (Cross-Functional)](https://jobright.ai/jobs/info/69d2de84891d7b11cfcec76c?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 05 |
-| **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69d3866a0b098b7a6708f994?utm_campaign=1050&utm_source=git)** | Montreal, QC | On Site | Apr 05 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d2020f366bb95ba552b258?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Apr 04 |
 | **[tastylive](https://www.tastylive.com)** | **[Business Operations Intern (MBA)](https://jobright.ai/jobs/info/69cd9bd8cfdc6132f941da0d?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1f1bb0b098b7a67085a1a?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Glenn O. Hawbaker, Inc.](http://goh-inc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d14d08cdb525785fbb1b8b?utm_campaign=1050&utm_source=git)** | Montoursville, PA | On Site | Apr 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/696084df7ebc25398eb67207?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 04 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
