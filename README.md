@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Customer Asset Management, Default Internal Services](https://jobright.ai/jobs/info/69d3d5e2cdb525785fbc381c?utm_campaign=1050&utm_source=git)** | Getzville, NY | Hybrid | Apr 06 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Project Manager - Summer 2026](https://jobright.ai/jobs/info/69d3d5dc366bb95ba5537c38?utm_campaign=1050&utm_source=git)** | Remote/Homebased | Remote | Apr 06 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Project Manager Intern - S2026](https://jobright.ai/jobs/info/69d3d258cdb525785fbc36cc?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69ceb555cfdc6132f942b08c?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Apr 06 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Supply Chain Intern (2026)](https://jobright.ai/jobs/info/69d3bfe2cdb525785fbc205c?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d3bfa9366bb95ba553637c?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Apr 06 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e07?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e06?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Apr 06 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e06?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e07?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb4054f00230c6d29aec?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb39e63cea7a8b6523db?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Apr 06 |
 | **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69d3b71dcfdc6132f9453205?utm_campaign=1050&utm_source=git)** | USA-NC-Morrisville | Hybrid | Apr 06 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d33eac366bb95ba5532321?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d33ea60b098b7a6708d29b?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d33a540b098b7a6708cc33?utm_campaign=1050&utm_source=git)** | Boston Campus | On Site | Apr 05 |
-| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69d33822891d7b11cfceea22?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d30edc891d7b11cfcedbda?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
 | **[Eaton Cummins Automated Transmission Technologies](https://www.eatoncummins.com)** | **[Regional Project Manager](https://jobright.ai/jobs/info/69d38d4b0b098b7a6708fa83?utm_campaign=1050&utm_source=git)** | Littleton, CO | Hybrid | Apr 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304f6366bb95ba5530b1a?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d29d09891d7b11cfceb65e?utm_campaign=1050&utm_source=git)** | Williamstown, MA | On Site | Apr 05 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Apr 05 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Admin Support III - Development](https://jobright.ai/jobs/info/69d29b93cfdc6132f944b96d?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Apr 05 |
+| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69d3cc74366bb95ba5537627?utm_campaign=1050&utm_source=git)** | Kansas City, MO, US | On Site | Apr 05 |
 | **[City of Pittsfield](http://www.cityofpittsfield.gov)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69d2983acfdc6132f944b91c?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Apr 05 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41056)](https://jobright.ai/jobs/info/69d2980a366bb95ba552e7c1?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Apr 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a5eda1b600907a962bb912?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
 | **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Summer Graduate Intern, Project Management Office (PMO) Data Analytics](https://jobright.ai/jobs/info/69d15ddb891d7b11cfce3500?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
-| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69881bfd8ca8121a3a6aa578?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
