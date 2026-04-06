@@ -57,14 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netwrix Corporation](http://www.netwrix.com)** | **[Lead Generation Intern [Summer Internship]](https://jobright.ai/jobs/info/69d3e3d9cfdc6132f94553d4?utm_campaign=1050&utm_source=git)** | Remote (United States) | Remote | Apr 06 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6979668c39f7f96cc6d1efd4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Band Staff, Administrative Assistant](https://jobright.ai/jobs/info/69d3dd44cfdc6132f9455125?utm_campaign=1050&utm_source=git)** | Boone, NC | On Site | Apr 06 |
+| **[Sparrow](https://www.sparrowup.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69d3dd3ecfdc6132f945511f?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Advisor Operations Associate](https://jobright.ai/jobs/info/69d3dabecfdc6132f9455040?utm_campaign=1050&utm_source=git)** | Akron, OH | Hybrid | Apr 06 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Strategic Advisory Restructuring Internship - Summer 2026](https://jobright.ai/jobs/info/69d3daa254f00230c6d2b910?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d3da1d54f00230c6d2b8b0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 06 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69d3d7b854f00230c6d2b74c?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Apr 06 |
+| **[City of Fulshear](https://www.fulsheartexas.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d3d666891d7b11cfcf4961?utm_campaign=1050&utm_source=git)** | Fulshear, TX | On Site | Apr 06 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Customer Asset Management, Default Internal Services](https://jobright.ai/jobs/info/69d3d5e2cdb525785fbc381c?utm_campaign=1050&utm_source=git)** | Getzville, NY | Hybrid | Apr 06 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Project Manager - Summer 2026](https://jobright.ai/jobs/info/69d3d5dc366bb95ba5537c38?utm_campaign=1050&utm_source=git)** | Remote/Homebased | Remote | Apr 06 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Project Manager Intern - S2026](https://jobright.ai/jobs/info/69d3d258cdb525785fbc36cc?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69ceb555cfdc6132f942b08c?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Apr 06 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Supply Chain Intern (2026)](https://jobright.ai/jobs/info/69d3bfe2cdb525785fbc205c?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d3bfa9366bb95ba553637c?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Apr 06 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e06?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e07?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Apr 06 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e07?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e06?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb4054f00230c6d29aec?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb39e63cea7a8b6523db?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Apr 06 |
 | **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69d3b71dcfdc6132f9453205?utm_campaign=1050&utm_source=git)** | USA-NC-Morrisville | Hybrid | Apr 06 |
@@ -117,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41056)](https://jobright.ai/jobs/info/69d2980a366bb95ba552e7c1?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Apr 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 05 |
 | **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69d28ba654f00230c6d21da0?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Apr 05 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, Operational Excellence / Operations](https://jobright.ai/jobs/info/69a745bb1fc3d83b78093860?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Apr 05 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 05 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Controls (May 2026)](https://jobright.ai/jobs/info/69990c5d81476f6176b181ea?utm_campaign=1050&utm_source=git)** | Pickering, ON | On Site | Apr 05 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69c187ff2c312363dcd4873b?utm_campaign=1050&utm_source=git)** | Spokane | On Site | Apr 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697bf3670b88cc7d6422de90?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Apr 04 |
-| **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
-| **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
-| **[Jabil](https://www.jabil.com)** | **[Business Unit Project Manager Intern](https://jobright.ai/jobs/info/69ced751cfdc6132f942cb30?utm_campaign=1050&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 04 |
-| **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b60cdb525785fbb2d93?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 04 |
-| ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d17b21891d7b11cfce3d3d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 04 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba6c11136d179eeef2e18?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Apr 04 |
-| **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 04 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a5eda1b600907a962bb912?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
-| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Summer Graduate Intern, Project Management Office (PMO) Data Analytics](https://jobright.ai/jobs/info/69d15ddb891d7b11cfce3500?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
