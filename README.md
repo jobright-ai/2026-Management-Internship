@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d3403954f00230c6d25daa?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Apr 05 |
+| ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d33eac366bb95ba5532321?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
+| ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d33ea60b098b7a6708d29b?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d33a540b098b7a6708cc33?utm_campaign=1050&utm_source=git)** | Boston Campus | On Site | Apr 05 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69d33822891d7b11cfceea22?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d30edc891d7b11cfcedbda?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d303be366bb95ba5530aff?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d2dfe6891d7b11cfcec9e3?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/69d2c98a891d7b11cfceb8e4?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Apr 05 |
-| **[Riseline Foundation](http://www.riselinefoundation.org)** | **[MBA/Graduate Summer Internship — Carbon Removal](https://jobright.ai/jobs/info/69d2c1f854f00230c6d2246d?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Riverside Sports Properties](riversidesportsproperties.com)** | **[Sports Management Intern- Event & Facility Operations](https://jobright.ai/jobs/info/69d2a4d2891d7b11cfceb696?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 05 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69d2a2150b098b7a67089802?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Apr 05 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d29e76366bb95ba552e83f?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Apr 05 |
@@ -103,7 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d2020f366bb95ba552b258?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Apr 04 |
 | **[tastylive](https://www.tastylive.com)** | **[Business Operations Intern (MBA)](https://jobright.ai/jobs/info/69cd9bd8cfdc6132f941da0d?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Apr 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1f1bb0b098b7a67085a1a?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
-| ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e90c366bb95ba552a57c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[City of Goodyear Economic Development](https://www.linkedin.com/company/3235587)** | **[Administrative Assistant - Parks & Recreation](https://jobright.ai/jobs/info/69d3473354f00230c6d261d8?utm_campaign=1050&utm_source=git)** | Goodyear, AZ | On Site | Apr 04 |
+| **[Uber](http://www.uber.com)** | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e90c366bb95ba552a57c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d2dc73366bb95ba552f238?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7ef86a10b650604b622fb?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Apr 04 |
 | **[Glenn O. Hawbaker, Inc.](http://goh-inc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d14d08cdb525785fbb1b8b?utm_campaign=1050&utm_source=git)** | Montoursville, PA | On Site | Apr 04 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/696084df7ebc25398eb67207?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 04 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69bca7bf45e08b3dc1f96ca0?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 04 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 04 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/697c2bf31136d179eeefe5d0?utm_campaign=1050&utm_source=git)** | Union City, CA | Hybrid | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ST Engineering MRAS](https://www.mras-usa.com/)** | **[MRAS 2026 Sourcing Summer Internship](https://jobright.ai/jobs/info/6997cf8fe0bddb6acac698d9?utm_campaign=1050&utm_source=git)** | Middle River, MD | On Site | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d1d4960b098b7a67084a9d?utm_campaign=1050&utm_source=git)** | Aurora, OH | On Site | Apr 04 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Management (May 2026)](https://jobright.ai/jobs/info/6999167d81476f6176b18f6d?utm_campaign=1050&utm_source=git)** | Bowmanville, ON | On Site | Apr 04 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69d110a00b098b7a6707f85d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
-| **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
