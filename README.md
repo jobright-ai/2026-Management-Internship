@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Strategy](https://jobright.ai/jobs/info/69ceb555cfdc6132f942b08c?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Apr 06 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Supply Chain Intern (2026)](https://jobright.ai/jobs/info/69d3bfe2cdb525785fbc205c?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
+| **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d3bfa9366bb95ba553637c?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Apr 06 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e07?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb59891d7b11cfcf2e06?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb4054f00230c6d29aec?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d3bb39e63cea7a8b6523db?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Apr 06 |
 | **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern](https://jobright.ai/jobs/info/69d3b71dcfdc6132f9453205?utm_campaign=1050&utm_source=git)** | USA-NC-Morrisville | Hybrid | Apr 06 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d3a8b5366bb95ba55357ea?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 06 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Director, Evanston Office of Graduate Financial Aid](https://jobright.ai/jobs/info/6945ffc57d506e3808f149fd?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Apr 06 |
@@ -95,6 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d30446cfdc6132f944dbe1?utm_campaign=1050&utm_source=git)** | Frankfort, KY, US | On Site | Apr 05 |
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d3043754f00230c6d2464e?utm_campaign=1050&utm_source=git)** | US-KY-Frankfort | On Site | Apr 05 |
 | ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d303be366bb95ba5530aff?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
+| **[SDSU Alumni](http://www.sdsualumni.org)** | **[Associate Athletics Director for Donor Engagement and Operations (Administrator I)](https://jobright.ai/jobs/info/69d3ad2c54f00230c6d29514?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 05 |
 | **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/69d2c98a891d7b11cfceb8e4?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Apr 05 |
 | **[Riverside Sports Properties](riversidesportsproperties.com)** | **[Sports Management Intern- Event & Facility Operations](https://jobright.ai/jobs/info/69d2a4d2891d7b11cfceb696?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 05 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69d2a2150b098b7a67089802?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Apr 05 |
@@ -118,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Apr 05 |
 | **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/69c8be6683ea553769feb8b6?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Apr 05 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d2532e891d7b11cfcea43e?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Apr 05 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 05 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69881bfd8ca8121a3a6aa578?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
-| **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6997b2f281476f6176afd3de?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69d157decfdc6132f94430ab?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 04 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7ef86a10b650604b622fb?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Apr 04 |
-| **[Glenn O. Hawbaker, Inc.](http://goh-inc.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d14d08cdb525785fbb1b8b?utm_campaign=1050&utm_source=git)** | Montoursville, PA | On Site | Apr 04 |
-| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/696084df7ebc25398eb67207?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 04 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
