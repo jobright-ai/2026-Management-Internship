@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Bellevue, Washington](https://www.bellevuewa.gov/)** | **[Performance and Business Analytics Intern](https://jobright.ai/jobs/info/69d35e5acfdc6132f9450c24?utm_campaign=1050&utm_source=git)** | Greater Seattle Area | Hybrid | Apr 06 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69caf9c01b5ad028873a7459?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
+| ↳ | **[Co-op, Airport Customer Service and Cargo Project Management (Fall 2026)](https://jobright.ai/jobs/info/69c90b111b5ad02887397b8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
+| ↳ | **[Co-Op, Airport Customer Service PMO (Summer 2026)](https://jobright.ai/jobs/info/69bc694a5b89c002acf20db0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d3403954f00230c6d25daa?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Apr 05 |
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d33eac366bb95ba5532321?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d33ea60b098b7a6708d29b?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69c8f091b773006330b82ee8?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/69b4ca38569738374139b8c4?utm_campaign=1050&utm_source=git)** | Hercules, CA | On Site | Apr 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern, T-Line and Substation](https://jobright.ai/jobs/info/69d11e730b098b7a6707fa08?utm_campaign=1050&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
-| ↳ | **[Project Management Intern, T-Line and Substation](https://jobright.ai/jobs/info/69d11e65cdb525785fbb090a?utm_campaign=1050&utm_source=git)** | Fresno, CA | Hybrid | Apr 04 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Program Master Scheduler](https://jobright.ai/jobs/info/69b473373b74eb1e2c81c487?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Apr 04 |
-| **[ST Engineering MRAS](https://www.mras-usa.com/)** | **[MRAS 2026 Sourcing Summer Internship](https://jobright.ai/jobs/info/6997cf8fe0bddb6acac698d9?utm_campaign=1050&utm_source=git)** | Middle River, MD | On Site | Apr 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d1d4960b098b7a67084a9d?utm_campaign=1050&utm_source=git)** | Aurora, OH | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
