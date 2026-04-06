@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emerson College](http://www.emerson.edu/)** | **[Campus Planning Intern](https://jobright.ai/jobs/info/69d33a540b098b7a6708cc33?utm_campaign=1050&utm_source=git)** | Boston Campus | On Site | Apr 05 |
+| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship (Summer) - Administration](https://jobright.ai/jobs/info/69d33822891d7b11cfceea22?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d30edc891d7b11cfcedbda?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304f6366bb95ba5530b1a?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
 | ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304ca0b098b7a6708ba71?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Management (May 2026)](https://jobright.ai/jobs/info/6999167d81476f6176b18f6d?utm_campaign=1050&utm_source=git)** | Bowmanville, ON | On Site | Apr 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Restaurant Leader (Manager) Trainee](https://jobright.ai/jobs/info/69d110a00b098b7a6707f85d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Apr 04 |
-| **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69601c7fa112b402660ed337?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
-| **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69b068b70b2db6275c044eda?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
