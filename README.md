@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d30edc891d7b11cfcedbda?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 05 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304f6366bb95ba5530b1a?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
+| ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d304ca0b098b7a6708ba71?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
+| ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d304b5cdb525785fbbc881?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 05 |
+| ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d30446cfdc6132f944dbe1?utm_campaign=1050&utm_source=git)** | Frankfort, KY, US | On Site | Apr 05 |
+| ↳ | **[Leadership Development Intern - Quality](https://jobright.ai/jobs/info/69d3043754f00230c6d2464e?utm_campaign=1050&utm_source=git)** | US-KY-Frankfort | On Site | Apr 05 |
+| ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/69d303be366bb95ba5530aff?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 05 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d2dfe6891d7b11cfcec9e3?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 05 |
 | **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/69d2c98a891d7b11cfceb8e4?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Apr 05 |
 | **[Riseline Foundation](http://www.riselinefoundation.org)** | **[MBA/Graduate Summer Internship — Carbon Removal](https://jobright.ai/jobs/info/69d2c1f854f00230c6d2246d?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69601c7fa112b402660ed337?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69b068b70b2db6275c044eda?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Apr 04 |
 | **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/69602783a112b402660ee0d9?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | Apr 04 |
-| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d10ac1891d7b11cfce1837?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3a34d652f044775bffe?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Apr 04 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3ca4d652f044775c021?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 04 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Operations Intern](https://jobright.ai/jobs/info/69b477683b74eb1e2c81c937?utm_campaign=1050&utm_source=git)** | Branchburg, NJ | On Site | Apr 04 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfb720702aa35207aa8bd4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/697bcf2c0b88cc7d64229c25?utm_campaign=1050&utm_source=git)** | Haverhill, MA | On Site | Apr 04 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
