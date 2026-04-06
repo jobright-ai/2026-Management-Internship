@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Strategy & Operations Analyst Intern - West & Postmates, US](https://jobright.ai/jobs/info/69d1e623891d7b11cfce716d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69d2dc73366bb95ba552f238?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697bf3670b88cc7d6422de90?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Apr 04 |
 | **[One of the Kids](https://www.ootks.com)** | **[Clinic Assistant Intern](https://jobright.ai/jobs/info/69d1a1bf366bb95ba55278b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69d19ee00b098b7a6708295b?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 04 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of Operations](https://jobright.ai/jobs/info/69d18ffdcdb525785fbb2fec?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Apr 04 |
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69601c7fa112b402660ed337?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 04 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69b068b70b2db6275c044eda?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Apr 04 |
-| **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/69602783a112b402660ee0d9?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
