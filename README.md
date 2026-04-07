@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69d4cdbc366bb95ba5541142?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 07 |
 | **[Implement-IT GmbH](https://www.implement-it.de/)** | **[Aushilfe / Werkstudent (m/w/d)](https://jobright.ai/jobs/info/69d4c17fcfdc6132f945de85?utm_campaign=1050&utm_source=git)** | Trier, ND | On Site | Apr 07 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ADMINISTRATIVE SERVICES ASSISTANT 2* - 04022026-76514](https://jobright.ai/jobs/info/69ce2a41398fb071abf82059?utm_campaign=1050&utm_source=git)** | Davidson County, TN | On Site | Apr 07 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Impact and Innovation Intern - Management Analyst 1](https://jobright.ai/jobs/info/69d4b08fe63cea7a8b65c2de?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 07 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative Intern (Leadership and Learning)](https://jobright.ai/jobs/info/69d478f7cdb525785fbc9ca8?utm_campaign=1050&utm_source=git)** | Beachwood, OH | On Site | Apr 06 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Project and Programme Management Intern, New York, USA, Six (6) Months](https://jobright.ai/jobs/info/69d477e6cdb525785fbc9a8b?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97d?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97b?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97c?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97b?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761f54f00230c6d316b5?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ac?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ad?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69cedca6398fb071abf89e5b?utm_campaign=1050&utm_source=git)** | Saint Paul Church, MN | On Site | Apr 06 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d4175b891d7b11cfcf7200?utm_campaign=1050&utm_source=git)** | Elizabethtown, KY | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - IT Infrastructure Project Management](https://jobright.ai/jobs/info/69d41748366bb95ba553a472?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain Procurement Internship – Fall 2026](https://jobright.ai/jobs/info/69d415c054f00230c6d2de45?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
