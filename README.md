@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/699c9a1d81476f6176b53471?utm_campaign=1050&utm_source=git)** | Whippany, NJ | On Site | Apr 07 |
+| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/69b84f9056973837413d781f?utm_campaign=1050&utm_source=git)** | Edgewater Park, NJ | On Site | Apr 07 |
+| ↳ | **[Commodity Supply Chain (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69b84f9956973837413d7830?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Sourcing Intern - Summer 2026 (Sugar Valley, Georgia, United States, 30746)](https://jobright.ai/jobs/info/6981108849964d25b5e3df8c?utm_campaign=1050&utm_source=git)** | Sugar Valley, GA | On Site | Apr 07 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/696579152cbf4e44756f0a85?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Apr 07 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Facilities Project Management Intern](https://jobright.ai/jobs/info/69b1ea9665de58104c713ab6?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 07 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761f54f00230c6d316b5?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ad?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ac?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce2?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce3?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce2?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f1cdb525785fbc99c6?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f1cdb525785fbc99c7?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474efcfdc6132f945b002?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Operations Fellowship](https://jobright.ai/jobs/info/69d44ad1e63cea7a8b65857a?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Apr 06 |
 | **[Fiserv](http://www.fiserv.com)** | **[Agile Transformation & Strategy Intern](https://jobright.ai/jobs/info/69d424a5cdb525785fbc6a8e?utm_campaign=1050&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Apr 06 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Intern - F & I](https://jobright.ai/jobs/info/69d42472891d7b11cfcf7b91?utm_campaign=1050&utm_source=git)** | Darrell Waltrip Honda | On Site | Apr 06 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Material Manager for Product Support Distribution Center](https://jobright.ai/jobs/info/69d420d254f00230c6d2e6b2?utm_campaign=1050&utm_source=git)** | Savanna Place, GA | On Site | Apr 06 |
-| **[Trammell Crow Company](http://www.trammellcrow.com)** | **[Trammell Crow Company - Development Management Internship - New York City](https://jobright.ai/jobs/info/69d43dfe891d7b11cfcf8bac?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[Skechers](http://www.skechers.com)** | **[Production and Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/69d41dc8e63cea7a8b656e19?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
