@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[Project Management Intern -CRD-6 month intern- July- DEC](https://jobright.ai/jobs/info/69d47060891d7b11cfcfa406?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
+| **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Global Account Management (Intern)](https://jobright.ai/jobs/info/69b1664dd04c69566c739ff8?utm_campaign=1050&utm_source=git)** | Baltimore County, MD | Hybrid | Apr 06 |
+| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Electron Microscopy Project Manager - 138487](https://jobright.ai/jobs/info/69d46347e63cea7a8b65933f?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[UGA College of Agricultural and Environmental Sciences](http://www.caes.uga.edu/)** | **[Regional Director of Development](https://jobright.ai/jobs/info/69d45bd1366bb95ba553cf05?utm_campaign=1050&utm_source=git)** | Athens, GA | Hybrid | Apr 06 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69d45b64366bb95ba553cee9?utm_campaign=1050&utm_source=git)** | Escondido, CA | On Site | Apr 06 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Project and Programme Management Intern, New York, USA, Six (6) Months](https://jobright.ai/jobs/info/69d45b01e63cea7a8b659062?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 06 |
@@ -107,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/69d42830891d7b11cfcf7f0f?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Apr 06 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Operations Fellowship](https://jobright.ai/jobs/info/69d44ad1e63cea7a8b65857a?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Apr 06 |
 | **[Fiserv](http://www.fiserv.com)** | **[Agile Transformation & Strategy Intern](https://jobright.ai/jobs/info/69d424a5cdb525785fbc6a8e?utm_campaign=1050&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Apr 06 |
-| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Intern - F & I](https://jobright.ai/jobs/info/69d42472891d7b11cfcf7b8b?utm_campaign=1050&utm_source=git)** | Darrell Waltrip Honda | On Site | Apr 06 |
+| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Intern - F & I](https://jobright.ai/jobs/info/69d42472891d7b11cfcf7b91?utm_campaign=1050&utm_source=git)** | Darrell Waltrip Honda | On Site | Apr 06 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Material Manager for Product Support Distribution Center](https://jobright.ai/jobs/info/69d420d254f00230c6d2e6b2?utm_campaign=1050&utm_source=git)** | Savanna Place, GA | On Site | Apr 06 |
 | **[Trammell Crow Company](http://www.trammellcrow.com)** | **[Trammell Crow Company - Development Management Internship - New York City](https://jobright.ai/jobs/info/69d43dfe891d7b11cfcf8bac?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[Skechers](http://www.skechers.com)** | **[Production and Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/69d41dc8e63cea7a8b656e19?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 06 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Management Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69d415b854f00230c6d2de3f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/69d4159bcfdc6132f94575ad?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Apr 06 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d414c4366bb95ba553a40a?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | Apr 06 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/69d4147de63cea7a8b6565ae?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Apr 06 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[ERP Supervisor](https://jobright.ai/jobs/info/69d4143dcdb525785fbc5fc8?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 06 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Project Manager - Summer 2026](https://jobright.ai/jobs/info/69d4142a54f00230c6d2dda7?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 06 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Operations Intern -Data Analytics](https://jobright.ai/jobs/info/69d41360366bb95ba553a38e?utm_campaign=1050&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Workday Business Process Management Intern](https://jobright.ai/jobs/info/69d4003254f00230c6d2cec8?utm_campaign=1050&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Apr 06 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Dallas](https://jobright.ai/jobs/info/69d3fae2366bb95ba55393ff?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Operations Internship, Nationwide Arena](https://jobright.ai/jobs/info/69d3f7fa54f00230c6d2cd95?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
-| **[Columbia Basin College](http://www.columbiabasin.edu/)** | **[Executive Assistant to the Vice President of Instruction](https://jobright.ai/jobs/info/69d3f672cfdc6132f945623f?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | Apr 06 |
-| **[Gustavus Adolphus College](http://www.gustavus.edu)** | **[Auxiliary Services Office Manager](https://jobright.ai/jobs/info/69d3f40454f00230c6d2caba?utm_campaign=1050&utm_source=git)** | St Peter, MN | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
