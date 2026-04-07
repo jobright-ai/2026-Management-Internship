@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/69b7812056973837413ca0cc?utm_campaign=1050&utm_source=git)** | Vancouver, WA | Hybrid | Apr 06 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Project Management Intern - Tech Dept](https://jobright.ai/jobs/info/69d482d654f00230c6d31f02?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Apr 06 |
+| **[Pronghorn](https://www.pronghorn.co/)** | **[Supply Chain Intern (HQ)](https://jobright.ai/jobs/info/69d4826bcdb525785fbca1eb?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69d47f8c891d7b11cfcfae72?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Apr 06 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Strategy & Change Management](https://jobright.ai/jobs/info/69d47c45891d7b11cfcfadbc?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[Standard Supply and Distributing Company Inc.](http://ssdhvac.com)** | **[Internship](https://jobright.ai/jobs/info/69d47c14366bb95ba553e1d5?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative Intern (Leadership and Learning)](https://jobright.ai/jobs/info/69d478f7cdb525785fbc9ca8?utm_campaign=1050&utm_source=git)** | Beachwood, OH | On Site | Apr 06 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Project and Programme Management Intern, New York, USA, Six (6) Months](https://jobright.ai/jobs/info/69d477e6cdb525785fbc9a8b?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97c?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97d?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97b?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97d?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761f54f00230c6d316b5?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Apr 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ad?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ac?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ad?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce3?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce2?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Apr 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f1cdb525785fbc99c6?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Apr 06 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Project and Programme Management Intern, New York, USA, Six (6) Months](https://jobright.ai/jobs/info/69d45b01e63cea7a8b659062?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 06 |
 | **[CBRE](https://www.cbre.com)** | **[Trammell Crow Company - Development Management Internship - New York City](https://jobright.ai/jobs/info/69d458f5cdb525785fbc89a4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 06 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Strategic Planning Department](https://jobright.ai/jobs/info/69d45708cfdc6132f9459f23?utm_campaign=1050&utm_source=git)** | Portland, ME | Remote | Apr 06 |
-| **[Pronghorn](https://www.pronghorn.co/)** | **[Supply Chain Intern (HQ)](https://jobright.ai/jobs/info/69d4559054f00230c6d300c3?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Apr 06 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Strategy & Change Management Intern](https://jobright.ai/jobs/info/69d450efe63cea7a8b6588fa?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 06 |
 | ↳ | **[Summer 2026 Intern - Strategy & Change Management Intern](https://jobright.ai/jobs/info/69d44e4f891d7b11cfcf92cc?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Power Delivery](https://jobright.ai/jobs/info/69d44dbc54f00230c6d2fe9d?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69d41187e63cea7a8b6564c5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Land Operations (Austin)](https://jobright.ai/jobs/info/69d41183366bb95ba553a2f8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 06 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Special Event Program Manager - Student Hourly](https://jobright.ai/jobs/info/69d40f41cfdc6132f94573d2?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 06 |
-| **[Limbach](http://www.limbachinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d40f3e891d7b11cfcf6f62?utm_campaign=1050&utm_source=git)** | Burtonsville, MD 20866, USA | Hybrid | Apr 06 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain Procurement Internship – Fall 2026](https://jobright.ai/jobs/info/69d40f21366bb95ba553a1ee?utm_campaign=1050&utm_source=git)** | Michael Owens Way, Perrysburg, OH 43551, USA | Hybrid | Apr 06 |
-| **[Facebook](https://www.meta.com)** | **[Business Management Summer Student Intern](https://jobright.ai/jobs/info/69d40eedcdb525785fbc5cfc?utm_campaign=1050&utm_source=git)** | Florence, South Carolina | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
