@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Strategy & Change Management](https://jobright.ai/jobs/info/69d47c45891d7b11cfcfadbc?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
+| **[Standard Supply and Distributing Company Inc.](http://ssdhvac.com)** | **[Internship](https://jobright.ai/jobs/info/69d47c14366bb95ba553e1d5?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 06 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative Intern (Leadership and Learning)](https://jobright.ai/jobs/info/69d478f7cdb525785fbc9ca8?utm_campaign=1050&utm_source=git)** | Beachwood, OH | On Site | Apr 06 |
+| **[UN Women](http://www.unwomen.org/en)** | **[Project and Programme Management Intern, New York, USA, Six (6) Months](https://jobright.ai/jobs/info/69d477e6cdb525785fbc9a8b?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 06 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97c?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97d?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d47651891d7b11cfcfa97b?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761f54f00230c6d316b5?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ad?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d4761e54f00230c6d316ac?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce3?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f6366bb95ba553dce2?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f1cdb525785fbc99c6?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474f1cdb525785fbc99c7?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Apr 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d474efcfdc6132f945b002?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Apr 06 |
+| **[City of Fort Collins](https://www.fcgov.com/)** | **[Front Desk Administrative Assistant](https://jobright.ai/jobs/info/69d472a8e63cea7a8b659db9?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Project Management Intern -CRD-6 month intern- July- DEC](https://jobright.ai/jobs/info/69d47060891d7b11cfcfa406?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
 | **[Atradius Trade Credit Insurance, Inc.](https://atradius.us)** | **[Global Account Management (Intern)](https://jobright.ai/jobs/info/69b1664dd04c69566c739ff8?utm_campaign=1050&utm_source=git)** | Baltimore County, MD | Hybrid | Apr 06 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Electron Microscopy Project Manager - 138487](https://jobright.ai/jobs/info/69d46347e63cea7a8b65933f?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Limbach](http://www.limbachinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d40f3e891d7b11cfcf6f62?utm_campaign=1050&utm_source=git)** | Burtonsville, MD 20866, USA | Hybrid | Apr 06 |
 | **[O-I](http://www.o-i.com)** | **[Supply Chain Procurement Internship – Fall 2026](https://jobright.ai/jobs/info/69d40f21366bb95ba553a1ee?utm_campaign=1050&utm_source=git)** | Michael Owens Way, Perrysburg, OH 43551, USA | Hybrid | Apr 06 |
 | **[Facebook](https://www.meta.com)** | **[Business Management Summer Student Intern](https://jobright.ai/jobs/info/69d40eedcdb525785fbc5cfc?utm_campaign=1050&utm_source=git)** | Florence, South Carolina | On Site | Apr 06 |
-| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Sr. Director, Enterprise Program Management Office (EPMO)](https://jobright.ai/jobs/info/69d40a8e366bb95ba5539fe6?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
-| **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69d40a53e63cea7a8b656182?utm_campaign=1050&utm_source=git)** | Osseo, MN | On Site | Apr 06 |
-| **[Guzman Energy](http://www.guzmanenergy.com/)** | **[Operations Project Management Intern](https://jobright.ai/jobs/info/69d408bfcdb525785fbc5a29?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 06 |
-| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Operations Analyst I (5204) - Capital Program Support](https://jobright.ai/jobs/info/69cc112c891d7b11cfcaa3dc?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
-| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Logistics Internship](https://jobright.ai/jobs/info/69d40894cdb525785fbc597c?utm_campaign=1050&utm_source=git)** | North Kingstown, Rhode Island, United States | On Site | Apr 06 |
-| **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69d40886cdb525785fbc592c?utm_campaign=1050&utm_source=git)** | Osseo, MN | On Site | Apr 06 |
-| **[Uber](http://www.uber.com)** | **[Program Manager, uBecome Intern Experience & Community](https://jobright.ai/jobs/info/69d4061e366bb95ba5539c96?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[IT Project Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69d4047ee63cea7a8b655dd5?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Apr 06 |
-| **[Javits Center](http://javitscenter.com)** | **[Guest Experience and Partnerships Intern](https://jobright.ai/jobs/info/69d403b0cdb525785fbc57eb?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 06 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d401f5891d7b11cfcf68b0?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | Apr 06 |
-| **[The Global Leadership Network](https://www.globalleadership.org)** | **[PARTER SITE OPERATIONS - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69d40165891d7b11cfcf6804?utm_campaign=1050&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 06 |
-| **[Harvard Management Company](http://www.hmc.harvard.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d40164891d7b11cfcf67f3?utm_campaign=1050&utm_source=git)** | Boston | Hybrid | Apr 06 |
-| **[AFL](http://www.AFLglobal.com)** | **[Business Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69d4004dcdb525785fbc5126?utm_campaign=1050&utm_source=git)** | Duncan, South Carolina, United States | Hybrid | Apr 06 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Workday Business Process Management Intern](https://jobright.ai/jobs/info/69d4003254f00230c6d2cec8?utm_campaign=1050&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Apr 06 |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Dallas](https://jobright.ai/jobs/info/69d3fae2366bb95ba55393ff?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Operations Internship, Nationwide Arena](https://jobright.ai/jobs/info/69d3f7fa54f00230c6d2cd95?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
