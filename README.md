@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d5b354cdb525785fbd29dc?utm_campaign=1050&utm_source=git)** | Owensboro, KY | On Site | Apr 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b23fe63cea7a8b663070?utm_campaign=1050&utm_source=git)** | Garden City, KS | On Site | Apr 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b22d366bb95ba5546d09?utm_campaign=1050&utm_source=git)** | Poplar Bluff, MO | On Site | Apr 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b22d891d7b11cfd03ab6?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Apr 07 |
+| **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Associate Director, Product Quality and Safety](https://jobright.ai/jobs/info/69d5affbcfdc6132f9463fe9?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Apr 07 |
+| **[SCAN](https://www.thescangroup.org/)** | **[High School Intern](https://jobright.ai/jobs/info/69d5aee3366bb95ba5546c71?utm_campaign=1050&utm_source=git)** | Long Beach, CA | Remote | Apr 07 |
+| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69d5ab5a706f771673ba4c2b?utm_campaign=1050&utm_source=git)** | Missoula, MT | On Site | Apr 07 |
+| **[Bank of Colorado](http://bankofcolorado.com)** | **[INTERN OPERATIONS](https://jobright.ai/jobs/info/69d5a7b9891d7b11cfd037bf?utm_campaign=1050&utm_source=git)** | Glenwood Springs, Colorado | On Site | Apr 07 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69d5a52ccfdc6132f9463b3c?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 07 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Inventory Planning](https://jobright.ai/jobs/info/69d5a10ccfdc6132f9463a66?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Apr 07 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/69d5a0cb891d7b11cfd03515?utm_campaign=1050&utm_source=git)** | Manchester, NJ | On Site | Apr 07 |
@@ -83,8 +91,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb5cdb525785fbd1b29?utm_campaign=1050&utm_source=git)** | Tucson, Arizona | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb4891d7b11cfd02c65?utm_campaign=1050&utm_source=git)** | Peoria, Illinois | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb4cfdc6132f946317d?utm_campaign=1050&utm_source=git)** | Cary, North Carolina | On Site | Apr 07 |
-| ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3891d7b11cfd02c58?utm_campaign=1050&utm_source=git)** | Seguin, Texas | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3e63cea7a8b6621be?utm_campaign=1050&utm_source=git)** | Irving, Texas | On Site | Apr 07 |
+| ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3891d7b11cfd02c58?utm_campaign=1050&utm_source=git)** | Seguin, Texas | On Site | Apr 07 |
+| **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d5a76d706f771673ba49bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
 | **[Jonview](http://jonview.com/)** | **[Intern, Group Operations and Tour Director Administration](https://jobright.ai/jobs/info/69d5834fe63cea7a8b661e88?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 | **[Cossette](http://www.cossette.com)** | **[Chargé·e de produits (Stage)](https://jobright.ai/jobs/info/69d582d1cdb525785fbd17cb?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Procurement and Supply Chain](https://jobright.ai/jobs/info/69d582a9366bb95ba5545ae0?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 07 |
@@ -107,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[NSTXL (National Security Technology Accelerator)](https://nstxl.org/)** | **[Program Analyst - Skillbridge Internship](https://jobright.ai/jobs/info/69d570c1cdb525785fbd0e22?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Krause Group](https://www.krausegroup.com)** | **[Founder's Office Intern (AI & Executive Operations)](https://jobright.ai/jobs/info/69d5707de63cea7a8b6613e0?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | **[SCAN](https://www.thescangroup.org/)** | **[High School Intern](https://jobright.ai/jobs/info/69d57067891d7b11cfd01e4b?utm_campaign=1050&utm_source=git)** | Long Beach Office 3800 | Remote | Apr 07 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56b0b891d7b11cfd01ccf?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 07 |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56b0b891d7b11cfd01cd0?utm_campaign=1050&utm_source=git)** | Rochester, MN | Hybrid | Apr 07 |
+| ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56b0b891d7b11cfd01ccf?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 07 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56b0b891d7b11cfd01cce?utm_campaign=1050&utm_source=git)** | Research Park, California, United States | Hybrid | Apr 07 |
-| ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56b0b891d7b11cfd01cd0?utm_campaign=1050&utm_source=git)** | Rochester, MN | Hybrid | Apr 07 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56afc706f771673ba3018?utm_campaign=1050&utm_source=git)** | Lowell, MA | Hybrid | Apr 07 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Project Manager, Onshore Wind Due Diligence](https://jobright.ai/jobs/info/69d56a0c366bb95ba5544e76?utm_campaign=1050&utm_source=git)** | Brea, CA | Hybrid | Apr 07 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69d56a0c366bb95ba5544e74?utm_campaign=1050&utm_source=git)** | Hopewell Junction, NY | Hybrid | Apr 07 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2027 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/69d54b46366bb95ba5543e04?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
 | **[LPGA](http://www.lpga.com)** | **[FM Championship Operations Intern (Boston, MA)](https://jobright.ai/jobs/info/69d54b30e63cea7a8b6600f2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Expeditors](http://www.expeditors.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69d549fce63cea7a8b6600d7?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | Apr 07 |
-| **[Moody Gardens®](https://www.moodygardens.org)** | **[Hotel Admin Summer Internship](https://jobright.ai/jobs/info/69d549bd706f771673ba1eb8?utm_campaign=1050&utm_source=git)** | Galveston, TX 77554 | On Site | Apr 07 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Project Controls Internship 2026](https://jobright.ai/jobs/info/69d549b4706f771673ba1e80?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 07 |
-| **[BGIS](https://www.bgis.com)** | **[Intern, Mailroom and Facilities](https://jobright.ai/jobs/info/69d549a5cfdc6132f9461023?utm_campaign=1050&utm_source=git)** | Markham, ON, Canada | On Site | Apr 07 |
-| ↳ | **[Intern, Mailroom and Facilities](https://jobright.ai/jobs/info/69d54958891d7b11cfd00945?utm_campaign=1050&utm_source=git)** | Markham, ON | On Site | Apr 07 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Enterprise Portfolio Intern, PMO](https://jobright.ai/jobs/info/69d5494fcdb525785fbcf815?utm_campaign=1050&utm_source=git)** | US - WI - Madison | On Site | Apr 07 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[Utilization Management Pharmacy Intern](https://jobright.ai/jobs/info/69d566fb891d7b11cfd01a6e?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 07 |
-| **[Lennox](http://www.lennox.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d545b7e63cea7a8b65fd53?utm_campaign=1050&utm_source=git)** | Stuttgart, AR | On Site | Apr 07 |
-| **[Lexeo Therapeutics](https://www.lexeotx.com)** | **[Program & Portfolio Strategy Intern (Graduate Level)](https://jobright.ai/jobs/info/69d54380706f771673ba1b49?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[broadhead.](http://broadheadco.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69cef79354f00230c6d05678?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
