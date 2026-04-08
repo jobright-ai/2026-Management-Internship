@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Back Office Operations & Process Improvement Intern](https://jobright.ai/jobs/info/69d6b785366bb95ba554f3a4?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
+| ↳ | **[2026 Summer Internship - Recovery Operations & Project Coordination Intern](https://jobright.ai/jobs/info/69d6b76a706f771673bad4b1?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
+| **[Sonoma Stompers Baseball Club](https://www.stompersbaseball.com/)** | **[Baseball & Stadium Operations Intern](https://jobright.ai/jobs/info/69d6b723706f771673bad451?utm_campaign=1050&utm_source=git)** | Sonoma, CA | On Site | Apr 08 |
+| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69d6b6ed52a5bf580012b482?utm_campaign=1050&utm_source=git)** | Austell, GA | On Site | Apr 08 |
+| **[TDECU](https://www.tdecu.org/)** | **[Intern - Graduate](https://jobright.ai/jobs/info/69cc8106cfdc6132f940daa5?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
 | **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
 | **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7648f0c8161d2fa215?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 08 |
-| **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Business and Strategy Intern (Master's Level +)](https://jobright.ai/jobs/info/69d6ac73706f771673bad01d?utm_campaign=1050&utm_source=git)** | GREENVILLE, SC | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
+| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
 | **[Faurecia](https://www.forvia.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6a89252a5bf580012af4b?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[CRE Intern](https://jobright.ai/jobs/info/69d6a6ee52a5bf580012ae64?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
@@ -103,7 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d6831bcfdc6132f946a4a1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/694b7f3ed64ebf28d821464a?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d30ca112b4026613effc?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Apr 08 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/699e79d6ce78e77b4fe3c985?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Apr 08 |
+| **[Williams](https://www.williams.com)** | **[Operations Intern - New Albany, OH](https://jobright.ai/jobs/info/6980ddfd7f40342e15d9a41f?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Apr 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/699e79d6ce78e77b4fe3c985?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Apr 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/6968289c639b452fb57dbb27?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68c41f7014bb275ce01911ab?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 08 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Custody and Complex Operations - Project Analyst Summer Internship](https://jobright.ai/jobs/info/69d67bf2e63cea7a8b6691c0?utm_campaign=1050&utm_source=git)** | Quincy, Massachusetts | On Site | Apr 08 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a8705f758f2e4ac3ff2551?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Apr 08 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Finance - Operations Associate - Supply Chain Management](https://jobright.ai/jobs/info/69d6733fe63cea7a8b668ecc?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/68a87578758f2e4ac3ff28d2?utm_campaign=1050&utm_source=git)** | Somerset County, NJ | On Site | Apr 08 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86fec6acf96396f71fd8d?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 08 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68a874516acf96396f72011c?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Apr 08 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86fec6acf96396f71fd8d?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 08 |
 | **[Amentum](https://www.amentum.com/)** | **[Property Control Intern](https://jobright.ai/jobs/info/69d6730448f0c8161d2f7d31?utm_campaign=1050&utm_source=git)** | Cocoa Beach, FL | On Site | Apr 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6965d56e5ad3a93f8231474f?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 08 |
 | **[First American](http://www.firstam.com)** | **[Business Operations Undergraduate Intern (Onsite)](https://jobright.ai/jobs/info/69bb8e8806c1ba00c54e26a4?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 08 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c8f39bf9c6ff7aedf154e9?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Apr 08 |
 | **[Williams](https://www.williams.com)** | **[Operations Intern - Haynesville, LA](https://jobright.ai/jobs/info/69810f5549964d25b5e3dedc?utm_campaign=1050&utm_source=git)** | Shreveport, LA | On Site | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68ca453e0456a931db296a96?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Apr 08 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c7988ac96a22563ecf2c06?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Apr 08 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Apr 08 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c7988ac96a22563ecf2c06?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Apr 08 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a86af9758f2e4ac3ff2423?utm_campaign=1050&utm_source=git)** | Salem, OR | On Site | Apr 08 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68cd77cdb2a74e1837ed721f?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 08 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c79424db52c07d2884c6b0?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a870b2d627244576e32936?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Apr 08 |
 | **[Circle](https://www.circle.com)** | **[Intern, CPN OFI/BFI Network Strategy & Operations](https://jobright.ai/jobs/info/69ba7e333b74eb1e2c8859ef?utm_campaign=1050&utm_source=git)** | Greater Boston | Hybrid | Apr 08 |
 | ↳ | **[Intern, CPN OFI/BFI Network Strategy & Operations](https://jobright.ai/jobs/info/69b4f4483b74eb1e2c8271e7?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 08 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ba875a5697383741401761?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Apr 08 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86fc26acf96396f71fd78?utm_campaign=1050&utm_source=git)** | Charleston, TN | On Site | Apr 08 |
-| **[Hearst Health](http://www.hearsthealth.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/699cbc9c81476f6176b55107?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/69baa80c5697383741407c01?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 08 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69d0944854f00230c6d136e0?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
