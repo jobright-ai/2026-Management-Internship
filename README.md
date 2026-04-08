@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69d01a59cfdc6132f943851a?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Apr 07 |
+| ↳ | **[Healthcare Intern](https://jobright.ai/jobs/info/69d01a6254f00230c6d0f277?utm_campaign=1050&utm_source=git)** | New Prague, MN | On Site | Apr 07 |
+| **[IERUS Technologies Inc](https://www.ierustech.com/)** | **[Property Internship](https://jobright.ai/jobs/info/69d5bec0cdb525785fbd2f2c?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 07 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d5be05706f771673ba5378?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Apr 07 |
+| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/69d5baac366bb95ba5546f92?utm_campaign=1050&utm_source=git)** | Fort Valley, GA | On Site | Apr 07 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d5b354cdb525785fbd29dc?utm_campaign=1050&utm_source=git)** | Owensboro, KY | On Site | Apr 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b23fe63cea7a8b663070?utm_campaign=1050&utm_source=git)** | Garden City, KS | On Site | Apr 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b22d366bb95ba5546d09?utm_campaign=1050&utm_source=git)** | Poplar Bluff, MO | On Site | Apr 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b22d891d7b11cfd03ab6?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Apr 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d5b22d366bb95ba5546d09?utm_campaign=1050&utm_source=git)** | Poplar Bluff, MO | On Site | Apr 07 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Associate Director, Product Quality and Safety](https://jobright.ai/jobs/info/69d5affbcfdc6132f9463fe9?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Apr 07 |
 | **[SCAN](https://www.thescangroup.org/)** | **[High School Intern](https://jobright.ai/jobs/info/69d5aee3366bb95ba5546c71?utm_campaign=1050&utm_source=git)** | Long Beach, CA | Remote | Apr 07 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69d5ab5a706f771673ba4c2b?utm_campaign=1050&utm_source=git)** | Missoula, MT | On Site | Apr 07 |
 | **[Bank of Colorado](http://bankofcolorado.com)** | **[INTERN OPERATIONS](https://jobright.ai/jobs/info/69d5a7b9891d7b11cfd037bf?utm_campaign=1050&utm_source=git)** | Glenwood Springs, Colorado | On Site | Apr 07 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69d5a52ccfdc6132f9463b3c?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 07 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Intern, Inventory Planning](https://jobright.ai/jobs/info/69d5a10ccfdc6132f9463a66?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Apr 07 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/69d5a0cb891d7b11cfd03515?utm_campaign=1050&utm_source=git)** | Manchester, NJ | On Site | Apr 07 |
 | **[LENZ Therapeutics](https://lenz-tx.com/)** | **[Intern, Supply Chain Management](https://jobright.ai/jobs/info/69d59e1d706f771673ba46e6?utm_campaign=1050&utm_source=git)** | Solana Beach, CA | Hybrid | Apr 07 |
@@ -91,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb5cdb525785fbd1b29?utm_campaign=1050&utm_source=git)** | Tucson, Arizona | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb4891d7b11cfd02c65?utm_campaign=1050&utm_source=git)** | Peoria, Illinois | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb4cfdc6132f946317d?utm_campaign=1050&utm_source=git)** | Cary, North Carolina | On Site | Apr 07 |
-| ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3e63cea7a8b6621be?utm_campaign=1050&utm_source=git)** | Irving, Texas | On Site | Apr 07 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3891d7b11cfd02c58?utm_campaign=1050&utm_source=git)** | Seguin, Texas | On Site | Apr 07 |
+| ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/69d58bb3e63cea7a8b6621be?utm_campaign=1050&utm_source=git)** | Irving, Texas | On Site | Apr 07 |
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d5a76d706f771673ba49bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 07 |
 | **[Jonview](http://jonview.com/)** | **[Intern, Group Operations and Tour Director Administration](https://jobright.ai/jobs/info/69d5834fe63cea7a8b661e88?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 | **[Cossette](http://www.cossette.com)** | **[Chargé·e de produits (Stage)](https://jobright.ai/jobs/info/69d582d1cdb525785fbd17cb?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Intern- Indirect Category Leadership Team](https://jobright.ai/jobs/info/69d551a5891d7b11cfd00e6c?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Remote | Apr 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696576c45ad3a93f8230bb84?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern, Resource Management and Technology](https://jobright.ai/jobs/info/69d54ccf366bb95ba5543ebb?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management and Analytics](https://jobright.ai/jobs/info/69cd5c65cfdc6132f9417ef6?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Apr 07 |
-| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2027 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/69d54b46366bb95ba5543e04?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
-| **[LPGA](http://www.lpga.com)** | **[FM Championship Operations Intern (Boston, MA)](https://jobright.ai/jobs/info/69d54b30e63cea7a8b6600f2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Expeditors](http://www.expeditors.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69d549fce63cea7a8b6600d7?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
