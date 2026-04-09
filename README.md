@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6f6c648f0c8161d2fc178?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Apr 08 |
+| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Operations & Inventory Management Intern](https://jobright.ai/jobs/info/69d704d8e63cea7a8b66d7a2?utm_campaign=1050&utm_source=git)** | Oakland, NJ | On Site | Apr 08 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Summer Intern- Association Management](https://jobright.ai/jobs/info/69d704d2e63cea7a8b66d798?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Apr 08 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d7030b48f0c8161d2fc50f?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 08 |
+| **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d702a152a5bf580012d457?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 08 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d70299366bb95ba555115b?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Apr 08 |
+| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
+| ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69d6fb0f366bb95ba5550ffe?utm_campaign=1050&utm_source=git)** | Huntington, UT | On Site | Apr 08 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6faec706f771673baf1b5?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Apr 08 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Procurement & Supply Chain Intern](https://jobright.ai/jobs/info/69d6f959706f771673baf0ed?utm_campaign=1050&utm_source=git)** | San Luis Obispo | On Site | Apr 08 |
+| ↳ | **[Procurement & Supply Chain Intern](https://jobright.ai/jobs/info/69d6f8d6e63cea7a8b66d4e7?utm_campaign=1050&utm_source=git)** | Dcpp Warehouse - 4340 Old Santa Fe Rd | On Site | Apr 08 |
+| **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d6f8a4e63cea7a8b66d424?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69d6f557706f771673baef69?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
 | **[Match Retail](https://www.matchretail.com/)** | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d6e9b652a5bf580012cd7f?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Apr 08 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69d6e629e63cea7a8b66cf74?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howden](http://www.howdengroup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d69354366bb95ba554d737?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Apr 08 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Operations Intern](https://jobright.ai/jobs/info/69d69354366bb95ba554d73d?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Apr 08 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699e5f1ece78e77b4fe39136?utm_campaign=1050&utm_source=git)** | Middletown, DE | On Site | Apr 08 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2025 - 2026](https://jobright.ai/jobs/info/69d6934ecfdc6132f946abc4?utm_campaign=1050&utm_source=git)** | UT_Salt Lake City_223030 | On Site | Apr 08 |
-| **[Williams](https://www.williams.com)** | **[Operations Intern - Lackawanna](https://jobright.ai/jobs/info/6980eae0abff4c399a9fb730?utm_campaign=1050&utm_source=git)** | Hop Bottom, PA | On Site | Apr 08 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ccd93f891d7b11cfcb4850?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 08 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern - Summer 2026](https://jobright.ai/jobs/info/69d68ff8366bb95ba554d64a?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 08 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Finance - Operations Associate - Supply Chain Management](https://jobright.ai/jobs/info/69d6adfa706f771673bad238?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 08 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d488478b4502f12a3e8ee?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 08 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/69d68b70cfdc6132f946a9f0?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Program Management & Strategic Initiatives Intern, NYC](https://jobright.ai/jobs/info/69bb877806c1ba00c54dfd88?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
-| **[Match Retail](https://www.matchretail.com/)** | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d68a1f48f0c8161d2f8749?utm_campaign=1050&utm_source=git)** | CA-ON-Mississauga | Hybrid | Apr 08 |
-| ↳ | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d68a00366bb95ba554d3fa?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
