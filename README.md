@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7258252a5bf580012e3a6?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 08 |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69d722eecfdc6132f946f4e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d720cc52a5bf580012e08a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d720c852a5bf580012e078?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | **[Clearwater](https://clearwatercompliance.com/)** | **[Chief of Staff Graduate Intern](https://jobright.ai/jobs/info/69d71de3706f771673baff8d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
@@ -70,19 +72,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d7057e48f0c8161d2fc5bb?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 08 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Operations & Inventory Management Intern](https://jobright.ai/jobs/info/69d704d8e63cea7a8b66d7a2?utm_campaign=1050&utm_source=git)** | Oakland, NJ | On Site | Apr 08 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Summer Intern- Association Management](https://jobright.ai/jobs/info/69d704d2e63cea7a8b66d798?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Apr 08 |
+| **[Aflac](http://www.aflac.com)** | **[Executive Assistant III](https://jobright.ai/jobs/info/69d722f148f0c8161d2fd2cf?utm_campaign=1050&utm_source=git)** | Virginia, United States | Hybrid | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d7030b48f0c8161d2fc50f?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 08 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d702a152a5bf580012d457?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d70299366bb95ba555115b?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d720b7e63cea7a8b66e32e?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Apr 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f456?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f457?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 08 |
-| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
+| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d72c0c706f771673bb0694?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Apr 08 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69d6fb0f366bb95ba5550ffe?utm_campaign=1050&utm_source=git)** | Huntington, UT | On Site | Apr 08 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6faec706f771673baf1b5?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Apr 08 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Procurement & Supply Chain Intern](https://jobright.ai/jobs/info/69d6f959706f771673baf0ed?utm_campaign=1050&utm_source=git)** | San Luis Obispo | On Site | Apr 08 |
 | ↳ | **[Procurement & Supply Chain Intern](https://jobright.ai/jobs/info/69d6f8d6e63cea7a8b66d4e7?utm_campaign=1050&utm_source=git)** | Dcpp Warehouse - 4340 Old Santa Fe Rd | On Site | Apr 08 |
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d6f8a4e63cea7a8b66d424?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
+| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7268b52a5bf580012e3c3?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69d6f557706f771673baef69?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
 | **[Match Retail](https://www.matchretail.com/)** | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d6e9b652a5bf580012cd7f?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Apr 08 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69d6e629e63cea7a8b66cf74?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 08 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Continuous Improvement Intern - St. Croix, U.S.V.I.](https://jobright.ai/jobs/info/69d6dcaf48f0c8161d2fbabd?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Apr 08 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69d6dca1366bb95ba55506d4?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Clearwater](https://clearwatercompliance.com/)** | **[Chief of Staff Graduate Intern](https://jobright.ai/jobs/info/69d6dc8752a5bf580012c955?utm_campaign=1050&utm_source=git)** | Nashville,TN,US | On Site | Apr 08 |
-| **[PNC](http://www.pnc.com)** | **[Business Experience & Planning Specialist](https://jobright.ai/jobs/info/69d6db8252a5bf580012c826?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[ByteDance](http://bytedance.com)** | **[Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d6d86348f0c8161d2fb7e5?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69c1d71f75f7ff1cd8102dcf?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | On Site | Apr 08 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Program Analyst](https://jobright.ai/jobs/info/69d6d5a6366bb95ba555035e?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Wabash Valley Power Alliance](https://www.wvpa.com/)** | **[NineStar Connect - Executive Support Internship](https://jobright.ai/jobs/info/69d6c66852a5bf580012c04a?utm_campaign=1050&utm_source=git)** | 2243 E Main St, Greenfield, IN 46140, USA | Remote | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d374?utm_campaign=1050&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[Independence Health System](https://www.excelahealth.org)** | **[SUPPLY CHAIN ASSOCIATE- SUMMER INTERN- TEMPORARY](https://jobright.ai/jobs/info/69d6c65252a5bf580012bff6?utm_campaign=1050&utm_source=git)** | Greensburg, Pennsylvania, United States | On Site | Apr 08 |
-| **[PNC](http://www.pnc.com)** | **[Business Experience & Planning Specialist](https://jobright.ai/jobs/info/69d6c393e63cea7a8b66c150?utm_campaign=1050&utm_source=git)** | East Brunswick, NJ | On Site | Apr 08 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d6c222e63cea7a8b66c0eb?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Apr 08 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Lead Care Manager](https://jobright.ai/jobs/info/69d6c21d52a5bf580012be0b?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Apr 08 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d6c1fa706f771673badd52?utm_campaign=1050&utm_source=git)** | Tamarac, FL | On Site | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
 | **[Crazy Maple Studio](http://www.crazymaplestudios.com/)** | **[Project Assistant Intern (Mandarin)](https://jobright.ai/jobs/info/69d6c8d6cfdc6132f946d424?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 08 |
-| **[Faurecia](https://www.forvia.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6a89252a5bf580012af4b?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[CRE Intern](https://jobright.ai/jobs/info/69d6a6ee52a5bf580012ae64?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
-| **[PROJXON](www.projxon.com)** | **[Business Team Lead (Intern)](https://jobright.ai/jobs/info/69d6a57548f0c8161d2f929a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
