@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 04092026-76698](https://jobright.ai/jobs/info/69d74489e63cea7a8b67043e?utm_campaign=1050&utm_source=git)** | Rutherford County, TN | On Site | Apr 08 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/69d73c38950d1a0760b7d79a?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d73bf548f0c8161d2fef6b?utm_campaign=1050&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7258252a5bf580012e3a6?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 08 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69d722eecfdc6132f946f4e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/69d6bfea366bb95ba554f8d6?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 08 |
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[Summer 2026 Intern (Austin, TX)](https://jobright.ai/jobs/info/69d6bfdbe63cea7a8b66bb4e?utm_campaign=1050&utm_source=git)** | 9501 Amberglen Blvd , Austin, TX, 78729, US | On Site | Apr 08 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/69d6bfdb48f0c8161d2fac56?utm_campaign=1050&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Apr 08 |
-| **[CPC Pumps International](https://www.cpcpumps.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6bf0d52a5bf580012b787?utm_campaign=1050&utm_source=git)** | Burlington, ON | On Site | Apr 08 |
 | **[Chilliwack School District No. 33](https://sd33.bc.ca/)** | **[26-45 Administrative Assistant](https://jobright.ai/jobs/info/69d6d6db706f771673bae585?utm_campaign=1050&utm_source=git)** | Chilliwack, BC | On Site | Apr 08 |
 | **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Back Office Operations & Process Improvement Intern](https://jobright.ai/jobs/info/69d6b785366bb95ba554f3a4?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
 | ↳ | **[2026 Summer Internship - Recovery Operations & Project Coordination Intern](https://jobright.ai/jobs/info/69d6b76a706f771673bad4b1?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7648f0c8161d2fa215?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
-| **[Crazy Maple Studio](http://www.crazymaplestudios.com/)** | **[Project Assistant Intern (Mandarin)](https://jobright.ai/jobs/info/69d6c8d6cfdc6132f946d424?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
