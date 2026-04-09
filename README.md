@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c7366bb95ba5555f66?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 09 |
-| ↳ | **[Business Relationship Support Associate Manager - International, Bank, and Non-Bank Financial Institutions](https://jobright.ai/jobs/info/69d783c6950d1a0760b7fb38?utm_campaign=1050&utm_source=git)** | El Monte, CA | Hybrid | Apr 09 |
-| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f65?utm_campaign=1050&utm_source=git)** | Duncanville, TX | On Site | Apr 09 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Cascadia](https://jobright.ai/jobs/info/69d78b68706f771673bb440c?utm_campaign=1050&utm_source=git)** | Lynnwood, WA | On Site | Apr 09 |
+| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d78b5c48f0c8161d301594?utm_campaign=1050&utm_source=git)** | Springfield, OR | On Site | Apr 09 |
+| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d78b5c48f0c8161d301592?utm_campaign=1050&utm_source=git)** | Red Oak, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager Nome](https://jobright.ai/jobs/info/69d78b5b48f0c8161d301590?utm_campaign=1050&utm_source=git)** | Nome, AK | On Site | Apr 09 |
+| ↳ | **[Branch Manager North County LA District](https://jobright.ai/jobs/info/69d78b55e63cea7a8b67264c?utm_campaign=1050&utm_source=git)** | Lancaster, CA | On Site | Apr 09 |
+| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d78b3dcfdc6132f94738c8?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d78b3bcfdc6132f94738c3?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Apr 09 |
+| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d78b3bcfdc6132f94738c2?utm_campaign=1050&utm_source=git)** | Eugene, OR | On Site | Apr 09 |
+| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c7366bb95ba5555f66?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 09 |
 | ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f63?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | Apr 09 |
+| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f65?utm_campaign=1050&utm_source=git)** | Duncanville, TX | On Site | Apr 09 |
+| ↳ | **[Business Relationship Support Associate Manager - International, Bank, and Non-Bank Financial Institutions](https://jobright.ai/jobs/info/69d783c6950d1a0760b7fb38?utm_campaign=1050&utm_source=git)** | El Monte, CA | Hybrid | Apr 09 |
 | ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d783c5cfdc6132f94735c0?utm_campaign=1050&utm_source=git)** | Centerville, TX | On Site | Apr 09 |
 | ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c4cfdc6132f94735bb?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Apr 09 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d783c3cfdc6132f94735b9?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Apr 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIOTI Tractor](http://kioti.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d374?utm_campaign=1050&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[Independence Health System](https://www.excelahealth.org)** | **[SUPPLY CHAIN ASSOCIATE- SUMMER INTERN- TEMPORARY](https://jobright.ai/jobs/info/69d6c65252a5bf580012bff6?utm_campaign=1050&utm_source=git)** | Greensburg, Pennsylvania, United States | On Site | Apr 08 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d6c222e63cea7a8b66c0eb?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Apr 08 |
-| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Lead Care Manager](https://jobright.ai/jobs/info/69d6c21d52a5bf580012be0b?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Apr 08 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d6c1fa706f771673badd52?utm_campaign=1050&utm_source=git)** | Tamarac, FL | On Site | Apr 08 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69d6c1aa48f0c8161d2faf38?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Apr 08 |
-| **[Eastside Builders](www.eastside-builders.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69d6c085e63cea7a8b66bf7f?utm_campaign=1050&utm_source=git)** | Twin Cities Area | Hybrid | Apr 08 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Logistics Intern](https://jobright.ai/jobs/info/69d6c029366bb95ba554fa27?utm_campaign=1050&utm_source=git)** | Herndon, VA, US | On Site | Apr 08 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/69d6c01c48f0c8161d2fad42?utm_campaign=1050&utm_source=git)** | US-VA-Herndon | On Site | Apr 08 |
-| **[MAYEKAWA USA INC](http://mayekawausa.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6c010e63cea7a8b66bbb7?utm_campaign=1050&utm_source=git)** | Katy TX - Katy, TX 77494 | On Site | Apr 08 |
-| **[National Association of Home Builders](https://www.nahb.org)** | **[Meetings & Events Intern](https://jobright.ai/jobs/info/69d6bfeccfdc6132f946cb67?utm_campaign=1050&utm_source=git)** | Washington, DC, US | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
