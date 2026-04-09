@@ -57,6 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fordham University](https://www.fordham.edu/)** | **[AI Strategy & Operations Manager](https://jobright.ai/jobs/info/69bb265606c1ba00c54d9f2d?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffea881476f6176b9f6ed?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe74381476f6176b9b2aa?utm_campaign=1050&utm_source=git)** | Walnut, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffac3ce78e77b4fe60e22?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Apr 09 |
+| **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/69d7d4489f97a42dc9c1844e?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Apr 09 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support and Budget Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/699fdca653d97f23ee656227?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Apr 09 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699fa8d6d643757b0e452318?utm_campaign=1050&utm_source=git)** | Millbrae, CA | On Site | Apr 09 |
+| **[CN](http://www.cn.ca)** | **[Intern, Procurement and Supply Management - Indigenous- EN](https://jobright.ai/jobs/info/69d7d3e3b861c42857c46794?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688bb76e906ac06e1d1cda88?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Apr 09 |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Command Center- Aviation Logistics Intern](https://jobright.ai/jobs/info/69d7d342869c7e25d8591819?utm_campaign=1050&utm_source=git)** | Andover, MA | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688bb07a3a30793eb963c9a1?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 09 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Supply Chain Management -  Summer Intern](https://jobright.ai/jobs/info/69d7d0ccb67cec4f9b098063?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 09 |
+| **[Finastra](http://www.finastra.com/)** | **[Strategy, Analytics & PMO Support Intern](https://jobright.ai/jobs/info/69d7d0989f97a42dc9c17d0c?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Apr 09 |
+| **[UF Health](https://ufhealth.org/)** | **[Office of Advancement Summer 2026 Intern](https://jobright.ai/jobs/info/69d7d0879f97a42dc9c17ccf?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Apr 09 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Supply Chain Management -  Summer Intern](https://jobright.ai/jobs/info/69d7d0229f97a42dc9c17b94?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 09 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69d7cf70b67cec4f9b097a8c?utm_campaign=1050&utm_source=git)** | US-FL-Hollywood | On Site | Apr 09 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69d7cf679f97a42dc9c17819?utm_campaign=1050&utm_source=git)** | Hollywood, FL, US | On Site | Apr 09 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69bb0dac3b74eb1e2c896cf3?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 09 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff66281476f6176b9de46?utm_campaign=1050&utm_source=git)** | Flower Mound, TX | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fa93d81476f6176b96244?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe3f581476f6176b9a8a7?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffa8181476f6176b9ed2b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
+| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69b63b2356973837413b7785?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a87107758f2e4ac3ff2593?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Apr 09 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688bb20a1808534a89cb5229?utm_campaign=1050&utm_source=git)** | Stoughton, MA | On Site | Apr 09 |
+| ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961e77ba112b4026610660f?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68c42184e471ef3ce16d3d42?utm_campaign=1050&utm_source=git)** | Canton, MS | On Site | Apr 09 |
 | **[Directed](https://directedonline.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69d7c60d9f97a42dc9c17004?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[HarbisonWalker International](http://www.thinkHWI.com)** | **[Payroll Project Intern](https://jobright.ai/jobs/info/69d7c5faf4ea471a51fe07e0?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Business Enablement Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a8fba479f3f4037f439e7c?utm_campaign=1050&utm_source=git)** | Santa Isabel, CO | On Site | Apr 09 |
@@ -71,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern](https://jobright.ai/jobs/info/698280f50a9e07331f8d98eb?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Apr 09 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Department Administrative Assistant](https://jobright.ai/jobs/info/6983c033348f733a5c371087?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69c32c8094007a2195df7853?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68ca4aa006a34016008c6389?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Apr 09 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bb590f5697383741415c36?utm_campaign=1050&utm_source=git)** | SD Metro Area | Hybrid | Apr 09 |
 | **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d7b9b4738f2f099e896e29?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Apr 09 |
 | **[One Community Bank](https://www.onecommunity.bank)** | **[Special Project Intern](https://jobright.ai/jobs/info/69d7b99c738f2f099e896de6?utm_campaign=1050&utm_source=git)** | 5990 Hwy 51, McFarland, WI, USA | On Site | Apr 09 |
@@ -122,39 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Nome](https://jobright.ai/jobs/info/69d78b5b48f0c8161d301590?utm_campaign=1050&utm_source=git)** | Nome, AK | On Site | Apr 09 |
 | ↳ | **[Branch Manager North County LA District](https://jobright.ai/jobs/info/69d78b55e63cea7a8b67264c?utm_campaign=1050&utm_source=git)** | Lancaster, CA | On Site | Apr 09 |
 | ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d78b3dcfdc6132f94738c8?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d78b3bcfdc6132f94738c3?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Apr 09 |
 | ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d78b3bcfdc6132f94738c2?utm_campaign=1050&utm_source=git)** | Eugene, OR | On Site | Apr 09 |
+| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d78b3bcfdc6132f94738c3?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Apr 09 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Vancouver Office – Opportunities in Infrastructure, Capital Projects & Sustainability – Summer Intern – Summer 2027 Start](https://jobright.ai/jobs/info/69bb15905697383741410b71?utm_campaign=1050&utm_source=git)** | Vancouver, BC | On Site | Apr 09 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d7b9499f97a42dc9c16a58?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Apr 09 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Strategy & Operations](https://jobright.ai/jobs/info/699eb2dee0bddb6acacea6b0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69d7b8cef4ea471a51fe01ec?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 09 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - Mid Market Strategy & Transformation Intern](https://jobright.ai/jobs/info/69d7b468738f2f099e896a2a?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 09 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c7366bb95ba5555f66?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 09 |
-| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f63?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | Apr 09 |
-| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f65?utm_campaign=1050&utm_source=git)** | Duncanville, TX | On Site | Apr 09 |
-| ↳ | **[Business Relationship Support Associate Manager - International, Bank, and Non-Bank Financial Institutions](https://jobright.ai/jobs/info/69d783c6950d1a0760b7fb38?utm_campaign=1050&utm_source=git)** | El Monte, CA | Hybrid | Apr 09 |
-| ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d783c5cfdc6132f94735c0?utm_campaign=1050&utm_source=git)** | Centerville, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c4cfdc6132f94735bb?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Apr 09 |
-| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d783c3cfdc6132f94735b9?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Apr 09 |
-| ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d783c0cfdc6132f94735b5?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d783b7706f771673bb40f0?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783b6706f771673bb40e6?utm_campaign=1050&utm_source=git)** | Norwalk, CA | On Site | Apr 09 |
-| **[Berkeley Lab](https://newscenter.lbl.gov/)** | **[Administrative Assistant - Procurement](https://jobright.ai/jobs/info/69d7ac41f4ea471a51fdee3b?utm_campaign=1050&utm_source=git)** | Berkeley, CA | Hybrid | Apr 09 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d783a548f0c8161d301243?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d783a548f0c8161d301245?utm_campaign=1050&utm_source=git)** | Temple Terrace, FL | On Site | Apr 09 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Internship - LEAN](https://jobright.ai/jobs/info/69bb618006c1ba00c54dd8b1?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Apr 09 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d7832ae63cea7a8b672285?utm_campaign=1050&utm_source=git)** | Riverview, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Fairbanks](https://jobright.ai/jobs/info/69d78329e63cea7a8b672280?utm_campaign=1050&utm_source=git)** | North Pole, AK | On Site | Apr 09 |
-| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69d7b8fb9f97a42dc9c16a09?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Apr 09 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d7ada69f97a42dc9c158a4?utm_campaign=1050&utm_source=git)** | Bartow, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d7b460b861c42857c44c1c?utm_campaign=1050&utm_source=git)** | Cedar Hill, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager Central Coast District](https://jobright.ai/jobs/info/69d7b458738f2f099e8969e0?utm_campaign=1050&utm_source=git)** | Greenfield, CA | On Site | Apr 09 |
-| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d7b3fdf4ea471a51fdfe56?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 09 |
-| ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d7b46fb861c42857c44c5d?utm_campaign=1050&utm_source=git)** | Franklin, TX | On Site | Apr 09 |
-| ↳ | **[Branch Manager Greater Tampa Bay](https://jobright.ai/jobs/info/69d7b41ff4ea471a51fdfe96?utm_campaign=1050&utm_source=git)** | Palm Harbor, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Greater Tampa Bay](https://jobright.ai/jobs/info/69d7b474738f2f099e896a57?utm_campaign=1050&utm_source=git)** | New Port Richey, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Greater Tampa Bay](https://jobright.ai/jobs/info/69d7b45ab67cec4f9b096a0b?utm_campaign=1050&utm_source=git)** | Dunedin, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Fairbanks](https://jobright.ai/jobs/info/69d7b43eb861c42857c44b7e?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Apr 09 |
-| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d7b460b861c42857c44c1b?utm_campaign=1050&utm_source=git)** | Sun City Center, FL | On Site | Apr 09 |
-| ↳ | **[Branch Manager Central Coast District](https://jobright.ai/jobs/info/69d7b3bd9f97a42dc9c167a7?utm_campaign=1050&utm_source=git)** | Paso Robles, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
