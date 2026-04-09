@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d720cc52a5bf580012e08a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
+| **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/69d720c852a5bf580012e078?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
+| **[Clearwater](https://clearwatercompliance.com/)** | **[Chief of Staff Graduate Intern](https://jobright.ai/jobs/info/69d71de3706f771673baff8d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
+| **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69d71c95706f771673baff34?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 08 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69d71388366bb95ba555196c?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/69d70fa248f0c8161d2fc9f2?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Apr 08 |
 | **[Organon](https://www.organon.com)** | **[Summer Intern – North America Commercial Procurement](https://jobright.ai/jobs/info/69d70e44366bb95ba55515e0?utm_campaign=1050&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 08 |
@@ -69,6 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d7030b48f0c8161d2fc50f?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 08 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d702a152a5bf580012d457?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d70299366bb95ba555115b?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d720b7e63cea7a8b66e32e?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f456?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f457?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 08 |
 | **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69d6fb0f366bb95ba5550ffe?utm_campaign=1050&utm_source=git)** | Huntington, UT | On Site | Apr 08 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6faec706f771673baf1b5?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Apr 08 |
@@ -140,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
 | **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
+| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
+| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7648f0c8161d2fa215?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faurecia](https://www.forvia.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6a89252a5bf580012af4b?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[CRE Intern](https://jobright.ai/jobs/info/69d6a6ee52a5bf580012ae64?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[PROJXON](www.projxon.com)** | **[Business Team Lead (Intern)](https://jobright.ai/jobs/info/69d6a57548f0c8161d2f929a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Toyota Insurance](https://toyotaims.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d6a4f152a5bf580012a008?utm_campaign=1050&utm_source=git)** | Plano, Texas, United States | Hybrid | Apr 08 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Future Systems Project (International Student)](https://jobright.ai/jobs/info/69d6a4c9706f771673babec6?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 08 |
-| **[Aurion Biotech](https://aurionbiotech.com)** | **[Clinical Operations Intern, Documentation & Process Improvement](https://jobright.ai/jobs/info/69d6a4c9706f771673babec7?utm_campaign=1050&utm_source=git)** | Boston, Massachusetts or Dallas/Fort Worth, Texas Candidates Only | Hybrid | Apr 08 |
-| ↳ | **[Clinical Operations Intern, Documentation & Process Improvement](https://jobright.ai/jobs/info/69d6a4c5366bb95ba554ddff?utm_campaign=1050&utm_source=git)** | Fully Remote | Remote | Apr 08 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Future Systems Project (International Student)](https://jobright.ai/jobs/info/69d6a4b4366bb95ba554ddbb?utm_campaign=1050&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Apr 08 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern - Process Improvement](https://jobright.ai/jobs/info/69d6a498366bb95ba554dd4d?utm_campaign=1050&utm_source=git)** | CO - Denver 1401 Wynkoop | Hybrid | Apr 08 |
-| **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Recovery Operations & Project Coordination Intern](https://jobright.ai/jobs/info/69d6a43a706f771673babdc5?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Remote | Apr 08 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Management Team Secretary](https://jobright.ai/jobs/info/69d6c3a2e63cea7a8b66c15e?utm_campaign=1050&utm_source=git)** | Headquarters, KY | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
