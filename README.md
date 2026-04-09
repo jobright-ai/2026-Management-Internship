@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d702a152a5bf580012d457?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d70299366bb95ba555115b?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d720b7e63cea7a8b66e32e?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Apr 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f456?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f457?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 08 |
 | **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d72c0c706f771673bb0694?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Apr 08 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
