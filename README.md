@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6f6c648f0c8161d2fc178?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Apr 08 |
+| **[KIOTI Tractor](http://kioti.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69d6f557706f771673baef69?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
+| **[Match Retail](https://www.matchretail.com/)** | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d6e9b652a5bf580012cd7f?utm_campaign=1050&utm_source=git)** | Mississauga, ON | Hybrid | Apr 08 |
 | **[Warner Norcross + Judd](http://wnj.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/69d6e629e63cea7a8b66cf74?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 08 |
 | **[Schneider Electric](https://www.se.com)** | **[Intern - project coordinator](https://jobright.ai/jobs/info/69d6e4f5366bb95ba55509d1?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
 | ↳ | **[Intern - Project Manager](https://jobright.ai/jobs/info/69d6e4f0cfdc6132f946df75?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
 | **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
+| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
+| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7648f0c8161d2fa215?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Program Management & Strategic Initiatives Intern, NYC](https://jobright.ai/jobs/info/69bb877806c1ba00c54dfd88?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Match Retail](https://www.matchretail.com/)** | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d68a1f48f0c8161d2f8749?utm_campaign=1050&utm_source=git)** | CA-ON-Mississauga | Hybrid | Apr 08 |
 | ↳ | **[Program Coordinator Internship](https://jobright.ai/jobs/info/69d68a00366bb95ba554d3fa?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA | Hybrid | Apr 08 |
-| **[Young People's Alliance](https://youngpeoplesalliance.org/)** | **[Summer Operations & Development Associate](https://jobright.ai/jobs/info/69d689cbe63cea7a8b669704?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ce1fc4cfdc6132f9424e19?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Midland/Odessa, TX](https://jobright.ai/jobs/info/696788cf1703f05405a92b36?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
