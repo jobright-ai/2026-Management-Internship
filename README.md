@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69d71388366bb95ba555196c?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
+| **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/69d70fa248f0c8161d2fc9f2?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Apr 08 |
+| **[Organon](https://www.organon.com)** | **[Summer Intern – North America Commercial Procurement](https://jobright.ai/jobs/info/69d70e44366bb95ba55515e0?utm_campaign=1050&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 08 |
+| **[CBRE](https://www.cbre.com)** | **[2026 CBRE Facilities Intern](https://jobright.ai/jobs/info/69d70cd8cfdc6132f946eb1a?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Apr 08 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69d70a45366bb95ba555134b?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Apr 08 |
+| **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d707c3706f771673baf42d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 08 |
+| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d7057e48f0c8161d2fc5bb?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 08 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Operations & Inventory Management Intern](https://jobright.ai/jobs/info/69d704d8e63cea7a8b66d7a2?utm_campaign=1050&utm_source=git)** | Oakland, NJ | On Site | Apr 08 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Summer Intern- Association Management](https://jobright.ai/jobs/info/69d704d2e63cea7a8b66d798?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d7030b48f0c8161d2fc50f?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 08 |
@@ -74,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Intern - project coordinator](https://jobright.ai/jobs/info/69d6e4f5366bb95ba55509d1?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
 | ↳ | **[Intern - Project Manager](https://jobright.ai/jobs/info/69d6e4f0cfdc6132f946df75?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Summer Intern- Association Management](https://jobright.ai/jobs/info/69d6e28252a5bf580012cb0b?utm_campaign=1050&utm_source=git)** | Baton Rouge | On Site | Apr 08 |
+| **[State of Utah](http://www.utah.gov/)** | **[Administrative Secretary](https://jobright.ai/jobs/info/69d70e38cfdc6132f946eb63?utm_campaign=1050&utm_source=git)** | Murray, UT | On Site | Apr 08 |
 | **[MAYEKAWA USA INC](http://mayekawausa.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6dee0706f771673bae943?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Apr 08 |
+| **[Henkel](http://www.henkel.com)** | **[Procurement Intern – Summer - Fall 2026](https://jobright.ai/jobs/info/69d4371854f00230c6d2f06f?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Apr 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d6dcde366bb95ba5550744?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Apr 08 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/69d6dcdb366bb95ba5550739?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 08 |
 | **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Continuous Improvement Intern - St. Croix, U.S.V.I.](https://jobright.ai/jobs/info/69d6dcaf48f0c8161d2fbabd?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Apr 08 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Process Improvement](https://jobright.ai/jobs/info/69d6a498366bb95ba554dd4d?utm_campaign=1050&utm_source=git)** | CO - Denver 1401 Wynkoop | Hybrid | Apr 08 |
 | **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Recovery Operations & Project Coordination Intern](https://jobright.ai/jobs/info/69d6a43a706f771673babdc5?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Remote | Apr 08 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Management Team Secretary](https://jobright.ai/jobs/info/69d6c3a2e63cea7a8b66c15e?utm_campaign=1050&utm_source=git)** | Headquarters, KY | On Site | Apr 08 |
-| **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Back Office Operations & Process Improvement Intern](https://jobright.ai/jobs/info/69d6a33ecfdc6132f946b13c?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Remote | Apr 08 |
-| **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Supply Chain Intern, PATTERN](https://jobright.ai/jobs/info/69d6a0d652a5bf5800129de6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
-| **[MAHLE](https://www.mahle.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69c5891fe565c26a70011ee5?utm_campaign=1050&utm_source=git)** | Lockport, NY | On Site | Apr 08 |
-| **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69bc6a8845e08b3dc1f91745?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 08 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69d69f4e706f771673babc5e?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Apr 08 |
-| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/69d69832e63cea7a8b669d52?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 08 |
-| **[Howden](http://www.howdengroup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d69354366bb95ba554d737?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Apr 08 |
-| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Operations Intern](https://jobright.ai/jobs/info/69d69354366bb95ba554d73d?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Apr 08 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699e5f1ece78e77b4fe39136?utm_campaign=1050&utm_source=git)** | Middletown, DE | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
