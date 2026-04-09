@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of Tennessee](https://www.tn.gov/)** | **[SECRETARY - 04092026-76698](https://jobright.ai/jobs/info/69d74489e63cea7a8b67043e?utm_campaign=1050&utm_source=git)** | Rutherford County, TN | On Site | Apr 08 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Assistant Community Manager - Avant at Steele Creek](https://jobright.ai/jobs/info/69d759cf950d1a0760b7e7f0?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Apr 09 |
+| **[DEMDACO](https://www.demdaco.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7540ce63cea7a8b670cad?utm_campaign=1050&utm_source=git)** | Leawood, KS | On Site | Apr 09 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d74cd4e63cea7a8b670653?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/69d74cb7706f771673bb2482?utm_campaign=1050&utm_source=git)** | Lebanon, PA, US | On Site | Apr 08 |
+| **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Program](https://jobright.ai/jobs/info/69d74c9c48f0c8161d2ff624?utm_campaign=1050&utm_source=git)** | Snow Mountain Ranch - Granby, CO 80446 | On Site | Apr 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/69d73c38950d1a0760b7d79a?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d73bf548f0c8161d2fef6b?utm_campaign=1050&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7258252a5bf580012e3a6?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 08 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
 | **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f706f771673bad058?utm_campaign=1050&utm_source=git)** | Seattle, Washington, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7648f0c8161d2fa215?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac6a366bb95ba554eec5?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Apr 08 |
-| ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac69cfdc6132f946c393?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Apr 08 |
+| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
