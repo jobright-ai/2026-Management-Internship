@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c7366bb95ba5555f66?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 09 |
+| ↳ | **[Business Relationship Support Associate Manager - International, Bank, and Non-Bank Financial Institutions](https://jobright.ai/jobs/info/69d783c6950d1a0760b7fb38?utm_campaign=1050&utm_source=git)** | El Monte, CA | Hybrid | Apr 09 |
+| ↳ | **[Branch Manager Central and South Dallas District](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f65?utm_campaign=1050&utm_source=git)** | Duncanville, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c6366bb95ba5555f63?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | Apr 09 |
+| ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d783c5cfdc6132f94735c0?utm_campaign=1050&utm_source=git)** | Centerville, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783c4cfdc6132f94735bb?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Apr 09 |
+| ↳ | **[Branch Manager](https://jobright.ai/jobs/info/69d783c3cfdc6132f94735b9?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Apr 09 |
+| ↳ | **[Associate Operations Processor](https://jobright.ai/jobs/info/69d783c0cfdc6132f94735b5?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager Bryan College Station](https://jobright.ai/jobs/info/69d783b7706f771673bb40f0?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Apr 09 |
+| ↳ | **[Branch Manager - Greater Long Beach](https://jobright.ai/jobs/info/69d783b6706f771673bb40e6?utm_campaign=1050&utm_source=git)** | Norwalk, CA | On Site | Apr 09 |
+| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d783a548f0c8161d301245?utm_campaign=1050&utm_source=git)** | Temple Terrace, FL | On Site | Apr 09 |
+| ↳ | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d783a548f0c8161d301243?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
+| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Internship - LEAN](https://jobright.ai/jobs/info/69bb618006c1ba00c54dd8b1?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Apr 09 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager East Hillsborough Polk](https://jobright.ai/jobs/info/69d7832ae63cea7a8b672285?utm_campaign=1050&utm_source=git)** | Riverview, FL | On Site | Apr 09 |
+| ↳ | **[Branch Manager Fairbanks](https://jobright.ai/jobs/info/69d78329e63cea7a8b672280?utm_campaign=1050&utm_source=git)** | North Pole, AK | On Site | Apr 09 |
 | **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[Branch Manager Trainee Section Manager](https://jobright.ai/jobs/info/69d7601148f0c8161d3001d1?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Apr 09 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Program Manager (Test and Evaluation)](https://jobright.ai/jobs/info/69d75fcecfdc6132f947247a?utm_campaign=1050&utm_source=git)** | Hurlburt Field, FL | On Site | Apr 09 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Assistant Community Manager - Avant at Steele Creek](https://jobright.ai/jobs/info/69d759cf950d1a0760b7e7f0?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Apr 09 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/69d6c01c48f0c8161d2fad42?utm_campaign=1050&utm_source=git)** | US-VA-Herndon | On Site | Apr 08 |
 | **[MAYEKAWA USA INC](http://mayekawausa.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6c010e63cea7a8b66bbb7?utm_campaign=1050&utm_source=git)** | Katy TX - Katy, TX 77494 | On Site | Apr 08 |
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Meetings & Events Intern](https://jobright.ai/jobs/info/69d6bfeccfdc6132f946cb67?utm_campaign=1050&utm_source=git)** | Washington, DC, US | On Site | Apr 08 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/69d6bfea366bb95ba554f8d6?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 08 |
-| **[ODP Business Solutions](https://odpbusiness.com)** | **[Summer 2026 Intern (Austin, TX)](https://jobright.ai/jobs/info/69d6bfdbe63cea7a8b66bb4e?utm_campaign=1050&utm_source=git)** | 9501 Amberglen Blvd , Austin, TX, 78729, US | On Site | Apr 08 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/69d6bfdb48f0c8161d2fac56?utm_campaign=1050&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Apr 08 |
-| **[Chilliwack School District No. 33](https://sd33.bc.ca/)** | **[26-45 Administrative Assistant](https://jobright.ai/jobs/info/69d6d6db706f771673bae585?utm_campaign=1050&utm_source=git)** | Chilliwack, BC | On Site | Apr 08 |
-| **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Back Office Operations & Process Improvement Intern](https://jobright.ai/jobs/info/69d6b785366bb95ba554f3a4?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
-| ↳ | **[2026 Summer Internship - Recovery Operations & Project Coordination Intern](https://jobright.ai/jobs/info/69d6b76a706f771673bad4b1?utm_campaign=1050&utm_source=git)** | New Castle County, DE | Remote | Apr 08 |
-| **[Sonoma Stompers Baseball Club](https://www.stompersbaseball.com/)** | **[Baseball & Stadium Operations Intern](https://jobright.ai/jobs/info/69d6b723706f771673bad451?utm_campaign=1050&utm_source=git)** | Sonoma, CA | On Site | Apr 08 |
-| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69d6b6ed52a5bf580012b482?utm_campaign=1050&utm_source=git)** | Austell, GA | On Site | Apr 08 |
-| **[Stantec](http://www.stantec.com)** | **[Project Coordinator](https://jobright.ai/jobs/info/69d6d248706f771673bae410?utm_campaign=1050&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
-| **[TDECU](https://www.tdecu.org/)** | **[Intern - Graduate](https://jobright.ai/jobs/info/69cc8106cfdc6132f940daa5?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Operations Specialist (Process & Controls)](https://jobright.ai/jobs/info/69d6d160cfdc6132f946d774?utm_campaign=1050&utm_source=git)** | Slidell, LA | On Site | Apr 08 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern - Process Improvement](https://jobright.ai/jobs/info/69d6d15248f0c8161d2fb56a?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | Hybrid | Apr 08 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
-| **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
