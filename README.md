@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[Branch Manager Trainee Section Manager](https://jobright.ai/jobs/info/69d7601148f0c8161d3001d1?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Apr 09 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Program Manager (Test and Evaluation)](https://jobright.ai/jobs/info/69d75fcecfdc6132f947247a?utm_campaign=1050&utm_source=git)** | Hurlburt Field, FL | On Site | Apr 09 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Assistant Community Manager - Avant at Steele Creek](https://jobright.ai/jobs/info/69d759cf950d1a0760b7e7f0?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Apr 09 |
-| **[DEMDACO](https://www.demdaco.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7540ce63cea7a8b670cad?utm_campaign=1050&utm_source=git)** | Leawood, KS | On Site | Apr 09 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d74cd4e63cea7a8b670653?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/69d74cb7706f771673bb2482?utm_campaign=1050&utm_source=git)** | Lebanon, PA, US | On Site | Apr 08 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[Intern - Program](https://jobright.ai/jobs/info/69d74c9c48f0c8161d2ff624?utm_campaign=1050&utm_source=git)** | Snow Mountain Ranch - Granby, CO 80446 | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69d6adea48f0c8161d2fa3f9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 08 |
 | **[MooreCo Inc.](http://moorecoinc.com)** | **[Logistics Intern (Part Time)](https://jobright.ai/jobs/info/69d6ac9de63cea7a8b66b3cf?utm_campaign=1050&utm_source=git)** | 2885 Lorraine Ave - Temple, Temple, TX, US | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69d6ac7f52a5bf580012b0ff?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
