@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d73bf548f0c8161d2fef6b?utm_campaign=1050&utm_source=git)** | Montgomery, AL | Hybrid | Apr 08 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7258252a5bf580012e3a6?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 08 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/69d722eecfdc6132f946f4e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d720cc52a5bf580012e08a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d702a152a5bf580012d457?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69d70299366bb95ba555115b?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d720b7e63cea7a8b66e32e?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Apr 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f456?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f458?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Apr 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f456?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Apr 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69d72065cfdc6132f946f457?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 08 |
 | **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d72c0c706f771673bb0694?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Apr 08 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d6fb6248f0c8161d2fc341?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Apr 08 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[US Foods](https://www.usfoods.com)** | **[Operations Intern - Stock Yards](https://jobright.ai/jobs/info/69d6cc7ecfdc6132f946d49a?utm_campaign=1050&utm_source=git)** | Greensburg PA | On Site | Apr 08 |
 | **[Organon](https://www.organon.com)** | **[Summer Intern – North America Commercial Procurement](https://jobright.ai/jobs/info/69d6cc7a706f771673bae0b3?utm_campaign=1050&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | Hybrid | Apr 08 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/69d6cc6ce63cea7a8b66c43c?utm_campaign=1050&utm_source=git)** | Fort Myers, FL 33916 | On Site | Apr 08 |
-| **[PNC](http://www.pnc.com)** | **[Business Experience & Planning Specialist](https://jobright.ai/jobs/info/69d6c8e048f0c8161d2fb21a?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 08 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69d40886cdb525785fbc592c?utm_campaign=1050&utm_source=git)** | Osseo, MN | On Site | Apr 08 |
 | **[US Foods](https://www.usfoods.com)** | **[Operations Intern - Stock Yards](https://jobright.ai/jobs/info/69d6c8a752a5bf580012c144?utm_campaign=1050&utm_source=git)** | Greensburg, PA | On Site | Apr 08 |
 | **[PNC](http://www.pnc.com)** | **[Business Experience & Planning Specialist](https://jobright.ai/jobs/info/69d6c88de63cea7a8b66c3c7?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 08 |
