@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WestCoast Children's Clinic](https://www.westcoastcc.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69d845cd738f2f099e89bb31?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Apr 09 |
+| **[Options For All](http://optionsforall.org)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69d84578b861c42857c49a99?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
+| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Undergraduate Student Internship- Administrative Assistant](https://jobright.ai/jobs/info/69d84447738f2f099e89ba78?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Apr 09 |
+| **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Facility Operations Specialist/Data Support Fellowship](https://jobright.ai/jobs/info/69d84429b67cec4f9b09ba4a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69d843e3f4ea471a51fe4db5?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 09 |
+| **[Burke County Public Health](https://www.burkenc.org/1221/Health-Department)** | **[Administrative Support I #51116](https://jobright.ai/jobs/info/69d84244869c7e25d8594a02?utm_campaign=1050&utm_source=git)** | Morganton, NC | On Site | Apr 09 |
+| **[Purpose Financial](https://havepurpose.com/)** | **[Business Operations Intern (Temporary)](https://jobright.ai/jobs/info/69d8409e738f2f099e89b92a?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 09 |
+| **[Sheridan College](https://www.sheridan.edu)** | **[(Student Position) Financial Aid Office Assistant](https://jobright.ai/jobs/info/69d84081738f2f099e89b8f5?utm_campaign=1050&utm_source=git)** | Sheridan County, KS | On Site | Apr 09 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/69d837d0869c7e25d85947df?utm_campaign=1050&utm_source=git)** | Portland, OR US | Hybrid | Apr 09 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Meeting & Events Intern, Kohler Hospitality](https://jobright.ai/jobs/info/69d83768869c7e25d8594758?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 09 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Summer Internships](https://jobright.ai/jobs/info/69d83743b861c42857c49731?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 09 |
@@ -121,40 +129,32 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d80965738f2f099e89a10f?utm_campaign=1050&utm_source=git)** | Pueblo, CO | On Site | Apr 09 |
 | **[Circular Services](https://circularservices.com)** | **[Strategic Operations Intern](https://jobright.ai/jobs/info/69d8090ef4ea471a51fe3152?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Apr 09 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69d80901869c7e25d8592e4a?utm_campaign=1050&utm_source=git)** | Rosemead, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff6e6ce78e77b4fe602e2?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff2dcce78e77b4fe5f7fb?utm_campaign=1050&utm_source=git)** | Pinellas Park, FL | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff4bace78e77b4fe5fb9a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff87ace78e77b4fe60658?utm_campaign=1050&utm_source=git)** | Buena Park, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffedece78e77b4fe619d1?utm_campaign=1050&utm_source=git)** | Woodland, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff87ace78e77b4fe60658?utm_campaign=1050&utm_source=git)** | Buena Park, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00ac0ce78e77b4fe63052?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff6e6ce78e77b4fe602e2?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff4bace78e77b4fe5fb9a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699faca5d643757b0e452b16?utm_campaign=1050&utm_source=git)** | Denham Springs, LA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fa459d643757b0e45184b?utm_campaign=1050&utm_source=git)** | Council Bluffs, IA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fea6453d97f23ee6579b5?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff08453d97f23ee65849b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00be853d97f23ee65b9dd?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a003a653d97f23ee65a6d3?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fad3581476f6176b9665f?utm_campaign=1050&utm_source=git)** | Bernalillo, NM | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fea6453d97f23ee6579b5?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff08453d97f23ee65849b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699febf281476f6176b9c05f?utm_campaign=1050&utm_source=git)** | San Juan Capistrano, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fb33581476f6176b96c4b?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffe1b81476f6176b9f692?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffdd381476f6176b9f65e?utm_campaign=1050&utm_source=git)** | Chester, VA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe5fd81476f6176b9af97?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffda681476f6176b9f636?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fe5fd81476f6176b9af97?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fb03a81476f6176b96952?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffdd381476f6176b9f65e?utm_campaign=1050&utm_source=git)** | Chester, VA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffe1b81476f6176b9f692?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fad3581476f6176b9665f?utm_campaign=1050&utm_source=git)** | Bernalillo, NM | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fb33581476f6176b96c4b?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a003a3ce78e77b4fe62718?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff64a53d97f23ee658e84?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff14d53d97f23ee6585cd?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffa7553d97f23ee659666?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00ccd53d97f23ee65bc4f?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff1a053d97f23ee658635?utm_campaign=1050&utm_source=git)** | McAllen, TX | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff854ce78e77b4fe60633?utm_campaign=1050&utm_source=git)** | Decatur, TX | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffca353d97f23ee659c0a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a007f6ce78e77b4fe62d5d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a00ccd53d97f23ee65bc4f?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Apr 09 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff14d53d97f23ee6585cd?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fbf79ce78e77b4fe5a426?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699feee553d97f23ee65821a?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699e60dece78e77b4fe39459?utm_campaign=1050&utm_source=git)** | Bowie, MD | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/69a003a653d97f23ee65a6d2?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff24253d97f23ee658743?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699fae77d643757b0e452eab?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ffae853d97f23ee659729?utm_campaign=1050&utm_source=git)** | Kingman, AZ | On Site | Apr 09 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/699ff23553d97f23ee658724?utm_campaign=1050&utm_source=git)** | Gardner, KS | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
