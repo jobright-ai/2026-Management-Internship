@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Apr 10 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Supply Chain Intern - Sourcing & Supply Continuity](https://jobright.ai/jobs/info/69c5a5f41818a24cd84b905f?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
+| **[OOCL](https://www.oocl.com)** | **[Operations Specialist Intern](https://jobright.ai/jobs/info/69d9a15c5356a60f40fdb386?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | Apr 10 |
+| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/69c70628e565c26a700251fb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 10 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Operations Specialist Intern](https://jobright.ai/jobs/info/69d997d2738f2f099e8a29f2?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, South Jordan, UT, US | On Site | Apr 10 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Facility Operations Specialist/Data Support Fellowship](https://jobright.ai/jobs/info/69d993b65356a60f40fda720?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 10 |
 | **[PROJXON](www.projxon.com)** | **[PMO Intern (Program Management Officer)](https://jobright.ai/jobs/info/69d993615356a60f40fda643?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, ON | On Site | Apr 10 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, ON | On Site | Apr 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be90?utm_campaign=1050&utm_source=git)** | Winnipeg, MB | On Site | Apr 10 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e4738f2f099e8a26b2?utm_campaign=1050&utm_source=git)** | Whitby, ON | On Site | Apr 10 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4b3?utm_campaign=1050&utm_source=git)** | Cambridge, ON | On Site | Apr 10 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, ON | On Site | Apr 10 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, ON | On Site | Apr 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4ae?utm_campaign=1050&utm_source=git)** | Ottawa, ON | On Site | Apr 10 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4b3?utm_campaign=1050&utm_source=git)** | Cambridge, ON | On Site | Apr 10 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e4738f2f099e8a26b2?utm_campaign=1050&utm_source=git)** | Whitby, ON | On Site | Apr 10 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, ON | On Site | Apr 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990d6869c7e25d859b8de?utm_campaign=1050&utm_source=git)** | Stoney Creek, ON | On Site | Apr 10 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
 | **[Dalhousie University](http://www.dal.ca/)** | **[Administrative Coordinator & Executive Assistant](https://jobright.ai/jobs/info/69d990b4b67cec4f9b0a2a48?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Apr 10 |
@@ -126,35 +130,31 @@ For a complete list, click the following sortable link below:
 | **[Xylem](https://heimplanet.com/)** | **[Project Management & Data Analytics Intern (Opportunity Management Process & Net Promoter Score)](https://jobright.ai/jobs/info/69d94a305356a60f40fd8c71?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/699fb295ce78e77b4fe59743?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA | On Site | Apr 10 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[ISO North America Alliances Intern](https://jobright.ai/jobs/info/69a793a72672cb0acb4c08c5?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Apr 10 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbd?utm_campaign=1050&utm_source=git)** | Petaluma | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bca?utm_campaign=1050&utm_source=git)** | Clovis | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd3?utm_campaign=1050&utm_source=git)** | Hinkley | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd6?utm_campaign=1050&utm_source=git)** | Ridgecrest | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc4?utm_campaign=1050&utm_source=git)** | Rocklin | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd2?utm_campaign=1050&utm_source=git)** | Fresno | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc3?utm_campaign=1050&utm_source=git)** | Millbrae | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc5?utm_campaign=1050&utm_source=git)** | Canyondam | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc9?utm_campaign=1050&utm_source=git)** | Watsonville | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc7?utm_campaign=1050&utm_source=git)** | Winters | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc0?utm_campaign=1050&utm_source=git)** | Benicia | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bcb?utm_campaign=1050&utm_source=git)** | Auberry | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc6?utm_campaign=1050&utm_source=git)** | Buttonwillow | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd5?utm_campaign=1050&utm_source=git)** | Alameda | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bcf?utm_campaign=1050&utm_source=git)** | Shaver Lake | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbe?utm_campaign=1050&utm_source=git)** | Daly City | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbc?utm_campaign=1050&utm_source=git)** | Half Moon Bay | Hybrid | Apr 10 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bca?utm_campaign=1050&utm_source=git)** | Clovis | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd7?utm_campaign=1050&utm_source=git)** | Lower Lake | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd8?utm_campaign=1050&utm_source=git)** | Belmont | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc2?utm_campaign=1050&utm_source=git)** | West Sacramento | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc4?utm_campaign=1050&utm_source=git)** | Rocklin | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd6?utm_campaign=1050&utm_source=git)** | Ridgecrest | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd5?utm_campaign=1050&utm_source=git)** | Alameda | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd4?utm_campaign=1050&utm_source=git)** | Bakersfield | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd3?utm_campaign=1050&utm_source=git)** | Hinkley | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbc?utm_campaign=1050&utm_source=git)** | Half Moon Bay | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc5?utm_campaign=1050&utm_source=git)** | Canyondam | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc3?utm_campaign=1050&utm_source=git)** | Millbrae | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbd?utm_campaign=1050&utm_source=git)** | Petaluma | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bce?utm_campaign=1050&utm_source=git)** | Sacramento | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1062?utm_campaign=1050&utm_source=git)** | Avila Beach | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1059?utm_campaign=1050&utm_source=git)** | Calistoga | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1050?utm_campaign=1050&utm_source=git)** | Dinuba | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a105a?utm_campaign=1050&utm_source=git)** | Modesto | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1061?utm_campaign=1050&utm_source=git)** | Ukiah | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bcf?utm_campaign=1050&utm_source=git)** | Shaver Lake | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd8?utm_campaign=1050&utm_source=git)** | Belmont | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bbe?utm_campaign=1050&utm_source=git)** | Daly City | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc7?utm_campaign=1050&utm_source=git)** | Winters | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc9?utm_campaign=1050&utm_source=git)** | Watsonville | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bcb?utm_campaign=1050&utm_source=git)** | Auberry | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bd2?utm_campaign=1050&utm_source=git)** | Fresno | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc0?utm_campaign=1050&utm_source=git)** | Benicia | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d949915356a60f40fd8bc6?utm_campaign=1050&utm_source=git)** | Buttonwillow | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1056?utm_campaign=1050&utm_source=git)** | Bellota | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1063?utm_campaign=1050&utm_source=git)** | Magalia | Hybrid | Apr 10 |
+| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1054?utm_campaign=1050&utm_source=git)** | Vallejo | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1060?utm_campaign=1050&utm_source=git)** | South San Francisco | Hybrid | Apr 10 |
 | ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a105b?utm_campaign=1050&utm_source=git)** | Santa Maria | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a105c?utm_campaign=1050&utm_source=git)** | Oroville | Hybrid | Apr 10 |
-| ↳ | **[Strategic Sourcing(Procurement)Intern](https://jobright.ai/jobs/info/69d9498db67cec4f9b0a1063?utm_campaign=1050&utm_source=git)** | Magalia | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
