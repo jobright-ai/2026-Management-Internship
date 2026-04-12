@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a8936279f3f4037f4283eb?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Apr 12 |
+| **[Magna International](http://www.magna.com/)** | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 12 |
+| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[External Logistics Intern](https://jobright.ai/jobs/info/69ab9ec52747003c3d5128cf?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 12 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a258c80da45516f16b9c90?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
+| **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69be11c2482822729300c4ed?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | **[Almo Corporation](http://www.almo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a269660da45516f16bb057?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/69a251a4b600907a96289abc?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 12 |
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69af8a177495006450940779?utm_campaign=1050&utm_source=git)** | Goodland, KS | On Site | Apr 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da2383738f2f099e8a7eb7?utm_campaign=1050&utm_source=git)** | Tamaqua, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da233bf748bc5d08a51629?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 11 |
 | **[Aarding](https://www.cecoenviro.com/peerless-aarding)** | **[Project Manager](https://jobright.ai/jobs/info/69d9ddb2b67cec4f9b0a55a4?utm_campaign=1050&utm_source=git)** | Elma, NY | Hybrid | Apr 11 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc22?utm_campaign=1050&utm_source=git)** | Lake Stevens, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc21?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc1a?utm_campaign=1050&utm_source=git)** | Stanwood, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc19?utm_campaign=1050&utm_source=git)** | Frackville, PA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22df9f97a42dc9c27915?utm_campaign=1050&utm_source=git)** | Marysville, WA | On Site | Apr 11 |
-| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Summer Intern 2026-Supply Chain-Materials & Scheduling](https://jobright.ai/jobs/info/69bdac164828227293ffed23?utm_campaign=1050&utm_source=git)** | Butler, IN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
