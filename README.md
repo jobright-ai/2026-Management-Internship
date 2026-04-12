@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69a2b707359fe034b1ce12e7?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager El Paso](https://jobright.ai/jobs/info/69db72095356a60f40fe6acb?utm_campaign=1050&utm_source=git)** | Anthony, NM | On Site | Apr 12 |
+| ↳ | **[Branch Manager El Paso](https://jobright.ai/jobs/info/69db72079f97a42dc9c2ed19?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Apr 12 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Planning & Business Analysis Intern](https://jobright.ai/jobs/info/69a29c6b359fe034b1cde982?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 12 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Hospitality Intern - Summer and Fall](https://jobright.ai/jobs/info/69be65044828227293013c3f?utm_campaign=1050&utm_source=git)** | St Helena, CA | On Site | Apr 12 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Operations Intern -Data Analytics](https://jobright.ai/jobs/info/69db6498869c7e25d85a7dd1?utm_campaign=1050&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 12 |
 | **[Continental](https://www.continental.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69db55fc869c7e25d85a7c21?utm_campaign=1050&utm_source=git)** | Auburn, IN | On Site | Apr 12 |
 | **[MacDermid Alpha Electronics Solutions](https://www.macdermidalpha.com)** | **[Continous Improvement (CI) Intern](https://jobright.ai/jobs/info/69c33023ec22f8310ab16590?utm_campaign=1050&utm_source=git)** | Itasca, IL | On Site | Apr 12 |
@@ -137,24 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da2383738f2f099e8a7eb7?utm_campaign=1050&utm_source=git)** | Tamaqua, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da233bf748bc5d08a51629?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 11 |
 | **[Aarding](https://www.cecoenviro.com/peerless-aarding)** | **[Project Manager](https://jobright.ai/jobs/info/69d9ddb2b67cec4f9b0a55a4?utm_campaign=1050&utm_source=git)** | Elma, NY | Hybrid | Apr 11 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc22?utm_campaign=1050&utm_source=git)** | Lake Stevens, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc21?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Apr 11 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc21?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Apr 11 |
+| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc22?utm_campaign=1050&utm_source=git)** | Lake Stevens, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc1a?utm_campaign=1050&utm_source=git)** | Stanwood, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc19?utm_campaign=1050&utm_source=git)** | Frackville, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22df9f97a42dc9c27915?utm_campaign=1050&utm_source=git)** | Marysville, WA | On Site | Apr 11 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Summer Intern 2026-Supply Chain-Materials & Scheduling](https://jobright.ai/jobs/info/69bdac164828227293ffed23?utm_campaign=1050&utm_source=git)** | Butler, IN | On Site | Apr 11 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fca?utm_campaign=1050&utm_source=git)** | Belmont, NC | On Site | Apr 11 |
-| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fc9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fc9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fca?utm_campaign=1050&utm_source=git)** | Belmont, NC | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Northern District](https://jobright.ai/jobs/info/69da2179869c7e25d85a0fa0?utm_campaign=1050&utm_source=git)** | Anacortes, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Eau Claire Westgate WI](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7f?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7d?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Apr 11 |
+| ↳ | **[Branch Manager Eau Claire Westgate WI](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7f?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da1ebf9f97a42dc9c278ad?utm_campaign=1050&utm_source=git)** | Mount Vernon, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da1eb09f97a42dc9c2789e?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Apr 11 |
-| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da1ea9738f2f099e8a7e1a?utm_campaign=1050&utm_source=git)** | Mount Holly, NC | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Northern District](https://jobright.ai/jobs/info/69da1ea6b67cec4f9b0a7fb3?utm_campaign=1050&utm_source=git)** | Oak Harbor, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da1e9b738f2f099e8a7df7?utm_campaign=1050&utm_source=git)** | Trexlertown, PA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da1e96f748bc5d08a51559?utm_campaign=1050&utm_source=git)** | Freeland, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager- Brandywine District- PA](https://jobright.ai/jobs/info/69da1e96b67cec4f9b0a7faa?utm_campaign=1050&utm_source=git)** | Thorndale, PA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da1e8cb67cec4f9b0a7f76?utm_campaign=1050&utm_source=git)** | Gastonia, NC | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da1e4d5356a60f40fdfb85?utm_campaign=1050&utm_source=git)** | Schnecksville, PA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
