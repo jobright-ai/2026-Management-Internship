@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Private](https://bostonprivatebank.com)** | **[Manager, Golden State Sports Academy [Internal]](https://jobright.ai/jobs/info/69dbfdde9f97a42dc9c2faaa?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
+| **[Fresno Economic Opportunities Commission (Fresno EOC)](https://fresnoeoc.org/)** | **[Chief Financial Officer](https://jobright.ai/jobs/info/69dbfc29b67cec4f9b0afe16?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 12 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Master Scheduling Intern](https://jobright.ai/jobs/info/69dbfc10869c7e25d85a8bb0?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Apr 12 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Operations Intern - Summer '26](https://jobright.ai/jobs/info/68c232764d652f044775dc7b?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69bde322393a1008f743b799?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
+| **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, Rifle](https://jobright.ai/jobs/info/69dbfc3db67cec4f9b0afe57?utm_campaign=1050&utm_source=git)** | Rifle, CO | On Site | Apr 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Logistics Intern](https://jobright.ai/jobs/info/698609eb0f6f7e7a2ce0eaf2?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Apr 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - VA/DC](https://jobright.ai/jobs/info/69c8c31be565c26a70030e53?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Apr 12 |
 | **[Almo Corporation](http://www.almo.com)** | **[Operations Coordination Intern](https://jobright.ai/jobs/info/69b726c906c1ba00c548e812?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69bea291393a1008f7448423?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Apr 12 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69db8d52b67cec4f9b0af215?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 12 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | **[Richemont](https://www.richemont.com/)** | **[Digital Operations Support Intern](https://jobright.ai/jobs/info/69a230440da45516f16b78a9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a0bafb5218a8167671e603?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Senior Administrative Assistant, Office of the President](https://jobright.ai/jobs/info/69881ad28da7a61204633674?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[LTCR Regional Administrative Assistant II](https://jobright.ai/jobs/info/6997e37ce0bddb6acac6be94?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Apr 11 |
-| **[Gen](https://www.gendigital.com)** | **[Corporate Development Analyst Intern](https://jobright.ai/jobs/info/69bdf0e94828227293009def?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 11 |
-| **[INFRASOURCE SERVICES LLC](http://www.infrasourceinc.com/)** | **[Associate Project Manager Internship](https://jobright.ai/jobs/info/695a10a1f1f8465b79f06527?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Apr 11 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/6912ee65c98948514c47f9b8?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Apr 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Key Account Manager Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69311dc9fa28370be26b6fd6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
-| **[Ardelyx, Inc.](https://ardelyx.com/)** | **[Corporate Development & Strategy (Search and Evaluation) Intern](https://jobright.ai/jobs/info/69bddfa4393a1008f743b6e4?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
