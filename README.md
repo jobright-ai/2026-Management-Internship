@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Virtua Health](https://www.virtua.org/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69db1af29f97a42dc9c2d0cb?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Apr 11 |
 | **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69db1aef9f97a42dc9c2d0ab?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Apr 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69daff4d738f2f099e8ac9fc?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Apr 11 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69dad5859f97a42dc9c2c049?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 11 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69dac8359f97a42dc9c2bfd7?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Apr 11 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69dac66e738f2f099e8ac1da?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | Apr 11 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Financial Services](https://jobright.ai/jobs/info/69dabd2ab67cec4f9b0ac083?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 11 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Aarding](https://www.cecoenviro.com/peerless-aarding)** | **[Project Manager](https://jobright.ai/jobs/info/69d9ddb2b67cec4f9b0a55a4?utm_campaign=1050&utm_source=git)** | Elma, NY | Hybrid | Apr 11 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc22?utm_campaign=1050&utm_source=git)** | Lake Stevens, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc21?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Apr 11 |
-| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc19?utm_campaign=1050&utm_source=git)** | Frackville, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc1a?utm_campaign=1050&utm_source=git)** | Stanwood, WA | On Site | Apr 11 |
+| ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc19?utm_campaign=1050&utm_source=git)** | Frackville, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22df9f97a42dc9c27915?utm_campaign=1050&utm_source=git)** | Marysville, WA | On Site | Apr 11 |
+| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Summer Intern 2026-Supply Chain-Materials & Scheduling](https://jobright.ai/jobs/info/69bdac164828227293ffed23?utm_campaign=1050&utm_source=git)** | Butler, IN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
