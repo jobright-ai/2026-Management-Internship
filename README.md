@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Office Assistant](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff7?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69a2b707359fe034b1ce12e7?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696835b51703f05405a9e1aa?utm_campaign=1050&utm_source=git)** | Secaucus, NJ | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 11 |
 | **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Apr 11 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Seasonal Administrative Office Intern](https://jobright.ai/jobs/info/69da7290b67cec4f9b0a978f?utm_campaign=1050&utm_source=git)** | Greenbelt, MD | On Site | Apr 11 |
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69bde99f393a1008f743bd93?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Program Management](https://jobright.ai/jobs/info/69bdb0fd4828227293fff0c4?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Apr 11 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69d75f8fcfdc6132f94723d2?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
@@ -146,15 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Aarding](https://www.cecoenviro.com/peerless-aarding)** | **[Project Manager](https://jobright.ai/jobs/info/69d9ddb2b67cec4f9b0a55a4?utm_campaign=1050&utm_source=git)** | Elma, NY | Hybrid | Apr 11 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc21?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ef5356a60f40fdfc22?utm_campaign=1050&utm_source=git)** | Lake Stevens, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc1a?utm_campaign=1050&utm_source=git)** | Stanwood, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager North Central PA District Schuylkill County](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc19?utm_campaign=1050&utm_source=git)** | Frackville, PA | On Site | Apr 11 |
+| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22ee5356a60f40fdfc1a?utm_campaign=1050&utm_source=git)** | Stanwood, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da22df9f97a42dc9c27915?utm_campaign=1050&utm_source=git)** | Marysville, WA | On Site | Apr 11 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Summer Intern 2026-Supply Chain-Materials & Scheduling](https://jobright.ai/jobs/info/69bdac164828227293ffed23?utm_campaign=1050&utm_source=git)** | Butler, IN | On Site | Apr 11 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fc9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
-| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fca?utm_campaign=1050&utm_source=git)** | Belmont, NC | On Site | Apr 11 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fca?utm_campaign=1050&utm_source=git)** | Belmont, NC | On Site | Apr 11 |
+| ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da2185869c7e25d85a0fc9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Northern District](https://jobright.ai/jobs/info/69da2179869c7e25d85a0fa0?utm_campaign=1050&utm_source=git)** | Anacortes, WA | On Site | Apr 11 |
-| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7d?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Eau Claire Westgate WI](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7f?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Apr 11 |
+| ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da2165869c7e25d85a0f7d?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Northwest Washington Southern District](https://jobright.ai/jobs/info/69da1ebf9f97a42dc9c278ad?utm_campaign=1050&utm_source=git)** | Mount Vernon, WA | On Site | Apr 11 |
 | ↳ | **[Branch Manager Midwest Charlotte District](https://jobright.ai/jobs/info/69da1eb09f97a42dc9c2789e?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
