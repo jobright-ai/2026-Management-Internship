@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/69dd7083738f2f099e8b6506?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 13 |
+| **[IGNITE](https://igniteimpossible.com/)** | **[OPERATIONS INTERN](https://jobright.ai/jobs/info/69dd70195356a60f40fee409?utm_campaign=1050&utm_source=git)** | Huntsville, AL 35806 US (Primary) | On Site | Apr 13 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/69dd6fde61f6ed54321fd75e?utm_campaign=1050&utm_source=git)** | Simsbury, CT | On Site | Apr 13 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69dd6d6c9f97a42dc9c3625c?utm_campaign=1050&utm_source=git)** | Hunt Valley, MD | On Site | Apr 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69dd6d5a9f97a42dc9c36219?utm_campaign=1050&utm_source=git)** | Hunt Valley, MD | On Site | Apr 13 |
+| **[Galvion](https://www.galvion.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69dd6d04738f2f099e8b636f?utm_campaign=1050&utm_source=git)** | Montréal-Ouest, QC | On Site | Apr 13 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/69dd6bda61f6ed54321fd59c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 13 |
+| **[BlueScope Buildings North America, Inc.](https://www.bluescopebuildings.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69dd6b785356a60f40fee1ba?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Apr 13 |
+| **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69dd6b5a738f2f099e8b62ae?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Apr 13 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - GTM Strategy & Operations](https://jobright.ai/jobs/info/69dd6b1e738f2f099e8b61df?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
+| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Project Management Intern (PART TIME)](https://jobright.ai/jobs/info/69dd693df748bc5d08a5fb3f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 13 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Perishable Distribution Operation Intern](https://jobright.ai/jobs/info/69dd61e2bc6f6622c9911fc8?utm_campaign=1050&utm_source=git)** | R3 Perishable DC Orlando, FL #0763 | On Site | Apr 13 |
 | **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Strategic PMO Intern](https://jobright.ai/jobs/info/69dd61d461f6ed54321fd39a?utm_campaign=1050&utm_source=git)** | IL Elmhurst - 114106 | Hybrid | Apr 13 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Process Management Intern](https://jobright.ai/jobs/info/69dd61b25356a60f40fedf50?utm_campaign=1050&utm_source=git)** | Newark, DE | Hybrid | Apr 13 |
@@ -101,6 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Morada Senior Living](https://www.moradaseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69dd4e619f97a42dc9c3562c?utm_campaign=1050&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Apr 13 |
 | **[VisionSpring](https://visionspring.org/home)** | **[Supply Chain, Patricia Sagna Memorial Internship](https://jobright.ai/jobs/info/69dd4da8f748bc5d08a5f0af?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dd4d8161f6ed54321fc514?utm_campaign=1050&utm_source=git)** | 390 Airtech Pkwy, Plainfield, IN, 46168, US | Hybrid | Apr 13 |
+| **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern - Member Building](https://jobright.ai/jobs/info/69dd6d5c61f6ed54321fd632?utm_campaign=1050&utm_source=git)** | Beavercreek, OH | On Site | Apr 13 |
+| **[City of Toronto](http://www.toronto.ca)** | **[PROJECT DIRECTOR](https://jobright.ai/jobs/info/69dd6bdb61f6ed54321fd59d?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Supply Chain and Capital Procurement Intern](https://jobright.ai/jobs/info/69dd45675356a60f40fed4bc?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | Apr 13 |
 | **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/69c711201b5ad02887389d08?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Apr 13 |
 | **[AirSprint Private Aviation](http://airsprint.com/)** | **[Operations Control - Intern, IOCC](https://jobright.ai/jobs/info/69dd44a55356a60f40fed3ab?utm_campaign=1050&utm_source=git)** | AirSprint Palmer Hangar, 445 Palmer Road, Calgary, Alberta, Canada | On Site | Apr 13 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/69dd17d95356a60f40fec582?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Apr 13 |
 | **[Kirby](http://www.kirbycorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d922915356a60f40fd7c79?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 | **[Cisco](http://www.cisco.com)** | **[FLEX- Rising Leaders II (Intern) - United States](https://jobright.ai/jobs/info/69dd1735738f2f099e8b4578?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, US | Hybrid | Apr 13 |
-| **[TD](https://www.td.com)** | **[TD Asset Management Business Management Intern/Co-op (Fall 2026) - Toronto and Winnipeg](https://jobright.ai/jobs/info/69dd1672f748bc5d08a5dc90?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba | Hybrid | Apr 13 |
-| ↳ | **[TD Asset Management Business Management Intern/Co-op (Fall 2026) - Toronto and Winnipeg](https://jobright.ai/jobs/info/69dd15d8bc6f6622c99104aa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 13 |
-| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[Executive Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/69dd399661f6ed54321fbdf5?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Apr 13 |
-| **[TD](https://www.td.com)** | **[TD Asset Management Business Management Intern/Co-op (Fall 2026) - Toronto and Winnipeg](https://jobright.ai/jobs/info/69dd396761f6ed54321fbd14?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[LTCR Regional Administrative Assistant II](https://jobright.ai/jobs/info/69dd09dbbc6f6622c991009b?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Apr 13 |
-| **[BOS Innovations Inc.](https://bosinnovations.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dd09d6738f2f099e8b4347?utm_campaign=1050&utm_source=git)** | London, ON | On Site | Apr 13 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69dd09d5bc6f6622c991007c?utm_campaign=1050&utm_source=git)** | Ridgeland, MS | On Site | Apr 13 |
-| **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Front of House Leadership Intern](https://jobright.ai/jobs/info/69dd09a2bc6f6622c9910020?utm_campaign=1050&utm_source=git)** | Miramar Beach, FL | On Site | Apr 13 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Business and Strategy Analyst Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/69dd099a9f97a42dc9c340ed?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69dd0948f748bc5d08a5db5a?utm_campaign=1050&utm_source=git)** | Phoenixville,PA,US | On Site | Apr 13 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dd093b9f97a42dc9c33fbb?utm_campaign=1050&utm_source=git)** | Media,PA,US | On Site | Apr 13 |
-| **[Core42](http://www.injazat.com)** | **[Program Director - GPU Deployment](https://jobright.ai/jobs/info/69d7fc45f4ea471a51fe2c06?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 13 |
-| **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69dd0938bc6f6622c990feeb?utm_campaign=1050&utm_source=git)** | Philadelpia,PA,US | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
