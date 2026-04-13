@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1NCE](https://1nce.com)** | **[Logistics Intern (all)](https://jobright.ai/jobs/info/69dc95c25356a60f40fe9b42?utm_campaign=1050&utm_source=git)** | Miami, NM | On Site | Apr 13 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - 04132026-76752](https://jobright.ai/jobs/info/69dc8d34869c7e25d85aacd8?utm_campaign=1050&utm_source=git)** | Greene County, TN | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Risk Management - Model Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31437?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b39f97a42dc9c31426?utm_campaign=1050&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | Hybrid | Apr 12 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69bde322393a1008f743b799?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Apr 12 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, Rifle](https://jobright.ai/jobs/info/69dbfc3db67cec4f9b0afe57?utm_campaign=1050&utm_source=git)** | Rifle, CO | On Site | Apr 12 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe8665c5d5f14f46dabbe?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Whisker](https://www.litter-robot.com/)** | **[Software Technical Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69d022a254f00230c6d0f5e0?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68d01cc8fb49c96ca6eae0e6?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 11 |
-| **[Hays County](http://hayscountytx.com)** | **[Undergraduate Administrative Resident](https://jobright.ai/jobs/info/69da8f88869c7e25d85a2a54?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Apr 11 |
 | **[Vannevar](https://www.vannevarlabs.com)** | **[Mission Development MBA Intern 2026 - Clearance Required](https://jobright.ai/jobs/info/68db34cd34f2c406da6d5521?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[PMO Lead](https://jobright.ai/jobs/info/69841ce88da7a612045e1184?utm_campaign=1050&utm_source=git)** | Alaska, United States | Remote | Apr 11 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Executive Assistant to the Provost and Executive Vice President for Academic Affairs](https://jobright.ai/jobs/info/69bdd463b106024562831f29?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Apr 11 |
