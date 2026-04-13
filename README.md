@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[Digital Transformation & Strategy Intern/Co-op  (FALL 2026)](https://jobright.ai/jobs/info/69dc75865356a60f40fe9141?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| **[TD](https://www.td.com)** | **[Risk Management - Model Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31437?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b39f97a42dc9c31426?utm_campaign=1050&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b1b67cec4f9b0b17e9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[Digital Transformation & Strategy Intern/Co-op  (FALL 2026)](https://jobright.ai/jobs/info/69dc75865356a60f40fe9141?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[Digital Servicing Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75845356a60f40fe9132?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
-| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/69dc6d1b738f2f099e8b1458?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
 | **[Ataraxis AI](https://ataraxis.ai)** | **[Clinical Strategy Intern](https://jobright.ai/jobs/info/69dc51a8738f2f099e8b06d6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Apr 12 |
 | **[NTEN](https://www.nten.org/)** | **[Executive Director](https://jobright.ai/jobs/info/69dc2ace5356a60f40fe7b55?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69323e26f131d96e4845a09c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 11 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a36f3e37d3cc6b0d576bfd?utm_campaign=1050&utm_source=git)** | Grayling, MI | On Site | Apr 11 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 11 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Line Management](https://jobright.ai/jobs/info/691718e9370fde633d07d42c?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/69860c418da7a6120460bbb1?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
