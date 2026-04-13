@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DCS SECRETARY - 04132026-76752](https://jobright.ai/jobs/info/69dc8d34869c7e25d85aacd8?utm_campaign=1050&utm_source=git)** | Greene County, TN | On Site | Apr 12 |
 | **[TD](https://www.td.com)** | **[Risk Management - Model Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dc78b79f97a42dc9c31437?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | ↳ | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b39f97a42dc9c31426?utm_campaign=1050&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | Hybrid | Apr 12 |
 | ↳ | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b1b67cec4f9b0b17e9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Apr 11 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69323e26f131d96e4845a09c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 11 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a36f3e37d3cc6b0d576bfd?utm_campaign=1050&utm_source=git)** | Grayling, MI | On Site | Apr 11 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
