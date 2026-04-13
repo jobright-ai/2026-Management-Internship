@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Director of Development - Athletics](https://jobright.ai/jobs/info/69dcdea7738f2f099e8b3355?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Senior Administrative Coordinator I](https://jobright.ai/jobs/info/69dcd1735356a60f40feb005?utm_campaign=1050&utm_source=git)** | Prairie View, TX | On Site | Apr 13 |
 | **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69dccdb6bfa7f40fd6f78091?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 13 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69dccb259f97a42dc9c32ee8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 13 |
@@ -71,6 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc15af748bc5d08a5c5c4?utm_campaign=1050&utm_source=git)** | Barrhead, AB | On Site | Apr 13 |
 | ↳ | **[Digital Servicing Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc12e5356a60f40feaabc?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Financial Services](https://jobright.ai/jobs/info/69dcc1295356a60f40feaaaa?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 13 |
+| **[TD](https://www.td.com)** | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dce30bbfa7f40fd6f7861c?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[P&L Strategy Small Business Banking Deposits Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dce37cbfa7f40fd6f7867c?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Feline Apparel](www.felineapparel.com)** | **[Executive Assistant Intern (CEO Support) — In-Person (Nashville, TN)](https://jobright.ai/jobs/info/69dca862738f2f099e8b2acf?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 13 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Operations Management Internship](https://jobright.ai/jobs/info/69dca858738f2f099e8b2ab9?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 13 |
 | ↳ | **[Operations Management Internship](https://jobright.ai/jobs/info/69dca81af748bc5d08a5c1b0?utm_campaign=1050&utm_source=git)** | Canada | Remote | Apr 13 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69bde322393a1008f743b799?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Apr 12 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, Rifle](https://jobright.ai/jobs/info/69dbfc3db67cec4f9b0afe57?utm_campaign=1050&utm_source=git)** | Rifle, CO | On Site | Apr 12 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe8665c5d5f14f46dabbe?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696835b51703f05405a9e1aa?utm_campaign=1050&utm_source=git)** | Secaucus, NJ | On Site | Apr 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 11 |
 | **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Apr 11 |
-| **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69bde99f393a1008f743bd93?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Program Management](https://jobright.ai/jobs/info/69bdb0fd4828227293fff0c4?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Apr 11 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69d75f8fcfdc6132f94723d2?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
