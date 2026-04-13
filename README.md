@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[TD Asset Management Business Management Intern/Co-Op (Fall 2026 - Regina)](https://jobright.ai/jobs/info/69dd01f8738f2f099e8b3fbc?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan | On Site | Apr 13 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Apr 13 |
+| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Director of Health & Wellness (LPN)](https://jobright.ai/jobs/info/69dcfe42738f2f099e8b3e91?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Apr 13 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 13 |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dcfbe99f97a42dc9c33a65?utm_campaign=1050&utm_source=git)** | US - NM, Los Alamos | On Site | Apr 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa156?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa153?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Apr 13 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Apr 13 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dcf66c61f6ed54321f9fcf?utm_campaign=1050&utm_source=git)** | US - NM, Los Alamos | On Site | Apr 13 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Agile Operations Summer 2026 Intern](https://jobright.ai/jobs/info/69dcf66261f6ed54321f9fa7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/69b62c2c56973837413b6c55?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defbb944d32141e0c048f7?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 13 |
 | **[Magna International](http://www.magna.com/)** | **[Business Transformation Intern - Summer 2026](https://jobright.ai/jobs/info/696abe04350cf4380311c9e0?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 13 |
@@ -102,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69bde322393a1008f743b799?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Apr 12 |
 | **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, Rifle](https://jobright.ai/jobs/info/69dbfc3db67cec4f9b0afe57?utm_campaign=1050&utm_source=git)** | Rifle, CO | On Site | Apr 12 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe8665c5d5f14f46dabbe?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Apr 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
@@ -115,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Logistics Intern](https://jobright.ai/jobs/info/698609eb0f6f7e7a2ce0eaf2?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Apr 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - VA/DC](https://jobright.ai/jobs/info/69c8c31be565c26a70030e53?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Apr 12 |
 | **[Almo Corporation](http://www.almo.com)** | **[Operations Coordination Intern](https://jobright.ai/jobs/info/69b726c906c1ba00c548e812?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 12 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69bea291393a1008f7448423?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Apr 12 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Supply Chain Operations Intern - i-0060](https://jobright.ai/jobs/info/69a255f9b600907a96289e6d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | **[Richemont](https://www.richemont.com/)** | **[Digital Operations Support Intern](https://jobright.ai/jobs/info/69a230440da45516f16b78a9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Apr 12 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c4?utm_campaign=1050&utm_source=git)** | Issaquah, WA | Hybrid | Apr 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/69da9e925356a60f40fe3565?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP Finance and Spend iXp Intern - Business Strategy Analyst](https://jobright.ai/jobs/info/69a0d97081476f6176bb2857?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 11 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Warehouse Innovation Intern](https://jobright.ai/jobs/info/69cef2ce366bb95ba551132a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 11 |
-| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69da9addf748bc5d08a54789?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 11 |
-| **[Rich Products Corporation](https://rich.com)** | **[Intern - Supply Planning Optimization](https://jobright.ai/jobs/info/69bdf000b106024562834e82?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 11 |
-| **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 11 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69bdc513393a1008f7435152?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Apr 11 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69a21b31b600907a962867ad?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Apr 11 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696835b51703f05405a9e1aa?utm_campaign=1050&utm_source=git)** | Secaucus, NJ | On Site | Apr 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685260f25a38006696b7a9?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 11 |
-| **[VulcanForms Inc.](http://www.vulcanforms.com)** | **[Strategy & Planning MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69be76a5b10602456283fdd9?utm_campaign=1050&utm_source=git)** | Ayer, MA | On Site | Apr 11 |
-| **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69bde99f393a1008f743bd93?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Program Management](https://jobright.ai/jobs/info/69bdb0fd4828227293fff0c4?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
