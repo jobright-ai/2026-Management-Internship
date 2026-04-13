@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dalhousie University](http://www.dal.ca/)** | **[Administrative Coordinator & Executive Assistant](https://jobright.ai/jobs/info/69d990b4b67cec4f9b0a2a48?utm_campaign=1050&utm_source=git)** | Halifax, NS | Hybrid | Apr 13 |
+| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69dd37c3f748bc5d08a5ebe0?utm_campaign=1050&utm_source=git)** | Southgate, MI 48195, USA | On Site | Apr 13 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[PMO Summer Internship](https://jobright.ai/jobs/info/69dd37bd738f2f099e8b5199?utm_campaign=1050&utm_source=git)** | Somerville-MA | Hybrid | Apr 13 |
+| **[Galvion](https://www.galvion.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69dd37abf748bc5d08a5eb98?utm_campaign=1050&utm_source=git)** | Montréal, Quebec, Canada | On Site | Apr 13 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[[Re-advertisement] Executive Board Secretariat Intern, New York, 6 Months](https://jobright.ai/jobs/info/69dd3762f748bc5d08a5eb51?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 13 |
+| **[Leidos](https://www.leidos.com)** | **[Migration Execution Intern](https://jobright.ai/jobs/info/69d9240a738f2f099e89ffdb?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 13 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69dd333cf748bc5d08a5ea15?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094 | On Site | Apr 13 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd3154738f2f099e8b5030?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Apr 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69dd310abc6f6622c9910caf?utm_campaign=1050&utm_source=git)** | Wexford, PA | On Site | Apr 13 |
+| **[Fredericksburg Regional Chamber of Commerce](http://www.fxbgchamber.org)** | **[Program Manager](https://jobright.ai/jobs/info/69dd30b85356a60f40fecd5a?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | Hybrid | Apr 13 |
+| **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 13 |
+| **[San José State University](http://www.sjsu.edu/)** | **[Executive Director of Advancement Operations](https://jobright.ai/jobs/info/69379dd1aabec14a727c9d1f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
+| ↳ | **[Administrative Support Assistant](https://jobright.ai/jobs/info/6966be45a112b4026614b76a?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69dd304561f6ed54321fb89b?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Apr 13 |
 | **[The School District of Philadelphia](http://www.philasd.org/)** | **[Senior Project Manager](https://jobright.ai/jobs/info/69dd2764738f2f099e8b4daa?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Agile Operations Summer 2026 Intern](https://jobright.ai/jobs/info/69dd26f39f97a42dc9c34b42?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 13 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69dd26c5bc6f6622c9910ae9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 13 |
@@ -98,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Director of Health & Wellness (LPN)](https://jobright.ai/jobs/info/69dcfe42738f2f099e8b3e91?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Apr 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 13 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dcfbe99f97a42dc9c33a65?utm_campaign=1050&utm_source=git)** | US - NM, Los Alamos | On Site | Apr 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa153?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa156?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Apr 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa156?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69dcfa5561f6ed54321fa153?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Apr 13 |
 | **[MN8 Energy](https://mn8energy.com)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/69ba99ac06c1ba00c54cccf0?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Apr 13 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Apr 13 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dcf66c61f6ed54321f9fcf?utm_campaign=1050&utm_source=git)** | US - NM, Los Alamos | On Site | Apr 13 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69dc29cb869c7e25d85a8fc4?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 12 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69dc17c85356a60f40fe797e?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 12 |
 | **[Boston Private](https://bostonprivatebank.com)** | **[Manager, Golden State Sports Academy [Internal]](https://jobright.ai/jobs/info/69dbfdde9f97a42dc9c2faaa?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
-| **[Fresno Economic Opportunities Commission (Fresno EOC)](https://fresnoeoc.org/)** | **[Chief Financial Officer](https://jobright.ai/jobs/info/69dbfc29b67cec4f9b0afe16?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 12 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[Master Scheduling Intern](https://jobright.ai/jobs/info/69dbfc10869c7e25d85a8bb0?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69bfae4f7798f73e35e4882b?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Apr 12 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Operations Intern - Summer '26](https://jobright.ai/jobs/info/68c232764d652f044775dc7b?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Apr 12 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69bde322393a1008f743b799?utm_campaign=1050&utm_source=git)** | Lewiston, NC | On Site | Apr 12 |
-| **[ANB Bank](http://anbbank.com)** | **[Branch Supervisor I or II, Rifle](https://jobright.ai/jobs/info/69dbfc3db67cec4f9b0afe57?utm_campaign=1050&utm_source=git)** | Rifle, CO | On Site | Apr 12 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe8665c5d5f14f46dabbe?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d26bdf5bef51c96eada8d?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 12 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Apr 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/69685878f25a38006696bf99?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Apr 12 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69b2e6f1a8ac8e70ff670a7c?utm_campaign=1050&utm_source=git)** | Cromwell, KY | On Site | Apr 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
-| **[Magna International](http://www.magna.com/)** | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 12 |
-| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[External Logistics Intern](https://jobright.ai/jobs/info/69ab9ec52747003c3d5128cf?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
