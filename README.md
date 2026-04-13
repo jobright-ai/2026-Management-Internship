@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The School District of Philadelphia](http://www.philasd.org/)** | **[Senior Project Manager](https://jobright.ai/jobs/info/69dd2764738f2f099e8b4daa?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Agile Operations Summer 2026 Intern](https://jobright.ai/jobs/info/69dd26f39f97a42dc9c34b42?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 13 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69dd26c5bc6f6622c9910ae9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 13 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d12394cdb525785fbb0c23?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Apr 13 |
+| **[Harris Teeter](http://www.harristeeter.com)** | **[Harris Teeter - Summer Internship 2026](https://jobright.ai/jobs/info/69dd1fe85356a60f40fec9e5?utm_campaign=1050&utm_source=git)** | MATTHEWS, NORTH CAROLINA, 7740 BBT Training | On Site | Apr 13 |
+| **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Fall Management/Leadership Intern, Full-Time or Part-Time](https://jobright.ai/jobs/info/69dd1f749f97a42dc9c3493a?utm_campaign=1050&utm_source=git)** | Kansas City,MO,US | On Site | Apr 13 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Insurance Classic Intern](https://jobright.ai/jobs/info/69dd1d31bc6f6622c99107dc?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Apr 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1050&utm_source=git)** | McAllen, TX | On Site | Apr 13 |
 | **[SC&A, Inc.](http://scainc.com)** | **[Summer Administrative Intern](https://jobright.ai/jobs/info/69dd1c3761f6ed54321fb273?utm_campaign=1050&utm_source=git)** | Arlington, VA | Remote | Apr 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | Apr 12 |
 | **[Magna International](http://www.magna.com/)** | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 12 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[External Logistics Intern](https://jobright.ai/jobs/info/69ab9ec52747003c3d5128cf?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 12 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69dd16995356a60f40fec289?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 12 |
-| **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69be11c2482822729300c4ed?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 12 |
-| **[Almo Corporation](http://www.almo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a269660da45516f16bb057?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 12 |
-| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69af8a177495006450940779?utm_campaign=1050&utm_source=git)** | Goodland, KS | On Site | Apr 12 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Logistics Intern](https://jobright.ai/jobs/info/698609eb0f6f7e7a2ce0eaf2?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Apr 12 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - VA/DC](https://jobright.ai/jobs/info/69c8c31be565c26a70030e53?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
