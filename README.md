@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NTEN](https://www.nten.org/)** | **[Executive Director](https://jobright.ai/jobs/info/69dc2ace5356a60f40fe7b55?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Apr 12 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69dc29cb869c7e25d85a8fc4?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 12 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Management Services](https://jobright.ai/jobs/info/69dc17c85356a60f40fe797e?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 12 |
 | **[Boston Private](https://bostonprivatebank.com)** | **[Manager, Golden State Sports Academy [Internal]](https://jobright.ai/jobs/info/69dbfdde9f97a42dc9c2faaa?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[Fresno Economic Opportunities Commission (Fresno EOC)](https://fresnoeoc.org/)** | **[Chief Financial Officer](https://jobright.ai/jobs/info/69dbfc29b67cec4f9b0afe16?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 12 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Virtua Health](https://www.virtua.org/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69db1af29f97a42dc9c2d0cb?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Apr 11 |
 | **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/69db1aef9f97a42dc9c2d0ab?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Apr 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69daff4d738f2f099e8ac9fc?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Apr 11 |
+| **[Ataraxis AI](https://ataraxis.ai)** | **[Clinical Strategy Intern](https://jobright.ai/jobs/info/69dc2853b67cec4f9b0b01ed?utm_campaign=1050&utm_source=git)** | New York HQ | On Site | Apr 11 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Administrative Specialist III](https://jobright.ai/jobs/info/69dac8359f97a42dc9c2bfd7?utm_campaign=1050&utm_source=git)** | Moscow, ID | On Site | Apr 11 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/69dac66e738f2f099e8ac1da?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | Apr 11 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern- Financial Services](https://jobright.ai/jobs/info/69dabd2ab67cec4f9b0ac083?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69d93c78b67cec4f9b0a08c4?utm_campaign=1050&utm_source=git)** | Brattleboro, VT | On Site | Apr 11 |
 | **[ATI](https://www.forging.com)** | **[2026 Intern - Procurement/Supply Chain](https://jobright.ai/jobs/info/6933a4b0f131d96e4846539e?utm_campaign=1050&utm_source=git)** | Natrona Heights, PA | On Site | Apr 11 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/69da40749f97a42dc9c27cf7?utm_campaign=1050&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | Apr 11 |
-| **[University of Southern California](http://www.usc.edu)** | **[Assistant Research Adminstrator](https://jobright.ai/jobs/info/69da3cd05356a60f40fdfeb2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a0bafb5218a8167671e603?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
-| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Senior Administrative Assistant, Office of the President](https://jobright.ai/jobs/info/69881ad28da7a61204633674?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
