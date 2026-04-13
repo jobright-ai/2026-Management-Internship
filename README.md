@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prairie View A&M University](http://pvam.edu)** | **[Senior Administrative Coordinator I](https://jobright.ai/jobs/info/69dcd1735356a60f40feb005?utm_campaign=1050&utm_source=git)** | Prairie View, TX | On Site | Apr 13 |
+| **[North Shore Community College](http://www.northshore.edu/)** | **[Executive Director of Financial Aid](https://jobright.ai/jobs/info/69dccdb6bfa7f40fd6f78091?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Apr 13 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/69dccb259f97a42dc9c32ee8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Risk Management - Model Risk Management Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dcc5d2f748bc5d08a5c6a0?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Digital Transformation & Strategy Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc5ce738f2f099e8b2f1b?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | ↳ | **[Digital Servicing Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dcc4de5356a60f40feab28?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/69bde99f393a1008f743bd93?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Program Management](https://jobright.ai/jobs/info/69bdb0fd4828227293fff0c4?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Apr 11 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69d75f8fcfdc6132f94723d2?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
-| **[Galaxy](https://www.galaxy.com)** | **[2026 Operations Internship - NYC](https://jobright.ai/jobs/info/6913a1421465e02904e96256?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 11 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Command Center Scheduling, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/698592660f6f7e7a2ce06c7c?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Apr 11 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a874186acf96396f720106?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
