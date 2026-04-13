@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Digital Transformation & Strategy Intern/Co-op  (FALL 2026)](https://jobright.ai/jobs/info/69dc75865356a60f40fe9141?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| ↳ | **[Digital Servicing Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc75845356a60f40fe9132?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
+| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/69dc6d1b738f2f099e8b1458?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
 | **[Ataraxis AI](https://ataraxis.ai)** | **[Clinical Strategy Intern](https://jobright.ai/jobs/info/69dc51a8738f2f099e8b06d6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[BASF](https://www.basf.com/)** | **[Grow@BASF Internship Program- Commercial Business - Summer 2026](https://jobright.ai/jobs/info/68ce41ae1ad6b16f028a3642?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Apr 12 |
 | **[NTEN](https://www.nten.org/)** | **[Executive Director](https://jobright.ai/jobs/info/69dc2ace5356a60f40fe7b55?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 11 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Line Management](https://jobright.ai/jobs/info/691718e9370fde633d07d42c?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 11 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/69860c418da7a6120460bbb1?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Apr 11 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Client Program Manager](https://jobright.ai/jobs/info/69be9c034828227293015d99?utm_campaign=1050&utm_source=git)** | Canton, MA | Hybrid | Apr 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69a55634b600907a962af883?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69d93c78b67cec4f9b0a08c4?utm_campaign=1050&utm_source=git)** | Brattleboro, VT | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
