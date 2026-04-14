@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Facilities Planning Intern](https://jobright.ai/jobs/info/69d9c089f748bc5d08a4dcf7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69ddbe87aba61f1417311e4e?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 13 |
 | **[School of Visual Arts](http://www.sva.edu/)** | **[Temporary Director of Operations](https://jobright.ai/jobs/info/69ddb915aba61f1417311d73?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ddb27d433ac8430e0d6698?utm_campaign=1050&utm_source=git)** | Plainfield, IN | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaee?utm_campaign=1050&utm_source=git)** | Richfield, MN | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaf1?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Apr 13 |
@@ -84,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddaccd4d3bec4144b4d63c?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Apr 13 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69ddacb18182b27d34740e7c?utm_campaign=1050&utm_source=git)** | Stem, NC | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddac968182b27d34740e71?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6300?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d62ff?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6301?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6302?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d62ff?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6300?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Apr 13 |
 | **[Fairgrove Property Management](https://www.sullivanpm.com/)** | **[Internship](https://jobright.ai/jobs/info/69ddaac7aba61f141731170a?utm_campaign=1050&utm_source=git)** | Irvine,CA,US | On Site | Apr 13 |
 | **[Giraffe Media Group, LLC](https://giraffemediagroup.com)** | **[Business Operations & Executive Administration Intern](https://jobright.ai/jobs/info/69ddaac45913ad3398139bf9?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Apr 13 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Project Manager - Strategic Partnerships](https://jobright.ai/jobs/info/69dda882433ac8430e0d6110?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Apr 13 |
@@ -127,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69dd772b5356a60f40fee60c?utm_campaign=1050&utm_source=git)** | Riverdale, NJ | On Site | Apr 13 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Outreach](https://jobright.ai/jobs/info/69dd7707f748bc5d08a5ffa2?utm_campaign=1050&utm_source=git)** | Cypress, TX | On Site | Apr 13 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69dd77045356a60f40fee5a6?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 13 |
-| **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/69dd76e5f748bc5d08a5ff52?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 13 |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/69dd76e5f748bc5d08a5ff53?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 13 |
 | **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/69dd7083738f2f099e8b6506?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 13 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69dda161aba61f1417310a97?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 13 |
 | **[IGNITE](https://igniteimpossible.com/)** | **[OPERATIONS INTERN](https://jobright.ai/jobs/info/69dd70195356a60f40fee409?utm_campaign=1050&utm_source=git)** | Huntsville, AL 35806 US (Primary) | On Site | Apr 13 |
