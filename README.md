@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69c26eaa2c312363dcd61933?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[Equinix](http://www.equinix.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69c20fec75f7ff1cd810c537?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
+| ↳ | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c26ff5635a1e49d1c2dc29?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 14 |
+| **[HEXPOL Compounding](http://www.hexpol.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/69c29600ec22f8310ab0795c?utm_campaign=1050&utm_source=git)** | Burton, OH | On Site | Apr 14 |
+| **[Martin Brower](http://martinbrower.com)** | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/69c1e9c979e36d3a847ef6c5?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Apr 14 |
+| **[Sprinklr](http://www.sprinklr.com)** | **[CIO Program Management & Security Intern](https://jobright.ai/jobs/info/69a661c42c0d8b0f5cd08375?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa56381f59c56275e33005?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/691a9ecdbcdbf3560c9d9366?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 14 |
 | **[City of Toronto](http://www.toronto.ca)** | **[PROJECT DIRECTOR CAPITAL DELIVERY](https://jobright.ai/jobs/info/69d969965356a60f40fd987c?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 14 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Software Project Management Internship](https://jobright.ai/jobs/info/698e59d10f6f7e7a2cea6147?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ADMINISTRATIVE ASSISTANT 1 - 04142026-76634](https://jobright.ai/jobs/info/69dde17318cf504166e2afa5?utm_campaign=1050&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
@@ -71,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Facilities Planning Intern](https://jobright.ai/jobs/info/69d9c089f748bc5d08a4dcf7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69ddbe87aba61f1417311e4e?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 13 |
 | **[School of Visual Arts](http://www.sva.edu/)** | **[Temporary Director of Operations](https://jobright.ai/jobs/info/69ddb915aba61f1417311d73?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ddb27d433ac8430e0d6698?utm_campaign=1050&utm_source=git)** | Plainfield, IN | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaee?utm_campaign=1050&utm_source=git)** | Richfield, MN | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaf1?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Apr 13 |
@@ -86,10 +95,10 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddaccd4d3bec4144b4d63c?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Apr 13 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69ddacb18182b27d34740e7c?utm_campaign=1050&utm_source=git)** | Stem, NC | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddac968182b27d34740e71?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6301?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d62ff?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6302?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6300?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6301?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Apr 13 |
 | **[Fairgrove Property Management](https://www.sullivanpm.com/)** | **[Internship](https://jobright.ai/jobs/info/69ddaac7aba61f141731170a?utm_campaign=1050&utm_source=git)** | Irvine,CA,US | On Site | Apr 13 |
 | **[Giraffe Media Group, LLC](https://giraffemediagroup.com)** | **[Business Operations & Executive Administration Intern](https://jobright.ai/jobs/info/69ddaac45913ad3398139bf9?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Apr 13 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Project Manager - Strategic Partnerships](https://jobright.ai/jobs/info/69dda882433ac8430e0d6110?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Apr 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sallie Mae](https://www.salliemae.com)** | **[Process Management Intern](https://jobright.ai/jobs/info/69dd61b25356a60f40fedf50?utm_campaign=1050&utm_source=git)** | Newark, DE | Hybrid | Apr 13 |
 | **[Athletx Sports Group](https://athletx.com)** | **[Team Support & Event Operations Intern / Summer 2026](https://jobright.ai/jobs/info/69dd60fa61f6ed54321fd15d?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 13 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dd605abc6f6622c9911f07?utm_campaign=1050&utm_source=git)** | Plainfield, IN | Hybrid | Apr 13 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Summer 2026](https://jobright.ai/jobs/info/69dd5ffebc6f6622c9911ecb?utm_campaign=1050&utm_source=git)** | Michael Owens Way, Perrysburg, OH 43551, USA | Hybrid | Apr 13 |
-| **[Thorne](https://www.thorne.com)** | **[SkillBridge - Project Manager Intern](https://jobright.ai/jobs/info/69dd5feaf748bc5d08a5f8bc?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Apr 13 |
-| **[LEARFIELD](http://learfield.com)** | **[Innovations & Operations Intern](https://jobright.ai/jobs/info/69dd5fd461f6ed54321fd027?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[2026 Midwest Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/69dd5faebc6f6622c9911ea4?utm_campaign=1050&utm_source=git)** | Columbus, Ohio | On Site | Apr 13 |
-| **[ProdataKey](https://www.prodatakey.com)** | **[Intern Development Analyst - San Clemente, CA](https://jobright.ai/jobs/info/69dd5faebc6f6622c9911ea6?utm_campaign=1050&utm_source=git)** | Wells Fargo Center - 23rd Floor | On Site | Apr 13 |
-| **[SAP](https://www.sap.com)** | **[SAP Mission-Critical iXp Intern - Communication Support](https://jobright.ai/jobs/info/69dd8a6461f6ed54321fdc8f?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 13 |
-| **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69dd5ad6738f2f099e8b5edf?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Apr 13 |
-| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Logistics](https://jobright.ai/jobs/info/69dd5a835356a60f40feddfc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 13 |
-| **[Terabase Energy](https://www.terabase.energy)** | **[Project Delivery Intern, Terabase Energy Project Operations & Delivery](https://jobright.ai/jobs/info/69dd5a5ff748bc5d08a5f750?utm_campaign=1050&utm_source=git)** | Berkeley, CA | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
