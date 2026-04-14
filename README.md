@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AfterQuery](https://www.afterquery.com)** | **[Strategic Projects Intern](https://jobright.ai/jobs/info/69ddfbe436823d1b4257f81c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[ADMINISTRATIVE ASSISTANT 1 - 04142026-76634](https://jobright.ai/jobs/info/69dde17318cf504166e2afa5?utm_campaign=1050&utm_source=git)** | Davidson County, TN | On Site | Apr 13 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69d8ecc9f748bc5d08a46a6c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[Nimaroh Creative (Acquired by Idea Peddler)](https://nimaroh.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69dddc1a433ac8430e0d7669?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Apr 13 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Facilities Planning Intern](https://jobright.ai/jobs/info/69d9c089f748bc5d08a4dcf7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69ddbe87aba61f1417311e4e?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 13 |
 | **[School of Visual Arts](http://www.sva.edu/)** | **[Temporary Director of Operations](https://jobright.ai/jobs/info/69ddb915aba61f1417311d73?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb282e34484770f19eb08?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb283e34484770f19eb0b?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Apr 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ddb27d433ac8430e0d6698?utm_campaign=1050&utm_source=git)** | Plainfield, IN | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaee?utm_campaign=1050&utm_source=git)** | Richfield, MN | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddb27ce34484770f19eaf1?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Apr 13 |
@@ -85,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[ACCEL Schools](http://www.accelschools.com)** | **[School Office Manager - SY 26-27](https://jobright.ai/jobs/info/69ddacb18182b27d34740e7c?utm_campaign=1050&utm_source=git)** | Stem, NC | On Site | Apr 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ddac968182b27d34740e71?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6301?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Apr 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6302?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d62ff?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Apr 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6300?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Apr 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ddab19433ac8430e0d6302?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Apr 13 |
 | **[Fairgrove Property Management](https://www.sullivanpm.com/)** | **[Internship](https://jobright.ai/jobs/info/69ddaac7aba61f141731170a?utm_campaign=1050&utm_source=git)** | Irvine,CA,US | On Site | Apr 13 |
 | **[Giraffe Media Group, LLC](https://giraffemediagroup.com)** | **[Business Operations & Executive Administration Intern](https://jobright.ai/jobs/info/69ddaac45913ad3398139bf9?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Apr 13 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Project Manager - Strategic Partnerships](https://jobright.ai/jobs/info/69dda882433ac8430e0d6110?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Apr 13 |
@@ -103,6 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/69dda4dbaba61f1417311317?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Apr 13 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Operations Management Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bd6?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 | ↳ | **[Operations Management Summer Intern](https://jobright.ai/jobs/info/69dda32faba61f14173111f6?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Apr 13 |
+| **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ddf4825913ad339813b890?utm_campaign=1050&utm_source=git)** | Pipersville, PA | On Site | Apr 13 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ddf48d5913ad339813b8c1?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | Apr 13 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ddf46f18cf504166e2b4d7?utm_campaign=1050&utm_source=git)** | Kennett Square, PA | On Site | Apr 13 |
 | **[ECS](https://www.ecstech.com)** | **[Project Analyst - Intern](https://jobright.ai/jobs/info/69dda26d5913ad33981394b2?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Apr 13 |
 | **[IGNITE](https://igniteimpossible.com/)** | **[OPERATIONS INTERN](https://jobright.ai/jobs/info/69dda23f433ac8430e0d57b3?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 13 |
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Strategic PMO Intern](https://jobright.ai/jobs/info/69dda2295913ad3398139303?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProdataKey](https://www.prodatakey.com)** | **[Intern Development Analyst - San Clemente, CA](https://jobright.ai/jobs/info/69dd5faebc6f6622c9911ea6?utm_campaign=1050&utm_source=git)** | Wells Fargo Center - 23rd Floor | On Site | Apr 13 |
 | **[SAP](https://www.sap.com)** | **[SAP Mission-Critical iXp Intern - Communication Support](https://jobright.ai/jobs/info/69dd8a6461f6ed54321fdc8f?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 13 |
 | **[Town of Wake Forest, NC](https://www.wakeforestnc.gov/)** | **[Parks Maintenance Intern](https://jobright.ai/jobs/info/69dd5ad6738f2f099e8b5edf?utm_campaign=1050&utm_source=git)** | Wake Forest, NC | On Site | Apr 13 |
-| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Logistics](https://jobright.ai/jobs/info/69dd5a835356a60f40feddfc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 13 |
-| **[Terabase Energy](https://www.terabase.energy)** | **[Project Delivery Intern, Terabase Energy Project Operations & Delivery](https://jobright.ai/jobs/info/69dd5a5ff748bc5d08a5f750?utm_campaign=1050&utm_source=git)** | Berkeley, CA | Hybrid | Apr 13 |
-| **[SAP](https://www.sap.com)** | **[SAP Mission-Critical iXp Intern - Communication Support](https://jobright.ai/jobs/info/69dd5a359f97a42dc9c35d51?utm_campaign=1050&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Apr 13 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**INTERNAL ONLY** Chairperson & Assoc/Full Prof - SPLH](https://jobright.ai/jobs/info/69dd58505356a60f40fedcb8?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
