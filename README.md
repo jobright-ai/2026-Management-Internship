@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spry Methods, Inc.](https://www.sprymethods.com)** | **[IT Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e0028d5913ad3398147597?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Apr 15 |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Construction Project Management](https://jobright.ai/jobs/info/69e0020c433ac8430e0e3d2f?utm_campaign=1050&utm_source=git)** | Overland Park, KS | Hybrid | Apr 15 |
+| **[Elk Island Public Schools](https://www.eips.ca/)** | **[Senior Administrative Assistant(SFS) - Permanent](https://jobright.ai/jobs/info/69e001bd14bf245fc7a6f4e6?utm_campaign=1050&utm_source=git)** | Sherwood Park, AB | On Site | Apr 15 |
+| **[CUES Inc.](http://cuesinc.com)** | **[Intern, Construction Project Management](https://jobright.ai/jobs/info/69e001bbe34484770f1ac0d8?utm_campaign=1050&utm_source=git)** | Overland Park, Kansas (KS), US | Hybrid | Apr 15 |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Facilities Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfffe84920452a85dd0fd5?utm_campaign=1050&utm_source=git)** | 200 Galleria Parkway SE Suite 900 Atlanta, GA 30339 | On Site | Apr 15 |
+| **[Stantec](http://www.stantec.com)** | **[Project Coordinator Co-Op – Buildings (Summer 2026)](https://jobright.ai/jobs/info/69dffe74e34484770f1abed2?utm_campaign=1050&utm_source=git)** | Vancouver, BC | On Site | Apr 15 |
+| **[North Carolina State University](http://www.ncsu.edu)** | **[Events Administrative Coordinator](https://jobright.ai/jobs/info/69dffe414920452a85dd0ee2?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 15 |
 | **[Valley Health](https://www.valleyhealthlink.com/)** | **[Outcomes Intern, Quality Strategy and Coordination](https://jobright.ai/jobs/info/69dff95ce34484770f1abcf6?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Apr 15 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Equipment Finance, Transaction Management](https://jobright.ai/jobs/info/69dff9495913ad33981470e1?utm_campaign=1050&utm_source=git)** | Rochester, NY | Hybrid | Apr 15 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69dff7d214bf245fc7a6f1f6?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenan Advantage Group](http://www.thekag.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/696ecd255fc86241853dc25d?utm_campaign=1050&utm_source=git)** | North Canton, OH | On Site | Apr 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/69dfb79a433ac8430e0e1b05?utm_campaign=1050&utm_source=git)** | Aurora, OH | On Site | Apr 15 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698d2f6e0f6f7e7a2ce8f5e4?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Facilities Coordinator](https://jobright.ai/jobs/info/69c30330753c101b21567497?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 15 |
-| **[Morgan Truck Body](http://morgancorp.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a694c9708b430a607afa88?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 15 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[T‑Line & Substation Project Management Intern](https://jobright.ai/jobs/info/69dfb791aba61f141731cd8d?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Operational Excellence Program Leader (Hybrid in Gold River, CA)](https://jobright.ai/jobs/info/69c330be94007a2195df7f1c?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | Hybrid | Apr 15 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/69b261acad360c0340a72b23?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Integrated Care & Coverage Master's Intern](https://jobright.ai/jobs/info/69df913f433ac8430e0e0f99?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Apr 15 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3150894007a2195df43b8?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
