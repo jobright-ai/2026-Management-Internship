@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698d2f6e0f6f7e7a2ce8f5e4?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Facilities Coordinator](https://jobright.ai/jobs/info/69c30330753c101b21567497?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[Morgan Truck Body](http://morgancorp.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69a694c9708b430a607afa88?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 15 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Operational Excellence Program Leader (Hybrid in Gold River, CA)](https://jobright.ai/jobs/info/69c330be94007a2195df7f1c?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | Hybrid | Apr 15 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/69b261acad360c0340a72b23?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 15 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Integrated Care & Coverage Master's Intern](https://jobright.ai/jobs/info/69df913f433ac8430e0e0f99?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Apr 15 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69c3150894007a2195df43b8?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Apr 15 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696fd57e0f4e0f657ea41b23?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Apr 15 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[IT Business office - Project Analyst Intern](https://jobright.ai/jobs/info/69c3c175d5a1016e98da8e27?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Apr 15 |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69df8fdbaba61f141731c2ad?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR | On Site | Apr 15 |
 | **[ATI](https://www.forging.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c2f176ec22f8310ab0f5a0?utm_campaign=1050&utm_source=git)** | Cudahy, WI | On Site | Apr 15 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations, Textile Sampling](https://jobright.ai/jobs/info/69a732802672cb0acb4b9fc5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[CTD Temporary Summer Office Manager, Grades 6-12](https://jobright.ai/jobs/info/693793daa0dde7020e304585?utm_campaign=1050&utm_source=git)** | Evanston, IL | On Site | Apr 15 |
@@ -73,32 +83,32 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcc89ce6a0d9792584d100?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Intern - Carteret, NJ](https://jobright.ai/jobs/info/69bb618a06c1ba00c54dd8c0?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Apr 15 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df6b904920452a85dcdc4b?utm_campaign=1050&utm_source=git)** | Murphy, TX | On Site | Apr 15 |
-| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc39?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA | On Site | Apr 15 |
-| ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc38?utm_campaign=1050&utm_source=git)** | Lake Forest, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc36?utm_campaign=1050&utm_source=git)** | Kernersville, NC | On Site | Apr 15 |
 | ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc34?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Apr 15 |
-| ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df6b854920452a85dcdc24?utm_campaign=1050&utm_source=git)** | Eden, NC | On Site | Apr 15 |
+| ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc38?utm_campaign=1050&utm_source=git)** | Lake Forest, CA | On Site | Apr 15 |
+| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df6b8e4920452a85dcdc39?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df6b854920452a85dcdc23?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Apr 15 |
+| ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df6b854920452a85dcdc24?utm_campaign=1050&utm_source=git)** | Eden, NC | On Site | Apr 15 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Internship - Assistant Operations Manager](https://jobright.ai/jobs/info/69bb39755697383741413863?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Apr 15 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69f3433ac8430e0e07bc?utm_campaign=1050&utm_source=git)** | Victorville, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df69f0433ac8430e0e07b1?utm_campaign=1050&utm_source=git)** | Reidsville, NC | On Site | Apr 15 |
 | ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df69ef433ac8430e0e07ac?utm_campaign=1050&utm_source=git)** | Foothill Ranch, California, United States | On Site | Apr 15 |
+| ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69eaaba61f141731bb50?utm_campaign=1050&utm_source=git)** | Walnut, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69eaaba61f141731bb54?utm_campaign=1050&utm_source=git)** | Placentia, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69ea433ac8430e0e079c?utm_campaign=1050&utm_source=git)** | Downey, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69ea433ac8430e0e079e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
-| ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69eaaba61f141731bb50?utm_campaign=1050&utm_source=git)** | Walnut, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69e9aba61f141731bb49?utm_campaign=1050&utm_source=git)** | Rockwall, TX | On Site | Apr 15 |
-| ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c37?utm_campaign=1050&utm_source=git)** | Sachse, TX | On Site | Apr 15 |
-| ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69e8433ac8430e0e078f?utm_campaign=1050&utm_source=git)** | Rowlett, TX | On Site | Apr 15 |
-| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c3a?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Apr 15 |
-| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c36?utm_campaign=1050&utm_source=git)** | Hesperia, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Los Angeles](https://jobright.ai/jobs/info/69df69e8433ac8430e0e078e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
+| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c36?utm_campaign=1050&utm_source=git)** | Hesperia, CA | On Site | Apr 15 |
+| ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c3a?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Apr 15 |
+| ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69e8433ac8430e0e078f?utm_campaign=1050&utm_source=git)** | Rowlett, TX | On Site | Apr 15 |
+| ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69df69e8e34484770f1a8c37?utm_campaign=1050&utm_source=git)** | Sachse, TX | On Site | Apr 15 |
 | ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69e0aba61f141731bb37?utm_campaign=1050&utm_source=git)** | La Habra, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Cajon Trail District](https://jobright.ai/jobs/info/69df69ddaba61f141731bb2a?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Apr 15 |
-| ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df69dce34484770f1a8c1d?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 15 |
-| ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69dc14bf245fc7a6c157?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df69dce34484770f1a8c23?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 15 |
+| ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df69dce34484770f1a8c1d?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager, Piedmont North](https://jobright.ai/jobs/info/69df69dce34484770f1a8c20?utm_campaign=1050&utm_source=git)** | Burlington, NC | On Site | Apr 15 |
+| ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69dc14bf245fc7a6c157?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager North Orange County District](https://jobright.ai/jobs/info/69df69dbe34484770f1a8c1b?utm_campaign=1050&utm_source=git)** | Brea, CA | On Site | Apr 15 |
 | ↳ | **[Branch Manager Foothills Orange County District](https://jobright.ai/jobs/info/69df69cf14bf245fc7a6c140?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | Apr 15 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69c1bb362c312363dcd4e5d7?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Apr 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enstructure](https://www.enstructure.com)** | **[Port Operations & Management - Summer Intern](https://jobright.ai/jobs/info/69dee38b433ac8430e0dcf18?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Apr 14 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Project Manager](https://jobright.ai/jobs/info/69dee0a036823d1b42584477?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Apr 14 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d74cd4e63cea7a8b670653?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
-| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Administrative Support Specialist](https://jobright.ai/jobs/info/69dedf65433ac8430e0dce28?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Apr 14 |
-| **[Cascade Energy](http://cascadeenergy.com)** | **[Summer Internship_Fresh Coast](https://jobright.ai/jobs/info/69dedd1ae34484770f1a52fe?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 14 |
-| **[Nucleate Podcast](https://signal.nucleate.xyz/tag/podcast/)** | **[Production & Operations Intern](https://jobright.ai/jobs/info/69dedc38433ac8430e0dcdc9?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ded9d2433ac8430e0dcce7?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Apr 14 |
-| **[ODP Business Solutions](https://odpbusiness.com)** | **[Summer Intern - Office Depot](https://jobright.ai/jobs/info/69ded9a45913ad339814070f?utm_campaign=1050&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | Apr 14 |
-| **[Trench Group](https://trench-group.com/)** | **[After Sales Process Intern](https://jobright.ai/jobs/info/69ded8c1e34484770f1a5213?utm_campaign=1050&utm_source=git)** | Pickering, ON | On Site | Apr 14 |
-| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/69ded8b2e34484770f1a51ea?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
-| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/69ded8ae433ac8430e0dccc0?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Apr 14 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: VTE Business Operation & Transformation Associate](https://jobright.ai/jobs/info/69ded89aaba61f1417318178?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | Apr 14 |
-| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern](https://jobright.ai/jobs/info/69ded88d36823d1b4258423c?utm_campaign=1050&utm_source=git)** | United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
