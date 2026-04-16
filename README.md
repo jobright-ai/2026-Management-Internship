@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Operations and Information Management Intern (Data and Technology)](https://jobright.ai/jobs/info/69e164fcfd1c0456f3fae106?utm_campaign=1050&utm_source=git)** | Danbury, CT | On Site | Apr 16 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Administrative Specialist II](https://jobright.ai/jobs/info/69e164e9d612782e611486cc?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 16 |
+| **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e163966c20aa1149540de3?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Apr 16 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e16384ff71e82d604b6aca?utm_campaign=1050&utm_source=git)** | Boone, MO | On Site | Apr 16 |
+| **[BMO](http://www.bmo.com)** | **[Derivative Ops Analyst, Summer 2026  (Co-op/Internship) – 4 Months](https://jobright.ai/jobs/info/69e161bffd1c0456f3fadf90?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 16 |
+| **[Payer Sciences](https://www.payersciences.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e15e74ff71e82d604b68c0?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 16 |
+| **[247Cashman](https://247cashman.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69e15e546c20aa1149540bf0?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e15e3efd1c0456f3faddbb?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 16 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Ann Arbor Ypsilanti at Eagle Crest - Hospitality Management Intern](https://jobright.ai/jobs/info/69e15a5fd612782e61148437?utm_campaign=1050&utm_source=git)** | Ypsilanti, MI | On Site | Apr 16 |
 | **[SAP](https://www.sap.com)** | **[SAP HCM iXp Intern - Operations Associate - SUMMER 2026](https://jobright.ai/jobs/info/69e158daff71e82d604b67bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e158c66c20aa1149540b13?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e158a3ff71e82d604b6755?utm_campaign=1050&utm_source=git)** | Rochester, NY | Hybrid | Apr 16 |
@@ -98,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern - Supply Chain and Logistics](https://jobright.ai/jobs/info/69e13966ff71e82d604b5c9b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[Progress Residential®](https://rentprogress.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/69e1395340a62c1fa93b7397?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Accident and Health Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/69e139506c20aa114953ff28?utm_campaign=1050&utm_source=git)** | Marblehead, MA | Hybrid | Apr 16 |
-| **[Champion Homes](https://www.exitrealtych.com)** | **[Internship - Office Clerk](https://jobright.ai/jobs/info/69e15902acc736112f5c3368?utm_campaign=1050&utm_source=git)** | Topeka, IN | On Site | Apr 16 |
 | **[Kiewit](http://www.kiewit.com)** | **[Kiewit Business Services Intern - Summer 2026](https://jobright.ai/jobs/info/69e135e4acc736112f5c26bf?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 16 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Administrative Assistant to the Chair, Political Science](https://jobright.ai/jobs/info/69e135bdd612782e61147664?utm_campaign=1050&utm_source=git)** | Guelph, ON | On Site | Apr 16 |
 | **[Torch Technologies, Inc.](https://www.torchtechnologies.com)** | **[F&A Program Control Intern – Summer 2026](https://jobright.ai/jobs/info/69e135a2fd1c0456f3facfd2?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 16 |
@@ -115,6 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship - Remote](https://jobright.ai/jobs/info/69e122dbd612782e611470b2?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/698c727078b4502f12a2fa4e?utm_campaign=1050&utm_source=git)** | Rio Rancho, NM | On Site | Apr 16 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Administrative Coordinator II](https://jobright.ai/jobs/info/69e12244fd1c0456f3faca50?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Apr 16 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
+| **[City of New York](http://www1.nyc.gov)** | **[Health Management Division (HMD) Intern](https://jobright.ai/jobs/info/69e1631440a62c1fa93b81e8?utm_campaign=1050&utm_source=git)** | Queens, NY | On Site | Apr 16 |
 | **[Hodess](https://www.hodesscleanrooms.com)** | **[Intern](https://jobright.ai/jobs/info/69c521f38bf5e74cea162fab?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 16 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[PMO Analyst and Business Intelligence Intern](https://jobright.ai/jobs/info/69e12135ff71e82d604b541e?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Apr 16 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Project Management Intern](https://jobright.ai/jobs/info/69e11cfafd1c0456f3fac87c?utm_campaign=1050&utm_source=git)** | US-California-Irvine Co-working | On Site | Apr 16 |
@@ -141,20 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Ketchikan](https://jobright.ai/jobs/info/69c631e41b5ad0288737fc1e?utm_campaign=1050&utm_source=git)** | Wrangell, AK | On Site | Apr 16 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship](https://jobright.ai/jobs/info/69e0ffcb40a62c1fa93b6303?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Asian Community Development Corporation](https://asiancdc.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e0ff9aff71e82d604b4b70?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 16 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Coastal Orange County District](https://jobright.ai/jobs/info/69e12a53acc736112f5c224c?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 16 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Silicon Peak](https://jobright.ai/jobs/info/69e12847ff71e82d604b55fa?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Apr 16 |
 | ↳ | **[Branch Manager Silicon Peak](https://jobright.ai/jobs/info/69e1289bd612782e61147221?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager Silicon Peak](https://jobright.ai/jobs/info/69e12847ff71e82d604b55fa?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager - Torrance Coastal](https://jobright.ai/jobs/info/69df0adbe34484770f1a6bb7?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Apr 16 |
+| ↳ | **[Branch Manager Coastal Orange County District](https://jobright.ai/jobs/info/69e12a53acc736112f5c224c?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 16 |
 | ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69e12a53acc736112f5c224b?utm_campaign=1050&utm_source=git)** | Rockwall, TX | On Site | Apr 16 |
+| ↳ | **[Branch Manager - Torrance Coastal](https://jobright.ai/jobs/info/69df0adbe34484770f1a6bb7?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Apr 16 |
 | ↳ | **[Branch Manager Northeast Dallas District](https://jobright.ai/jobs/info/69e12a66fd1c0456f3facc0e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
-| ↳ | **[Branch Manager Piedmont South](https://jobright.ai/jobs/info/69e1284fff71e82d604b55fb?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | Apr 16 |
-| ↳ | **[Branch Manager Coastal Orange County District](https://jobright.ai/jobs/info/69e12850ff71e82d604b55fe?utm_campaign=1050&utm_source=git)** | Costa Mesa, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager - Torrance Coastal](https://jobright.ai/jobs/info/69e0f1be40a62c1fa93b5b73?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 16 |
-| ↳ | **[Branch Manager - Torrance Coastal](https://jobright.ai/jobs/info/69e0eb53ff71e82d604b4117?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager - La Cienega Corridor](https://jobright.ai/jobs/info/69c53fd783ea553769fc7a3f?utm_campaign=1050&utm_source=git)** | Inglewood, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager Mid Cities North Dallas](https://jobright.ai/jobs/info/69e1289cd612782e61147222?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e0ff50acc736112f5c166d?utm_campaign=1050&utm_source=git)** | Oakdale, MN | On Site | Apr 16 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship](https://jobright.ai/jobs/info/69e0ff39d612782e611466d9?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Apr 16 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Peninsula Gateway](https://jobright.ai/jobs/info/69e0ff2f40a62c1fa93b6194?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager Brooklyn DeNovo](https://jobright.ai/jobs/info/69c53fb7aa3c2c1995dfc6fb?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
