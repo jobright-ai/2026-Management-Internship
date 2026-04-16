@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Gund Company](http://thegundcompany.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69e01ed0e34484770f1aca19?utm_campaign=1050&utm_source=git)** | St. Louis,MO,US | On Site | Apr 15 |
 | **[RiverWoods](https://riverwoodsrc.org/)** | **[Volunteer Administrative Assistant in Inquiry Management](https://jobright.ai/jobs/info/69e01505433ac8430e0e4451?utm_campaign=1050&utm_source=git)** | Durham, NH | On Site | Apr 15 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Logistics](https://jobright.ai/jobs/info/69e0109f4920452a85dd1784?utm_campaign=1050&utm_source=git)** | Sunnyvale, TX | On Site | Apr 15 |
 | **[Lee Industrial Contracting](https://www.leecontracting.com/)** | **[Intern](https://jobright.ai/jobs/info/69e0107814bf245fc7a6fbbf?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Apr 15 |
@@ -95,9 +96,8 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff26a4920452a85dd07a3?utm_campaign=1050&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff26a4920452a85dd079c?utm_campaign=1050&utm_source=git)** | 19720 | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff256aba61f141731e698?utm_campaign=1050&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
-| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
-| **[Sunlight Financial](http://www.sunlightfinancial.com/)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/69dff05be34484770f1ab6e3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
 | **[Five Below](http://www.fivebelow.com)** | **[Five Below Ship Center Georgia Summer Intern](https://jobright.ai/jobs/info/69dff024433ac8430e0e314b?utm_campaign=1050&utm_source=git)** | Forsyth, GA | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Administration Intern](https://jobright.ai/jobs/info/69dff024e34484770f1ab659?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Manager Of Research And Planning(Hybrid)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48d?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Apr 15 |
