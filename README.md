@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Construction Manager Intern](https://jobright.ai/jobs/info/69e03b35433ac8430e0e50fc?utm_campaign=1050&utm_source=git)** | Caldwell, ID | On Site | Apr 15 |
 | **[Social Enterprise for Canada](https://www.socialenterprise.ca/)** | **[Operations Supervisor, EarlyON Child and Family Centres](https://jobright.ai/jobs/info/69e03968e34484770f1ad4a8?utm_campaign=1050&utm_source=git)** | Aurora, ON | On Site | Apr 15 |
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant to the Chair](https://jobright.ai/jobs/info/69e0392514bf245fc7a70969?utm_campaign=1050&utm_source=git)** | Calgary, AB | Hybrid | Apr 15 |
-| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad28e?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Apr 15 |
-| ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad290?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad290?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad28e?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Apr 15 |
 | ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03214aba61f141732014b?utm_campaign=1050&utm_source=git)** | Linthicum, MD | On Site | Apr 15 |
 | ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e031f04920452a85dd230e?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69e02db514bf245fc7a705ec?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff26a4920452a85dd07a3?utm_campaign=1050&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff26a4920452a85dd079c?utm_campaign=1050&utm_source=git)** | 19720 | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff256aba61f141731e698?utm_campaign=1050&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
-| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
 | **[Five Below](http://www.fivebelow.com)** | **[Five Below Ship Center Georgia Summer Intern](https://jobright.ai/jobs/info/69dff024433ac8430e0e314b?utm_campaign=1050&utm_source=git)** | Forsyth, GA | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Administration Intern](https://jobright.ai/jobs/info/69dff024e34484770f1ab659?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Manager Of Research And Planning(Hybrid)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48d?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Apr 15 |
