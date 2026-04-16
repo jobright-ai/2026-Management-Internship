@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loenbro](http://loenbro.com)** | **[Intern](https://jobright.ai/jobs/info/69e0bd1cd612782e61144d8b?utm_campaign=1050&utm_source=git)** | Arizona | On Site | Apr 16 |
+| **[PNC](http://www.pnc.com)** | **[Operations Specialist Senior](https://jobright.ai/jobs/info/69e0b932e7504b3764731367?utm_campaign=1050&utm_source=git)** | Ohio, United States | Hybrid | Apr 16 |
+| ↳ | **[Operations Specialist Senior](https://jobright.ai/jobs/info/69e0b92eff71e82d604b2f44?utm_campaign=1050&utm_source=git)** | Utah, United States | Hybrid | Apr 16 |
+| ↳ | **[Operations Specialist Senior](https://jobright.ai/jobs/info/69e0b92d6c20aa114953d341?utm_campaign=1050&utm_source=git)** | Texas, United States | Hybrid | Apr 16 |
+| ↳ | **[Operations Specialist Senior](https://jobright.ai/jobs/info/69e0b7d2ff71e82d604b2f0f?utm_campaign=1050&utm_source=git)** | Illinois, United States | Hybrid | Apr 16 |
+| ↳ | **[Operations Specialist Senior](https://jobright.ai/jobs/info/69e0b7d2ff71e82d604b2f11?utm_campaign=1050&utm_source=git)** | United, PA | Hybrid | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69e0b36cd612782e61144a47?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 16 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69db3ff9869c7e25d85a7122?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Apr 16 |
+| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/69c452ae33eecf3107948ca5?utm_campaign=1050&utm_source=git)** | Waterbury, CT | On Site | Apr 16 |
 | **[Wichita Public Schools - USD259](https://www.usd259.org)** | **[Administrative Assistant 3 (2026-2027 School Year)](https://jobright.ai/jobs/info/69e097bfc17d1d52543355e9?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 16 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Summer Associate, Strategy, AI and M&A](https://jobright.ai/jobs/info/69e09016c5691b27c176e193?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Apr 16 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e08135cf5a9e0c33c86f19?utm_campaign=1050&utm_source=git)** | New Rochelle, NY | Hybrid | Apr 15 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b279564e855a25ddcca?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b10b20fd532b4ae1d49?utm_campaign=1050&utm_source=git)** | Menands, NY | Hybrid | Apr 15 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b05b20fd532b4ae1d35?utm_campaign=1050&utm_source=git)** | Menands, NY | Hybrid | Apr 15 |
+| **[Virginia Bankers Association](https://www.vabankers.org/)** | **[Bank Operations - Business Project Analyst (Wir...](https://jobright.ai/jobs/info/69e0b4dc56ce9f5cfb85be41?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 15 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69c187ff2c312363dcd4873b?utm_campaign=1050&utm_source=git)** | Spokane | On Site | Apr 15 |
 | **[Public Health Institute](http://www.phi.org)** | **[Program Analyst](https://jobright.ai/jobs/info/69e0623f9564e855a25dd1bc?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69e04f44b20fd532b4ae0a08?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 15 |
@@ -132,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dff2995913ad3398146c33?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Apr 15 |
 | **[Michigan State University](http://msu.edu)** | **[Manager of Facilities Management Systems / Information Technologist III/S](https://jobright.ai/jobs/info/69dff27faba61f141731e703?utm_campaign=1050&utm_source=git)** | East Lansing, MI | Hybrid | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed07?utm_campaign=1050&utm_source=git)** | 100 Steel Dr. | On Site | Apr 15 |
-| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e433ac8430e0e33a0?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | Apr 15 |
-| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed09?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | Apr 15 |
+| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed09?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | Apr 15 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e433ac8430e0e33a0?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff26a4920452a85dd07a3?utm_campaign=1050&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff26a4920452a85dd079c?utm_campaign=1050&utm_source=git)** | 19720 | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff256aba61f141731e698?utm_campaign=1050&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69dfeba55913ad3398146856?utm_campaign=1050&utm_source=git)** | Dallas | On Site | Apr 15 |
 | **[Trench Group](https://trench-group.com/)** | **[Order Management Process Intern (12 Month Contract)](https://jobright.ai/jobs/info/69dfe8a65913ad3398146726?utm_campaign=1050&utm_source=git)** | Pickering, ON | On Site | Apr 15 |
 | **[Youth Services Bureau of Ottawa](http://www.ysb.ca)** | **[Bilingual Administrative Assistant, Mental Health](https://jobright.ai/jobs/info/69dfe89ce34484770f1ab33e?utm_campaign=1050&utm_source=git)** | Ottawa, ON | On Site | Apr 15 |
-| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student - Intern](https://jobright.ai/jobs/info/69dfe895aba61f141731e337?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
-| **[Lee Industrial Contracting](https://www.leecontracting.com/)** | **[Intern](https://jobright.ai/jobs/info/69dfe7c35913ad3398146604?utm_campaign=1050&utm_source=git)** | Midland, Michigan, United States | On Site | Apr 15 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/69a899f679f3f4037f42a300?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 15 |
-| **[Marten Transport](http://marten.com/)** | **[Supply Chain & Ops Intern](https://jobright.ai/jobs/info/69dfe6d74920452a85dd027e?utm_campaign=1050&utm_source=git)** | Wilsonville, OR | On Site | Apr 15 |
-| **[WestCongress Insurance Services LLC](https://www.westcongress.com/)** | **[Summer Insurance Internship](https://jobright.ai/jobs/info/69dfe381e34484770f1ab083?utm_campaign=1050&utm_source=git)** | Manchester, NH 03101 | On Site | Apr 15 |
-| **[Franklin County Public Health](http://www.myfcph.org)** | **[Unpaid Intern - Health Works Franklin County (2 positions)](https://jobright.ai/jobs/info/69dfe36a433ac8430e0e2c3f?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Apr 15 |
-| **[Indus Communities](https://www.induscommunities.com)** | **[Intern Associate](https://jobright.ai/jobs/info/69dfdb375913ad3398146261?utm_campaign=1050&utm_source=git)** | HOUSTON,TX,US | On Site | Apr 15 |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Longview](https://jobright.ai/jobs/info/69dfdb044920452a85dcfec1?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Apr 15 |
-| **[ESCO Automation](http://theescogroup.com)** | **[Intern - Project Management (Electrical Division)](https://jobright.ai/jobs/info/69dfda9f433ac8430e0e29ee?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Apr 15 |
-| **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[** Operations Project Management Intern](https://jobright.ai/jobs/info/69c428436f4f855eeda68559?utm_campaign=1050&utm_source=git)** | Michigan City, IN | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
