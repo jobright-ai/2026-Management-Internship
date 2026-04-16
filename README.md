@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Summer Associate, Strategy, AI and M&A](https://jobright.ai/jobs/info/69e09016c5691b27c176e193?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Apr 16 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e08135cf5a9e0c33c86f19?utm_campaign=1050&utm_source=git)** | New Rochelle, NY | Hybrid | Apr 15 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b279564e855a25ddcca?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/69e07b10b20fd532b4ae1d49?utm_campaign=1050&utm_source=git)** | Menands, NY | Hybrid | Apr 15 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship](https://jobright.ai/jobs/info/69e044c74920452a85dd2772?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Apr 15 |
 | **[Liquid Group LLC](jhdbgfjgkdsfg)** | **[Vice President Global Procurement](https://jobright.ai/jobs/info/69e044a314bf245fc7a70bf2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e041f9e34484770f1ad625?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Apr 15 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e041afaba61f141732055b?utm_campaign=1050&utm_source=git)** | Ionia, MI | On Site | Apr 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e041afaba61f141732055d?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Apr 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e041afaba61f141732055b?utm_campaign=1050&utm_source=git)** | Ionia, MI | On Site | Apr 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e041ac5913ad33981489fe?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Apr 15 |
 | **[SideKix HQ Inc.](SideKixHQ.com)** | **[Business Operations & Admin Internship (unpaid)](https://jobright.ai/jobs/info/69e03b04e34484770f1ad4ec?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 15 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Facilities Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e040dd4920452a85dd26af?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
@@ -83,12 +84,11 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Construction Manager Intern](https://jobright.ai/jobs/info/69e03b35433ac8430e0e50fc?utm_campaign=1050&utm_source=git)** | Caldwell, ID | On Site | Apr 15 |
 | **[Social Enterprise for Canada](https://www.socialenterprise.ca/)** | **[Operations Supervisor, EarlyON Child and Family Centres](https://jobright.ai/jobs/info/69e03968e34484770f1ad4a8?utm_campaign=1050&utm_source=git)** | Aurora, ON | On Site | Apr 15 |
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant to the Chair](https://jobright.ai/jobs/info/69e0392514bf245fc7a70969?utm_campaign=1050&utm_source=git)** | Calgary, AB | Hybrid | Apr 15 |
-| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad28e?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Apr 15 |
-| ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad290?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad290?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 15 |
+| ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03322e34484770f1ad28e?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Apr 15 |
 | ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03214aba61f141732014a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e03214aba61f141732014b?utm_campaign=1050&utm_source=git)** | Linthicum, MD | On Site | Apr 15 |
 | ↳ | **[Sea Logistics Summer Internship](https://jobright.ai/jobs/info/69e031f04920452a85dd230e?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/69e04df7b20fd532b4ae09ed?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 15 |
 | **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69e02db514bf245fc7a705ec?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Apr 15 |
 | **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e02da64920452a85dd2102?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Apr 15 |
 | **[Middlesex Water Company](http://middlesexwater.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69e02d85e34484770f1ad0b5?utm_campaign=1050&utm_source=git)** | Edison , NJ | On Site | Apr 15 |
@@ -133,17 +133,16 @@ For a complete list, click the following sortable link below:
 | **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dff2995913ad3398146c33?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Apr 15 |
 | **[Michigan State University](http://msu.edu)** | **[Manager of Facilities Management Systems / Information Technologist III/S](https://jobright.ai/jobs/info/69dff27faba61f141731e703?utm_campaign=1050&utm_source=git)** | East Lansing, MI | Hybrid | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed07?utm_campaign=1050&utm_source=git)** | 100 Steel Dr. | On Site | Apr 15 |
-| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e433ac8430e0e33a0?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | Apr 15 |
-| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed09?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | Apr 15 |
+| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e14bf245fc7a6ed09?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | Apr 15 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/69dff27e433ac8430e0e33a0?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff26a4920452a85dd07a3?utm_campaign=1050&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff26a4920452a85dd079c?utm_campaign=1050&utm_source=git)** | 19720 | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology- Business & Quality Analysis Summer Internship Program](https://jobright.ai/jobs/info/69dff256aba61f141731e698?utm_campaign=1050&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
-| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69dff252aba61f141731e67b?utm_campaign=1050&utm_source=git)** | US-DE-New Castle | On Site | Apr 15 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69dff2525913ad3398146b56?utm_campaign=1050&utm_source=git)** | New Castle, DE, US | On Site | Apr 15 |
 | **[Five Below](http://www.fivebelow.com)** | **[Five Below Ship Center Georgia Summer Intern](https://jobright.ai/jobs/info/69dff024433ac8430e0e314b?utm_campaign=1050&utm_source=git)** | Forsyth, GA | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Administration Intern](https://jobright.ai/jobs/info/69dff024e34484770f1ab659?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Manager Of Research And Planning(Hybrid)](https://jobright.ai/jobs/info/69dfec7caba61f141731e48d?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Apr 15 |
-| **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69dfec224920452a85dd0566?utm_campaign=1050&utm_source=git)** | Walworth, NY | On Site | Apr 15 |
 | **[PCI Group](http://www.pcigroup.com)** | **[SUMMER INTERN OPERATIONS](https://jobright.ai/jobs/info/69dfebaf5913ad3398146875?utm_campaign=1050&utm_source=git)** | Irving, TX, US | On Site | Apr 15 |
 | **[Santander](https://www.santander.com/)** | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69dfebae14bf245fc7a6e9b2?utm_campaign=1050&utm_source=git)** | Dallas | On Site | Apr 15 |
 | ↳ | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69dfeba55913ad3398146856?utm_campaign=1050&utm_source=git)** | Dallas | On Site | Apr 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Public Health](http://www.myfcph.org)** | **[Unpaid Intern - Health Works Franklin County (2 positions)](https://jobright.ai/jobs/info/69dfe36a433ac8430e0e2c3f?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Apr 15 |
 | **[Indus Communities](https://www.induscommunities.com)** | **[Intern Associate](https://jobright.ai/jobs/info/69dfdb375913ad3398146261?utm_campaign=1050&utm_source=git)** | HOUSTON,TX,US | On Site | Apr 15 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Longview](https://jobright.ai/jobs/info/69dfdb044920452a85dcfec1?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Apr 15 |
+| **[ESCO Automation](http://theescogroup.com)** | **[Intern - Project Management (Electrical Division)](https://jobright.ai/jobs/info/69dfda9f433ac8430e0e29ee?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
