@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Land Operations (Austin)](https://jobright.ai/jobs/info/69997b96e0bddb6acac8bf5e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 17 |
+| **[Acuity](https://www.acuityinc.com)** | **[Summer Internship - Facilities & MRO / Indirect Sourcing (JR12977)](https://jobright.ai/jobs/info/69d5f9d9366bb95ba554a770?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 17 |
+| **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Business Administration Summer Internship](https://jobright.ai/jobs/info/69aa02972ebd316bece1c113?utm_campaign=1050&utm_source=git)** | Trenton, NJ | On Site | Apr 17 |
+| **[takealot.com](https://www.takealot.com)** | **[Transport & logistics Internship](https://jobright.ai/jobs/info/69e21014874d412bcbbc23ff?utm_campaign=1050&utm_source=git)** | Johannesburg, CA | On Site | Apr 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Strategy & Planning Intern Summer 2026](https://jobright.ai/jobs/info/69c585ec1818a24cd84b786f?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 17 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69c5df121818a24cd84bbf87?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | Apr 17 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Dallas Northeast Texas District](https://jobright.ai/jobs/info/69e209a154b14c382cea1dd5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
@@ -106,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Project Services](https://jobright.ai/jobs/info/69e17d3e40a62c1fa93b8af1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[Southern Landscape Group, Inc.](https://www.soscapes.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e17a306c20aa11495415f0?utm_campaign=1050&utm_source=git)** | Evington, VA | On Site | Apr 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Administration Intern – Order Management & Shop](https://jobright.ai/jobs/info/69e1979eff71e82d604b79ce?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
-| **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/69e196b640a62c1fa93b9066?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | Apr 16 |
+| **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/69e1967b6c20aa1149541cd1?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Apr 16 |
 | ↳ | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/69e196bbd612782e611494ba?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Apr 16 |
-| ↳ | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/69e1967b6c20aa1149541cd1?utm_campaign=1050&utm_source=git)** | Onsite | On Site | Apr 16 |
+| ↳ | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/69e196b640a62c1fa93b9066?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | Apr 16 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Property Services Coordinator](https://jobright.ai/jobs/info/69e1970040a62c1fa93b90f7?utm_campaign=1050&utm_source=git)** | Vancouver, BC | Hybrid | Apr 16 |
 | **[Vericel® Corporation](http://vcel.com/)** | **[Meetings & Events Summer Intern](https://jobright.ai/jobs/info/69e16fefff71e82d604b7097?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Apr 16 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern - Supply Chain and Logistics](https://jobright.ai/jobs/info/69e16fd5d612782e61148b54?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Detroit Diesel Allison](https://fdda.com/)** | **[Intern](https://jobright.ai/jobs/info/69e142b26c20aa114954036b?utm_campaign=1050&utm_source=git)** | US-TX-Houston | On Site | Apr 16 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Apr 16 |
 | **[Hadco Construction](https://www.hadcoconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69e13f696c20aa114954029c?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Apr 16 |
-| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Project Manager Internship - Restoration/Construction](https://jobright.ai/jobs/info/69e1eb5940a62c1fa93bd184?utm_campaign=1050&utm_source=git)** | 3401 Quorum Drive, Fort Worth, TX, United States | On Site | Apr 16 |
-| **[Evergreen School Division](https://www.esd.ca)** | **[2026.OP.04 Administrative Assistant to Maintenance](https://jobright.ai/jobs/info/69e16e3f6c20aa1149541222?utm_campaign=1050&utm_source=git)** | Gimli, MB | On Site | Apr 16 |
-| **[Montage](https://montagefs.com)** | **[Intern- Marine Insurance (Summer 2026)](https://jobright.ai/jobs/info/69e1ae89d612782e61149da9?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Apr 16 |
-| **[Reingold, Inc.](http://reingold.com)** | **[Digital Project Management/Content Strategy Intern](https://jobright.ai/jobs/info/69e139c6d612782e611478b4?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
