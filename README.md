@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Climate Analytics](https://climateanalytics.org/)** | **[Facilitator - North America Office Team Retreat](https://jobright.ai/jobs/info/69e1ed39acc736112f5c81f8?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Lookout Housing + Health Society](https://lookoutsociety.ca/)** | **[Job Title                                                   Administrative Assistant](https://jobright.ai/jobs/info/69e1e50940a62c1fa93bcfd0?utm_campaign=1050&utm_source=git)** | Surrey, BC | On Site | Apr 17 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Apr 16 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Detroit Diesel Allison](https://fdda.com/)** | **[Intern](https://jobright.ai/jobs/info/69e142b26c20aa114954036b?utm_campaign=1050&utm_source=git)** | US-TX-Houston | On Site | Apr 16 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Apr 16 |
 | **[Hadco Construction](https://www.hadcoconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69e13f696c20aa114954029c?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Apr 16 |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Project Manager Internship - Restoration/Construction](https://jobright.ai/jobs/info/69e1eb5940a62c1fa93bd184?utm_campaign=1050&utm_source=git)** | 3401 Quorum Drive, Fort Worth, TX, United States | On Site | Apr 16 |
 | **[Evergreen School Division](https://www.esd.ca)** | **[2026.OP.04 Administrative Assistant to Maintenance](https://jobright.ai/jobs/info/69e16e3f6c20aa1149541222?utm_campaign=1050&utm_source=git)** | Gimli, MB | On Site | Apr 16 |
 | **[Montage](https://montagefs.com)** | **[Intern- Marine Insurance (Summer 2026)](https://jobright.ai/jobs/info/69e1ae89d612782e61149da9?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Apr 16 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Digital Project Management/Content Strategy Intern](https://jobright.ai/jobs/info/69e139c6d612782e611478b4?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[IIE Program Coordinator](https://jobright.ai/jobs/info/69e16fb640a62c1fa93b877c?utm_campaign=1050&utm_source=git)** | Calgary, AB | Hybrid | Apr 16 |
 | **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69e16e57d612782e61148a68?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[Pretium Enterprise Services, India](www.pretium.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/69e12e65fd1c0456f3face3c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[PMO Analyst and Business Intelligence Intern](https://jobright.ai/jobs/info/69e12c3bff71e82d604b57af?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 16 |
-| **[Upbound Group](https://www.upbound.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69e12bdf40a62c1fa93b6e96?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
