@@ -57,12 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
+| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69e29636fcfcbd43860a38bc?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Apr 17 |
+| **[IB Global LP](https://ibglobal.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e2959b3770bd5361cd918c?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
+| **[Knife River Corporation](https://www.kniferiver.com/)** | **[PROJECT MANAGER INTERN](https://jobright.ai/jobs/info/69e28e6f3770bd5361cd9035?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Apr 17 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Bagging)](https://jobright.ai/jobs/info/69e28e4b3770bd5361cd8f7c?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
+| ↳ | **[Summer Internship, Operations (Presort)](https://jobright.ai/jobs/info/69e28e455c44d4710fe25b62?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
+| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Operations Intern](https://jobright.ai/jobs/info/69e28e323770bd5361cd8f28?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 17 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Orange & Lemon)](https://jobright.ai/jobs/info/69e28e1bfcfcbd43860a3733?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
+| ↳ | **[Summer Internship, Logistics](https://jobright.ai/jobs/info/69e28e0e3ce36005badbeaf9?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
+| **[Camp Sewataro](https://www.sewataro.com)** | **[Transportation & Logistics Coordinator (Summer Internship)](https://jobright.ai/jobs/info/69e28de72f2865359307713d?utm_campaign=1050&utm_source=git)** | Sudbury, MA | On Site | Apr 17 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69d3394dcdb525785fbbd869?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 17 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69c5b02daa3c2c1995e030a5?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Executive Assistant (Summer - Intern)](https://jobright.ai/jobs/info/69e289213770bd5361cd8d9e?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[North America Virtual Operation Centers Paid Intern](https://jobright.ai/jobs/info/69e0d28240a62c1fa93b5059?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Remote | Apr 17 |
 | **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Planning Intern](https://jobright.ai/jobs/info/69c5a7fc1b5ad028873777f7?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Greystar](http://greystar.com)** | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e288385c44d4710fe25903?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8fad179f3f4037f439cf1?utm_campaign=1050&utm_source=git)** | Burlington, WA | On Site | Apr 17 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Area Planning (US Central) - Paid Intern](https://jobright.ai/jobs/info/69e28064be46fa3a4ef5780f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 17 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69e1b449fd1c0456f3faf857?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Apr 17 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/69e27bb63ce36005badbe4da?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Apr 17 |
@@ -70,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Program Operations Coordinator Intern](https://jobright.ai/jobs/info/69e272732f28653593076b36?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 17 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern: Supply Planning](https://jobright.ai/jobs/info/69c5a4c8aa3c2c1995e0292d?utm_campaign=1050&utm_source=git)** | Carson, CA | On Site | Apr 17 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69c57b3483ea553769fcaab1?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 17 |
+| **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[Executive Assistant - Office of the Vice President & Chief of Staff](https://jobright.ai/jobs/info/69e28e21be46fa3a4ef57aa8?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Apr 17 |
 | **[Olympic Steel](https://olysteel.com)** | **[Intern (Operations)](https://jobright.ai/jobs/info/69e28832fcfcbd43860a344d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/698c832a0f6f7e7a2ce83941?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Apr 17 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Operations and Client Systems Internship / Fall 2026](https://jobright.ai/jobs/info/69e251433770bd5361cd8200?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Apr 17 |
@@ -109,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management](https://jobright.ai/jobs/info/69c55135e565c26a7000e354?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
 | **[Smart & Biggar](http://www.smartbiggar.ca)** | **[Summer student - Administrative Clerk](https://jobright.ai/jobs/info/69e271585c44d4710fe251d6?utm_campaign=1050&utm_source=git)** | Montreal, QC | On Site | Apr 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e27172be46fa3a4ef571ee?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Apr 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e271485c44d4710fe25184?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e271525c44d4710fe251ba?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Apr 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e271485c44d4710fe25184?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e271553ce36005badbe0ac?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Apr 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e27172be46fa3a4ef571e3?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Apr 17 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69c641201818a24cd84c2063?utm_campaign=1050&utm_source=git)** | Cloquet, MN | On Site | Apr 17 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager Belmont](https://jobright.ai/jobs/info/69e228fbcda04a632939ff8c?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Apr 17 |
 | ↳ | **[Branch Manager Sarasota](https://jobright.ai/jobs/info/69e2232d5183fd1fa64f9b78?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 17 |
 | ↳ | **[Branch Manager Sarasota](https://jobright.ai/jobs/info/69e22224ed4dfe55c455f7dd?utm_campaign=1050&utm_source=git)** | Venice, FL | On Site | Apr 17 |
-| ↳ | **[Branch Manager Belmont](https://jobright.ai/jobs/info/69e2230c6523147bd0d87cc0?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Apr 17 |
-| ↳ | **[Branch Manager Sarasota](https://jobright.ai/jobs/info/69e271905c44d4710fe252f0?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Apr 17 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Food & Beverage Project Management Intern, Kohler](https://jobright.ai/jobs/info/69c59d9aaa9a29199e807a0b?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Apr 17 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Strategic Sourcing Internship](https://jobright.ai/jobs/info/69e1fc42acc736112f5c87d3?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
-| **[Climate Analytics](https://climateanalytics.org/)** | **[Facilitator - North America Office Team Retreat](https://jobright.ai/jobs/info/69e1ed39acc736112f5c81f8?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
-| **[City of Toronto](http://www.toronto.ca)** | **[SENIOR PROJECT MANAGER STRATEGIC PROJ RE](https://jobright.ai/jobs/info/69e22859cda04a632939fc72?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Administrative Assistant, Mosquito Control](https://jobright.ai/jobs/info/69e208f1e3f0ee50c92e0b15?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
-| **[Lookout Housing + Health Society](https://lookoutsociety.ca/)** | **[Job Title                                                   Administrative Assistant](https://jobright.ai/jobs/info/69e1e50940a62c1fa93bcfd0?utm_campaign=1050&utm_source=git)** | Surrey, BC | On Site | Apr 17 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 16 |
-| **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Apr 16 |
-| **[Khan Academy](http://khanacademy.org/)** | **[Senior Program Manager, International Enablement](https://jobright.ai/jobs/info/69e1c6beff71e82d604b8a45?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Remote | Apr 16 |
-| **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e1c415fd1c0456f3faff7f?utm_campaign=1050&utm_source=git)** | Syracuse, NY | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
