@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69e18342d612782e61148fcf?utm_campaign=1050&utm_source=git)** | Norwich, NY | On Site | Apr 16 |
+| **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69e17ef26c20aa1149541733?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
+| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e17daafd1c0456f3fae8ad?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 16 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Project Services](https://jobright.ai/jobs/info/69e17d3e40a62c1fa93b8af1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
+| **[Southern Landscape Group, Inc.](https://www.soscapes.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e17a306c20aa11495415f0?utm_campaign=1050&utm_source=git)** | Evington, VA | On Site | Apr 16 |
 | **[Vericel® Corporation](http://vcel.com/)** | **[Meetings & Events Summer Intern](https://jobright.ai/jobs/info/69e16fefff71e82d604b7097?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Apr 16 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern - Supply Chain and Logistics](https://jobright.ai/jobs/info/69e16fd5d612782e61148b54?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[Koch](https://www.kochinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69e16e22d612782e61148a00?utm_campaign=1050&utm_source=git)** | Norwich, NY | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69e16ac76c20aa11495410e5?utm_campaign=1050&utm_source=git)** | Greenville, NC | On Site | Apr 16 |
 | **[Torch Technologies, Inc.](https://www.torchtechnologies.com)** | **[F&A Program Control Intern – Summer 2026](https://jobright.ai/jobs/info/69e16996d612782e611488f9?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 16 |
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[Operations and Information Management Intern (Data and Technology)](https://jobright.ai/jobs/info/69e164fcfd1c0456f3fae106?utm_campaign=1050&utm_source=git)** | Danbury, CT | On Site | Apr 16 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Grocery Operations](https://jobright.ai/jobs/info/69dd1fb761f6ed54321fb521?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 16 |
 | **[GWL Realty Advisors](http://www.gwlrealtyadvisors.com/)** | **[Property Administrator Summer Student 2026](https://jobright.ai/jobs/info/698b9a6bc5761b521a9b2a7b?utm_campaign=1050&utm_source=git)** | Burnaby, BC | On Site | Apr 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Airport Management Trainee Intern](https://jobright.ai/jobs/info/698c46a378b4502f12a2ca3b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Apr 16 |
+| **[Community Housing Partners](https://www.communityhousingpartners.org)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/69e182aa6c20aa11495417ab?utm_campaign=1050&utm_source=git)** | Community Housing Partners Corporation - Christiansburg, VA 24073 | Hybrid | Apr 16 |
 | **[HOLT Group](https://holtgrp.com)** | **[IronPro Intern- College](https://jobright.ai/jobs/info/69e16a93fd1c0456f3fae32a?utm_campaign=1050&utm_source=git)** | San Antonio | On Site | Apr 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha TIER Transaction Management-Business Analysis, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d66a8be63cea7a8b668c21?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69c3d6ead5a1016e98dac605?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 16 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Custody and Complex Operations - Project Analyst Summer Internship](https://jobright.ai/jobs/info/69d68835cfdc6132f946a6a1?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Apr 16 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager - Torrance Coastal](https://jobright.ai/jobs/info/69df37905913ad33981434c8?utm_campaign=1050&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 16 |
-| ↳ | **[Branch Manager Ketchikan](https://jobright.ai/jobs/info/69c631e41b5ad0288737fc1e?utm_campaign=1050&utm_source=git)** | Wrangell, AK | On Site | Apr 16 |
-| **[Asian Community Development Corporation](https://asiancdc.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e0ff9aff71e82d604b4b70?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 16 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Coastal Orange County District](https://jobright.ai/jobs/info/69e12a53acc736112f5c224c?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
