@@ -57,8 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Strategy & Planning Intern Summer 2026](https://jobright.ai/jobs/info/69c585ec1818a24cd84b786f?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 17 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/69c5df121818a24cd84bbf87?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | Apr 17 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Dallas Northeast Texas District](https://jobright.ai/jobs/info/69e209a154b14c382cea1dd5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e209a054b14c382cea1dd4?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e2099654b14c382cea1dc8?utm_campaign=1050&utm_source=git)** | Redlands, CA | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e20938cdd32f1cb3d2c6fc?utm_campaign=1050&utm_source=git)** | Sun City, CA | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e20937cdd32f1cb3d2c6f8?utm_campaign=1050&utm_source=git)** | San Bernardino, CA | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e2092dcdd32f1cb3d2c6d8?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Apr 17 |
+| ↳ | **[Branch Manager North Seattle](https://jobright.ai/jobs/info/69e2090c2ef4b138ddb25845?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
+| ↳ | **[Branch Manager - San Bernardino Corridor District](https://jobright.ai/jobs/info/69e2090b2ef4b138ddb2583f?utm_campaign=1050&utm_source=git)** | Yucaipa, CA | On Site | Apr 17 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Strategic Sourcing Internship](https://jobright.ai/jobs/info/69e1fc42acc736112f5c87d3?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Climate Analytics](https://climateanalytics.org/)** | **[Facilitator - North America Office Team Retreat](https://jobright.ai/jobs/info/69e1ed39acc736112f5c81f8?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
+| **[Orange County Government](http://www.ocfl.net)** | **[Administrative Assistant, Mosquito Control](https://jobright.ai/jobs/info/69e208f1e3f0ee50c92e0b15?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 17 |
 | **[Lookout Housing + Health Society](https://lookoutsociety.ca/)** | **[Job Title                                                   Administrative Assistant](https://jobright.ai/jobs/info/69e1e50940a62c1fa93bcfd0?utm_campaign=1050&utm_source=git)** | Surrey, BC | On Site | Apr 17 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Apr 16 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Evergreen School Division](https://www.esd.ca)** | **[2026.OP.04 Administrative Assistant to Maintenance](https://jobright.ai/jobs/info/69e16e3f6c20aa1149541222?utm_campaign=1050&utm_source=git)** | Gimli, MB | On Site | Apr 16 |
 | **[Montage](https://montagefs.com)** | **[Intern- Marine Insurance (Summer 2026)](https://jobright.ai/jobs/info/69e1ae89d612782e61149da9?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Apr 16 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Digital Project Management/Content Strategy Intern](https://jobright.ai/jobs/info/69e139c6d612782e611478b4?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69e13994fd1c0456f3fad24c?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 16 |
-| **[British American Business Council of Greater Philadelphia](http://babcphl.com/)** | **[Intern](https://jobright.ai/jobs/info/69e139846c20aa114953ffe9?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69e13968ff71e82d604b5ca3?utm_campaign=1050&utm_source=git)** | Glendale, AZ | On Site | Apr 16 |
-| **[Progress Residential®](https://rentprogress.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/69e1395340a62c1fa93b7397?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Accident and Health Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/69e139506c20aa114953ff28?utm_campaign=1050&utm_source=git)** | Marblehead, MA | Hybrid | Apr 16 |
-| **[Kiewit](http://www.kiewit.com)** | **[Kiewit Business Services Intern - Summer 2026](https://jobright.ai/jobs/info/69e135e4acc736112f5c26bf?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 16 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[Administrative Assistant to the Chair, Political Science](https://jobright.ai/jobs/info/69e135bdd612782e61147664?utm_campaign=1050&utm_source=git)** | Guelph, ON | On Site | Apr 16 |
-| **[Alarm.com](http://www.alarm.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69aa163a1f59c56275e2e5e2?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 16 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Summer 2026](https://jobright.ai/jobs/info/69712b9f51f7264771836011?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 16 |
-| **[Mount Royal University](http://www.mtroyal.ca)** | **[IIE Program Coordinator](https://jobright.ai/jobs/info/69e16fb640a62c1fa93b877c?utm_campaign=1050&utm_source=git)** | Calgary, AB | Hybrid | Apr 16 |
-| **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69e16e57d612782e61148a68?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
