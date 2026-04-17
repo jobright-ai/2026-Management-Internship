@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Apr 16 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Senior Program Manager, International Enablement](https://jobright.ai/jobs/info/69e1c6beff71e82d604b8a45?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Remote | Apr 16 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e1c415fd1c0456f3faff7f?utm_campaign=1050&utm_source=git)** | Syracuse, NY | Hybrid | Apr 16 |
 | **[Community College of Allegheny County](https://caremedicalbillinginc.com/)** | **[Sr. Secretary (Reg FT)](https://jobright.ai/jobs/info/69e1c2b0fd1c0456f3faff0c?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 16 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Administrative Assistant — Advancement Services and Development](https://jobright.ai/jobs/info/69e1b212fd1c0456f3faf7d8?utm_campaign=1050&utm_source=git)** | Huntington, WV | On Site | Apr 16 |
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern, Sourcing & Purchasing](https://jobright.ai/jobs/info/69e18378ff71e82d604b74a3?utm_campaign=1050&utm_source=git)** | Vista, CA | Hybrid | Apr 16 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69e17ef26c20aa1149541733?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e17daafd1c0456f3fae8ad?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 16 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Project Services](https://jobright.ai/jobs/info/69e17d3e40a62c1fa93b8af1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 | **[Southern Landscape Group, Inc.](https://www.soscapes.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e17a306c20aa11495415f0?utm_campaign=1050&utm_source=git)** | Evington, VA | On Site | Apr 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Administration Intern – Order Management & Shop](https://jobright.ai/jobs/info/69e1979eff71e82d604b79ce?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
@@ -110,9 +110,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP HCM iXp Intern - Operations Associate - SUMMER 2026](https://jobright.ai/jobs/info/69e158daff71e82d604b67bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e158c66c20aa1149540b13?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 16 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e158a3ff71e82d604b6755?utm_campaign=1050&utm_source=git)** | Rochester, NY | Hybrid | Apr 16 |
-| ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69e15846d612782e6114831b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Office of the CEO AI & Customer Intelligence Summer Intern](https://jobright.ai/jobs/info/69bdb6104828227293ffff49?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 16 |
-| **[PNC](http://www.pnc.com)** | **[Innovation Lead](https://jobright.ai/jobs/info/69e15481fd1c0456f3fadba2?utm_campaign=1050&utm_source=git)** | Strongsville, OH | On Site | Apr 16 |
 | **[Acima](https://www.acima.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69e153edacc736112f5c31a3?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | Apr 16 |
 | **[Visteon Corporation](http://www.visteon.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e153ecacc736112f5c319e?utm_campaign=1050&utm_source=git)** | Van Buren, MI | On Site | Apr 16 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Property Services Coordinator](https://jobright.ai/jobs/info/69e15382acc736112f5c314c?utm_campaign=1050&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Apr 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[PMO Analyst and Business Intelligence Intern](https://jobright.ai/jobs/info/69e12c3bff71e82d604b57af?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 16 |
 | **[Upbound Group](https://www.upbound.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69e12bdf40a62c1fa93b6e96?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | Apr 16 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Intern-IHT Strategy & Enablement Intern: Business Operations   -   153323](https://jobright.ai/jobs/info/69e12a92fd1c0456f3facc58?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Apr 16 |
+| **[Stepful](https://www.stepful.com/)** | **[Senior GTM Manager, Allied Health](https://jobright.ai/jobs/info/69e12a72acc736112f5c226e?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Apr 16 |
+| **[Interstate Companies, Inc.](http://istate.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e129286c20aa114953fa07?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
