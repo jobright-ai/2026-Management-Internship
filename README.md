@@ -124,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Planning Intern](https://jobright.ai/jobs/info/69c5a7fc1b5ad028873777f7?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Greystar](http://greystar.com)** | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e288385c44d4710fe25903?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8fad179f3f4037f439cf1?utm_campaign=1050&utm_source=git)** | Burlington, WA | On Site | Apr 17 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Longview](https://jobright.ai/jobs/info/69dfdb044920452a85dcfec1?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Apr 17 |
 | **[Zinpro Corporation](https://www.zinpro.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e2b3f35c44d4710fe265f4?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Area Planning (US Central) - Paid Intern](https://jobright.ai/jobs/info/69e28064be46fa3a4ef5780f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69e073bcb20fd532b4ae1a4a?utm_campaign=1050&utm_source=git)** | Fairfield, CT | On Site | Apr 17 |
 | ↳ | **[Branch Manager Irving Dallas District](https://jobright.ai/jobs/info/69e270e9fcfcbd43860a2d27?utm_campaign=1050&utm_source=git)** | Farmers Branch, TX | On Site | Apr 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698d0d2e0f6f7e7a2ce8bfc8?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Apr 17 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69e2710efcfcbd43860a2d32?utm_campaign=1050&utm_source=git)** | Two Harbors, MN | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
