@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69ab3b3e2747003c3d50e8d0?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Apr 18 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Denver](https://jobright.ai/jobs/info/69d62b4048f0c8161d2f6e5b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Apr 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Program Manager Project Intern - BI Advertising Experience - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/698e95aa78b4502f12a56f32?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | Apr 18 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[PMO INTERN](https://jobright.ai/jobs/info/698fb53e0cc8ea15f1da4fe1?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 18 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Operations Continuous Improvement - Operations Quality Assurance Specialist](https://jobright.ai/jobs/info/69c6e89e1b5ad028873882be?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 18 |
 | **[Heartflow](https://www.heartflow.com)** | **[MBA Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69e33f97be46fa3a4ef5a466?utm_campaign=1050&utm_source=git)** | Rohnert Park, California | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69e1b449fd1c0456f3faf857?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Apr 17 |
 | **[Analog Devices](http://www.analog.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69a8c41e2580d3183f00d722?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Apr 17 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/69e27bb63ce36005badbe4da?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Apr 17 |
-| **[Medica](https://www.medica.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/69e279955c44d4710fe2565c?utm_campaign=1050&utm_source=git)** | Hopkins, MN | Hybrid | Apr 17 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e34c822f28653593079a55?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 17 |
-| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Planning Project Manager (9244) - Service Communications](https://jobright.ai/jobs/info/69de898f433ac8430e0da62a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
