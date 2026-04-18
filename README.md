@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardene](https://www.ardene.com)** | **[Acheteur/acheteuse international(e)](https://jobright.ai/jobs/info/69e3990ccd85881c9505f940?utm_campaign=1050&utm_source=git)** | Laval, Quebec, Canada | On Site | Apr 18 |
+| **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
+| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Supply Chain](https://jobright.ai/jobs/info/691e57c63f782d2f1afb401d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 18 |
+| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6cd091818a24cd84c8a5b?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 18 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - EPMO Department](https://jobright.ai/jobs/info/69d3e4c2cfdc6132f94558bc?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 18 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Internship](https://jobright.ai/jobs/info/69c6f2fce565c26a700243b7?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Apr 18 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Apr 18 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69e0e40dff71e82d604b3f1c?utm_campaign=1050&utm_source=git)** | Des Moines, WA | On Site | Apr 18 |
 | **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69ca63a1aa3c2c1995e2cad1?utm_campaign=1050&utm_source=git)** | Oakley, KS | On Site | Apr 18 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
+| ↳ | **[High School Intern](https://jobright.ai/jobs/info/69aa16cf2ebd316bece1d291?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Apr 18 |
+| **[Richemont](https://www.richemont.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69c767f883ea553769fe303b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
+| ↳ | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
 | **[PSECU](http://psecu.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a9e1899ca4e908ec651c67?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 18 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704a71818a24cd84cacf9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 18 |
 | **[River Metals Recycling - A Nucor Company](https://www.rmrecycling.com/)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/69a9eb051f59c56275e2b4d9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
@@ -130,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5afcfcbd43860a6472?utm_campaign=1050&utm_source=git)** | Detroit Metro Airport | On Site | Apr 17 |
-| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5fbe46fa3a4ef5a94f?utm_campaign=1050&utm_source=git)** | 4200 Campus Dr, Newport Beach, 92660 | On Site | Apr 17 |
 | ↳ | **[Operations Intern – Management Track](https://jobright.ai/jobs/info/69e34e503770bd5361cdbcf3?utm_campaign=1050&utm_source=git)** | Charlotte Douglas International Airport | On Site | Apr 17 |
+| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5fbe46fa3a4ef5a94f?utm_campaign=1050&utm_source=git)** | 4200 Campus Dr, Newport Beach, 92660 | On Site | Apr 17 |
 | **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69e29636fcfcbd43860a38bc?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Apr 17 |
 | **[Chinook's Edge School Division](https://www.cesd73.ca/)** | **[Internal Posting-Summer School Administrative Support](https://jobright.ai/jobs/info/69e2d66b3ce36005badbfebb?utm_campaign=1050&utm_source=git)** | Innisfail, AB | Remote | Apr 17 |
 | **[Jabil](https://www.jabil.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/69e2c82c2f28653593078319?utm_campaign=1050&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 17 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69c5b02daa3c2c1995e030a5?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 | **[Philips](https://www.usa.philips.com)** | **[Business & Commercial Operations Intern (Mississauga, ON)](https://jobright.ai/jobs/info/69e34e3d2f28653593079e86?utm_campaign=1050&utm_source=git)** | Mississauga | On Site | Apr 17 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Executive Assistant (Summer - Intern)](https://jobright.ai/jobs/info/69e289213770bd5361cd8d9e?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[North America Virtual Operation Centers Paid Intern](https://jobright.ai/jobs/info/69e0d28240a62c1fa93b5059?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Remote | Apr 17 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Operations Intern - Buffalo](https://jobright.ai/jobs/info/69e2b37c5c44d4710fe26581?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Hybrid | Apr 17 |
-| **[Rich Products Corporation](https://rich.com)** | **[Fulfillment Planning Intern](https://jobright.ai/jobs/info/69c5a7fc1b5ad028873777f7?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
-| **[Greystar](http://greystar.com)** | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e288385c44d4710fe25903?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 17 |
-| **[Customers Bank](https://www.customersbank.com/)** | **[2026 Title Solutions Group Intern](https://jobright.ai/jobs/info/69e34e423ce36005badc1795?utm_campaign=1050&utm_source=git)** | Rye Brook, NY | On Site | Apr 17 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8fad179f3f4037f439cf1?utm_campaign=1050&utm_source=git)** | Burlington, WA | On Site | Apr 17 |
-| **[Ferrovial](http://www.ferrovial.com/en)** | **[Procurement Intern](https://jobright.ai/jobs/info/69e34e4bbe46fa3a4ef5a8d9?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
