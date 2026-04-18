@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ardene](https://www.ardene.com)** | **[Acheteur/acheteuse international(e)](https://jobright.ai/jobs/info/69e3990ccd85881c9505f940?utm_campaign=1050&utm_source=git)** | Laval, Quebec, Canada | On Site | Apr 18 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69e0ff3440a62c1fa93b61a3?utm_campaign=1050&utm_source=git)** | Hurricane, UT | On Site | Apr 18 |
 | **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
-| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69e2c7143ce36005badbfb46?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Apr 17 |
 | **[Fairfax Radiology Centers](http://fairfaxradiology.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e2c6abfcfcbd43860a4826?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camp Sewataro](https://www.sewataro.com)** | **[Transportation & Logistics Coordinator (Summer Internship)](https://jobright.ai/jobs/info/69e28de72f2865359307713d?utm_campaign=1050&utm_source=git)** | Sudbury, MA | On Site | Apr 17 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 17 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69c5b02daa3c2c1995e030a5?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
-| **[Philips](https://www.usa.philips.com)** | **[Business & Commercial Operations Intern (Mississauga, ON)](https://jobright.ai/jobs/info/69e34e3d2f28653593079e86?utm_campaign=1050&utm_source=git)** | Mississauga | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
