@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brandon Homes](https://www.brandonhomesus.com/)** | **[Operations & Experience Intern](https://jobright.ai/jobs/info/69e3baaecfcea71ec9f8f6ea?utm_campaign=1050&utm_source=git)** | Middletown, OH | On Site | Apr 18 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69bd81d2b10602456282695d?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | On Site | Apr 18 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 18 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/69d5d867cfdc6132f946674b?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 18 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Apr 18 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5afcfcbd43860a6472?utm_campaign=1050&utm_source=git)** | Detroit Metro Airport | On Site | Apr 17 |
-| ↳ | **[Operations Intern – Management Track](https://jobright.ai/jobs/info/69e34e503770bd5361cdbcf3?utm_campaign=1050&utm_source=git)** | Charlotte Douglas International Airport | On Site | Apr 17 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5fbe46fa3a4ef5a94f?utm_campaign=1050&utm_source=git)** | 4200 Campus Dr, Newport Beach, 92660 | On Site | Apr 17 |
+| ↳ | **[Operations Intern – Management Track](https://jobright.ai/jobs/info/69e34e503770bd5361cdbcf3?utm_campaign=1050&utm_source=git)** | Charlotte Douglas International Airport | On Site | Apr 17 |
 | **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69e29636fcfcbd43860a38bc?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Apr 17 |
 | **[Chinook's Edge School Division](https://www.cesd73.ca/)** | **[Internal Posting-Summer School Administrative Support](https://jobright.ai/jobs/info/69e2d66b3ce36005badbfebb?utm_campaign=1050&utm_source=git)** | Innisfail, AB | Remote | Apr 17 |
 | **[Jabil](https://www.jabil.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/69e2c82c2f28653593078319?utm_campaign=1050&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PCI Group](http://www.pcigroup.com)** | **[Summer Intern Operations](https://jobright.ai/jobs/info/69e2b37d5c44d4710fe26584?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 17 |
 | **[Knife River Corporation](https://www.kniferiver.com/)** | **[PROJECT MANAGER INTERN](https://jobright.ai/jobs/info/69e28e6f3770bd5361cd9035?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Apr 17 |
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Bagging)](https://jobright.ai/jobs/info/69e28e4b3770bd5361cd8f7c?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
-| ↳ | **[Summer Internship, Operations (Presort)](https://jobright.ai/jobs/info/69e28e455c44d4710fe25b62?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
-| **[Zinpro Corporation](https://www.zinpro.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e2b3f35c44d4710fe265f4?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
