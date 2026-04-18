@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Fairfax Radiology Centers](http://fairfaxradiology.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e2c6abfcfcbd43860a4826?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PROJECT MANAGEMENT OFFICE](https://jobright.ai/jobs/info/69e2c04c3ce36005badbf8c2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
-| ↳ | **[Administrative Intern I - FINANCIAL ANALYSIS](https://jobright.ai/jobs/info/69e2c04a3ce36005badbf8ba?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[University of Michigan Information and Technology Services](https://its.umich.edu/)** | **[Tech Shop Assistant Manager](https://jobright.ai/jobs/info/69e2c03d3ce36005badbf85f?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[IT Project Manager II](https://jobright.ai/jobs/info/69e2bfd12f28653593078004?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - ACTUARIAL SERVICES (RFPN)](https://jobright.ai/jobs/info/69e2bfc0be46fa3a4ef589a2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69e073bcb20fd532b4ae1a4a?utm_campaign=1050&utm_source=git)** | Fairfield, CT | On Site | Apr 17 |
 | ↳ | **[Branch Manager Irving Dallas District](https://jobright.ai/jobs/info/69e270e9fcfcbd43860a2d27?utm_campaign=1050&utm_source=git)** | Farmers Branch, TX | On Site | Apr 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698d0d2e0f6f7e7a2ce8bfc8?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Apr 17 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Duluth MN](https://jobright.ai/jobs/info/69e2710efcfcbd43860a2d32?utm_campaign=1050&utm_source=git)** | Two Harbors, MN | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
