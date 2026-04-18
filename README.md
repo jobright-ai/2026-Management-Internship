@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heartflow](https://www.heartflow.com)** | **[MBA Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69e33f97be46fa3a4ef5a466?utm_campaign=1050&utm_source=git)** | Rohnert Park, California | On Site | Apr 18 |
 | **[Jostens](http://jostens.com)** | **[Director, CRM/ERP](https://jobright.ai/jobs/info/69e32f9ffcfcbd43860a54e6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e32f855c44d4710fe27bd1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Logistics Summer Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe2736a?utm_campaign=1050&utm_source=git)** | Vancouver, BC | On Site | Apr 17 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
-| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69e2c7143ce36005badbfb46?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Apr 17 |
 | **[Fairfax Radiology Centers](http://fairfaxradiology.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e2c6abfcfcbd43860a4826?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PROJECT MANAGEMENT OFFICE](https://jobright.ai/jobs/info/69e2c04c3ce36005badbf8c2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[University of Michigan Information and Technology Services](https://its.umich.edu/)** | **[Tech Shop Assistant Manager](https://jobright.ai/jobs/info/69e2c03d3ce36005badbf85f?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[IT Project Manager II](https://jobright.ai/jobs/info/69e2bfd12f28653593078004?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
-| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - ACTUARIAL SERVICES (RFPN)](https://jobright.ai/jobs/info/69e2bfc0be46fa3a4ef589a2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Supply Chain - Sourcing Strategy Intern](https://jobright.ai/jobs/info/69e2bfb82f28653593077f7a?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | Remote | Apr 17 |
 | **[TSMC](http://www.tsmc.com)** | **[[Summer 2026] Administrative Assistant Intern](https://jobright.ai/jobs/info/69e2b8a45c44d4710fe2675c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c9?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Apr 17 |
