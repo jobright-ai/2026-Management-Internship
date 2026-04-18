@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 18 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/69d5d867cfdc6132f946674b?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 18 |
+| **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Apr 18 |
 | **[Ardene](https://www.ardene.com)** | **[Acheteur/acheteuse international(e)](https://jobright.ai/jobs/info/69e3990ccd85881c9505f940?utm_campaign=1050&utm_source=git)** | Laval, Quebec, Canada | On Site | Apr 18 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 18 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69e0ff3440a62c1fa93b61a3?utm_campaign=1050&utm_source=git)** | Hurricane, UT | On Site | Apr 18 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69dca6e05356a60f40fe9ef9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 18 |
 | **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Supply Chain](https://jobright.ai/jobs/info/691e57c63f782d2f1afb401d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 18 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - EPMO Department](https://jobright.ai/jobs/info/69c6cd271818a24cd84c8a79?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 18 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6cd091818a24cd84c8a5b?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 18 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - EPMO Department](https://jobright.ai/jobs/info/69d3e4c2cfdc6132f94558bc?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 18 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Internship](https://jobright.ai/jobs/info/69c6f2fce565c26a700243b7?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Apr 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Bagging)](https://jobright.ai/jobs/info/69e28e4b3770bd5361cd8f7c?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
 | ↳ | **[Summer Internship, Operations (Presort)](https://jobright.ai/jobs/info/69e28e455c44d4710fe25b62?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
 | **[Zinpro Corporation](https://www.zinpro.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e2b3f35c44d4710fe265f4?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 17 |
-| **[Food Bank For NYC](http://www.foodbanknyc.org)** | **[Operations Intern](https://jobright.ai/jobs/info/69e28e323770bd5361cd8f28?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 17 |
-| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Orange & Lemon)](https://jobright.ai/jobs/info/69e28e1bfcfcbd43860a3733?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
-| ↳ | **[Summer Internship, Logistics](https://jobright.ai/jobs/info/69e28e0e3ce36005badbeaf9?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Apr 17 |
-| **[Camp Sewataro](https://www.sewataro.com)** | **[Transportation & Logistics Coordinator (Summer Internship)](https://jobright.ai/jobs/info/69e28de72f2865359307713d?utm_campaign=1050&utm_source=git)** | Sudbury, MA | On Site | Apr 17 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 17 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69c5b02daa3c2c1995e030a5?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
