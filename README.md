@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Internship](https://jobright.ai/jobs/info/69c6f2fce565c26a700243b7?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Apr 18 |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Apr 18 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69e0e40dff71e82d604b3f1c?utm_campaign=1050&utm_source=git)** | Des Moines, WA | On Site | Apr 18 |
+| **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69ca63a1aa3c2c1995e2cad1?utm_campaign=1050&utm_source=git)** | Oakley, KS | On Site | Apr 18 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
 | **[PSECU](http://psecu.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a9e1899ca4e908ec651c67?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 18 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704a71818a24cd84cacf9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 18 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[PMO INTERN](https://jobright.ai/jobs/info/698fb53e0cc8ea15f1da4fe1?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 18 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Operations Continuous Improvement - Operations Quality Assurance Specialist](https://jobright.ai/jobs/info/69c6e89e1b5ad028873882be?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 18 |
 | **[Heartflow](https://www.heartflow.com)** | **[MBA Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/69e33f97be46fa3a4ef5a466?utm_campaign=1050&utm_source=git)** | Rohnert Park, California | On Site | Apr 18 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Library (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/69cdf13a366bb95ba5505bdb?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/69e1bcb7ff71e82d604b8742?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 17 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Executive Assistant, VP Research](https://jobright.ai/jobs/info/69dfca9e4920452a85dcf86d?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Apr 17 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e16384ff71e82d604b6aca?utm_campaign=1050&utm_source=git)** | Boone, MO | On Site | Apr 17 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/69e2cdb85c44d4710fe26deb?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | Apr 17 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69e34e765c44d4710fe28b91?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Apr 17 |
 | **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — Operations & Administration (Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2a4733770bd5361cd9462?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 17 |
-| **[State of Colorado](http://www.colorado.gov)** | **[Administrative Assistant Intern.](https://jobright.ai/jobs/info/69e2c7092f2865359307826e?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Apr 17 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[MBA Intern - CEO Office (Strategy & Business Development)](https://jobright.ai/jobs/info/69e2c7073ce36005badbfae2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 17 |
 | **[Humber College](http://www.humber.ca/)** | **[Associate Vice-President, Research and Innovation- FT Admin](https://jobright.ai/jobs/info/69e2d5dabe46fa3a4ef58fc9?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Area Planning (US Central) - Paid Intern](https://jobright.ai/jobs/info/69e2cde0be46fa3a4ef58e03?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hexcel Corporation](http://hexcel.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69a8fad179f3f4037f439cf1?utm_campaign=1050&utm_source=git)** | Burlington, WA | On Site | Apr 17 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Procurement Intern](https://jobright.ai/jobs/info/69e34e4bbe46fa3a4ef5a8d9?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696019c1a1bbea1d9a7ae72f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
-| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69ca2c96b773006330b8b88f?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Apr 17 |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Longview](https://jobright.ai/jobs/info/69dfdb044920452a85dcfec1?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
