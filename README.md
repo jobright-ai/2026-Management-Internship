@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Apr 19 |
+| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/69a7893b76bbe83d3afaec2a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698fa3160cc8ea15f1da3eb8?utm_campaign=1050&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
-| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
-| **[TicketNetwork](http://www.ticketnetwork.com)** | **[Lead Development Intern](https://jobright.ai/jobs/info/69e4be193aa0c4796438fcd7?utm_campaign=1050&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 17 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
