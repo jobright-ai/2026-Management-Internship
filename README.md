@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Brandon Homes](https://www.brandonhomesus.com/)** | **[Operations & Experience Intern](https://jobright.ai/jobs/info/69e3baaecfcea71ec9f8f6ea?utm_campaign=1050&utm_source=git)** | Middletown, OH | On Site | Apr 18 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69bd81d2b10602456282695d?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | On Site | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Project Manager (Administrative Analyst/Specialist – Exempt III)](https://jobright.ai/jobs/info/695c7dea9a87b95a9397ce79?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Apr 18 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 18 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/69d5d867cfdc6132f946674b?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 18 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5afcfcbd43860a6472?utm_campaign=1050&utm_source=git)** | Detroit Metro Airport | On Site | Apr 17 |
-| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5fbe46fa3a4ef5a94f?utm_campaign=1050&utm_source=git)** | 4200 Campus Dr, Newport Beach, 92660 | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
