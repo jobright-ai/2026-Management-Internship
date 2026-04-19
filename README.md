@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTG Management](http://www.otgexp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698fc6370f6f7e7a2cec14b3?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 19 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Apr 19 |
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 19 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/69d9cc8b869c7e25d859dc52?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 19 |
+| **[Risepoint](https://risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Apr 19 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Apr 19 |
 | **[Risepoint](https://risepoint.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69e34e123770bd5361cdbbe1?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Apr 19 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/69e4c0ade0cd471b2f120fe1?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Apr 18 |
-| **[H&K Group](https://hk-ksa.com/)** | **[Project Manager, Northeastern Pennsylvania](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2f?utm_campaign=1050&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
 | **[Craig Hospital](http://www.craighospital.org)** | **[Administrative Assistant 7362](https://jobright.ai/jobs/info/69e4c0ade0cd471b2f120fe6?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 18 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69cccb11366bb95ba54f6a34?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Apr 18 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69726bd04ccbf64f8df2623e?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Apr 18 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 18 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68d770d561a175619f8cd962?utm_campaign=1050&utm_source=git)** | Winter Park, FL | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Vice-President, Research and Innovation- FT Admin](https://jobright.ai/jobs/info/69e2d66d2f28653593078600?utm_campaign=1050&utm_source=git)** | Etobicoke, ON | On Site | Apr 17 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
