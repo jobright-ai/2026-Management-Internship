@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
+| **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
 | **[Brandon Homes](https://www.brandonhomesus.com/)** | **[Operations & Experience Intern](https://jobright.ai/jobs/info/69e3baaecfcea71ec9f8f6ea?utm_campaign=1050&utm_source=git)** | Middletown, OH | On Site | Apr 18 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69bd81d2b10602456282695d?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | On Site | Apr 18 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Project Manager (Administrative Analyst/Specialist – Exempt III)](https://jobright.ai/jobs/info/695c7dea9a87b95a9397ce79?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Apr 18 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 18 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/69d5d867cfdc6132f946674b?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 18 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Apr 18 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Richemont](https://www.richemont.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69c767f883ea553769fe303b?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
 | ↳ | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, ON | On Site | Apr 18 |
 | **[PSECU](http://psecu.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69a9e1899ca4e908ec651c67?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | Hybrid | Apr 18 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/69d57047706f771673ba3185?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704a71818a24cd84cacf9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 18 |
 | **[River Metals Recycling - A Nucor Company](https://www.rmrecycling.com/)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/69a9eb051f59c56275e2b4d9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/69d5c37e366bb95ba55484dd?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5afcfcbd43860a6472?utm_campaign=1050&utm_source=git)** | Detroit Metro Airport | On Site | Apr 17 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5fbe46fa3a4ef5a94f?utm_campaign=1050&utm_source=git)** | 4200 Campus Dr, Newport Beach, 92660 | On Site | Apr 17 |
-| ↳ | **[Operations Intern – Management Track](https://jobright.ai/jobs/info/69e34e503770bd5361cdbcf3?utm_campaign=1050&utm_source=git)** | Charlotte Douglas International Airport | On Site | Apr 17 |
-| **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Real Estate](https://jobright.ai/jobs/info/69e29636fcfcbd43860a38bc?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Apr 17 |
-| **[Chinook's Edge School Division](https://www.cesd73.ca/)** | **[Internal Posting-Summer School Administrative Support](https://jobright.ai/jobs/info/69e2d66b3ce36005badbfebb?utm_campaign=1050&utm_source=git)** | Innisfail, AB | Remote | Apr 17 |
-| **[Jabil](https://www.jabil.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/69e2c82c2f28653593078319?utm_campaign=1050&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
