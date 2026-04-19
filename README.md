@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
+| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Project Manager, Northeastern Pennsylvania](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2f?utm_campaign=1050&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
 | ↳ | **[Project Manager, Greater Philadelphia Region](https://jobright.ai/jobs/info/69e46493e0cd471b2f11ff21?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | ↳ | **[Project Manager](https://jobright.ai/jobs/info/69e472cb3aa0c4796438eb35?utm_campaign=1050&utm_source=git)** | Douglassville, PA | On Site | Apr 18 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Business Operations](https://jobright.ai/jobs/info/69e345372f28653593079a1a?utm_campaign=1050&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Apr 18 |
 | **[Brandon Homes](https://www.brandonhomesus.com/)** | **[Operations & Experience Intern](https://jobright.ai/jobs/info/69e3baaecfcea71ec9f8f6ea?utm_campaign=1050&utm_source=git)** | Middletown, OH | On Site | Apr 18 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69bd81d2b10602456282695d?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | On Site | Apr 18 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Project Manager (Administrative Analyst/Specialist – Exempt III)](https://jobright.ai/jobs/info/695c7dea9a87b95a9397ce79?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Area Planning (US Central) - Paid Intern](https://jobright.ai/jobs/info/69e2cde0be46fa3a4ef58e03?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 17 |
 | ↳ | **[Research Business Operations and Communications Intern](https://jobright.ai/jobs/info/69e29d1f2f28653593077546?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 17 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Business Operations](https://jobright.ai/jobs/info/69e2d2483ce36005badbfe20?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[DormCo](http://www.dormco.com)** | **[Summer Internship (Nashville 2026) - Supply Chain](https://jobright.ai/jobs/info/69e2bfc3be46fa3a4ef589b7?utm_campaign=1050&utm_source=git)** | Madison, TN | On Site | Apr 17 |
-| **[Turabify Co.](https://www.turabify.com/)** | **[Administrative Assistant Internship](https://jobright.ai/jobs/info/69e2ce043ce36005badbfd57?utm_campaign=1050&utm_source=git)** | Franklin, OH | On Site | Apr 17 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Capital Planning Project Analyst](https://jobright.ai/jobs/info/69e2db4c3ce36005badc017e?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
