@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Apr 19 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Project Services- EN](https://jobright.ai/jobs/info/69ab3be67e1fab39d382d333?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 19 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c85f80aa3c2c1995e1e4cc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[H&K Group](https://hk-ksa.com/)** | **[Project Manager, Northeastern Pennsylvania](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2f?utm_campaign=1050&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69cccb11366bb95ba54f6a34?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Apr 18 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — Operations & Administration (Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2a4733770bd5361cd9462?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[MBA Intern - CEO Office (Strategy & Business Development)](https://jobright.ai/jobs/info/69e2c7073ce36005badbfae2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 17 |
 | **[Humber College](http://www.humber.ca/)** | **[Associate Vice-President, Research and Innovation- FT Admin](https://jobright.ai/jobs/info/69e2d5dabe46fa3a4ef58fc9?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Area Planning (US Central) - Paid Intern](https://jobright.ai/jobs/info/69e2cde0be46fa3a4ef58e03?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 17 |
-| ↳ | **[Research Business Operations and Communications Intern](https://jobright.ai/jobs/info/69e29d1f2f28653593077546?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 17 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Business Operations](https://jobright.ai/jobs/info/69e2d2483ce36005badbfe20?utm_campaign=1050&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
