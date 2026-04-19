@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/69a7893b76bbe83d3afaec2a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
+| ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 19 |
+| **[Prometric](https://www.prometric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698fa3160cc8ea15f1da3eb8?utm_campaign=1050&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Apr 19 |
+| **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 19 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/69d9cc8b869c7e25d859dc52?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Apr 19 |
 | **[Risepoint](https://risepoint.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69e34e123770bd5361cdbbe1?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Apr 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 | **[TicketNetwork](http://www.ticketnetwork.com)** | **[Lead Development Intern](https://jobright.ai/jobs/info/69e4be193aa0c4796438fcd7?utm_campaign=1050&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69e2c7143ce36005badbfb46?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Apr 17 |
-| **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
-| **[Group One Trading](http://group1.com)** | **[Office Manager Intern](https://jobright.ai/jobs/info/69e32f7a3ce36005badc066e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[RiverWoods](https://riverwoodsrc.org/)** | **[Volunteer Administrative Assistant in Inquiry Management](https://jobright.ai/jobs/info/69e32fb13ce36005badc0816?utm_campaign=1050&utm_source=git)** | Durham, NH | On Site | Apr 17 |
-| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PROJECT MANAGEMENT OFFICE](https://jobright.ai/jobs/info/69e2c04c3ce36005badbf8c2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
-| **[University of Michigan Information and Technology Services](https://its.umich.edu/)** | **[Tech Shop Assistant Manager](https://jobright.ai/jobs/info/69e2c03d3ce36005badbf85f?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[IT Project Manager II](https://jobright.ai/jobs/info/69e2bfd12f28653593078004?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
