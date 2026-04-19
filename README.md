@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&K Group](https://hk-ksa.com/)** | **[Project Manager, Northeastern Pennsylvania](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2f?utm_campaign=1050&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
+| ↳ | **[Project Manager, Greater Philadelphia Region](https://jobright.ai/jobs/info/69e46493e0cd471b2f11ff21?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Capital Planning Project Analyst](https://jobright.ai/jobs/info/69e2db4c3ce36005badc017e?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Strategic PMO Intern](https://jobright.ai/jobs/info/69e32ef95c44d4710fe27886?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 17 |
 | **[Unreasonable Studios](https://www.unreasonablestudios.com/)** | **[Intern](https://jobright.ai/jobs/info/69e2cdbc2f286535930783fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
-| **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
