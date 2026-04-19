@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[2026 Summer Healhtcare Intern](https://jobright.ai/jobs/info/69e5389e3cfd986aa6f82336?utm_campaign=1050&utm_source=git)** | Any Location / Remote | Remote | Apr 19 |
 | **[Liquid Group LLC](jhdbgfjgkdsfg)** | **[Executive Vice President of Operations](https://jobright.ai/jobs/info/69e52abb3aa0c47964390a7a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Apr 19 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 19 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
 | **[Wellington Catholic District School Board](https://www.wellingtoncdsb.ca)** | **[Elementary Head Secretary](https://jobright.ai/jobs/info/69e4cc047820c036924cc4f2?utm_campaign=1050&utm_source=git)** | Guelph, Ontario, Canada | On Site | Apr 18 |
 | **[Town of Bridgewater MA](http://www.bridgewaterma.org)** | **[Internal Only - Executive Assistant - Senior Center](https://jobright.ai/jobs/info/69e4ce163aa0c47964390108?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Apr 18 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69c6b0fee565c26a70021e39?utm_campaign=1050&utm_source=git)** | Gastonia, NC | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69cccb11366bb95ba54f6a34?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Apr 18 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Strategy Analyst Intern](https://jobright.ai/jobs/info/69e2d6bc3770bd5361cda63e?utm_campaign=1050&utm_source=git)** | Parkway, CA | On Site | Apr 17 |
 | **[Machine Solutions Inc.](http://www.machinesolutions.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda604?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 17 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69e2d6ac5c44d4710fe271e9?utm_campaign=1050&utm_source=git)** | Auburn, CA | On Site | Apr 17 |
-| **[Customers Bank](https://www.customersbank.com/)** | **[2026 Middle Market Banking Intern](https://jobright.ai/jobs/info/69e2d67b2f28653593078659?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e2d6735c44d4710fe27050?utm_campaign=1050&utm_source=git)** | Guelph, ON | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
