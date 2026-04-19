@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liquid Group LLC](jhdbgfjgkdsfg)** | **[Executive Vice President of Operations](https://jobright.ai/jobs/info/69e52abb3aa0c47964390a7a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Apr 19 |
+| **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 19 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698fc6370f6f7e7a2cec14b3?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Apr 19 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[Executive Director](https://jobright.ai/jobs/info/69e2d6ac5c44d4710fe271e9?utm_campaign=1050&utm_source=git)** | Auburn, CA | On Site | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[2026 Middle Market Banking Intern](https://jobright.ai/jobs/info/69e2d67b2f28653593078659?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e2d6735c44d4710fe27050?utm_campaign=1050&utm_source=git)** | Guelph, ON | On Site | Apr 17 |
-| **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Associate Vice-President, Research and Innovation- FT Admin](https://jobright.ai/jobs/info/69e2d66d2f28653593078600?utm_campaign=1050&utm_source=git)** | Etobicoke, ON | On Site | Apr 17 |
-| **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
