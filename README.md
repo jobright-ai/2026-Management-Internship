@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/69d9cc8b869c7e25d859dc52?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Colorado Springs](https://jobright.ai/jobs/info/69ab649f142d5b4265fc9c0f?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Apr 19 |
+| **[Risepoint](https://risepoint.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69e34e123770bd5361cdbbe1?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Apr 19 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Production Planning](https://jobright.ai/jobs/info/69b1fc3465de58104c7168da?utm_campaign=1050&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Apr 19 |
+| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Apr 19 |
 | **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/69e4d20d7820c036924cc848?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 19 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Apr 19 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Project Services- EN](https://jobright.ai/jobs/info/69ab3be67e1fab39d382d333?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 19 |
@@ -76,6 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69cccb11366bb95ba54f6a34?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Apr 18 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/69c6ee5383ea553769fdecbb?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
+| **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 18 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68d770d561a175619f8cd962?utm_campaign=1050&utm_source=git)** | Winter Park, FL | On Site | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DCP Intern - Business Operations](https://jobright.ai/jobs/info/69e345372f28653593079a1a?utm_campaign=1050&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Apr 18 |
 | **[Brandon Homes](https://www.brandonhomesus.com/)** | **[Operations & Experience Intern](https://jobright.ai/jobs/info/69e3baaecfcea71ec9f8f6ea?utm_campaign=1050&utm_source=git)** | Middletown, OH | On Site | Apr 18 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
-| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
+| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
 | **[TicketNetwork](http://www.ticketnetwork.com)** | **[Lead Development Intern](https://jobright.ai/jobs/info/69e4be193aa0c4796438fcd7?utm_campaign=1050&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69e2c7143ce36005badbfb46?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - PROJECT MANAGEMENT OFFICE](https://jobright.ai/jobs/info/69e2c04c3ce36005badbf8c2?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 17 |
 | **[University of Michigan Information and Technology Services](https://its.umich.edu/)** | **[Tech Shop Assistant Manager](https://jobright.ai/jobs/info/69e2c03d3ce36005badbf85f?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[IT Project Manager II](https://jobright.ai/jobs/info/69e2bfd12f28653593078004?utm_campaign=1050&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
-| **[UnityPoint Health](http://www.unitypoint.org/)** | **[Supply Chain - Sourcing Strategy Intern](https://jobright.ai/jobs/info/69e2bfb82f28653593077f7a?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | Remote | Apr 17 |
-| **[TSMC](http://www.tsmc.com)** | **[[Summer 2026] Administrative Assistant Intern](https://jobright.ai/jobs/info/69e2b8a45c44d4710fe2675c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e2b38e5c44d4710fe265c9?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Apr 17 |
-| **[Brain Corp](http://www.braincorp.com)** | **[2026 Summer Intern - Operations (Trust & Infrastructure)](https://jobright.ai/jobs/info/69e2b3842f28653593077bf7?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e2b28c3770bd5361cd9962?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 17 |
-| **[BGIS](https://www.bgis.com)** | **[Intern, Project Management (Alberta)](https://jobright.ai/jobs/info/69b35794a8ac8e70ff67901f?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
