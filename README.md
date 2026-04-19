@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Jostens](http://jostens.com)** | **[Director, CRM/ERP](https://jobright.ai/jobs/info/69e32f9ffcfcbd43860a54e6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
 | **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Operation Analyst Intern AV](https://jobright.ai/jobs/info/69c5611583ea553769fc9373?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 17 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e32f855c44d4710fe27bd1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager New Haven Shoreline District](https://jobright.ai/jobs/info/69e06a30cf5a9e0c33c86494?utm_campaign=1050&utm_source=git)** | Old Saybrook, CT | On Site | Apr 17 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Logistics Summer Intern](https://jobright.ai/jobs/info/69e2dbbd5c44d4710fe2736a?utm_campaign=1050&utm_source=git)** | Vancouver, BC | On Site | Apr 17 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/69e34e90be46fa3a4ef5aa42?utm_campaign=1050&utm_source=git)** | Milpitas | On Site | Apr 17 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - PROCUREMENT](https://jobright.ai/jobs/info/69e2d6cefcfcbd43860a4dc1?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 17 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Sr. Director of Communications and Content Strategy: Franklin College of Arts and Sciences](https://jobright.ai/jobs/info/69e2cdb15c44d4710fe26dc9?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
 | ↳ | **[Executive Account Manager](https://jobright.ai/jobs/info/69e2cda02f2865359307839d?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 17 |
-| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
-| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
+| **[IEHP](http://ww3.iehp.org/)** | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e336823ce36005badc117a?utm_campaign=1050&utm_source=git)** | US-CA-Rancho Cucamonga | Hybrid | Apr 17 |
+| ↳ | **[IEHP Intern (Administration)](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2e1?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga, CA, US | Hybrid | Apr 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69e2c7143ce36005badbfb46?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Apr 17 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Strategy & Innovation Intern](https://jobright.ai/jobs/info/69e2c6a9be46fa3a4ef58beb?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Apr 17 |
 | **[Group One Trading](http://group1.com)** | **[Office Manager Intern](https://jobright.ai/jobs/info/69e32f7a3ce36005badc066e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unreasonable Studios](https://www.unreasonablestudios.com/)** | **[Intern](https://jobright.ai/jobs/info/69e2cdbc2f286535930783fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Scheduling Intern](https://jobright.ai/jobs/info/69e296b93ce36005badbecda?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Apr 17 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain Analytics](https://jobright.ai/jobs/info/69e2cddffcfcbd43860a4a80?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 17 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69e34e5afcfcbd43860a6472?utm_campaign=1050&utm_source=git)** | Detroit Metro Airport | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
