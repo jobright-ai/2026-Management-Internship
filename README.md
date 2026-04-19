@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[H&K Group](https://hk-ksa.com/)** | **[Project Manager, Northeastern Pennsylvania](https://jobright.ai/jobs/info/69e465413cfd986aa6f7fc2f?utm_campaign=1050&utm_source=git)** | Skippack, PA | On Site | Apr 18 |
 | ↳ | **[Project Manager, Greater Philadelphia Region](https://jobright.ai/jobs/info/69e46493e0cd471b2f11ff21?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
+| ↳ | **[Project Manager](https://jobright.ai/jobs/info/69e472cb3aa0c4796438eb35?utm_campaign=1050&utm_source=git)** | Douglassville, PA | On Site | Apr 18 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d557d9366bb95ba5544400?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Project Manager (Administrative Analyst/Specialist – Exempt III)](https://jobright.ai/jobs/info/695c7dea9a87b95a9397ce79?utm_campaign=1050&utm_source=git)** | SD Metro Area | On Site | Apr 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f81baa05c26e7ab0328f?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Apr 18 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 18 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Lakeside District](https://jobright.ai/jobs/info/69e0d2b9acc736112f5c0042?utm_campaign=1050&utm_source=git)** | Issaquah, WA | On Site | Apr 18 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/69d5d867cfdc6132f946674b?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Apr 18 |
 | **[Magna International](http://www.magna.com/)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/69aa13bb1f59c56275e2e588?utm_campaign=1050&utm_source=git)** | Newaygo, MI | On Site | Apr 18 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Southern Utah District](https://jobright.ai/jobs/info/69e0e406ff71e82d604b3f17?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DormCo](http://www.dormco.com)** | **[Summer Internship (Nashville 2026) - Supply Chain](https://jobright.ai/jobs/info/69e2bfc3be46fa3a4ef589b7?utm_campaign=1050&utm_source=git)** | Madison, TN | On Site | Apr 17 |
 | **[Turabify Co.](https://www.turabify.com/)** | **[Administrative Assistant Internship](https://jobright.ai/jobs/info/69e2ce043ce36005badbfd57?utm_campaign=1050&utm_source=git)** | Franklin, OH | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Capital Planning Project Analyst](https://jobright.ai/jobs/info/69e2db4c3ce36005badc017e?utm_campaign=1050&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
-| **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Strategic PMO Intern](https://jobright.ai/jobs/info/69e32ef95c44d4710fe27886?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 17 |
-| **[Unreasonable Studios](https://www.unreasonablestudios.com/)** | **[Intern](https://jobright.ai/jobs/info/69e2cdbc2f286535930783fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
