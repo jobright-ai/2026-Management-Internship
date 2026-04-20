@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/69e5e3f63cfd986aa6f82f1b?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | Apr 20 |
+| **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Senior Project Manager - ITS5](https://jobright.ai/jobs/info/69e5e3f0f8fa2f3ec329f09b?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 20 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699fed8f53d97f23ee657e2f?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 19 |
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Senior Project Manager - ITS5](https://jobright.ai/jobs/info/69e27193be46fa3a4ef57272?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 19 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Internship – Operations and Strategy Management](https://jobright.ai/jobs/info/69c8a7161b5ad028873948f4?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 19 |
@@ -93,13 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c89315aa3c2c1995e1f0db?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 19 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/69e4c0ade0cd471b2f120fe1?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Apr 18 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 18 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Operations](https://jobright.ai/jobs/info/69c767f883ea553769fe303b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 18 |
 | **[Canadian Red Cross](http://www.redcross.ca/)** | **[Manager, Travel Services](https://jobright.ai/jobs/info/69e5c7dfe0cd471b2f122b9d?utm_campaign=1050&utm_source=git)** | Canada | Remote | Apr 18 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Front Office - Intern](https://jobright.ai/jobs/info/69e5c81be0cd471b2f122c7a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 18 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Inventory Manager Intern](https://jobright.ai/jobs/info/69e5c3117820c036924cd5b1?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Apr 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/69e1bcb7ff71e82d604b8742?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Apr 18 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e16384ff71e82d604b6aca?utm_campaign=1050&utm_source=git)** | Boone, MO | On Site | Apr 18 |
-| **[Richemont](https://www.richemont.com/)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69c7062fb773006330b752e5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 18 |
 | **[River Metals Recycling - A Nucor Company](https://www.rmrecycling.com/)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/69a9eb051f59c56275e2b4d9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Operations and Client Systems Internship / Fall 2026](https://jobright.ai/jobs/info/69e5c7ec3cfd986aa6f82a5f?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Apr 18 |
 | **[Craig Hospital](http://www.craighospital.org)** | **[Administrative Assistant 7362](https://jobright.ai/jobs/info/69e4c0ade0cd471b2f120fe6?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 18 |
