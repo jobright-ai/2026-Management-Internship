@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699fed8f53d97f23ee657e2f?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 19 |
+| **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Senior Project Manager - ITS5](https://jobright.ai/jobs/info/69e27193be46fa3a4ef57272?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 19 |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Internship – Operations and Strategy Management](https://jobright.ai/jobs/info/69c8a7161b5ad028873948f4?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 19 |
 | **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69e5c7d53cfd986aa6f829ed?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e27172be46fa3a4ef571e3?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Apr 19 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Manager, Production - (Hybrid)](https://jobright.ai/jobs/info/69e5c30d7820c036924cd595?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Practice Manager III/UKHC](https://jobright.ai/jobs/info/69e4c6d4e0cd471b2f121a91?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Apr 18 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Executive Assistant, VP Research](https://jobright.ai/jobs/info/69dfca9e4920452a85dcf86d?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 17 |
 | **[Jostens](http://jostens.com)** | **[Director, CRM/ERP](https://jobright.ai/jobs/info/69e32f9ffcfcbd43860a54e6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Executive Director](https://jobright.ai/jobs/info/69e4fda9e0cd471b2f122353?utm_campaign=1050&utm_source=git)** | Carleton Place, Ontario, Canada | Hybrid | Apr 17 |
-| **[GRUPO EULEN USA](https://recruiting.ultipro.com/EUL1000EULEN/JobBoard/7f63c405-6579-4eb2-954a-482585dd4149/?q=&o=postedDateDesc)** | **[Operation Analyst Intern AV](https://jobright.ai/jobs/info/69c5611583ea553769fc9373?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 17 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e32f855c44d4710fe27bd1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
