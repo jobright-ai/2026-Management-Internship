@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern – Enterprise Project Management](https://jobright.ai/jobs/info/69e67bc49b6eb37e26f807ca?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 20 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Project Management FTC Intern](https://jobright.ai/jobs/info/6994ffce81476f6176acdc0f?utm_campaign=1050&utm_source=git)** | Wichita, KS, US, 67209 | On Site | Apr 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e6739e3cfd986aa6f85bf1?utm_campaign=1050&utm_source=git)** | US-NJ-MORRISTOWN | On Site | Apr 20 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69e6739ce0cd471b2f125bd2?utm_campaign=1050&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Apr 20 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant to Dean & Office Manager](https://jobright.ai/jobs/info/69d928a0738f2f099e8a0251?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | Apr 20 |
@@ -96,9 +98,12 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Apr 20 |
 | **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Project Management/Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69df277e5913ad3398142cda?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 20 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship (Summer 2026)](https://jobright.ai/jobs/info/69e65efb9b6eb37e26f7fc83?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 20 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e65f1f3cfd986aa6f85352?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e64a003cfd986aa6f8480b?utm_campaign=1050&utm_source=git)** | Griffith, IN | On Site | Apr 20 |
+| **[Sparton](http://www.sparton.com)** | **[Supply Chain/Procurement Internship](https://jobright.ai/jobs/info/69e67c559b6eb37e26f808c7?utm_campaign=1050&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | Apr 20 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e64a003cfd986aa6f8480b?utm_campaign=1050&utm_source=git)** | Griffith, IN | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e65f1f3cfd986aa6f85352?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e65f1f3cfd986aa6f85356?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Apr 20 |
+| **[Coastal Logistics Group](http://clg-inc.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69e677b43aa0c479643944e1?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 20 |
+| **[Mid-City Electric/Technologies](http://midcityelectric.com)** | **[FALL 2026 Construction Project Management Intern](https://jobright.ai/jobs/info/69e675b13aa0c479643943fa?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Apr 20 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Operations Intern](https://jobright.ai/jobs/info/69e66ee07820c036924d0699?utm_campaign=1050&utm_source=git)** | 14411 Triskett Rd, Cleveland, OH | On Site | Apr 20 |
 | **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69ca63a1aa3c2c1995e2cad1?utm_campaign=1050&utm_source=git)** | Oakley, KS | On Site | Apr 20 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - IT Infrastructure Project Management](https://jobright.ai/jobs/info/69e65f1d3aa0c479643939f5?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 20 |
@@ -119,13 +124,13 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[PMO INTERN](https://jobright.ai/jobs/info/69bf61a82c312363dcd21172?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 20 |
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/69e5e3f63cfd986aa6f82f1b?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | Apr 20 |
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Senior Project Manager - ITS5](https://jobright.ai/jobs/info/69e5e3f0f8fa2f3ec329f09b?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 20 |
-| **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699fed8f53d97f23ee657e2f?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 19 |
-| ↳ | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699febd7ce78e77b4fe5e727?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 19 |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699febd7ce78e77b4fe5e727?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 19 |
+| ↳ | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/699fed8f53d97f23ee657e2f?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 19 |
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Senior Project Manager - ITS5](https://jobright.ai/jobs/info/69e27193be46fa3a4ef57272?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 19 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Internship – Operations and Strategy Management](https://jobright.ai/jobs/info/69c8a7161b5ad028873948f4?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 19 |
 | **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69e5c7d53cfd986aa6f829ed?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e5ee4c3cfd986aa6f8304f?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e27172be46fa3a4ef571e3?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Apr 19 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e27172be46fa3a4ef571e3?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Apr 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e5ee4c3cfd986aa6f8304f?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
 | **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Field Services Project Manager Intern](https://jobright.ai/jobs/info/69e65f2d3aa0c47964393a1b?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Apr 19 |
 | ↳ | **[Summer Internship Program 2026 - Field Services Project Manager Intern](https://jobright.ai/jobs/info/69e65ece9b6eb37e26f7fc27?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | Apr 19 |
 | **[Roush](https://www.roush.com)** | **[DOT Administrative Assistant Internship - Summer 2026](https://jobright.ai/jobs/info/69e63aba3aa0c47964392c31?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Apr 19 |
@@ -143,18 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Apr 19 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/697264fe4ccbf64f8df25e4b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 19 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/69a7893b76bbe83d3afaec2a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 19 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Apr 19 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/69a7893b76bbe83d3afaec2a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Apr 19 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698fa3160cc8ea15f1da3eb8?utm_campaign=1050&utm_source=git)** | Middle River, MD | Hybrid | Apr 19 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Apr 19 |
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern - Albuquerque](https://jobright.ai/jobs/info/69c9338ae565c26a700346fe?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 19 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/69d9cc8b869c7e25d859dc52?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 19 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Apr 19 |
 | **[Risepoint](https://risepoint.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/6933d711f131d96e484679a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
-| ↳ | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69e34e123770bd5361cdbbe1?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Apr 19 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Production Planning](https://jobright.ai/jobs/info/69e5fd4bf8fa2f3ec329f4bb?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Apr 19 |
-| ↳ | **[Intern, Production Planning](https://jobright.ai/jobs/info/69b1fc3465de58104c7168da?utm_campaign=1050&utm_source=git)** | 375 Saxonburg Blvd, Saxonburg, PA, 16056, US | On Site | Apr 19 |
-| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
