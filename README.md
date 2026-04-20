@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cortif Technologies](https://www.hollanoah.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69e565a97820c036924cd31a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/69e5612b9b6eb37e26f7d0a9?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Apr 19 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69e54af43aa0c47964390ebb?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Apr 19 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Park Operations Intern (Guest Arrival)](https://jobright.ai/jobs/info/69e54ae77820c036924cd275?utm_campaign=1050&utm_source=git)** | SeaWorld San Diego | On Site | Apr 19 |
-| **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69bd8c37b106024562827c79?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[2026 Summer Healhtcare Intern](https://jobright.ai/jobs/info/69e5389e3cfd986aa6f82336?utm_campaign=1050&utm_source=git)** | Any Location / Remote | Remote | Apr 19 |
 | **[Liquid Group LLC](jhdbgfjgkdsfg)** | **[Executive Vice President of Operations](https://jobright.ai/jobs/info/69e52abb3aa0c47964390a7a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/69e34e90be46fa3a4ef5aa42?utm_campaign=1050&utm_source=git)** | Milpitas | On Site | Apr 17 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[UC CFO-BAP Summer Associate Intern](https://jobright.ai/jobs/info/69e4fd85f8fa2f3ec329e541?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 17 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - PROCUREMENT](https://jobright.ai/jobs/info/69e2d6cefcfcbd43860a4dc1?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Apr 17 |
-| **[NationsBenefits](http://www.NationsBenefits.com)** | **[Client Services – Business Product & Project Manager Internship](https://jobright.ai/jobs/info/69e2d6be2f2865359307880c?utm_campaign=1050&utm_source=git)** | Plantation, FL | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
