@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Unit School District 300](http://D300.org)** | **[Secretary-Registrar](https://jobright.ai/jobs/info/69e71c949b6eb37e26f83021?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| **[State Street](https://www.statestreet.com/)** | **[Professional Services Operations Intern- July- Dec (6 Month)](https://jobright.ai/jobs/info/69e715f43aa0c47964396d69?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 20 |
+| **[You.com](https://you.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/69e715929b6eb37e26f82fa7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Apr 20 |
+| **[Community Unit School District 300](http://D300.org)** | **[Secretary-Registrar](https://jobright.ai/jobs/info/69d5e06de63cea7a8b665d14?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Development Operations Intern](https://jobright.ai/jobs/info/69e6f916e0cd471b2f128141?utm_campaign=1050&utm_source=git)** | Boulder, CO | Hybrid | Apr 20 |
+| **[RBC](https://www.rbc.com)** | **[Branch Manager Intern- EN](https://jobright.ai/jobs/info/69e715eb3aa0c47964396d39?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 20 |
 | **[Slalom](http://www.slalom.com)** | **[Intern, Office of the Chief of Staff (Data & AI)](https://jobright.ai/jobs/info/69e6f1ccf8fa2f3ec32a4277?utm_campaign=1050&utm_source=git)** | Washington, United States | On Site | Apr 20 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Property Management Intern - Multifamily Housing (Columbus, OH) Summer 2026](https://jobright.ai/jobs/info/69e6f1707820c036924d2c97?utm_campaign=1050&utm_source=git)** | Reynoldsburg, OH | On Site | Apr 20 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - REIN Data Intern](https://jobright.ai/jobs/info/69e6f1667820c036924d2c5b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Process Management - Summer 2026](https://jobright.ai/jobs/info/69e672a6f8fa2f3ec32a1d45?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 20 |
 | **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69e6d5bef8fa2f3ec32a3bdd?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Supply Chain - Intern to Intern](https://jobright.ai/jobs/info/69e66db2e0cd471b2f125a86?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Apr 20 |
-| ↳ | **[Supply Chain - Intern to Intern](https://jobright.ai/jobs/info/69e66dad7820c036924d04d4?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Apr 20 |
-| ↳ | **[Supply Chain - Intern to Intern](https://jobright.ai/jobs/info/69e66d873aa0c4796439411c?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Apr 20 |
-| **[ClarkDietrich](https://www.clarkdietrich.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69e66d593aa0c47964394005?utm_campaign=1050&utm_source=git)** | Vienna, OH | On Site | Apr 20 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Supply Chain - Intern to Intern](https://jobright.ai/jobs/info/69e66d56f8fa2f3ec32a1b01?utm_campaign=1050&utm_source=git)** | US, Concord NC | On Site | Apr 20 |
-| **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/69e6bc09e0cd471b2f1274fa?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
