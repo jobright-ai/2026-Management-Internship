@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Apr 21 |
+| **[IPC Systems](http://www.ipc.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e74f8d3aa0c479643994aa?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 21 |
+| **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
+| **[Accord Carton](https://www.accordcarton.com/)** | **[Supply Chain Intern – Inventory Management & Systems](https://jobright.ai/jobs/info/69e739f0e0cd471b2f12a8aa?utm_campaign=1050&utm_source=git)** | Alsip, IL | On Site | Apr 21 |
+| **[Tempe Union High School District](https://www.tempeunion.org)** | **[10 month Administrative Assistant Athletics 1.0 FTE 2026-2027](https://jobright.ai/jobs/info/69d31e3054f00230c6d24ac4?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Optimus (Fall 2026)](https://jobright.ai/jobs/info/69e74f9858811370cb11c666?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 21 |
+| **[MCLEAN COUNTY UNIT DISTRICT #5](https://www.linkedin.com/company/54561350)** | **[Summer Production - Administrative Assistant - 2025-2026](https://jobright.ai/jobs/info/69e74f2f0a6e09555302a023?utm_campaign=1050&utm_source=git)** | Normal, IL | On Site | Apr 21 |
+| ↳ | **[Administrative Assistant - ESY Program 25-26](https://jobright.ai/jobs/info/69e74f4a3aa0c4796439939e?utm_campaign=1050&utm_source=git)** | Normal, IL | On Site | Apr 21 |
+| **[Minnesota Department of Commerce](https://mn.gov/commerce)** | **[State Program Administrator Manager - HR Project Manager](https://jobright.ai/jobs/info/69e74f677820c036924d58bd?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Apr 21 |
+| **[State of Minnesota](https://mn.gov)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e74f4f3aa0c479643993cb?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Apr 21 |
 | **[Community Unit School District 300](http://D300.org)** | **[Secretary-Registrar](https://jobright.ai/jobs/info/69e71c949b6eb37e26f83021?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | **[State Street](https://www.statestreet.com/)** | **[Professional Services Operations Intern- July- Dec (6 Month)](https://jobright.ai/jobs/info/69e715f43aa0c47964396d69?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 20 |
 | **[You.com](https://you.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/69e715929b6eb37e26f82fa7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Apr 20 |
@@ -72,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e6e38e3aa0c47964396439?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e6e34e7820c036924d2855?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 20 |
 | **[Craftwork](https://craftwork.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e6ff2d7820c036924d2e14?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 20 |
+| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Administrative Intern- Paid](https://jobright.ai/jobs/info/69e754583aa0c479643994ec?utm_campaign=1050&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | On Site | Apr 20 |
+| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e73ee3e0cd471b2f12a8ed?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[Trata (YC W25)](https://www.trytrata.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e6ff357820c036924d2e42?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Intersect](https://www.intersectpower.com)** | **[Texas Development MBA Intern](https://jobright.ai/jobs/info/69e6d5abe0cd471b2f1279ff?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4355?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Apr 20 |
@@ -82,9 +96,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82ae0?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4357?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f903e0cd471b2f1280ec?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9123cfd986aa6f8827b?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9157820c036924d2d5f?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82adf?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[CBRE Local Facilities Management (FM) Internship Program](https://jobright.ai/jobs/info/69e6cf519b6eb37e26f8223a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Program Coordinator, Employee Listening, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e68c63f8fa2f3ec32a279c?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 20 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern](https://jobright.ai/jobs/info/69e68c5f9b6eb37e26f80e64?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Apr 20 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Department Intern](https://jobright.ai/jobs/info/69e68c4a3aa0c47964394c67?utm_campaign=1050&utm_source=git)** | SD, Sioux Falls | On Site | Apr 20 |
-| **[Budget Rent a Car, UAE](https://one.budgetinternational.com/en_GB/BudgetThaiAirways/)** | **[Fall Management/Leadership Internship](https://jobright.ai/jobs/info/69e6ed1e3cfd986aa6f87fa7?utm_campaign=1050&utm_source=git)** | OMAHA,NE,US | On Site | Apr 20 |
-| **[Calpine](http://www.calpine.com)** | **[Internship – Supply Chain](https://jobright.ai/jobs/info/69e6ecf27820c036924d2a23?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | Hybrid | Apr 20 |
-| **[Prosperity Home Mortgage, LLC](http://www.phmloans.com)** | **[Admin Coordinator - Summer Internship](https://jobright.ai/jobs/info/69e6ebe49b6eb37e26f826e9?utm_campaign=1050&utm_source=git)** | Fredericksburg, Virginia, United States | On Site | Apr 20 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e0f7bdfd1c0456f3fabc09?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Apr 20 |
-| **[RBC](https://www.rbc.com)** | **[Assistant Branch Manager Intern](https://jobright.ai/jobs/info/69e681e9e0cd471b2f1262f1?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Apr 20 |
-| **[Lee's Summit R-7 School District](https://lsr7.org/)** | **[Administrative Secretary - Lee's Summit High School](https://jobright.ai/jobs/info/69e69eb5f8fa2f3ec32a2fad?utm_campaign=1050&utm_source=git)** | Lees Summit, MO | On Site | Apr 20 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern – Enterprise Project Management](https://jobright.ai/jobs/info/69e67bc49b6eb37e26f807ca?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 20 |
-| **[Washington Nationals](https://nationals.mlb.com)** | **[2026 Major League Operations Intern](https://jobright.ai/jobs/info/69e6ff4a3cfd986aa6f8838e?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 20 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Project Management FTC Intern](https://jobright.ai/jobs/info/6994ffce81476f6176acdc0f?utm_campaign=1050&utm_source=git)** | Wichita, KS, US, 67209 | On Site | Apr 20 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e6739e3cfd986aa6f85bf1?utm_campaign=1050&utm_source=git)** | US-NJ-MORRISTOWN | On Site | Apr 20 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69e6739ce0cd471b2f125bd2?utm_campaign=1050&utm_source=git)** | MORRISTOWN, NJ, US | On Site | Apr 20 |
-| **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant to Dean & Office Manager](https://jobright.ai/jobs/info/69d928a0738f2f099e8a0251?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | Apr 20 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Process Management - Summer 2026](https://jobright.ai/jobs/info/69e672a6f8fa2f3ec32a1d45?utm_campaign=1050&utm_source=git)** | Toronto, ON | Hybrid | Apr 20 |
-| **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69e6d5bef8fa2f3ec32a3bdd?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
