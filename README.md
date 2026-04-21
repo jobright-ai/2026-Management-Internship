@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e6e38e3aa0c47964396439?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
+| **[Medline](http://www.medline.com/home.jsp)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e6e34e7820c036924d2855?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 20 |
 | **[Intersect](https://www.intersectpower.com)** | **[Texas Development MBA Intern](https://jobright.ai/jobs/info/69e6d5abe0cd471b2f1279ff?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[CBRE Local Facilities Management (FM) Internship Program](https://jobright.ai/jobs/info/69e6cf519b6eb37e26f8223a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
 | **[7 Brew Coffee](https://7brew.com)** | **[Logistics Intern - Supply Chain](https://jobright.ai/jobs/info/69e6c993e0cd471b2f1277c5?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Apr 20 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Intern / Co-Op II](https://jobright.ai/jobs/info/69e6c0c8e0cd471b2f1275fb?utm_campaign=1050&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Apr 20 |
 | **[Distributor Wire & Cable](https://www.distributorwire.com/)** | **[Integrated Business Planning Intern](https://jobright.ai/jobs/info/69e6c0c1e0cd471b2f1275e3?utm_campaign=1050&utm_source=git)** | Canal Winchester, OH | Remote | Apr 20 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
+| **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Vice President Community and Continuing Care - Prairie Mountain Health](https://jobright.ai/jobs/info/69e6e34fe0cd471b2f127c9d?utm_campaign=1050&utm_source=git)** | Portage la Prairie, Manitoba, Canada | On Site | Apr 20 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e6b92b3aa0c47964395c32?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | Apr 20 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e6b9259b6eb37e26f81df3?utm_campaign=1050&utm_source=git)** | Mobile Metropolitan Area | On Site | Apr 20 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Executive Assistant - Sales Department](https://jobright.ai/jobs/info/69e6b8f6e0cd471b2f12748f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 20 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e69196f8fa2f3ec32a28cb?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 20 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[PEC Operations Intern](https://jobright.ai/jobs/info/69e6916b9b6eb37e26f810a1?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Program Administrative Support Specialist](https://jobright.ai/jobs/info/69e6b9267820c036924d20b4?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Apr 20 |
+| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain](https://jobright.ai/jobs/info/69e6e36b9b6eb37e26f825de?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Apr 20 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Intern - Facilities Management & Campus Services (FMCS)](https://jobright.ai/jobs/info/69e68ec8e0cd471b2f1266dc?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 20 |
 | **[UNDP Careers](https://www.undp.org)** | **[Senior Management Support Intern](https://jobright.ai/jobs/info/69e2bcebbe46fa3a4ef588f6?utm_campaign=1050&utm_source=git)** | East Jerusalem, MS | On Site | Apr 20 |
 | **[BMO](http://www.bmo.com)** | **[Program Coordinator, Employee Listening, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e68c63f8fa2f3ec32a279c?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 20 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Intern, R&D – PMO](https://jobright.ai/jobs/info/69e64942f8fa2f3ec32a0948?utm_campaign=1050&utm_source=git)** | Round Lake, Illinois | On Site | Apr 20 |
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e66532f8fa2f3ec32a1a34?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Apr 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Life Cycle Support Intern (Fall 2026, 4-8months)](https://jobright.ai/jobs/info/69e642d13aa0c47964392d67?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Apr 20 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e681b1e0cd471b2f126248?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 20 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69e681e6f8fa2f3ec32a241c?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Apr 20 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Apr 20 |
-| **[GRUNDFOS](https://grundfos.to/socialmedia)** | **[Project Management/Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69df277e5913ad3398142cda?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 20 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship (Summer 2026)](https://jobright.ai/jobs/info/69e65efb9b6eb37e26f7fc83?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 20 |
-| **[Sparton](http://www.sparton.com)** | **[Supply Chain/Procurement Internship](https://jobright.ai/jobs/info/69e67c559b6eb37e26f808c7?utm_campaign=1050&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | Apr 20 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e681e6f8fa2f3ec32a241c?utm_campaign=1050&utm_source=git)** | Oakland | Hybrid | Apr 20 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69e681b1e0cd471b2f126248?utm_campaign=1050&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
