@@ -82,9 +82,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82ae0?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4357?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f903e0cd471b2f1280ec?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9123cfd986aa6f8827b?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9157820c036924d2d5f?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82adf?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[CBRE Local Facilities Management (FM) Internship Program](https://jobright.ai/jobs/info/69e6cf519b6eb37e26f8223a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Intern / Co-Op II](https://jobright.ai/jobs/info/69e6c0ebf8fa2f3ec32a381d?utm_campaign=1050&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Apr 20 |
 | **[TD](https://www.td.com)** | **[Intern / Co-Op II](https://jobright.ai/jobs/info/69e6c0c8e0cd471b2f1275fb?utm_campaign=1050&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Apr 20 |
 | **[Distributor Wire & Cable](https://www.distributorwire.com/)** | **[Integrated Business Planning Intern](https://jobright.ai/jobs/info/69e6c0c1e0cd471b2f1275e3?utm_campaign=1050&utm_source=git)** | Canal Winchester, OH | Remote | Apr 20 |
+| **[EVgo](http://www.evgo.com)** | **[Intern, Engineering Project Coordinator (Summer)](https://jobright.ai/jobs/info/69e72cd47820c036924d5394?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 20 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[Shared Health-Soins Communs](https://sharedhealthmb.ca/)** | **[Vice President Community and Continuing Care - Prairie Mountain Health](https://jobright.ai/jobs/info/69e6e34fe0cd471b2f127c9d?utm_campaign=1050&utm_source=git)** | Portage la Prairie, Manitoba, Canada | On Site | Apr 20 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e6b92b3aa0c47964395c32?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | Apr 20 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Intern / Co-Op II](https://jobright.ai/jobs/info/69e69e503aa0c4796439536d?utm_campaign=1050&utm_source=git)** | Moncton, New Brunswick | On Site | Apr 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e69e4d9b6eb37e26f81559?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario | Hybrid | Apr 20 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69dca6e05356a60f40fe9ef9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 20 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69b6cb663b74eb1e2c848047?utm_campaign=1050&utm_source=git)** | Maidstone, Saskatchewan, Canada | On Site | Apr 20 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e692e99b6eb37e26f811e5?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Apr 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/69e691abf8fa2f3ec32a2924?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 20 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e69196f8fa2f3ec32a28cb?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 20 |
