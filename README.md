@@ -57,15 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Supply Chain Intern (Co-Op)](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
+| **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699381b2ce78e77b4fd75370?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Fall 2026](https://jobright.ai/jobs/info/69cb3f9baa3c2c1995e356a1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 21 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Logistics Intern](https://jobright.ai/jobs/info/69d7aad2b861c42857c439d5?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Apr 21 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68cca5017342c7623ae678be?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Apr 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 21 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Apr 21 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Logistics Intern](https://jobright.ai/jobs/info/69d7aad2b861c42857c439d5?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Apr 21 |
-| **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699381b2ce78e77b4fd75370?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68cca5017342c7623ae678be?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Apr 21 |
+| **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69e770c23aa0c4796439a0e0?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Apr 21 |
 | **[IPC Systems](http://www.ipc.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e74f8d3aa0c479643994aa?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern - Summer 2026 - Military Flight Controls Division](https://jobright.ai/jobs/info/69a05de85218a81676717289?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Apr 21 |
 | **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Facilities Management Co-op with Drexel University: Spring/Summer A Round](https://jobright.ai/jobs/info/69cb91ad8fc6090c5d45924e?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Land Management Intern](https://jobright.ai/jobs/info/69af1b4adfaeda6ff5971db9?utm_campaign=1050&utm_source=git)** | Jackson, SC | On Site | Apr 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d6?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 21 |
+| ↳ | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
 | **[Accord Carton](https://www.accordcarton.com/)** | **[Supply Chain Intern – Inventory Management & Systems](https://jobright.ai/jobs/info/69e739f0e0cd471b2f12a8aa?utm_campaign=1050&utm_source=git)** | Alsip, IL | On Site | Apr 21 |
 | **[Tempe Union High School District](https://www.tempeunion.org)** | **[10 month Administrative Assistant Athletics 1.0 FTE 2026-2027](https://jobright.ai/jobs/info/69d31e3054f00230c6d24ac4?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Optimus (Fall 2026)](https://jobright.ai/jobs/info/69e74f9858811370cb11c666?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 21 |
@@ -100,9 +107,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82ae0?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4357?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f903e0cd471b2f1280ec?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9123cfd986aa6f8827b?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9157820c036924d2d5f?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82adf?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[CBRE Local Facilities Management (FM) Internship Program](https://jobright.ai/jobs/info/69e6cf519b6eb37e26f8223a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Intern / Co-Op II](https://jobright.ai/jobs/info/69e69e503aa0c4796439536d?utm_campaign=1050&utm_source=git)** | Moncton, New Brunswick | On Site | Apr 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e69e4d9b6eb37e26f81559?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario | Hybrid | Apr 20 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69dca6e05356a60f40fe9ef9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 20 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e692e99b6eb37e26f811e5?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Apr 20 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/69e691abf8fa2f3ec32a2924?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 20 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e69196f8fa2f3ec32a28cb?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 20 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[PEC Operations Intern](https://jobright.ai/jobs/info/69e6916b9b6eb37e26f810a1?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
-| **[North Carolina State University](http://www.ncsu.edu)** | **[Program Administrative Support Specialist](https://jobright.ai/jobs/info/69e6b9267820c036924d20b4?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Apr 20 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain](https://jobright.ai/jobs/info/69e6e36b9b6eb37e26f825de?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Apr 20 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Intern - Facilities Management & Campus Services (FMCS)](https://jobright.ai/jobs/info/69e68ec8e0cd471b2f1266dc?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
