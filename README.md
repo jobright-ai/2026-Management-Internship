@@ -76,9 +76,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82ae0?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4357?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f903e0cd471b2f1280ec?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Apr 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9123cfd986aa6f8827b?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9489b6eb37e26f82ade?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f8d8f8fa2f3ec32a4356?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Apr 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9123cfd986aa6f8827b?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9157820c036924d2d5f?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Apr 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e6f9499b6eb37e26f82adf?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Apr 20 |
 | **[CBRE](https://www.cbre.com)** | **[CBRE Local Facilities Management (FM) Internship Program](https://jobright.ai/jobs/info/69e6cf519b6eb37e26f8223a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 20 |
@@ -109,6 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Laveer Engineering](https://laveer.ca/)** | **[Logistics Intern Summer 2026](https://jobright.ai/jobs/info/69e6b36b3cfd986aa6f8749d?utm_campaign=1050&utm_source=git)** | Hopkins, SC | Hybrid | Apr 20 |
 | **[Banner Life family of companies | life insurance](https://www.bannerlife.com/)** | **[UW & Operations Intern](https://jobright.ai/jobs/info/69e6ab70f8fa2f3ec32a338d?utm_campaign=1050&utm_source=git)** | Frederick, MD | Hybrid | Apr 20 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship - Product/Project Management](https://jobright.ai/jobs/info/69e6ab4ae0cd471b2f1270ed?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Apr 20 |
+| **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e70ee03aa0c47964396a91?utm_campaign=1050&utm_source=git)** | St. George,UT,US | On Site | Apr 20 |
+| **[Accord Carton](https://www.accordcarton.com/)** | **[Supply Chain Intern – Inventory Management & Systems](https://jobright.ai/jobs/info/69e70f1b3cfd986aa6f8852d?utm_campaign=1050&utm_source=git)** | Alsip,IL,US | On Site | Apr 20 |
 | **[Legal & General America](https://www.lgamerica.com/)** | **[UW & Operations Intern](https://jobright.ai/jobs/info/69e6a5a59b6eb37e26f818f8?utm_campaign=1050&utm_source=git)** | Frederick, MD, US | Hybrid | Apr 20 |
 | ↳ | **[UW & Operations Intern](https://jobright.ai/jobs/info/69e6a58c3aa0c479643956dd?utm_campaign=1050&utm_source=git)** | US-MD-Frederick | Hybrid | Apr 20 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Logistics](https://jobright.ai/jobs/info/69e6a5837820c036924d1bcc?utm_campaign=1050&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 20 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e69e4d9b6eb37e26f81559?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario | Hybrid | Apr 20 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69dca6e05356a60f40fe9ef9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 20 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Seasonal Operations Support](https://jobright.ai/jobs/info/69b6cb663b74eb1e2c848047?utm_campaign=1050&utm_source=git)** | Maidstone, Saskatchewan, Canada | On Site | Apr 20 |
-| **[AMX](https://amxtrucking.com/)** | **[Logistics Summer Internship](https://jobright.ai/jobs/info/69e697d47820c036924d1537?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e692e99b6eb37e26f811e5?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Apr 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/69e691abf8fa2f3ec32a2924?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 20 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e69196f8fa2f3ec32a28cb?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ClarkDietrich](https://www.clarkdietrich.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69e66d593aa0c47964394005?utm_campaign=1050&utm_source=git)** | Vienna, OH | On Site | Apr 20 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Supply Chain - Intern to Intern](https://jobright.ai/jobs/info/69e66d56f8fa2f3ec32a1b01?utm_campaign=1050&utm_source=git)** | US, Concord NC | On Site | Apr 20 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/69e6bc09e0cd471b2f1274fa?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Apr 20 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Buffalo](https://jobright.ai/jobs/info/69e664ff3aa0c47964393f14?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
