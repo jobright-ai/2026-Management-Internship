@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Yuma South Phoenix District](https://jobright.ai/jobs/info/69e0c318fd1c0456f3faa9b1?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Apr 21 |
 | ↳ | **[Branch Manager North Seattle](https://jobright.ai/jobs/info/69e2090c2ef4b138ddb25845?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 21 |
 | ↳ | **[Branch Manager Sarasota](https://jobright.ai/jobs/info/69e271905c44d4710fe252f0?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Apr 21 |
+| **[MOTMX](www.motmx.com)** | **[Internship Program in Stablecoins, Crypto & Payments](https://jobright.ai/jobs/info/69e844d87820c036924dac19?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Apr 21 |
 | **[Bachem](https://www.bachem.com/)** | **[Intern - Supply Chain Planning](https://jobright.ai/jobs/info/69e815797820c036924da2b7?utm_campaign=1050&utm_source=git)** | Vista, CA | On Site | Apr 21 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Saxonburg Warehouse,](https://jobright.ai/jobs/info/69e8156e7820c036924da2a1?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Apr 21 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/69e80c933aa0c4796439d951?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Apr 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern](https://jobright.ai/jobs/info/69b08b1d74950064509703bb?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Apr 21 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69cc2f3c366bb95ba54edfe8?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 21 |
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69dcc15cf748bc5d08a5c5d2?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Apr 21 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Material Program Manager (MPM) Intern](https://jobright.ai/jobs/info/69937d8ee0bddb6acac1c26a?utm_campaign=1050&utm_source=git)** | San Carlos, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
