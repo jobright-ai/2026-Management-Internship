@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/69e80c933aa0c4796439d951?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Apr 21 |
+| **[Washington State Office of the Insurance Commissioner](https://www.insurance.wa.gov/)** | **[Administrative Intern I - ACTUARIAL SERVICES (RFPN)](https://jobright.ai/jobs/info/69e80b123aa0c4796439d7fd?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Apr 21 |
+| **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Park Operations Summer Intern (Ride Operations)](https://jobright.ai/jobs/info/69e80a0b0a6e09555302de22?utm_campaign=1050&utm_source=git)** | SeaWorld San Diego | On Site | Apr 21 |
+| **[Indiana University Health](http://iuhealth.org)** | **[Student Administrative Intern](https://jobright.ai/jobs/info/69e80041e0cd471b2f12ec12?utm_campaign=1050&utm_source=git)** | 1701 N Senate Blvd, Indianapolis, IN, 46202, US | On Site | Apr 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 21 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Operations Intern](https://jobright.ai/jobs/info/69e7f7be0a6e09555302d58d?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Apr 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Apr 21 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/69e7e227f8fa2f3ec32aa130?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/69e7e20f0a6e09555302cb92?utm_campaign=1050&utm_source=git)** | US-FL-St Petersburg | On Site | Apr 21 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69e7e1fe58811370cb11ef9a?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 21 |
+| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/69e80b7c7820c036924d9eed?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 21 |
 | **[The Vascular Care Group](https://vascularcaregrp.com)** | **[Healthcare Administrative Intern (Wellesley)](https://jobright.ai/jobs/info/69e7de177820c036924d8a27?utm_campaign=1050&utm_source=git)** | Wellesley, Massachusetts, United States | On Site | Apr 21 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship / Summer 2026/ Rooms](https://jobright.ai/jobs/info/69e7ddff7820c036924d89ba?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | Apr 21 |
 | ↳ | **[Omni Cares Internship / Summer 2026/ Rooms](https://jobright.ai/jobs/info/69e7ddbe3aa0c4796439c305?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | Apr 21 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[President's Office Intern](https://jobright.ai/jobs/info/69e7db46e0cd471b2f12dc3f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[Everon](https://www.everonsolutions.com)** | **[Strategic Sourcing Intern – Vendor Relations & Contract Management](https://jobright.ai/jobs/info/69e7db310a6e09555302c8d4?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Apr 21 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Chief Health Officer](https://jobright.ai/jobs/info/69e7db0b0a6e09555302c82d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e7fe6df8fa2f3ec32aad46?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Apr 21 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Customer Service - Summer 2026](https://jobright.ai/jobs/info/69bca84545e08b3dc1f96df1?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Apr 21 |
 | **[TD](https://www.td.com)** | **[Business Architecture Analyst Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69e7d42258811370cb11eb2a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Apr 21 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/69e7d366e0cd471b2f12da33?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[President's Office Intern](https://jobright.ai/jobs/info/69e78c9ee0cd471b2f12c461?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[At Home Care Hospice](https://athomecareandhospice.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e78c8d7820c036924d715d?utm_campaign=1050&utm_source=git)** | ENGLEWOOD, CO, US | On Site | Apr 21 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e7890e7820c036924d70de?utm_campaign=1050&utm_source=git)** | Carlsbad, CA, US | On Site | Apr 21 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69e788e8f8fa2f3ec32a8579?utm_campaign=1050&utm_source=git)** | US-CA-Carlsbad | On Site | Apr 21 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e7afd57820c036924d7bca?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Apr 21 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Hyatt Place Houston Galleria - Hospitality Management Intern](https://jobright.ai/jobs/info/69af83637495006450940385?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 21 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Hospital Operations Master's Intern](https://jobright.ai/jobs/info/69e77e15f8fa2f3ec32a804f?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
