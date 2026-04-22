@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69e877bd58811370cb1268db?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 22 |
+| **[Greystar](http://greystar.com)** | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e288385c44d4710fe25903?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| ↳ | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b455bd3b74eb1e2c818c2f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 22 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Project Assistant](https://jobright.ai/jobs/info/69e86c447820c036924e0065?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e84f6d0a6e09555302febd?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
 | ↳ | **[Student Administrative Intern](https://jobright.ai/jobs/info/69e84f65e0cd471b2f130fcf?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 21 |
@@ -79,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Missouri Western State University](http://missouriwestern.edu)** | **[Office Assistant](https://jobright.ai/jobs/info/69e84f5a58811370cb12231c?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Apr 21 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Business Operations Intern, Product Support](https://jobright.ai/jobs/info/69e8465ae0cd471b2f130227?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Apr 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e8486d7820c036924db7bd?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Apr 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e84879e0cd471b2f130c56?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Apr 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848903aa0c4796439ea7a?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e8486d7820c036924db7ad?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Apr 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848903aa0c4796439ea7a?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e84879e0cd471b2f130c56?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848794b0fa35a70761f67?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848854b0fa35a70761f98?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e8486d0a6e09555302faf7?utm_campaign=1050&utm_source=git)** | Jamestown, ND | On Site | Apr 21 |
@@ -100,17 +103,16 @@ For a complete list, click the following sortable link below:
 | **[Indiana University Health](http://iuhealth.org)** | **[Student Administrative Intern](https://jobright.ai/jobs/info/69e80041e0cd471b2f12ec12?utm_campaign=1050&utm_source=git)** | 1701 N Senate Blvd, Indianapolis, IN, 46202, US | On Site | Apr 21 |
 | **[Regal Boats](http://regalboats.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e8489f58811370cb121ff4?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 21 |
-| **[City of Colorado Springs](https://coloradosprings.gov/)** | **[PART- TIME - Administrative Assistant I - Sertich Ice Center](https://jobright.ai/jobs/info/69e826550a6e09555302e826?utm_campaign=1050&utm_source=git)** | Pikes Peak Park, CO | On Site | Apr 21 |
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Operations Intern](https://jobright.ai/jobs/info/69e7f7be0a6e09555302d58d?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Apr 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Apr 21 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Bank-Owned Life Insurance (BOLI) Operations Intern](https://jobright.ai/jobs/info/69e7f763e0cd471b2f12e93d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | Hybrid | Apr 21 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager West Georgia District](https://jobright.ai/jobs/info/69e0c2eaff71e82d604b347a?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/69e7f1fbe0cd471b2f12e821?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[JPI](http://jpi.com)** | **[Program Management Office Intern](https://jobright.ai/jobs/info/69e7efabf8fa2f3ec32aa86b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 21 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Business and Strategy Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e7efa10a6e09555302d30a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Real Estate Planning Intern](https://jobright.ai/jobs/info/69e7ef940a6e09555302d2d5?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 21 |
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Management Information System Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69e818c97820c036924da3a9?utm_campaign=1050&utm_source=git)** | New Britain, CT | On Site | Apr 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager Belmont](https://jobright.ai/jobs/info/69e228fbcda04a632939ff8c?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Apr 21 |
-| ↳ | **[Branch Manager Beach and Valley](https://jobright.ai/jobs/info/69e642aaf8fa2f3ec32a082f?utm_campaign=1050&utm_source=git)** | Santa Cruz, CA | On Site | Apr 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e2b28c3770bd5361cd9962?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 21 |
 | **[Network Connex](https://www.networkconnex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/69e7e4827820c036924d8e16?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Apr 21 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship / Summer 2026/ Rooms](https://jobright.ai/jobs/info/69e7e3283aa0c4796439c665?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics North America](https://www.lg.com/us)** | **[SCM - Intern - National Operations (Best Buy Accounts)](https://jobright.ai/jobs/info/69cb02e6466f1e133aac9bd1?utm_campaign=1050&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 21 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | Apr 21 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Tucson Administration Internship](https://jobright.ai/jobs/info/69e7b7fd58811370cb11e196?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 21 |
-| **[GGP](http://www.ggp.com/)** | **[Development Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69d5dcfae63cea7a8b6659c5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/69e7b66258811370cb11e0fc?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
