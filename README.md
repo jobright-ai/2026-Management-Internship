@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69b455bd3b74eb1e2c818c2f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 22 |
 | ↳ | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e288385c44d4710fe25903?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Intern - Industrial Services Field Operations Manager](https://jobright.ai/jobs/info/69969c9dce78e77b4fdabf28?utm_campaign=1050&utm_source=git)** | 104 North Main Street , Sumter, SC, 29150, US | On Site | Apr 22 |
+| **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69e8988e4b0fa35a707670ff?utm_campaign=1050&utm_source=git)** | Andover, MN | On Site | Apr 22 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69e877bd58811370cb1268db?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69e6e38e3aa0c47964396439?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 22 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Project Assistant](https://jobright.ai/jobs/info/69e86c447820c036924e0065?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
@@ -84,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Missouri Western State University](http://missouriwestern.edu)** | **[Office Assistant](https://jobright.ai/jobs/info/69e84f5a58811370cb12231c?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Apr 21 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Business Operations Intern, Product Support](https://jobright.ai/jobs/info/69e8465ae0cd471b2f130227?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Apr 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69e8486d7820c036924db7bd?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Apr 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848794b0fa35a70761f67?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Apr 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e84879e0cd471b2f130c56?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848903aa0c4796439ea7a?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e8486d7820c036924db7ad?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Apr 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e84879e0cd471b2f130c56?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Apr 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848794b0fa35a70761f67?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e848854b0fa35a70761f98?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Apr 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69e8486d0a6e09555302faf7?utm_campaign=1050&utm_source=git)** | Jamestown, ND | On Site | Apr 21 |
 | **[Unity](https://unity.com/)** | **[Programmatic Business Operations Intern](https://jobright.ai/jobs/info/69e845ad0a6e09555302ef79?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 21 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Portal Innovations](https://www.portalinnovations.com/)** | **[Member Operations Intern](https://jobright.ai/jobs/info/69e7f7be0a6e09555302d58d?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Apr 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Apr 21 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Bank-Owned Life Insurance (BOLI) Operations Intern](https://jobright.ai/jobs/info/69e7f763e0cd471b2f12e93d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | Hybrid | Apr 21 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Manager West Georgia District](https://jobright.ai/jobs/info/69e0c2eaff71e82d604b347a?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 21 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/69e7f1fbe0cd471b2f12e821?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[JPI](http://jpi.com)** | **[Program Management Office Intern](https://jobright.ai/jobs/info/69e7efabf8fa2f3ec32aa86b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 21 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Business and Strategy Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e7efa10a6e09555302d30a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
