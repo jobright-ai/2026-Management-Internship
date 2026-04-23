@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea91e60a6e095553041def?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Apr 23 |
+| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Tumwater, WA](https://jobright.ai/jobs/info/69ea91940a6e095553041d19?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Tumwater | On Site | Apr 23 |
+| **[Bucked Up](https://www.buckedup.com/)** | **[COO Intern](https://jobright.ai/jobs/info/69ea8fcb4b0fa35a70774ff7?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Apr 23 |
 | **[Ursa Major](https://www.ursamajor.com)** | **[Summer 2026 Procurement Intern](https://jobright.ai/jobs/info/69ea808cdc35f7132c4aaae5?utm_campaign=1050&utm_source=git)** | Berthoud, Colorado | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80857820c036924ee59a?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
@@ -87,9 +90,11 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Trainee Intern](https://jobright.ai/jobs/info/69b391a8ae2a534885eafadd?utm_campaign=1050&utm_source=git)** | Carberry, MB | On Site | Apr 23 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Global Technology - Office of the CIO](https://jobright.ai/jobs/info/69ea3cdc4b0fa35a70772d46?utm_campaign=1050&utm_source=git)** | Santa Monica, California, US | On Site | Apr 23 |
 | **[McLeod Health](http://www.mcleodhealth.org/)** | **[Supply Chain Intern - Materials Management](https://jobright.ai/jobs/info/69ea3acb4b0fa35a70772b03?utm_campaign=1050&utm_source=git)** | 1145 Day St, Florence, SC, 29506, US | On Site | Apr 23 |
+| **[NORMA Group](http://normagroup.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ea8db2dc35f7132c4aac2e?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Apr 23 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Creative Project Management](https://jobright.ai/jobs/info/69d357d6cfdc6132f945074a?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
 | **[Unisys](http://www.unisys.com)** | **[Advisor Relations Intern](https://jobright.ai/jobs/info/69ce7f0e891d7b11cfcc8fee?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Apr 23 |
 | **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69ea7f81dc35f7132c4aa9d0?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 23 |
+| **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Director Operations and Health & Safety](https://jobright.ai/jobs/info/69ea8efb3aa0c479643b095e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[A More Perfect Union](https://www.jewishdemocracy.org/)** | **[Operations and Special Projects Intern](https://jobright.ai/jobs/info/69ea734cdc35f7132c4aa404?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 23 |
 | **[McCain Foods](http://www.mccain.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69cd7c66398fb071abf759a3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
 | **[YD Fortune](https://www.ydfortune.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/69ea5d9d0a6e0955530406af?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Information Technology Program Director](https://jobright.ai/jobs/info/69e9bd333aa0c479643ab59c?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e9797ee0cd471b2f13e07f?utm_campaign=1050&utm_source=git)** | Sylmar, CA | On Site | Apr 22 |
 | **[Ellerbrock-Norris](https://www.ellerbrock-norris.com)** | **[Year-Round Intern (Business Operations & Client Support)](https://jobright.ai/jobs/info/69e978ae58811370cb12dcb1?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 22 |
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e8486ce0cd471b2f130c0c?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Management and Facilities Intern](https://jobright.ai/jobs/info/69e99dd958811370cb12e69c?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[Lookout Housing and Health](https://lookoutsociety.ca/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e227baed4dfe55c455f884?utm_campaign=1050&utm_source=git)** | Surrey, BC | On Site | Apr 22 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Associate Manager, Production - (Hybrid)](https://jobright.ai/jobs/info/69e9724a7820c036924e80d8?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Apr 22 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/69e97875e0cd471b2f13dba5?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Apr 22 |
-| **[Nicsa](https://www.nicsa.org)** | **[Corporate Internship- Austin](https://jobright.ai/jobs/info/69e972620a6e09555303be5e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Strategy Intern (Software)](https://jobright.ai/jobs/info/69e94a7d3aa0c479643a8f26?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Apr 22 |
-| **[Rappahannock Electric Cooperative](https://myrec.coop)** | **[Office of the President/CEO Internship](https://jobright.ai/jobs/info/69e94a210a6e09555303ad86?utm_campaign=1050&utm_source=git)** | Virginia, United States | Remote | Apr 22 |
-| **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Wireless Operations, Intern](https://jobright.ai/jobs/info/69e977814b0fa35a7076e7ce?utm_campaign=1050&utm_source=git)** | Pacific, Missouri, United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
