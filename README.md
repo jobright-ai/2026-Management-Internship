@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greenville University](https://www.greenville.edu)** | **[Student Worker- President's Office Intern](https://jobright.ai/jobs/info/69eaa6470a6e095553042495?utm_campaign=1050&utm_source=git)** | Greenville,IL,US | On Site | Apr 23 |
 | **[Haggar Clothing Co.](http://www.haggar.com)** | **[Supply Chain Planning Internship - Summer 2026](https://jobright.ai/jobs/info/69ea9ea07820c036924eee94?utm_campaign=1050&utm_source=git)** | Farmers Branch, TX, US | On Site | Apr 23 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/69ea9d233aa0c479643b0f26?utm_campaign=1050&utm_source=git)** | Westchester County, NY -  New Rochelle, Port Chester, Mamaroneck | On Site | Apr 23 |
 | **[Meucci & Company](https://meucciandco.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/69ea9d010a6e0955530421f9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 23 |
@@ -138,17 +139,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e9d7277820c036924e9eba?utm_campaign=1050&utm_source=git)** | US-MI-Ann Arbor | On Site | Apr 23 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/69ea108b58811370cb131624?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Apr 23 |
 | **[Goddard Riverside](https://goddard.org)** | **[Program Coordinator (BWC TEP)](https://jobright.ai/jobs/info/69e9c7193aa0c479643abc7b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Business Strategy Summer 2026 Internship, TD Garden](https://jobright.ai/jobs/info/69e9c6f53aa0c479643abc00?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/69ea0f027820c036924eb8bb?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 22 |
 | **[Goddard Riverside](https://goddard.org)** | **[Administrative Assistant (BWC TEP)](https://jobright.ai/jobs/info/69e9c9ba4b0fa35a707702d4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b01b3aa0c479643ab34d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | ↳ | **[Data Product Manager Project Intern (Monetization) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b2194b0fa35a7076fa3a?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e9b0463aa0c479643ab40a?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Apr 22 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e9b0463aa0c479643ab40a?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Apr 22 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Information Technology Program Director](https://jobright.ai/jobs/info/69e9bd333aa0c479643ab59c?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e9797ee0cd471b2f13e07f?utm_campaign=1050&utm_source=git)** | Sylmar, CA | On Site | Apr 22 |
 | **[Ellerbrock-Norris](https://www.ellerbrock-norris.com)** | **[Year-Round Intern (Business Operations & Client Support)](https://jobright.ai/jobs/info/69e978ae58811370cb12dcb1?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 22 |
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e8486ce0cd471b2f130c0c?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
