@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69d962b2b67cec4f9b0a1c2c?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 23 |
+| **[Plug-in Studios](https://www.studio-plug.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69eab5f7dc35f7132c4ab9c9?utm_campaign=1050&utm_source=git)** | Atlanta,GA,US | On Site | Apr 23 |
+| **[Dodge Industrial](https://dodgeindustrial.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69eaaf7858811370cb134baf?utm_campaign=1050&utm_source=git)** | Greenville, South Carolina, United States | On Site | Apr 23 |
 | **[Greenville University](https://www.greenville.edu)** | **[Student Worker- President's Office Intern](https://jobright.ai/jobs/info/69eaa6470a6e095553042495?utm_campaign=1050&utm_source=git)** | Greenville,IL,US | On Site | Apr 23 |
 | **[Haggar Clothing Co.](http://www.haggar.com)** | **[Supply Chain Planning Internship - Summer 2026](https://jobright.ai/jobs/info/69ea9ea07820c036924eee94?utm_campaign=1050&utm_source=git)** | Farmers Branch, TX, US | On Site | Apr 23 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/69ea9d233aa0c479643b0f26?utm_campaign=1050&utm_source=git)** | Westchester County, NY -  New Rochelle, Port Chester, Mamaroneck | On Site | Apr 23 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - Carrier Relations](https://jobright.ai/jobs/info/6994f432e0bddb6acac37873?utm_campaign=1050&utm_source=git)** | KC Metro Area | On Site | Apr 23 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ea4b3f0a6e09555304016d?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Apr 23 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ea4b3758811370cb132539?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Apr 23 |
+| **[McLeod Health](http://www.mcleodhealth.org/)** | **[Supply Chain Intern - Materials Management](https://jobright.ai/jobs/info/69eab1e7dc35f7132c4ab9b1?utm_campaign=1050&utm_source=git)** | South Carolina, United States | On Site | Apr 23 |
 | **[WDS Construction, Inc.](http://wdsconstruction.net)** | **[Project Intern](https://jobright.ai/jobs/info/69ea47a5dc35f7132c4a91d6?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | Apr 23 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Operations (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea835e4b0fa35a70774df7?utm_campaign=1050&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Manager, Administrative Services](https://jobright.ai/jobs/info/69cdb576398fb071abf7b7b6?utm_campaign=1050&utm_source=git)** | Hayward, CA | On Site | Apr 23 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Trainee Intern](https://jobright.ai/jobs/info/69b391a8ae2a534885eafadd?utm_campaign=1050&utm_source=git)** | Carberry, Manitoba, Canada | On Site | Apr 23 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Creative Project Management](https://jobright.ai/jobs/info/69d357d6cfdc6132f945074a?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
 | **[Unisys](http://www.unisys.com)** | **[Advisor Relations Intern](https://jobright.ai/jobs/info/69ce7f0e891d7b11cfcc8fee?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Apr 23 |
-| **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning and Analytics](https://jobright.ai/jobs/info/69ea7f81dc35f7132c4aa9d0?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 23 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Director Operations and Health & Safety](https://jobright.ai/jobs/info/69ea8efb3aa0c479643b095e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | **[A More Perfect Union](https://www.jewishdemocracy.org/)** | **[Operations and Special Projects Intern](https://jobright.ai/jobs/info/69ea734cdc35f7132c4aa404?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 23 |
 | **[McCain Foods](http://www.mccain.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69cd7c66398fb071abf759a3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e8486ce0cd471b2f130c0c?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Support Coordinator](https://jobright.ai/jobs/info/69e9b3d90a6e09555303d3ed?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
-| ↳ | **[Department Assistant](https://jobright.ai/jobs/info/69e9abe73aa0c479643ab274?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Bourbonnais, IL](https://jobright.ai/jobs/info/69e964873aa0c479643a9b36?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 22 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Technical Program Manager Intern](https://jobright.ai/jobs/info/69e984890a6e09555303ca79?utm_campaign=1050&utm_source=git)** | Santa Cruz, CA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
