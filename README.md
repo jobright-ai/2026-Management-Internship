@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Fall '26 Intern- CT](https://jobright.ai/jobs/info/69ea7fea58811370cb133c24?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Apr 24 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6996518f81476f6176ae1884?utm_campaign=1050&utm_source=git)** | Hamden, CT | On Site | Apr 24 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
-| **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/69a51d0d359fe034b1cface2?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Apr 24 |
+| **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Supply Planning – Brand Supply Management – 12 Month Internship](https://jobright.ai/jobs/info/69df0b0eaba61f1417319b8b?utm_campaign=1050&utm_source=git)** | Clark, NJ | On Site | Apr 24 |
 | **[Veracode](http://www.veracode.com)** | **[PMO Summer Intern](https://jobright.ai/jobs/info/69cef4a154f00230c6d05460?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae04a1423772304eac54a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 24 |
 | ↳ | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69604d29a1bbea1d9a7b2f0c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[bioMérieux](https://www.biomerieux.it)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/69eac93bdc35f7132c4abd60?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Program Buyer Intern (Canada)](https://jobright.ai/jobs/info/69eac92d4b0fa35a70775fb2?utm_campaign=1050&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
 | **[Associa](http://www.associaonline.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69eac8a016b2612c2a11708b?utm_campaign=1050&utm_source=git)** | San Ramon, CA, 94583, United States | On Site | Apr 23 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69eb441a58811370cb1381c1?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 23 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69eb48bd7820c036924f2847?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Apr 23 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69eb48bd7820c036924f2847?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Apr 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69eb441a58811370cb1381c1?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69eb440158811370cb138197?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | Apr 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69eb48bd7820c036924f2848?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Apr 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69eb4b604b0fa35a7077a3bf?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Apr 23 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Meucci & Company](https://meucciandco.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/69ea9d010a6e0955530421f9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/69ea9cfc0a6e0955530421d7?utm_campaign=1050&utm_source=git)** | New Rochelle, NY, US | On Site | Apr 23 |
 | **[BLUSOURCE](http://www.bluschoolsupplies.com)** | **[Summer 2026 Management Internship- Production Line Coordinator](https://jobright.ai/jobs/info/69ea9cee3aa0c479643b0dde?utm_campaign=1050&utm_source=git)** | Guthrie, OK | On Site | Apr 23 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/69eb41494b0fa35a70779f26?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Apr 23 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea9477dc35f7132c4ab0a3?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Apr 23 |
 | **[Publicis Production](http://publicisproduction.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/69eb3d7416b2612c2a11a630?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Tumwater, WA](https://jobright.ai/jobs/info/69ea91940a6e095553041d19?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Tumwater | On Site | Apr 23 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Adena Health System](https://www.adena.org)** | **[Student Intern Admin-ARMC(Days)Casual](https://jobright.ai/jobs/info/69ea6ba33aa0c479643af952?utm_campaign=1050&utm_source=git)** | 272 Hospital Road, Chillicothe, OH, 45601, US | On Site | Apr 23 |
 | **[Chicago Park District](https://www.chicagoparkdistrict.com/)** | **[Intern (Composting & Recycling) - Seasonal](https://jobright.ai/jobs/info/69ea6b5f0a6e095553040c15?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Apr 23 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69cd9e92cdb525785fb8ceb3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Intern - Mercy Hospital South](https://jobright.ai/jobs/info/69ea679a3aa0c479643af7a5?utm_campaign=1050&utm_source=git)** | Mercy Hospital South, US | On Site | Apr 23 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Engineering & Project Management Summer Intern](https://jobright.ai/jobs/info/69ea6787dc35f7132c4a9cb4?utm_campaign=1050&utm_source=git)** | Richland, WA, US | On Site | Apr 23 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69d04a67cdb525785fba95cd?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
