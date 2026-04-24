@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Technical Project Management Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69eb134958811370cb1366e2?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Apr 23 |
 | **[AeroCardia](aerocardia.com)** | **[Medical project coordinator intern](https://jobright.ai/jobs/info/69eb0c124b0fa35a70777a40?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 23 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 23 |
 | **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69eae50adc35f7132c4acd3a?utm_campaign=1050&utm_source=git)** | San Ramon, CA, 94583 | On Site | Apr 23 |
@@ -78,17 +79,16 @@ For a complete list, click the following sortable link below:
 | **[Bucked Up](https://www.buckedup.com/)** | **[COO Intern](https://jobright.ai/jobs/info/69ea8fcb4b0fa35a70774ff7?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Apr 23 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Ticketing Operations & Hospitality, Global Sponsorships](https://jobright.ai/jobs/info/69eb0b7516b2612c2a118680?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | ↳ | **[SAP iXp Intern - Operations, Finance & Reporting Global Sponsorships](https://jobright.ai/jobs/info/69eb0b8616b2612c2a1186bf?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Operations Internship](https://jobright.ai/jobs/info/69eb0bea58811370cb13655f?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 23 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69eb0bf04b0fa35a7077799f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Logistics Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0bf8dc35f7132c4ad3b8?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College intern](https://jobright.ai/jobs/info/69eb0c2d0a6e095553044236?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 23 |
-| **[Compass Systems Inc.](http://compass-sys-inc.com)** | **[Office Assistant Intern](https://jobright.ai/jobs/info/69eb0bf6dc35f7132c4ad39a?utm_campaign=1050&utm_source=git)** | Lexington Park, MD | On Site | Apr 23 |
 | **[BHP](https://www.bhp.com)** | **[Lead PMO (2-year fixed term contract)](https://jobright.ai/jobs/info/69eb06e74b0fa35a707777f5?utm_campaign=1050&utm_source=git)** | Saskatchewan, Canada | Hybrid | Apr 23 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Venue Operations](https://jobright.ai/jobs/info/69eb0bdd58811370cb13653b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Apr 23 |
 | **[Ursa Major](https://www.ursamajor.com)** | **[Summer 2026 Procurement Intern](https://jobright.ai/jobs/info/69ea808cdc35f7132c4aaae5?utm_campaign=1050&utm_source=git)** | Berthoud, Colorado | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80857820c036924ee59a?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship - Strategy](https://jobright.ai/jobs/info/69ea8058dc35f7132c4aaa57?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, United States | On Site | Apr 23 |
+| **[Shannon Property Management](https://shannonpropertymanagement.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69eb130e16b2612c2a1187c5?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 23 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69eaf28358811370cb13618f?utm_campaign=1050&utm_source=git)** | Rockmart, GA | On Site | Apr 23 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Global Capital Markets, Business Management Group](https://jobright.ai/jobs/info/69ea7a473aa0c479643b045c?utm_campaign=1050&utm_source=git)** | Wilmington, DE, US | Hybrid | Apr 23 |
 | **[Vancity](http://www.vancity.com)** | **[Office of the CEO Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69eb06f54b0fa35a7077783b?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
