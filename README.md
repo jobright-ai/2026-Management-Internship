@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Logistics Analyst Associate Intern](https://jobright.ai/jobs/info/69ea5df9dc35f7132c4a9919?utm_campaign=1050&utm_source=git)** | USA VA Springfield, US | On Site | Apr 23 |
 | **[American Red Cross](http://redcross.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/69ea5df20a6e0955530407c1?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College intern](https://jobright.ai/jobs/info/69ea5d9c7820c036924ed27e?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 23 |
+| **[Brady West, Inc.](https://www.brady.com)** | **[Intern](https://jobright.ai/jobs/info/69ead92c58811370cb1359c0?utm_campaign=1050&utm_source=git)** | El Cajon, CA | On Site | Apr 23 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ea5c5d7820c036924ed22c?utm_campaign=1050&utm_source=git)** | Gastonia - Main Office | On Site | Apr 23 |
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/69ea5c5b3aa0c479643af2b7?utm_campaign=1050&utm_source=git)** | El Cajon (BW SoCal) | On Site | Apr 23 |
 | **[Hocking College](http://www.hocking.edu/)** | **[Summer Intern- WFD Office Assistant](https://jobright.ai/jobs/info/69ea56733aa0c479643af105?utm_campaign=1050&utm_source=git)** | Nelsonville, OH | On Site | Apr 23 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Information Technology Program Director](https://jobright.ai/jobs/info/69e9bd333aa0c479643ab59c?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
