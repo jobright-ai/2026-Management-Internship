@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Ticketing Operations & Hospitality, Global Sponsorships](https://jobright.ai/jobs/info/69eb0b7516b2612c2a118680?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | ↳ | **[SAP iXp Intern - Operations, Finance & Reporting Global Sponsorships](https://jobright.ai/jobs/info/69eb0b8616b2612c2a1186bf?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69eb0bf04b0fa35a7077799f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
+| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69eb25a8dc35f7132c4adedf?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Logistics Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0bf8dc35f7132c4ad3b8?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College intern](https://jobright.ai/jobs/info/69eb0c2d0a6e095553044236?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 23 |
 | **[BHP](https://www.bhp.com)** | **[Lead PMO (2-year fixed term contract)](https://jobright.ai/jobs/info/69eb06e74b0fa35a707777f5?utm_campaign=1050&utm_source=git)** | Saskatchewan, Canada | Hybrid | Apr 23 |
@@ -113,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/69ea5c5b3aa0c479643af2b7?utm_campaign=1050&utm_source=git)** | El Cajon (BW SoCal) | On Site | Apr 23 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69cde7eb398fb071abf7dcfb?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 23 |
 | **[Hocking College](http://www.hocking.edu/)** | **[Summer Intern- WFD Office Assistant](https://jobright.ai/jobs/info/69ea56733aa0c479643af105?utm_campaign=1050&utm_source=git)** | Nelsonville, OH | On Site | Apr 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Complex Supervisory Manager](https://jobright.ai/jobs/info/6994e5a1e0bddb6acac366a9?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | Apr 23 |
 | **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Wireline Project Management Intern](https://jobright.ai/jobs/info/69ea53434b0fa35a7077369d?utm_campaign=1050&utm_source=git)** | Castroville, Texas, United States | On Site | Apr 23 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69eac34cdc35f7132c4abc8c?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[College Intern - Resort Operations](https://jobright.ai/jobs/info/68ceae75dbd9fb154ede214c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[Legends Global](http://legends.net)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d09fdd366bb95ba5520521?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69cde147398fb071abf7d7e9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Hyde Park, MA](https://jobright.ai/jobs/info/69b20485548f140066e83434?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69cd3bce891d7b11cfcb6dfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
