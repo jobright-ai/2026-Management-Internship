@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[bioMérieux](https://www.biomerieux.it)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/69eac93bdc35f7132c4abd60?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 23 |
+| **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Program Buyer Intern (Canada)](https://jobright.ai/jobs/info/69eac92d4b0fa35a70775fb2?utm_campaign=1050&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
+| **[Associa](http://www.associaonline.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69eac8a016b2612c2a11708b?utm_campaign=1050&utm_source=git)** | San Ramon, CA, 94583, United States | On Site | Apr 23 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69d962b2b67cec4f9b0a1c2c?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Apr 23 |
 | **[Plug-in Studios](https://www.studio-plug.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69eab5f7dc35f7132c4ab9c9?utm_campaign=1050&utm_source=git)** | Atlanta,GA,US | On Site | Apr 23 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69eaaf7858811370cb134baf?utm_campaign=1050&utm_source=git)** | Greenville, South Carolina, United States | On Site | Apr 23 |
@@ -92,9 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Hocking College](http://www.hocking.edu/)** | **[Summer Intern- WFD Office Assistant](https://jobright.ai/jobs/info/69ea56733aa0c479643af105?utm_campaign=1050&utm_source=git)** | Nelsonville, OH | On Site | Apr 23 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Complex Supervisory Manager](https://jobright.ai/jobs/info/6994e5a1e0bddb6acac366a9?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | Apr 23 |
 | **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Wireline Project Management Intern](https://jobright.ai/jobs/info/69ea53434b0fa35a7077369d?utm_campaign=1050&utm_source=git)** | Castroville, Texas, United States | On Site | Apr 23 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69eac34cdc35f7132c4abc8c?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Apr 23 |
 | **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - Carrier Relations](https://jobright.ai/jobs/info/6994f432e0bddb6acac37873?utm_campaign=1050&utm_source=git)** | KC Metro Area | On Site | Apr 23 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ea4b3f0a6e09555304016d?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Apr 23 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ea4b3758811370cb132539?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Apr 23 |
+| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Supply Chain Operations and Logistics Summer Internship](https://jobright.ai/jobs/info/69eabe7fdc35f7132c4abba4?utm_campaign=1050&utm_source=git)** | Frank, NC | On Site | Apr 23 |
 | **[McLeod Health](http://www.mcleodhealth.org/)** | **[Supply Chain Intern - Materials Management](https://jobright.ai/jobs/info/69eab1e7dc35f7132c4ab9b1?utm_campaign=1050&utm_source=git)** | South Carolina, United States | On Site | Apr 23 |
 | **[WDS Construction, Inc.](http://wdsconstruction.net)** | **[Project Intern](https://jobright.ai/jobs/info/69ea47a5dc35f7132c4a91d6?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | Apr 23 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Operations (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea835e4b0fa35a70774df7?utm_campaign=1050&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Goddard Riverside](https://goddard.org)** | **[Administrative Assistant (BWC TEP)](https://jobright.ai/jobs/info/69e9c9ba4b0fa35a707702d4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b01b3aa0c479643ab34d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | ↳ | **[Data Product Manager Project Intern (Monetization) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b2194b0fa35a7076fa3a?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e9b0463aa0c479643ab40a?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Apr 22 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e9b0463aa0c479643ab40a?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Apr 22 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[University of Colorado](https://www.cu.edu)** | **[Information Technology Program Director](https://jobright.ai/jobs/info/69e9bd333aa0c479643ab59c?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
-| **[Mason Controls](https://masoncontrols.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69e9797ee0cd471b2f13e07f?utm_campaign=1050&utm_source=git)** | Sylmar, CA | On Site | Apr 22 |
-| **[Ellerbrock-Norris](https://www.ellerbrock-norris.com)** | **[Year-Round Intern (Business Operations & Client Support)](https://jobright.ai/jobs/info/69e978ae58811370cb12dcb1?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 22 |
-| **[Mount Royal University](http://www.mtroyal.ca)** | **[Administrative Assistant](https://jobright.ai/jobs/info/69e8486ce0cd471b2f130c0c?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
-| **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Administrative Support Coordinator](https://jobright.ai/jobs/info/69e9b3d90a6e09555303d3ed?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 22 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69dff631433ac8430e0e372f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 22 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/69e9a3674b0fa35a7076f8fe?utm_campaign=1050&utm_source=git)** | Alliance, NE | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
