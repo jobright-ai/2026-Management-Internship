@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Apr 23 |
 | **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69eae50adc35f7132c4acd3a?utm_campaign=1050&utm_source=git)** | San Ramon, CA, 94583 | On Site | Apr 23 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/69eac93bdc35f7132c4abd60?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 23 |
 | **[Leggett & Platt Hydraulics](https://www.linkedin.com/company/97207673)** | **[Program Buyer Intern (Canada)](https://jobright.ai/jobs/info/69eac92d4b0fa35a70775fb2?utm_campaign=1050&utm_source=git)** | Lakeshore, ON, CANADA | On Site | Apr 23 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80857820c036924ee59a?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Apr 23 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Apr 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship - Strategy](https://jobright.ai/jobs/info/69ea8058dc35f7132c4aaa57?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, United States | On Site | Apr 23 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69eaf28358811370cb13618f?utm_campaign=1050&utm_source=git)** | Rockmart, GA | On Site | Apr 23 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Global Capital Markets, Business Management Group](https://jobright.ai/jobs/info/69ea7a473aa0c479643b045c?utm_campaign=1050&utm_source=git)** | Wilmington, DE, US | Hybrid | Apr 23 |
 | **[Aqua](https://www.aquawater.com/)** | **[Peoples Gas Internship - Project Management](https://jobright.ai/jobs/info/69ea756158811370cb133980?utm_campaign=1050&utm_source=git)** | PA NORTH SHORE - 375, US | On Site | Apr 23 |
 | **[Metro South/West Youth Connections](https://www.mswyouth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ea752b58811370cb13394b?utm_campaign=1050&utm_source=git)** | Marlborough, MA | Hybrid | Apr 23 |
@@ -85,8 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Regal](https://www.regmovies.com)** | **[General Administration Intern](https://jobright.ai/jobs/info/69ea72a9dc35f7132c4aa13a?utm_campaign=1050&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Apr 23 |
 | **[Adena Health System](https://www.adena.org)** | **[Student Intern Admin-ARMC(Days)Casual](https://jobright.ai/jobs/info/69ea6ba33aa0c479643af952?utm_campaign=1050&utm_source=git)** | 272 Hospital Road, Chillicothe, OH, 45601, US | On Site | Apr 23 |
 | **[Chicago Park District](https://www.chicagoparkdistrict.com/)** | **[Intern (Composting & Recycling) - Seasonal](https://jobright.ai/jobs/info/69ea6b5f0a6e095553040c15?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Apr 23 |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69cd9e92cdb525785fb8ceb3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Apr 23 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Intern - Mercy Hospital South](https://jobright.ai/jobs/info/69ea679a3aa0c479643af7a5?utm_campaign=1050&utm_source=git)** | Mercy Hospital South, US | On Site | Apr 23 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Engineering & Project Management Summer Intern](https://jobright.ai/jobs/info/69ea6787dc35f7132c4a9cb4?utm_campaign=1050&utm_source=git)** | Richland, WA, US | On Site | Apr 23 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69cde80e366bb95ba55043a1?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Apr 23 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Student Office Assistant](https://jobright.ai/jobs/info/69ea5e0f7820c036924ed3b2?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | Apr 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Logistics Analyst Associate Intern](https://jobright.ai/jobs/info/69ea5df9dc35f7132c4a9919?utm_campaign=1050&utm_source=git)** | USA VA Springfield, US | On Site | Apr 23 |
 | **[American Red Cross](http://redcross.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/69ea5df20a6e0955530407c1?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | Hybrid | Apr 23 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Brady West, Inc.](https://www.brady.com)** | **[Intern](https://jobright.ai/jobs/info/69ead92c58811370cb1359c0?utm_campaign=1050&utm_source=git)** | El Cajon, CA | On Site | Apr 23 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ea5c5d7820c036924ed22c?utm_campaign=1050&utm_source=git)** | Gastonia - Main Office | On Site | Apr 23 |
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/69ea5c5b3aa0c479643af2b7?utm_campaign=1050&utm_source=git)** | El Cajon (BW SoCal) | On Site | Apr 23 |
+| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/69cde7eb398fb071abf7dcfb?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 23 |
 | **[Hocking College](http://www.hocking.edu/)** | **[Summer Intern- WFD Office Assistant](https://jobright.ai/jobs/info/69ea56733aa0c479643af105?utm_campaign=1050&utm_source=git)** | Nelsonville, OH | On Site | Apr 23 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Complex Supervisory Manager](https://jobright.ai/jobs/info/6994e5a1e0bddb6acac366a9?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | Apr 23 |
 | **[ADB Companies, LLC](http://www.adbcompanies.com)** | **[Wireline Project Management Intern](https://jobright.ai/jobs/info/69ea53434b0fa35a7077369d?utm_campaign=1050&utm_source=git)** | Castroville, Texas, United States | On Site | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/69ea0f027820c036924eb8bb?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 22 |
 | **[Goddard Riverside](https://goddard.org)** | **[Administrative Assistant (BWC TEP)](https://jobright.ai/jobs/info/69e9c9ba4b0fa35a707702d4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b01b3aa0c479643ab34d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
-| ↳ | **[Data Product Manager Project Intern (Monetization) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b2194b0fa35a7076fa3a?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e7fdf0e0cd471b2f12eb68?utm_campaign=1050&utm_source=git)** | Gardendale, AL | On Site | Apr 22 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e9b0463aa0c479643ab40a?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Apr 22 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Administrative Support Coordinator II](https://jobright.ai/jobs/info/69bf0630393a1008f744d641?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
-| **[University of Colorado](https://www.cu.edu)** | **[Information Technology Program Director](https://jobright.ai/jobs/info/69e9bd333aa0c479643ab59c?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
