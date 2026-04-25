@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zanskar](https://zanskar.com)** | **[Summer Internship - MBA](https://jobright.ai/jobs/info/69ec270b4b0fa35a70781113?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 24 |
+| **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Apr 24 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ec26950a6e09555304cdcf?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Apr 24 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ec11a5dc35f7132c4b5639?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69ec0ac5dc35f7132c4b548a?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Apr 24 |
 | **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 24 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[WSB](http://wsbeng.com)** | **[Intern, PMO](https://jobright.ai/jobs/info/69ebe2654b0fa35a7077f5e4?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[AECOM](http://www.aecom.com/)** | **[Administrative Assistant (Intern)](https://jobright.ai/jobs/info/69ebe2464b0fa35a7077f56f?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Apr 24 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Project Controls Internship 2026](https://jobright.ai/jobs/info/69ebe22ddc35f7132c4b40ed?utm_campaign=1050&utm_source=git)** | Houston, Texas | On Site | Apr 24 |
+| **[Cumberland Farms](http://www.cumberlandfarms.com)** | **[Intern - IT Project Management](https://jobright.ai/jobs/info/69ec1df7dc35f7132c4b5d0f?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Operations Intern](https://jobright.ai/jobs/info/69ebfdfd0a6e09555304bf00?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Apr 24 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebfbb3dc35f7132c4b4a3f?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Apr 24 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69ebdde50a6e09555304aefb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 24 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/69eb94f37820c036924f5264?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Summer 2026 - Business Operations Intern](https://jobright.ai/jobs/info/69eb8fc116b2612c2a11c4dc?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Spring 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb90c40a6e095553047b83?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
-| ↳ | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb8fc216b2612c2a11c4e3?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Spring 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb8fd2dc35f7132c4b0bfa?utm_campaign=1050&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
+| ↳ | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb8fc216b2612c2a11c4e3?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Operations Support Services](https://jobright.ai/jobs/info/69ceee9c398fb071abf8ac42?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 24 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Vierra Construction + Development](https://axisge.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69eb91530a6e095553047d9c?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Apr 24 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/69ceb206891d7b11cfccb425?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
-| **[U.S. Pipe](http://www.uspipe.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69cea7dbcfdc6132f942ab33?utm_campaign=1050&utm_source=git)** | Bessemer, AL | On Site | Apr 24 |
-| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/69eb907058811370cb139fd6?utm_campaign=1050&utm_source=git)** | Manhattan, NY | Hybrid | Apr 24 |
-| **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Supply Planning – Brand Supply Management – 12 Month Internship](https://jobright.ai/jobs/info/69df0b0eaba61f1417319b8b?utm_campaign=1050&utm_source=git)** | Clark, NJ | On Site | Apr 24 |
-| **[Veracode](http://www.veracode.com)** | **[PMO Summer Intern](https://jobright.ai/jobs/info/69cef4a154f00230c6d05460?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
