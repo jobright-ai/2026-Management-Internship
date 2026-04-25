@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edward Rose & Sons](http://edwardrose.com)** | **[Emerging Leaders Internship](https://jobright.ai/jobs/info/69ec8b760a6e09555304e3e4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
+| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/69ec8def58811370cb140244?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Project Manager, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec637e0a6e09555304e08d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/69ec5db916b2612c2a122424?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Program Coordination Intern](https://jobright.ai/jobs/info/69ec415e4b0fa35a70781aa7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 24 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ebf35458811370cb13dbae?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Apr 24 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69ebfb7bdc35f7132c4b493a?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Apr 24 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d74437e63cea7a8b6702af?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 24 |
 | **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ebbca0dc35f7132c4b2df5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 | **[Calgary Municipal Land Corporation](https://www.calgarymlc.ca/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69ebde4d16b2612c2a11f7a9?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ebb8207820c036924f6555?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMBA](https://amba.info)** | **[IT Intern](https://jobright.ai/jobs/info/69ebc5027820c036924f70cb?utm_campaign=1050&utm_source=git)** | Urbandale,IA,US | Hybrid | Apr 24 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Project Rescue Rapid Rehousing Intern](https://jobright.ai/jobs/info/69ebc4fa16b2612c2a11ebdd?utm_campaign=1050&utm_source=git)** | Bridgeport,CT,US | On Site | Apr 24 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Materials Flow (Supply Chain)](https://jobright.ai/jobs/info/69ceb06354f00230c6d01c1f?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697991ccca92cf0d6a82be44?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
