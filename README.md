@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Management Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecd01216b2612c2a12348d?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
 | ↳ | **[Business Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecc2da4b0fa35a70782f6f?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
 | **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69ecbf330a6e09555304e79c?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Apr 25 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[SB Supply Chain Intern-2026 (Memphis)](https://jobright.ai/jobs/info/69dc94f25356a60f40fe9732?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 25 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e1dde640a62c1fa93bc235?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de30?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 24 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69ebb7757820c036924f6407?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094, US | On Site | Apr 24 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69b787af3b74eb1e2c8523b8?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Apr 24 |
-| **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ec40f158811370cb13f66b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
