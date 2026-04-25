@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e04d649564e855a25dc76f?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Apr 25 |
+| **[Tabhi](https://www.tabhi.ai)** | **[Program Manager Intern](https://jobright.ai/jobs/info/69ed076d16b2612c2a123d3c?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/69eb584a7820c036924f357b?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/69d04a91366bb95ba551d5e6?utm_campaign=1050&utm_source=git)** | Monticello, IN | On Site | Apr 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6997252481476f6176af41bd?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Apr 25 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Apr 25 |
+| **[Etched](https://www.etched.com)** | **[Core Ops Intern](https://jobright.ai/jobs/info/69b441923b74eb1e2c8169e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Supply Chain & ERP Transformation](https://jobright.ai/jobs/info/69d08f65366bb95ba551f8c5?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
 | **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.00/hr!*](https://jobright.ai/jobs/info/699659b681476f6176ae25cb?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Apr 25 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/69b64e8056973837413b9738?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Apr 25 |
@@ -69,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Shellfish Logistics Intern](https://jobright.ai/jobs/info/69b30fbda8ac8e70ff67301c?utm_campaign=1050&utm_source=git)** | South Bend, WA | On Site | Apr 25 |
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Demand Chain Operations Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecd02c0a6e09555304ed42?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
 | ↳ | **[Supply Chain Management Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecd01216b2612c2a12348d?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
-| ↳ | **[Business Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecc2da4b0fa35a70782f6f?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ecfee17820c036924fc2b4?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Apr 25 |
+| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Business Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecc2da4b0fa35a70782f6f?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
 | **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69ecbf330a6e09555304e79c?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Apr 25 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[SB Supply Chain Intern-2026 (Memphis)](https://jobright.ai/jobs/info/69dc94f25356a60f40fe9732?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69eceedb4b0fa35a70783b35?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 24 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ebb8207820c036924f6555?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 24 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
-| ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb82058811370cb13c057?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Apr 24 |
-| ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb8007820c036924f64bb?utm_campaign=1050&utm_source=git)** | DAL Dallas Love Field Airport | On Site | Apr 24 |
-| ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb7aadc35f7132c4b29df?utm_campaign=1050&utm_source=git)** | Medford, MA, US | On Site | Apr 24 |
-| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de30?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 24 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69ebb7757820c036924f6407?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094, US | On Site | Apr 24 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69b787af3b74eb1e2c8523b8?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
