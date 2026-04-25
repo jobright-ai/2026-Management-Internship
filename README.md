@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69ec0ac5dc35f7132c4b548a?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Apr 24 |
+| **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 24 |
+| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec03854b0fa35a707803e0?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 24 |
+| ↳ | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec02f658811370cb13e20c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ec009a4b0fa35a70780275?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 24 |
 | **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 24 |
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ebfc3d4b0fa35a7077fee2?utm_campaign=1050&utm_source=git)** | Mentor,OH,US | On Site | Apr 24 |
@@ -87,10 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Longitude Rx](https://longituderx.org/)** | **[Intern, Specialty Pharmacy Strategy](https://jobright.ai/jobs/info/69ebd2c958811370cb13cf9e?utm_campaign=1050&utm_source=git)** | New Jersey, USA, US | On Site | Apr 24 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebfd30dc35f7132c4b4db9?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Apr 24 |
 | **[Court 16](https://www.court16.com)** | **[Club Operations Intern](https://jobright.ai/jobs/info/69ebfdc90a6e09555304be25?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Apr 24 |
-| **[Westwood Country Club](https://www.westwoodcc.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69ebfdc30a6e09555304be15?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Apr 24 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/69ebca150a6e09555304a7cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletic Director's Office Intern](https://jobright.ai/jobs/info/69ebca0b0a6e09555304a7a0?utm_campaign=1050&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| **[Action Traffic Maintenance, Inc.](http://www.actiontraffic.net/)** | **[Internship- Construction Project Management](https://jobright.ai/jobs/info/69ebfcf47820c036924f8747?utm_campaign=1050&utm_source=git)** | Grand Blanc, MI | On Site | Apr 24 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69ebc7e07820c036924f7476?utm_campaign=1050&utm_source=git)** | Madison, NJ, US | On Site | Apr 24 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebc4c3dc35f7132c4b3639?utm_campaign=1050&utm_source=git)** | Pooler, GA, US, 31322 | On Site | Apr 24 |
 | **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Finance](https://jobright.ai/jobs/info/69ebc2a1dc35f7132c4b2e9d?utm_campaign=1050&utm_source=git)** | Saint Cloud, MN, 56301 | On Site | Apr 24 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d74437e63cea7a8b6702af?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Apr 24 |
 | **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ebbca0dc35f7132c4b2df5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 | **[Calgary Municipal Land Corporation](https://www.calgarymlc.ca/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69ebde4d16b2612c2a11f7a9?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern - Clinical Trials Office](https://jobright.ai/jobs/info/69ebfcd27820c036924f86cd?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 24 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[IT Project Intern](https://jobright.ai/jobs/info/69ebb84516b2612c2a11e22d?utm_campaign=1050&utm_source=git)** | Marshall, MN | On Site | Apr 24 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ebb8207820c036924f6555?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 24 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Business Operations Intern](https://jobright.ai/jobs/info/69eb8fc116b2612c2a11c4dc?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/69eb94f37820c036924f5264?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Spring 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb90c40a6e095553047b83?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
-| ↳ | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb8fc216b2612c2a11c4e3?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Spring 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb8fd2dc35f7132c4b0bfa?utm_campaign=1050&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
+| ↳ | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb8fc216b2612c2a11c4e3?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Operations Support Services](https://jobright.ai/jobs/info/69ceee9c398fb071abf8ac42?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 24 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Libbey](https://www.libbey.com/)** | **[Supply Chain Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69cec980891d7b11cfcccb21?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 24 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69caf646aa3c2c1995e3266f?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae04a1423772304eac54a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 24 |
-| ↳ | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69604d29a1bbea1d9a7b2f0c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
