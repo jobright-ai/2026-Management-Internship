@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/69ec36e70a6e09555304d4c5?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
+| **[Aflac](http://www.aflac.com)** | **[Executive Assistant III](https://jobright.ai/jobs/info/69ec36d90a6e09555304d462?utm_campaign=1050&utm_source=git)** | Virginia, United States | Hybrid | Apr 24 |
 | **[Zanskar](https://zanskar.com)** | **[Summer Internship - MBA](https://jobright.ai/jobs/info/69ec270b4b0fa35a70781113?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 24 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Apr 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ec26950a6e09555304cdcf?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Apr 24 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ec115f58811370cb13e71c?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Project Manager (APM)](https://jobright.ai/jobs/info/69ec00b14b0fa35a707802ea?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ebe29cdc35f7132c4b42fc?utm_campaign=1050&utm_source=git)** | Cranberry Township, US | Hybrid | Apr 24 |
-| **[WSB](http://wsbeng.com)** | **[Intern, PMO](https://jobright.ai/jobs/info/69ebe2654b0fa35a7077f5e4?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[AECOM](http://www.aecom.com/)** | **[Administrative Assistant (Intern)](https://jobright.ai/jobs/info/69ebe2464b0fa35a7077f56f?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Apr 24 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Project Controls Internship 2026](https://jobright.ai/jobs/info/69ebe22ddc35f7132c4b40ed?utm_campaign=1050&utm_source=git)** | Houston, Texas | On Site | Apr 24 |
 | **[Cumberland Farms](http://www.cumberlandfarms.com)** | **[Intern - IT Project Management](https://jobright.ai/jobs/info/69ec1df7dc35f7132c4b5d0f?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Apr 24 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ebbca0dc35f7132c4b2df5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 | **[Calgary Municipal Land Corporation](https://www.calgarymlc.ca/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69ebde4d16b2612c2a11f7a9?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ebb8207820c036924f6555?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 24 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
-| ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb82058811370cb13c057?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Apr 24 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb82058811370cb13c057?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Apr 24 |
+| ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb8007820c036924f64bb?utm_campaign=1050&utm_source=git)** | DAL Dallas Love Field Airport | On Site | Apr 24 |
 | ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb7aadc35f7132c4b29df?utm_campaign=1050&utm_source=git)** | Medford, MA, US | On Site | Apr 24 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de30?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Vierra Construction + Development](https://axisge.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69eb91530a6e095553047d9c?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Apr 24 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/69ceb206891d7b11cfccb425?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
