@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/69ec36e70a6e09555304d4c5?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
+| **[Leidos](https://www.leidos.com)** | **[Program Coordination Intern](https://jobright.ai/jobs/info/69ec415e4b0fa35a70781aa7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 24 |
+| **[Plus Power](https://www.pluspower.com)** | **[Project Development Intern, TVA & Southeast - Battery Storage](https://jobright.ai/jobs/info/69ec410a58811370cb13f703?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Aflac](http://www.aflac.com)** | **[Executive Assistant III](https://jobright.ai/jobs/info/69ec36d90a6e09555304d462?utm_campaign=1050&utm_source=git)** | Virginia, United States | Hybrid | Apr 24 |
 | **[Zanskar](https://zanskar.com)** | **[Summer Internship - MBA](https://jobright.ai/jobs/info/69ec270b4b0fa35a70781113?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 24 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Apr 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ec26950a6e09555304cdcf?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Apr 24 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ec11a5dc35f7132c4b5639?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
+| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 24 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69ec0ac5dc35f7132c4b548a?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Apr 24 |
 | **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec03854b0fa35a707803e0?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 24 |
@@ -120,6 +122,10 @@ For a complete list, click the following sortable link below:
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de30?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 24 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69ebb7757820c036924f6407?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094, US | On Site | Apr 24 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69b787af3b74eb1e2c8523b8?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Apr 24 |
+| **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ec40f158811370cb13f66b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
+| ↳ | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69ec41700a6e09555304d7f3?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
+| ↳ | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69ec40ce7820c036924fa10f?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
+| ↳ | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ec41700a6e09555304d7f9?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 | **[Eskenazi Health](http://www.eskenazihealth.edu/)** | **[INTERN- HEALTH OUTCOMES & CULTURAL EXCELLENCE (50080432)](https://jobright.ai/jobs/info/69ebaf977820c036924f63db?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, US, 46205 | Hybrid | Apr 24 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Facilities & MRO / Indirect Sourcing](https://jobright.ai/jobs/info/69ebaf450a6e09555304991a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.50/hr!*](https://jobright.ai/jobs/info/69a94d96f2055e05d171700f?utm_campaign=1050&utm_source=git)** | Stanton, CA | On Site | Apr 24 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Materials Flow (Supply Chain)](https://jobright.ai/jobs/info/69ceb06354f00230c6d01c1f?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/697991ccca92cf0d6a82be44?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Apr 24 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb90b90a6e095553047b5c?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
-| ↳ | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/69eb94f37820c036924f5264?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Summer 2026 - Business Operations Intern](https://jobright.ai/jobs/info/69eb8fc116b2612c2a11c4dc?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
+| ↳ | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/69eb94f37820c036924f5264?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
 | ↳ | **[Spring 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb90c40a6e095553047b83?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
-| ↳ | **[Spring 2026 - Baseball Operations Internship](https://jobright.ai/jobs/info/69eb8fd2dc35f7132c4b0bfa?utm_campaign=1050&utm_source=git)** | Aberdeen, MD | On Site | Apr 24 |
-| ↳ | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/69eb8fc216b2612c2a11c4e3?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Apr 24 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Operations Support Services](https://jobright.ai/jobs/info/69ceee9c398fb071abf8ac42?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 24 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - Buyer](https://jobright.ai/jobs/info/69ceb523366bb95ba550e249?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | Apr 24 |
-| **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69cee377cfdc6132f942d971?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 24 |
-| **[Vierra Construction + Development](https://axisge.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69eb91530a6e095553047d9c?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia Metropolitan Area | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
