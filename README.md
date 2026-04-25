@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
+| **[IDO Incorporated](https://idoincorporated.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/69ed40af7820c036924fc703?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 25 |
 | **[Tabhi](https://www.tabhi.ai)** | **[AI Management Intern - CEO's Office](https://jobright.ai/jobs/info/69ed147fdc35f7132c4b80e1?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e04d649564e855a25dc76f?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ebf35458811370cb13dbae?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Apr 24 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69ebfb7bdc35f7132c4b493a?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Apr 24 |
-| **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ebbca0dc35f7132c4b2df5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
