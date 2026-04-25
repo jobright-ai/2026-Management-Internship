@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Niles, IL](https://jobright.ai/jobs/info/69b4bb1d3b74eb1e2c820a15?utm_campaign=1050&utm_source=git)** | Niles, IL | On Site | Apr 25 |
+| **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e1dde640a62c1fa93bc235?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 25 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 25 |
+| **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/69d03788366bb95ba551cb34?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Apr 25 |
+| **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d00ff454f00230c6d0edf6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 25 |
+| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Chicago, IL](https://jobright.ai/jobs/info/69b4564b5697383741390f47?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
+| ↳ | **[Transportation Business Intern - Niles, IL](https://jobright.ai/jobs/info/69b4bb1d3b74eb1e2c820a15?utm_campaign=1050&utm_source=git)** | Niles, IL | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976fc48fdeb8243a279dbfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
+| ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Emerging Leaders Internship](https://jobright.ai/jobs/info/69ec8b760a6e09555304e3e4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/69ec8def58811370cb140244?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Apr 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Project Manager, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec637e0a6e09555304e08d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -120,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69ebbca0dc35f7132c4b2df5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 24 |
 | **[Calgary Municipal Land Corporation](https://www.calgarymlc.ca/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69ebde4d16b2612c2a11f7a9?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69ebb8207820c036924f6555?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Apr 24 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
-| ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb82058811370cb13c057?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Apr 24 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb82058811370cb13c057?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Apr 24 |
+| ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb82058811370cb13c058?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Apr 24 |
 | ↳ | **[Summer 2026 Management Intern - DAL Airport](https://jobright.ai/jobs/info/69ebb8007820c036924f64bb?utm_campaign=1050&utm_source=git)** | DAL Dallas Love Field Airport | On Site | Apr 24 |
 | ↳ | **[Summer 2026 Management Internship - Medford/Somerville, MA](https://jobright.ai/jobs/info/69ebb7aadc35f7132c4b29df?utm_campaign=1050&utm_source=git)** | Medford, MA, US | On Site | Apr 24 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de30?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | Apr 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Corporate Strategy - MBA Intern](https://jobright.ai/jobs/info/69eb9a0258811370cb13b39a?utm_campaign=1050&utm_source=git)** | Livonia, MI | Hybrid | Apr 24 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUPPLY CHAIN INTERN](https://jobright.ai/jobs/info/69eb9928dc35f7132c4b1f18?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ | On Site | Apr 24 |
 | **[Privia Health](http://www.priviahealth.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/69ced777cfdc6132f942ccaa?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69cee720cdb525785fb9ce9a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Apr 24 |
-| **[takealot.com](https://www.takealot.com)** | **[Transport & logistics Internship](https://jobright.ai/jobs/info/69eb91970a6e095553047e92?utm_campaign=1050&utm_source=git)** | Cape Town DC | On Site | Apr 24 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Fall '26 Intern- CT](https://jobright.ai/jobs/info/69ea7fea58811370cb133c24?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Apr 24 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6996518f81476f6176ae1884?utm_campaign=1050&utm_source=git)** | Hamden, CT | On Site | Apr 24 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69eb9a2216b2612c2a11d800?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Apr 24 |
-| **[AMBA](https://amba.info)** | **[IT Intern](https://jobright.ai/jobs/info/69ebc5027820c036924f70cb?utm_campaign=1050&utm_source=git)** | Urbandale,IA,US | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
