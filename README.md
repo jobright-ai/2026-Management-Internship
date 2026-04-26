@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/69d03788366bb95ba551cb34?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Apr 25 |
 | **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d00ff454f00230c6d0edf6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 25 |
 | **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Chicago, IL](https://jobright.ai/jobs/info/69b4564b5697383741390f47?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
+| **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/69ed96ad58811370cb141fdf?utm_campaign=1050&utm_source=git)** | Manhattan, NY | Hybrid | Apr 25 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Contracting](https://jobright.ai/jobs/info/69b470523b74eb1e2c81c007?utm_campaign=1050&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
 | ↳ | **[Intern - Performance Improvement](https://jobright.ai/jobs/info/69b4d291569738374139c69e?utm_campaign=1050&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
 | **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Niles, IL](https://jobright.ai/jobs/info/69b4bb1d3b74eb1e2c820a15?utm_campaign=1050&utm_source=git)** | Niles, IL | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebc4c3dc35f7132c4b3639?utm_campaign=1050&utm_source=git)** | Pooler, GA, US, 31322 | On Site | Apr 24 |
 | **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Finance](https://jobright.ai/jobs/info/69ebc2a1dc35f7132c4b2e9d?utm_campaign=1050&utm_source=git)** | Saint Cloud, MN, 56301 | On Site | Apr 24 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebc2977820c036924f6972?utm_campaign=1050&utm_source=git)** | Roseville, California, United States | On Site | Apr 24 |
-| **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
