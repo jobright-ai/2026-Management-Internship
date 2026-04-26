@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc6330a6e095553050b2a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Apr 26 |
+| ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc5ba58811370cb1429a2?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Apr 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ed7a8458811370cb141b45?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69ed6cef4b0fa35a7078461c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletic Director's Office Intern](https://jobright.ai/jobs/info/69ebca0b0a6e09555304a7a0?utm_campaign=1050&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69ebc7e07820c036924f7476?utm_campaign=1050&utm_source=git)** | Madison, NJ, US | On Site | Apr 24 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebc4c3dc35f7132c4b3639?utm_campaign=1050&utm_source=git)** | Pooler, GA, US, 31322 | On Site | Apr 24 |
-| **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Finance](https://jobright.ai/jobs/info/69ebc2a1dc35f7132c4b2e9d?utm_campaign=1050&utm_source=git)** | Saint Cloud, MN, 56301 | On Site | Apr 24 |
-| **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebc2977820c036924f6972?utm_campaign=1050&utm_source=git)** | Roseville, California, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
