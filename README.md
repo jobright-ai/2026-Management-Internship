@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[IDO Incorporated](https://idoincorporated.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/69ed40af7820c036924fc703?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 25 |
-| **[Tabhi](https://www.tabhi.ai)** | **[AI Management Intern - CEO's Office](https://jobright.ai/jobs/info/69ed147fdc35f7132c4b80e1?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 25 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e04d649564e855a25dc76f?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Apr 25 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/69eb584a7820c036924f357b?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
 | **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6997b2f281476f6176afd3de?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebc4c3dc35f7132c4b3639?utm_campaign=1050&utm_source=git)** | Pooler, GA, US, 31322 | On Site | Apr 24 |
 | **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Finance](https://jobright.ai/jobs/info/69ebc2a1dc35f7132c4b2e9d?utm_campaign=1050&utm_source=git)** | Saint Cloud, MN, 56301 | On Site | Apr 24 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebc2977820c036924f6972?utm_campaign=1050&utm_source=git)** | Roseville, California, United States | On Site | Apr 24 |
+| **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
