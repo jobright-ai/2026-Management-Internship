@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69ed6cef4b0fa35a7078461c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[IDO Incorporated](https://idoincorporated.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/69ed40af7820c036924fc703?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CentraCare](https://www.centracare.com/)** | **[Administrative Intern / Finance](https://jobright.ai/jobs/info/69ebc2a1dc35f7132c4b2e9d?utm_campaign=1050&utm_source=git)** | Saint Cloud, MN, 56301 | On Site | Apr 24 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebc2977820c036924f6972?utm_campaign=1050&utm_source=git)** | Roseville, California, United States | On Site | Apr 24 |
 | **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ebf35458811370cb13dbae?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
