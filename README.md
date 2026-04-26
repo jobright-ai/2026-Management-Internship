@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 26 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Fall 2026 - Boston, MA](https://jobright.ai/jobs/info/69ee20a358811370cb14339d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 26 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Pulte Family Foundation Gateway to Hospitality Internship](https://jobright.ai/jobs/info/69d0f34e54f00230c6d17977?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Apr 26 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 26 |
 | **[Maguire](http://maguireiron.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ede00058811370cb142ab9?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zanskar](https://zanskar.com)** | **[Summer Internship - MBA](https://jobright.ai/jobs/info/69ebd3350a6e09555304aa6c?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | Hybrid | Apr 24 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69ebd30d16b2612c2a11f2d1?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Apr 24 |
 | **[Longitude Rx](https://longituderx.org/)** | **[Intern, Specialty Pharmacy Strategy](https://jobright.ai/jobs/info/69ebd2c958811370cb13cf9e?utm_campaign=1050&utm_source=git)** | New Jersey, USA, US | On Site | Apr 24 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebfd30dc35f7132c4b4db9?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Apr 24 |
-| **[Court 16](https://www.court16.com)** | **[Club Operations Intern](https://jobright.ai/jobs/info/69ebfdc90a6e09555304be25?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
