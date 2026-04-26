@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 26 |
 | **[Maguire](http://maguireiron.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ede00058811370cb142ab9?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 26 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc6330a6e095553050b2a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Apr 26 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc5ba58811370cb1429a2?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Court 16](https://www.court16.com)** | **[Club Operations Intern](https://jobright.ai/jobs/info/69ebfdc90a6e09555304be25?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Apr 24 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/69ebca150a6e09555304a7cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Athletic Director's Office Intern](https://jobright.ai/jobs/info/69ebca0b0a6e09555304a7a0?utm_campaign=1050&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| **[Stephen Gould](https://www.stephengould.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69ebc7e07820c036924f7476?utm_campaign=1050&utm_source=git)** | Madison, NJ, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
