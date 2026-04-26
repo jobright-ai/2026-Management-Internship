@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ebfc3d4b0fa35a7077fee2?utm_campaign=1050&utm_source=git)** | Mentor,OH,US | On Site | Apr 24 |
 | **[GEODIS](http://www.geodis.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69ebfbfc0a6e09555304b9dd?utm_campaign=1050&utm_source=git)** | Savannah, Georgia, United States | On Site | Apr 24 |
 | **[AV](https://www.avinc.com/)** | **[Corporate Development, Strategy & Deal Integration Intern](https://jobright.ai/jobs/info/69ebfbf60a6e09555304b9a6?utm_campaign=1050&utm_source=git)** | Simi Valley, CA | On Site | Apr 24 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69ce77b2cfdc6132f94286f4?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69ebf60016b2612c2a120013?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Apr 24 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebf36458811370cb13dc04?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 24 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebc2977820c036924f6972?utm_campaign=1050&utm_source=git)** | Roseville, California, United States | On Site | Apr 24 |
 | **[Integrated Finance & Accounting Solutions (IFAS)](http://www.ifas-llc.com/)** | **[Junior Administrative Associate (Intern)](https://jobright.ai/jobs/info/69ebdd7d4b0fa35a7077f3aa?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ebf35458811370cb13dbae?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Apr 24 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69ebfb7bdc35f7132c4b493a?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
