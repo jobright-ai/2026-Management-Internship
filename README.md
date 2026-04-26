@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virtual Athletics League](https://www.valvr.com/)** | **[Gaming - Finance and Ops Internship](https://jobright.ai/jobs/info/69ee73784b0fa35a70786d4b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 26 |
+| **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
+| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bef561136d179eeef9005?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | Apr 26 |
 | **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69ee2ca6dc35f7132c4ba313?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 26 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Commodity Strategy Intern](https://jobright.ai/jobs/info/69d5c79a366bb95ba5548967?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Apr 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca6be7ed9a5731ba9a8c?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Fall 2026 - Boston, MA](https://jobright.ai/jobs/info/69ee20a358811370cb14339d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 26 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/69b6079e06c1ba00c547d889?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Apr 26 |
+| **[Securitas Technology](https://www.securitastechnology.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69ee333058811370cb143a3d?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Apr 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Procurement Excellence Center Intern](https://jobright.ai/jobs/info/69ee2b4ddc35f7132c4ba2dc?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Apr 26 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Pulte Family Foundation Gateway to Hospitality Internship](https://jobright.ai/jobs/info/69d0f34e54f00230c6d17977?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Apr 26 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69ebdde50a6e09555304aefb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69ebdc5a16b2612c2a11f4bf?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 24 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69eccfe216b2612c2a12346e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ebfde97820c036924f8941?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
-| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebfdde16b2612c2a120561?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69ebfbc30a6e09555304b8a6?utm_campaign=1050&utm_source=git)** | Morgan City, LA | On Site | Apr 24 |
-| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Business Operations Undergraduate Intern (Onsite)](https://jobright.ai/jobs/info/69ebfb82dc35f7132c4b4960?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | Apr 24 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Conshohocken)*](https://jobright.ai/jobs/info/69ebfbfc58811370cb13e00b?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
