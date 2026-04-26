@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona State University](http://www.asu.edu)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ee79824b0fa35a70786dbf?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Apr 26 |
 | **[Virtual Athletics League](https://www.valvr.com/)** | **[Gaming - Finance and Ops Internship](https://jobright.ai/jobs/info/69ee73784b0fa35a70786d4b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 26 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a5eda1b600907a962bb912?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 26 |
+| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Apr 26 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69881bfd8ca8121a3a6aa578?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 26 |
+| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Three Springs - Shift Manager Trainee Start $18.00](https://jobright.ai/jobs/info/690f79e4183be660d2675657?utm_campaign=1050&utm_source=git)** | Durango, CO | On Site | Apr 26 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Apr 26 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bef561136d179eeef9005?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | Apr 26 |
 | **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69ee2ca6dc35f7132c4ba313?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Project Manager (APM)](https://jobright.ai/jobs/info/69ec00b14b0fa35a707802ea?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ebe29cdc35f7132c4b42fc?utm_campaign=1050&utm_source=git)** | Cranberry Township, US | Hybrid | Apr 24 |
 | **[AECOM](http://www.aecom.com/)** | **[Administrative Assistant (Intern)](https://jobright.ai/jobs/info/69ebe2464b0fa35a7077f56f?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Apr 24 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Project Controls Internship 2026](https://jobright.ai/jobs/info/69ebe22ddc35f7132c4b40ed?utm_campaign=1050&utm_source=git)** | Houston, Texas | On Site | Apr 24 |
-| **[Cumberland Farms](http://www.cumberlandfarms.com)** | **[Intern - IT Project Management](https://jobright.ai/jobs/info/69ec1df7dc35f7132c4b5d0f?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Operations Intern](https://jobright.ai/jobs/info/69ebfdfd0a6e09555304bf00?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Apr 24 |
-| **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebfbb3dc35f7132c4b4a3f?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Apr 24 |
-| **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69ebdde50a6e09555304aefb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69ebdc5a16b2612c2a11f4bf?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 24 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69eccfe216b2612c2a12346e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
