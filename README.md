@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Pulte Family Foundation Gateway to Hospitality Internship](https://jobright.ai/jobs/info/69d0f34e54f00230c6d17977?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Apr 26 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69b47cc23b74eb1e2c81d364?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Apr 26 |
 | **[Maguire](http://maguireiron.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ede00058811370cb142ab9?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 26 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc6330a6e095553050b2a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Apr 26 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/69d04a91366bb95ba551d5e6?utm_campaign=1050&utm_source=git)** | Monticello, IN | On Site | Apr 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6997252481476f6176af41bd?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Apr 25 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Apr 25 |
+| **[Fever](https://www.feverup.com)** | **[Assistant General Manager - Philadelphia (Freelancer)](https://jobright.ai/jobs/info/69c72e9eb773006330b76c65?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[Core Ops Intern](https://jobright.ai/jobs/info/69b441923b74eb1e2c8169e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Supply Chain & ERP Transformation](https://jobright.ai/jobs/info/69d08f65366bb95ba551f8c5?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
 | **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.00/hr!*](https://jobright.ai/jobs/info/699659b681476f6176ae25cb?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Apr 25 |
@@ -130,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebf36458811370cb13dc04?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 24 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69ebf05a0a6e09555304b6b3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 24 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ebef067820c036924f80df?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ebef067820c036924f80df?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ec17ad58811370cb13e847?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ec63790a6e09555304e06f?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f63e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Longitude Rx](https://longituderx.org/)** | **[Intern, Specialty Pharmacy Strategy](https://jobright.ai/jobs/info/69ebd2c958811370cb13cf9e?utm_campaign=1050&utm_source=git)** | New Jersey, USA, US | On Site | Apr 24 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Cost, Cycle, Capacity Project Management Intern](https://jobright.ai/jobs/info/69ebfd30dc35f7132c4b4db9?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Apr 24 |
 | **[Court 16](https://www.court16.com)** | **[Club Operations Intern](https://jobright.ai/jobs/info/69ebfdc90a6e09555304be25?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Apr 24 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/69ebca150a6e09555304a7cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
-| **[Villanova University](http://www.villanueva.edu)** | **[Athletic Director's Office Intern](https://jobright.ai/jobs/info/69ebca0b0a6e09555304a7a0?utm_campaign=1050&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
