@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Operations - Intern](https://jobright.ai/jobs/info/69efad40e624fe645d5329ce?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Apr 27 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Procurement & Global Supply Chain Intern](https://jobright.ai/jobs/info/69efab13fbe0994a40eb7907?utm_campaign=1050&utm_source=git)** | McLean, VA, US | On Site | Apr 27 |
+| **[GS Power Partners](https://gspowerpartners.com/)** | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/69efa93116b2612c2a12ab5e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/69efa8e1fbe0994a40eb785c?utm_campaign=1050&utm_source=git)** | Allentown | On Site | Apr 27 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/69efa8c658811370cb1479ea?utm_campaign=1050&utm_source=git)** | Allentown, PA, US | On Site | Apr 27 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Production Operations Intern](https://jobright.ai/jobs/info/69efa89e58811370cb1479ae?utm_campaign=1050&utm_source=git)** | New York, NY, USA, US | On Site | Apr 27 |
+| **[IndeVets](https://indevets.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69efa8904b0fa35a7078ac39?utm_campaign=1050&utm_source=git)** | Philadelphia, PA, US | Hybrid | Apr 27 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69efa871e624fe645d53282f?utm_campaign=1050&utm_source=git)** | US-PA-Philadelphia | Hybrid | Apr 27 |
+| **[KJT](http://kjtgroup.com)** | **[Project Support Associate (Healthcare Market Research)](https://jobright.ai/jobs/info/69efa1e44b0fa35a7078aaf2?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 27 |
 | **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69ef9e8b4b0fa35a7078a8c2?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ef9e884b0fa35a7078a8b1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern, Finance & Operations (Summer 2026)](https://jobright.ai/jobs/info/69ef9ad10a6e095553055e81?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin, US | On Site | Apr 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/69d04a91366bb95ba551d5e6?utm_campaign=1050&utm_source=git)** | Monticello, IN | On Site | Apr 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6997252481476f6176af41bd?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Apr 25 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Apr 25 |
-| **[Fever](https://www.feverup.com)** | **[Assistant General Manager - Philadelphia (Freelancer)](https://jobright.ai/jobs/info/69c72e9eb773006330b76c65?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 25 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern](https://jobright.ai/jobs/info/69b441923b74eb1e2c8169e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Supply Chain & ERP Transformation](https://jobright.ai/jobs/info/69d08f65366bb95ba551f8c5?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | Apr 25 |
-| **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.00/hr!*](https://jobright.ai/jobs/info/699659b681476f6176ae25cb?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Apr 25 |
-| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/69b64e8056973837413b9738?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Apr 25 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Inventory Planning Intern (Semester 2) – Generation H](https://jobright.ai/jobs/info/69d042c90b098b7a67077e65?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 25 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern (Melbourne, FL) - Summer 2026](https://jobright.ai/jobs/info/69966c9581476f6176ae3e2f?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Apr 25 |
-| ↳ | **[Senior Administrative Intern (Huntsville, AL) - Summer 2026](https://jobright.ai/jobs/info/69965c1ae0bddb6acac4ccaa?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
