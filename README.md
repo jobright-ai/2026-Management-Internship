@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69ef855ffbe0994a40eb6dc8?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern – Management Track](https://jobright.ai/jobs/info/69ef855858811370cb146e49?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
+| **[Taraki](https://www.taraki.co/)** | **[Project Manager Intern - Madvisions](https://jobright.ai/jobs/info/69ef855658811370cb146e35?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Remote | Apr 27 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69ef83624b0fa35a70789bdf?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Apr 27 |
+| **[Equinox](http://www.equinox.com)** | **[Strategy Intern (MBA)](https://jobright.ai/jobs/info/69ef7e2d0a6e0955530553d3?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Apr 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ef7dd2e624fe645d5317a8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Apr 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ef7dd2e624fe645d5317a9?utm_campaign=1050&utm_source=git)** | Buffalo, MN | On Site | Apr 27 |
+| **[Play N' Kick](https://www.playnkick.com/)** | **[Administrative Assistant Intern (paid)](https://jobright.ai/jobs/info/69ef7da64b0fa35a7078997e?utm_campaign=1050&utm_source=git)** | Fairfax, VA | Hybrid | Apr 27 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef7d8e58811370cb146859?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Apr 27 |
+| ↳ | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef7d7d16b2612c2a129aea?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Apr 27 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ef7d670a6e0955530551a3?utm_campaign=1050&utm_source=git)** | Kokomo, IN | On Site | Apr 27 |
 | **[Self Regional Healthcare](http://www.selfregional.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ef76c5fbe0994a40eb64aa?utm_campaign=1050&utm_source=git)** | Greenwood, South Carolina, United States | On Site | Apr 27 |
 | **[Libra Industries](http://www.libraindustries.com/)** | **[Summer Supply Chain Intern](https://jobright.ai/jobs/info/69ef757b16b2612c2a1299fd?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Apr 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Philadelphia 2025-2026](https://jobright.ai/jobs/info/69d74d60706f771673bb24d4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
@@ -83,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ef3c274b0fa35a70788468?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[Taraki](https://www.taraki.co/)** | **[Project Manager Intern - Madvisions](https://jobright.ai/jobs/info/69ef11a17820c03692500057?utm_campaign=1050&utm_source=git)** | Ottawa, ON, Canada | Remote | Apr 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern, Business Operations Technical Program Manager](https://jobright.ai/jobs/info/69ef104e4b0fa35a7078811d?utm_campaign=1050&utm_source=git)** | Santa Clara,CA, US | On Site | Apr 27 |
+| **[Marous Brothers Construction](https://www.marousbrothers.com)** | **[Project Management Summer Intern](https://jobright.ai/jobs/info/69ef7da758811370cb1468b5?utm_campaign=1050&utm_source=git)** | Willoughby, OH | On Site | Apr 26 |
 | **[Asian Youth Liberty League](https://www.allyassemble.org)** | **[Summer 2026 Leadership Fellow](https://jobright.ai/jobs/info/69eed81a58811370cb1446fa?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 26 |
 | **[mundane](mundane.co)** | **[chief of staff (6 months intern)](https://jobright.ai/jobs/info/69eed7f54b0fa35a70787687?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Stadium Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/69eec9bb0a6e095553052aa5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 26 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Yost](https://www.westyost.com/)** | **[Project Management Analyst Intern](https://jobright.ai/jobs/info/69d00ff454f00230c6d0edf6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 25 |
 | **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Chicago, IL](https://jobright.ai/jobs/info/69b4564b5697383741390f47?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/69ed96ad58811370cb141fdf?utm_campaign=1050&utm_source=git)** | Manhattan, NY | Hybrid | Apr 25 |
-| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Contracting](https://jobright.ai/jobs/info/69b470523b74eb1e2c81c007?utm_campaign=1050&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
-| ↳ | **[Intern - Performance Improvement](https://jobright.ai/jobs/info/69b4d291569738374139c69e?utm_campaign=1050&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
-| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - Niles, IL](https://jobright.ai/jobs/info/69b4bb1d3b74eb1e2c820a15?utm_campaign=1050&utm_source=git)** | Niles, IL | On Site | Apr 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976fc48fdeb8243a279dbfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Operations Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69eb12da0a6e095553044400?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Apr 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 25 |
-| **[Edward Rose & Sons](http://edwardrose.com)** | **[Emerging Leaders Internship](https://jobright.ai/jobs/info/69ec8b760a6e09555304e3e4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
-| **[Waystar](http://www.waystar.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69d0c806366bb95ba55229a5?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
-| **[Plus Power](https://www.pluspower.com)** | **[Project Development Intern, TVA & Southeast - Battery Storage](https://jobright.ai/jobs/info/69ecbac67820c036924fb639?utm_campaign=1050&utm_source=git)** | Birmingham, AL | Hybrid | Apr 25 |
-| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/69ec8def58811370cb140244?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Apr 25 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Project Manager, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ec637e0a6e09555304e08d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/69ec5db916b2612c2a122424?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
-| **[Leidos](https://www.leidos.com)** | **[Program Coordination Intern](https://jobright.ai/jobs/info/69ec415e4b0fa35a70781aa7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
