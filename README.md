@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d37d3d891d7b11cfcf15a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
+| **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d5ca1727747250d583f8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
+| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Operations and Maintenance](https://jobright.ai/jobs/info/69deb64ae34484770f1a4604?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 27 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Collection Inventory Project State Intern](https://jobright.ai/jobs/info/69ef23224b0fa35a7078827e?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Apr 27 |
+| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ef3c274b0fa35a70788468?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[Taraki](https://www.taraki.co/)** | **[Project Manager Intern - Madvisions](https://jobright.ai/jobs/info/69ef11a17820c03692500057?utm_campaign=1050&utm_source=git)** | Ottawa, ON, Canada | Remote | Apr 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern, Business Operations Technical Program Manager](https://jobright.ai/jobs/info/69ef104e4b0fa35a7078811d?utm_campaign=1050&utm_source=git)** | Santa Clara,CA, US | On Site | Apr 27 |
 | **[Asian Youth Liberty League](https://www.allyassemble.org)** | **[Summer 2026 Leadership Fellow](https://jobright.ai/jobs/info/69eed81a58811370cb1446fa?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 24 |
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ebfc3d4b0fa35a7077fee2?utm_campaign=1050&utm_source=git)** | Mentor,OH,US | On Site | Apr 24 |
 | **[GEODIS](http://www.geodis.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69ebfbfc0a6e09555304b9dd?utm_campaign=1050&utm_source=git)** | Savannah, Georgia, United States | On Site | Apr 24 |
-| **[AV](https://www.avinc.com/)** | **[Corporate Development, Strategy & Deal Integration Intern](https://jobright.ai/jobs/info/69ebfbf60a6e09555304b9a6?utm_campaign=1050&utm_source=git)** | Simi Valley, CA | On Site | Apr 24 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69ce77b2cfdc6132f94286f4?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
-| **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69ebf60016b2612c2a120013?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Apr 24 |
-| **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebf36458811370cb13dc04?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
