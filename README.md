@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Operations Utility Intern](https://jobright.ai/jobs/info/69ec5db916b2612c2a122424?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Program Coordination Intern](https://jobright.ai/jobs/info/69ec415e4b0fa35a70781aa7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 24 |
 | **[Plus Power](https://www.pluspower.com)** | **[Project Development Intern, TVA & Southeast - Battery Storage](https://jobright.ai/jobs/info/69ec410a58811370cb13f703?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Aflac](http://www.aflac.com)** | **[Executive Assistant III](https://jobright.ai/jobs/info/69ec36d90a6e09555304d462?utm_campaign=1050&utm_source=git)** | Virginia, United States | Hybrid | Apr 24 |
 | **[Zanskar](https://zanskar.com)** | **[Summer Internship - MBA](https://jobright.ai/jobs/info/69ec270b4b0fa35a70781113?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 24 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Apr 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ec26950a6e09555304cdcf?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69ebf05a0a6e09555304b6b3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 24 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ebef067820c036924f80df?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ec17ad58811370cb13e847?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
