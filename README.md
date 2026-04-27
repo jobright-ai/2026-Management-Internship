@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/69ef9e8b4b0fa35a7078a8c2?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ef9e884b0fa35a7078a8b1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
+| **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern, Finance & Operations (Summer 2026)](https://jobright.ai/jobs/info/69ef9ad10a6e095553055e81?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin, US | On Site | Apr 27 |
+| **[Kitsap County](https://www.kitsapgov.com)** | **[VOLUNTEER INTERNSHIP - OPERATIONS MANAGEMENT - CAPITAL FACILITIES DIVISION](https://jobright.ai/jobs/info/69ef99530a6e095553055e1d?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Apr 27 |
+| **[Self Regional Healthcare](http://www.selfregional.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ef98b3fbe0994a40eb72ea?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 27 |
+| **[Foley & Lardner LLP](http://www.foley.com)** | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/69ef96d958811370cb1473a0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 27 |
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship: Property Management Intern (Student Trainee III)](https://jobright.ai/jobs/info/69ef92080a6e095553055c48?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69ef8e8bfbe0994a40eb7094?utm_campaign=1050&utm_source=git)** | Laurel, MD, US | Hybrid | Apr 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69ef8e88e624fe645d5320ec?utm_campaign=1050&utm_source=git)** | Northern NJ - Wayne, Paramus, Mahwah, Ridgewood, Oakland | On Site | Apr 27 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69eedc247820c036924ffa1b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ed7a8458811370cb141b45?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69ed6cef4b0fa35a7078461c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
-| **[Veolia](https://www.veolia.com/fr)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ef0400dc35f7132c4bbce8?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 25 |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[IDO Incorporated](https://idoincorporated.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/69ed40af7820c036924fc703?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Inventory Planning Intern (Semester 2) – Generation H](https://jobright.ai/jobs/info/69d042c90b098b7a67077e65?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern (Melbourne, FL) - Summer 2026](https://jobright.ai/jobs/info/69966c9581476f6176ae3e2f?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Apr 25 |
 | ↳ | **[Senior Administrative Intern (Huntsville, AL) - Summer 2026](https://jobright.ai/jobs/info/69965c1ae0bddb6acac4ccaa?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 25 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Shellfish Logistics Intern](https://jobright.ai/jobs/info/69b30fbda8ac8e70ff67301c?utm_campaign=1050&utm_source=git)** | South Bend, WA | On Site | Apr 25 |
-| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Demand Chain Operations Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecd02c0a6e09555304ed42?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ecfee17820c036924fc2b4?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Apr 25 |
-| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Business Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecc2da4b0fa35a70782f6f?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
