@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asian Youth Liberty League](https://www.allyassemble.org)** | **[Summer 2026 Leadership Fellow](https://jobright.ai/jobs/info/69eed81a58811370cb1446fa?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 26 |
+| **[mundane](mundane.co)** | **[chief of staff (6 months intern)](https://jobright.ai/jobs/info/69eed7f54b0fa35a70787687?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Stadium Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/69eec9bb0a6e095553052aa5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 26 |
 | **[Arizona State University](http://www.asu.edu)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ee79824b0fa35a70786dbf?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Apr 26 |
 | **[Virtual Athletics League](https://www.valvr.com/)** | **[Gaming - Finance and Ops Internship](https://jobright.ai/jobs/info/69ee73784b0fa35a70786d4b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 26 |
@@ -82,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Maguire](http://maguireiron.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ede00058811370cb142ab9?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 26 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc6330a6e095553050b2a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Apr 26 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69edc5ba58811370cb1429a2?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Apr 26 |
+| **[AMSEC LLC, A Subsidiary of Huntington Ingalls Industries](http://www.amsec.com/)** | **[PROCESS IMPROVEMENT ANALYST SKILLBRDIGE INTERN](https://jobright.ai/jobs/info/69eedc36dc35f7132c4bb86f?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 25 |
+| ↳ | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69eedc247820c036924ffa1b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ed7a8458811370cb141b45?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69ed6cef4b0fa35a7078461c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69ebf05a0a6e09555304b6b3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 24 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ebef067820c036924f80df?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ec17ad58811370cb13e847?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ec63790a6e09555304e06f?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
-| **[ASU Gammage](https://www.asugammage.com/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f63e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
-| **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ec115f58811370cb13e71c?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
