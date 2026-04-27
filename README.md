@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| ↳ | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d37d3d891d7b11cfcf15a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
 | **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d5ca1727747250d583f8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Operations and Maintenance](https://jobright.ai/jobs/info/69deb64ae34484770f1a4604?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec03854b0fa35a707803e0?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 24 |
 | ↳ | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec02f658811370cb13e20c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ec009a4b0fa35a70780275?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 24 |
-| **[Alvogen](https://www.alvogen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69b47e7d5697383741395ed5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Apr 24 |
-| **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ebfc3d4b0fa35a7077fee2?utm_campaign=1050&utm_source=git)** | Mentor,OH,US | On Site | Apr 24 |
-| **[GEODIS](http://www.geodis.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69ebfbfc0a6e09555304b9dd?utm_campaign=1050&utm_source=git)** | Savannah, Georgia, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
