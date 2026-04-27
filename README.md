@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69eedc247820c036924ffa1b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ed7a8458811370cb141b45?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 25 |
 | **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Intern](https://jobright.ai/jobs/info/69ed6cef4b0fa35a7078461c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
+| **[Veolia](https://www.veolia.com/fr)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ef0400dc35f7132c4bbce8?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 25 |
 | **[Mingledorff's](http://mingledorffs.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69ed34b2dc35f7132c4b8314?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Apr 25 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b4848506c1ba00c545ff79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[IDO Incorporated](https://idoincorporated.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/69ed40af7820c036924fc703?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69ebf05a0a6e09555304b6b3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 24 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ebef067820c036924f80df?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ec17ad58811370cb13e847?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
