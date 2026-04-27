@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef6737e624fe645d530cc4?utm_campaign=1050&utm_source=git)** | West Des Moines, IA - Westown Parkway, US | On Site | Apr 27 |
+| **[ALKEGEN](https://alkegen.com/)** | **[Process Intern](https://jobright.ai/jobs/info/69ef67334b0fa35a70788f91?utm_campaign=1050&utm_source=git)** | Marshalltown, IA, US | On Site | Apr 27 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef671e4b0fa35a70788f50?utm_campaign=1050&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Apr 27 |
+| **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Supply Chain Management](https://jobright.ai/jobs/info/69ef66380a6e0955530546b3?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ef66360a6e0955530546a2?utm_campaign=1050&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Apr 27 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Apr 27 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | ↳ | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -124,7 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Management Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecd01216b2612c2a12348d?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ecfee17820c036924fc2b4?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Apr 25 |
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Business Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69ecc2da4b0fa35a70782f6f?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Apr 25 |
-| **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69ecbf330a6e09555304e79c?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Apr 25 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Apr 25 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e1dde640a62c1fa93bc235?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Apr 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/69d04d50cfdc6132f943a63f?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Apr 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ec26950a6e09555304cdcf?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Apr 24 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69ec11a5dc35f7132c4b5639?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 24 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 24 |
-| **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69ec0ac5dc35f7132c4b548a?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Apr 24 |
-| **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 24 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec03854b0fa35a707803e0?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 24 |
-| ↳ | **[Construction Project & Program Management - Internship 2026](https://jobright.ai/jobs/info/69ec02f658811370cb13e20c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
-| **[UnityPoint Health](http://www.unitypoint.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ec009a4b0fa35a70780275?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
