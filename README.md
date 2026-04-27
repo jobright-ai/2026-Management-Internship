@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Collection Inventory Project State Intern](https://jobright.ai/jobs/info/69ef23224b0fa35a7078827e?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Apr 27 |
 | **[Taraki](https://www.taraki.co/)** | **[Project Manager Intern - Madvisions](https://jobright.ai/jobs/info/69ef11a17820c03692500057?utm_campaign=1050&utm_source=git)** | Ottawa, ON, Canada | Remote | Apr 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern, Business Operations Technical Program Manager](https://jobright.ai/jobs/info/69ef104e4b0fa35a7078811d?utm_campaign=1050&utm_source=git)** | Santa Clara,CA, US | On Site | Apr 27 |
 | **[Asian Youth Liberty League](https://www.allyassemble.org)** | **[Summer 2026 Leadership Fellow](https://jobright.ai/jobs/info/69eed81a58811370cb1446fa?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69ce77b2cfdc6132f94286f4?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69ebf60016b2612c2a120013?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Apr 24 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - Project Management Office](https://jobright.ai/jobs/info/69ebf36458811370cb13dc04?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Apr 24 |
-| **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern - Net Metering Project Coordinator (PM)](https://jobright.ai/jobs/info/69ec11f27820c036924f900d?utm_campaign=1050&utm_source=git)** | Tualatin, OR | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
