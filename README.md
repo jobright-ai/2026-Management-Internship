@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sapochetti Brands](sapbrands.shop)** | **[Business Management Intern (Corporate)](https://jobright.ai/jobs/info/69ee90eb0a6e095553052588?utm_campaign=1050&utm_source=git)** | Greater Boston | Hybrid | Apr 26 |
 | **[Arizona State University](http://www.asu.edu)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ee79824b0fa35a70786dbf?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Apr 26 |
 | **[Virtual Athletics League](https://www.valvr.com/)** | **[Gaming - Finance and Ops Internship](https://jobright.ai/jobs/info/69ee73784b0fa35a70786d4b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 26 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a5eda1b600907a962bb912?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f63e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ec115f58811370cb13e71c?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Project Manager (APM)](https://jobright.ai/jobs/info/69ec00b14b0fa35a707802ea?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ebe29cdc35f7132c4b42fc?utm_campaign=1050&utm_source=git)** | Cranberry Township, US | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
