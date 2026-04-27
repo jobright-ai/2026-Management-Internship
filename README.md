@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charleston Battery](https://www.charlestonbattery.com)** | **[Stadium Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/69eec9bb0a6e095553052aa5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Apr 26 |
 | **[Arizona State University](http://www.asu.edu)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ee79824b0fa35a70786dbf?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Apr 26 |
 | **[Virtual Athletics League](https://www.valvr.com/)** | **[Gaming - Finance and Ops Internship](https://jobright.ai/jobs/info/69ee73784b0fa35a70786d4b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 26 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/69a5eda1b600907a962bb912?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Apr 26 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Apr 26 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69881bfd8ca8121a3a6aa578?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/697d3ac73f57a335696709ca?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 26 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7ef86a10b650604b622fb?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Apr 26 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Three Springs - Shift Manager Trainee Start $18.00](https://jobright.ai/jobs/info/690f79e4183be660d2675657?utm_campaign=1050&utm_source=git)** | Durango, CO | On Site | Apr 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Apr 26 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Procurement Intern](https://jobright.ai/jobs/info/69ec63790a6e09555304e06f?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 24 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Project Intern, Next Education Workforce](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f63e?utm_campaign=1050&utm_source=git)** | Campus: Tempe, US | On Site | Apr 24 |
 | **[Libra Industries](http://www.libraindustries.com/)** | **[2026 Summer Internship - Supply Chain](https://jobright.ai/jobs/info/69ec115f58811370cb13e71c?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Apr 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Project Manager (APM)](https://jobright.ai/jobs/info/69ec00b14b0fa35a707802ea?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 24 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Commercial Operations Intern Summer 2026](https://jobright.ai/jobs/info/69ebe29cdc35f7132c4b42fc?utm_campaign=1050&utm_source=git)** | Cranberry Township, US | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
