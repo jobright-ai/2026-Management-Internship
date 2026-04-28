@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Executive Assistant (Part-Time, Remote)](https://jobright.ai/jobs/info/69f0520e825a315d7ca31cfd?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 27 |
 | **[VieMed Healthcare](https://www.viemed.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69f0374aa4aa3545d8a5d9e1?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP Spend Management and Finance iXp Intern](https://jobright.ai/jobs/info/69f0371da4aa3545d8a5d8c4?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Apr 27 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69f03713b27fee43e8cd2c7b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2b358811370cb1491c8?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 27 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe45c4b0fa35a7078c6ad?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 27 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2f80a6e095553057db0?utm_campaign=1050&utm_source=git)** | Hanover, MD | On Site | Apr 27 |
-| **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Gator Made UF Intern](https://jobright.ai/jobs/info/69efbd5bfbe0994a40eb85c8?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
