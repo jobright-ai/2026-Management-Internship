@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Operations Intern / Highmark Stadium](https://jobright.ai/jobs/info/69f00a47e624fe645d534de2?utm_campaign=1050&utm_source=git)** | Orchard Park, NY | On Site | Apr 27 |
+| **[Tree Top, Inc.](http://www.treetop.com)** | **[Operations Management Internship, Selah Plant](https://jobright.ai/jobs/info/69f009cc58811370cb14a3a1?utm_campaign=1050&utm_source=git)** | 220 East 2nd Avenue, Selah, WA, USA | On Site | Apr 27 |
+| **[Leslie's](https://lesliespool.com/)** | **[Intern - Real Estate Operations](https://jobright.ai/jobs/info/69f009990a6e095553058d8f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 27 |
 | **[CRH](http://crh.com)** | **[Intern - Admin Scalehouse Clerk - Summer 2026](https://jobright.ai/jobs/info/69f001bf4b0fa35a7078d685?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Apr 27 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69f001bb58811370cb14a26b?utm_campaign=1050&utm_source=git)** | Frisco, CO | On Site | Apr 27 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f0019fe624fe645d534a75?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | Apr 27 |
@@ -68,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[PureFacts Financial Solutions](https://www.purefacts.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69eff3a958811370cb149ee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Administrative Assistant, Schulich School of Engineering](https://jobright.ai/jobs/info/69e97253e0cd471b2f13d648?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 27 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1befbe0994a40eb9b0f?utm_campaign=1050&utm_source=git)** | CO_Brighton_223110, US | On Site | Apr 27 |
-| ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b916b2612c2a12ce53?utm_campaign=1050&utm_source=git)** | CO_Frisco_224192, US | On Site | Apr 27 |
 | ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b94b0fa35a7078d22e?utm_campaign=1050&utm_source=git)** | CO_Boulder_223114, US | On Site | Apr 27 |
+| ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b916b2612c2a12ce53?utm_campaign=1050&utm_source=git)** | CO_Frisco_224192, US | On Site | Apr 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern, Business Operations Technical Program Manager](https://jobright.ai/jobs/info/69eff14358811370cb149e46?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP Spend Management and Finance iXp Intern](https://jobright.ai/jobs/info/69eff10158811370cb149e1e?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | Apr 27 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Operational Excellence](https://jobright.ai/jobs/info/69efee924b0fa35a7078d11d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/69ef9e884b0fa35a7078a8b1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern, Finance & Operations (Summer 2026)](https://jobright.ai/jobs/info/69ef9ad10a6e095553055e81?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin, US | On Site | Apr 27 |
 | **[Kitsap County](https://www.kitsapgov.com)** | **[VOLUNTEER INTERNSHIP - OPERATIONS MANAGEMENT - CAPITAL FACILITIES DIVISION](https://jobright.ai/jobs/info/69ef99530a6e095553055e1d?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Apr 27 |
-| **[Self Regional Healthcare](http://www.selfregional.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ef98b3fbe0994a40eb72ea?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 27 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/69ef96d958811370cb1473a0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 27 |
-| **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship: Property Management Intern (Student Trainee III)](https://jobright.ai/jobs/info/69ef92080a6e095553055c48?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
