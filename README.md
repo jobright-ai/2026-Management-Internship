@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | Apr 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Apr 28 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69f0974becbc8c2f731ffab5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/69d48e54e63cea7a8b65b17a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f028132b095843b0311a22?utm_campaign=1050&utm_source=git)** | Holly Springs, MS | On Site | Apr 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311965?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311964?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Apr 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f02741ecbc8c2f731fe747?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f02741ecbc8c2f731fe748?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Apr 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f02741ecbc8c2f731fe747?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0273ca4aa3545d8a5d288?utm_campaign=1050&utm_source=git)** | Morton Grove, IL | On Site | Apr 27 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Corporate Actions and Market Operations Summer Intern](https://jobright.ai/jobs/info/69f01fe2825a315d7ca3107b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69f01fb9ecbc8c2f731fe65e?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Apr 27 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Food & Beverage Operations Internship](https://jobright.ai/jobs/info/69f036ea2b095843b0311e78?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Apr 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f027b2825a315d7ca31166?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027a9b27fee43e8cd2468?utm_campaign=1050&utm_source=git)** | Freeport, IL | On Site | Apr 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027b2825a315d7ca31164?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027b2825a315d7ca31167?utm_campaign=1050&utm_source=git)** | Scottsbluff, NE | On Site | Apr 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027b2825a315d7ca31164?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027a9b27fee43e8cd246a?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027a9b27fee43e8cd2469?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f027b2825a315d7ca31165?utm_campaign=1050&utm_source=git)** | Virginia, MN | On Site | Apr 27 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[PureFacts Financial Solutions](https://www.purefacts.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69eff3a958811370cb149ee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Administrative Assistant, Schulich School of Engineering](https://jobright.ai/jobs/info/69e97253e0cd471b2f13d648?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 27 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1befbe0994a40eb9b0f?utm_campaign=1050&utm_source=git)** | CO_Brighton_223110, US | On Site | Apr 27 |
-| ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b916b2612c2a12ce53?utm_campaign=1050&utm_source=git)** | CO_Frisco_224192, US | On Site | Apr 27 |
 | ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b94b0fa35a7078d22e?utm_campaign=1050&utm_source=git)** | CO_Boulder_223114, US | On Site | Apr 27 |
+| ↳ | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69eff1b916b2612c2a12ce53?utm_campaign=1050&utm_source=git)** | CO_Frisco_224192, US | On Site | Apr 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern, Business Operations Technical Program Manager](https://jobright.ai/jobs/info/69eff14358811370cb149e46?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP Spend Management and Finance iXp Intern](https://jobright.ai/jobs/info/69eff10158811370cb149e1e?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | Apr 27 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Operational Excellence](https://jobright.ai/jobs/info/69efee924b0fa35a7078d11d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -136,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[SGC Power](https://sgc-power.com/)** | **[Intern, Project Development](https://jobright.ai/jobs/info/69efe46358811370cb14944b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Business Services (Corporate)](https://jobright.ai/jobs/info/69efe4314b0fa35a7078c683?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69efe3f60a6e095553057e82?utm_campaign=1050&utm_source=git)** | Lubbock, TX - N Loop 289, US | On Site | Apr 27 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Administrative Associate](https://jobright.ai/jobs/info/69efe3b5fbe0994a40eb9168?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Administrative Associate](https://jobright.ai/jobs/info/69efe3b5fbe0994a40eb9168?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Supply Chain Summer 2026 Internship (Euclid, Oh)](https://jobright.ai/jobs/info/69efe2df0a6e095553057d8b?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Apr 27 |
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/69efe2a70a6e095553057d4a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[Thompson Hotels](https://www.hyatt.com/hotel/thompson-hotels)** | **[F&B Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69efddf1e624fe645d533c1f?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Internship (Supply Chain)](https://jobright.ai/jobs/info/69efc716fbe0994a40eb883e?utm_campaign=1050&utm_source=git)** | US-PA-Red Lion | On Site | Apr 27 |
 | ↳ | **[2026 Internship (Supply Chain)](https://jobright.ai/jobs/info/69efc6f916b2612c2a12bb35?utm_campaign=1050&utm_source=git)** | Red Lion, PA, US | On Site | Apr 27 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69efc6ec58811370cb14891a?utm_campaign=1050&utm_source=git)** | US-AR-Stuttgart | On Site | Apr 27 |
-| **[Upbound Group](https://www.upbound.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69efc6b70a6e0955530572c9?utm_campaign=1050&utm_source=git)** | Draper, UT, US | On Site | Apr 27 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Business Services (Corporate)](https://jobright.ai/jobs/info/69efc66b58811370cb1488a7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
-| **[Barnhill](http://barnhillcontracting.com)** | **[Intern](https://jobright.ai/jobs/info/69efc64afbe0994a40eb8744?utm_campaign=1050&utm_source=git)** | Elizabeth City, North Carolina, US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
