@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRH](http://crh.com)** | **[Intern - Admin Scalehouse Clerk - Summer 2026](https://jobright.ai/jobs/info/69f001bf4b0fa35a7078d685?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Apr 27 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026](https://jobright.ai/jobs/info/69f001bb58811370cb14a26b?utm_campaign=1050&utm_source=git)** | Frisco, CO | On Site | Apr 27 |
+| **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f0019fe624fe645d534a75?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | Apr 27 |
+| **[Chloé](http://www.chloe.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69efff9e58811370cb14a182?utm_campaign=1050&utm_source=git)** | GRAND PRAIRIE, US | On Site | Apr 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/69effc9658811370cb14a096?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Apr 27 |
+| **[Pivot Energy](https://www.pivotenergy.net)** | **[Intern, Project Development](https://jobright.ai/jobs/info/69eff5730a6e0955530589b9?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[Huck's Food and Fuel](https://hucks.com/)** | **[M&B Office Student Intern](https://jobright.ai/jobs/info/69eff3c958811370cb149f8e?utm_campaign=1050&utm_source=git)** | Carmi, IL | On Site | Apr 27 |
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Administrative Assistant Manager, Clinical Engineering](https://jobright.ai/jobs/info/69eff3b258811370cb149f23?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 27 |
 | **[PureFacts Financial Solutions](https://www.purefacts.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69eff3a958811370cb149ee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
@@ -88,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Capture Management Intern](https://jobright.ai/jobs/info/69efe633e624fe645d533fbe?utm_campaign=1050&utm_source=git)** | Reston, VA | Remote | Apr 27 |
 | ↳ | **[Capture Management Intern](https://jobright.ai/jobs/info/69efe5bc58811370cb149564?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Intern](https://jobright.ai/jobs/info/69efe5b1fbe0994a40eb931e?utm_campaign=1050&utm_source=git)** | Odessa, TX, US | On Site | Apr 27 |
-| **[Electra.aero](https://www.electra.aero)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69efe5a516b2612c2a12c699?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Apr 27 |
-| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Intern](https://jobright.ai/jobs/info/69efe540e624fe645d533f4a?utm_campaign=1050&utm_source=git)** | 79763 | On Site | Apr 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69efe540e624fe645d533f4a?utm_campaign=1050&utm_source=git)** | 79763 | On Site | Apr 27 |
 | **[SGC Power](https://sgc-power.com/)** | **[Intern, Project Development](https://jobright.ai/jobs/info/69efe46358811370cb14944b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Business Services (Corporate)](https://jobright.ai/jobs/info/69efe4314b0fa35a7078c683?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69efe3f60a6e095553057e82?utm_campaign=1050&utm_source=git)** | Lubbock, TX - N Loop 289, US | On Site | Apr 27 |
@@ -118,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69efc614fbe0994a40eb86ef?utm_campaign=1050&utm_source=git)** | Laurel, MD | Hybrid | Apr 27 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/69ebca150a6e09555304a7cc?utm_campaign=1050&utm_source=git)** | Concord, CA | On Site | Apr 27 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2b358811370cb1491c8?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 27 |
-| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2f80a6e095553057db0?utm_campaign=1050&utm_source=git)** | Hanover, MD | On Site | Apr 27 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe45c4b0fa35a7078c6ad?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 27 |
+| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2f80a6e095553057db0?utm_campaign=1050&utm_source=git)** | Hanover, MD | On Site | Apr 27 |
 | **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Gator Made UF Intern](https://jobright.ai/jobs/info/69efbd5bfbe0994a40eb85c8?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Production Operations Intern](https://jobright.ai/jobs/info/69efbcf4fbe0994a40eb8559?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Strategic Initiatives - Summer Internship](https://jobright.ai/jobs/info/69efbbb058811370cb14860b?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Apr 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Self Regional Healthcare](http://www.selfregional.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ef98b3fbe0994a40eb72ea?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 27 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/69ef96d958811370cb1473a0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 27 |
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship: Property Management Intern (Student Trainee III)](https://jobright.ai/jobs/info/69ef92080a6e095553055c48?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 27 |
-| **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69ef8e8bfbe0994a40eb7094?utm_campaign=1050&utm_source=git)** | Laurel, MD, US | Hybrid | Apr 27 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69ef8e88e624fe645d5320ec?utm_campaign=1050&utm_source=git)** | Northern NJ - Wayne, Paramus, Mahwah, Ridgewood, Oakland | On Site | Apr 27 |
-| **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69ef8e87e624fe645d5320ea?utm_campaign=1050&utm_source=git)** | US-MD-Laurel | Hybrid | Apr 27 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69ef8e86fbe0994a40eb708f?utm_campaign=1050&utm_source=git)** | Wayne, NJ, US | On Site | Apr 27 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern--City of Bloomington PT Spring '26 FT Summer '26](https://jobright.ai/jobs/info/69ef8e7c58811370cb147198?utm_campaign=1050&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
