@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Executive Assistant (Part-Time, Remote)](https://jobright.ai/jobs/info/69f0520e825a315d7ca31cfd?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/69f05a298feca91f1491a9f1?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Apr 27 |
 | **[VieMed Healthcare](https://www.viemed.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69f0374aa4aa3545d8a5d9e1?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP Spend Management and Finance iXp Intern](https://jobright.ai/jobs/info/69f0371da4aa3545d8a5d8c4?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Apr 27 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69f03713b27fee43e8cd2c7b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Loenbro](http://loenbro.com)** | **[Field Coordinator Intern](https://jobright.ai/jobs/info/69f02b838feca91f1491a290?utm_campaign=1050&utm_source=git)** | Billings, MT | On Site | Apr 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69f02876b27fee43e8cd252f?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Apr 27 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f028132b095843b0311a22?utm_campaign=1050&utm_source=git)** | Holly Springs, MS | On Site | Apr 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311965?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Apr 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311964?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Apr 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311964?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Apr 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0279e2b095843b0311965?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f02741ecbc8c2f731fe747?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f02741ecbc8c2f731fe748?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Apr 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0273ca4aa3545d8a5d288?utm_campaign=1050&utm_source=git)** | Morton Grove, IL | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/69ebca150a6e09555304a7cc?utm_campaign=1050&utm_source=git)** | Concord, CA | On Site | Apr 27 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2b358811370cb1491c8?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Apr 27 |
 | ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe45c4b0fa35a7078c6ad?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 27 |
-| ↳ | **[Operations Intern - Management Track](https://jobright.ai/jobs/info/69efe2f80a6e095553057db0?utm_campaign=1050&utm_source=git)** | Hanover, MD | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
