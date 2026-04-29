@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f1ba19ecbc8c2f73207fa2?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
+| **[Amperesand](https://amperesand.io/)** | **[Business Strategy MBA Intern](https://jobright.ai/jobs/info/69d593f9891d7b11cfd02ff5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer jobs: Project Coordinators](https://jobright.ai/jobs/info/69f1900cecbc8c2f73206ef5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 28 |
 | **[TriStar Skyline Medical Center](https://tristarskyline.com/)** | **[Administrative Intern PRN](https://jobright.ai/jobs/info/69f18ff962b48c6838796a65?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Buses Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f1b096825a315d7ca39726?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | Apr 28 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[ScriptSourcing, LLC](https://scriptsourcing.com/)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/69f19debecbc8c2f73206fc2?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Apr 28 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-Commercial Banking (MD)](https://jobright.ai/jobs/info/69f1818f62b48c6838795f59?utm_campaign=1050&utm_source=git)** | Cockeysville, MD | On Site | Apr 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2c?utm_campaign=1050&utm_source=git)** | Moline, IL | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2b?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2b?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1869c825a315d7ca3850e?utm_campaign=1050&utm_source=git)** | Taylor, MI | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186508feca91f14920a8a?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Apr 28 |
 | **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f15efeecbc8c2f7320570b?utm_campaign=1050&utm_source=git)** | New York, US | On Site | Apr 28 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f135888feca91f1491f193?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 28 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f13577ecbc8c2f73204767?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 28 |
 | **[MADI 19six Architects](http://www.madi-arch.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f135198feca91f1491f075?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
-| **[Bedrock International Group, LLC ](http://bedrockgroupllc.com)** | **[Assistant Project Manager / Intern](https://jobright.ai/jobs/info/69f134d8ecbc8c2f73204469?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[Summer Operations and Events Internship (ODP Program)](https://jobright.ai/jobs/info/69f12d8562b48c6838794240?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Apr 28 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Business Office Director (Senior Independent Living)](https://jobright.ai/jobs/info/69d022d60b098b7a67076aa9?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 28 |
 | ↳ | **[Business Office Director (Senior Assisted Living)](https://jobright.ai/jobs/info/69d0233054f00230c6d0f659?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Apr 28 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f141aa8feca91f1491f682?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f141f28feca91f1491f84c?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f135db825a315d7ca36a25?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
-| ↳ | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
+| ↳ | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Summer 2026)](https://jobright.ai/jobs/info/69f118c1825a315d7ca360d0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69f13a0662b48c68387947ce?utm_campaign=1050&utm_source=git)** | Omni Frisco Hotel at The Star, 11 Cowboys Way, Frisco, Texas, United States of America | On Site | Apr 28 |
 | **[19six Architects](https://www.19six.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69f17c0662b48c6838795be3?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana University Health](http://iuhealth.org)** | **[High School Student Administrative Intern](https://jobright.ai/jobs/info/69f103f7ecbc8c2f7320328a?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
 | **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f0d053ecbc8c2f7320213f?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Apr 28 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Clubhouse Operations Intern](https://jobright.ai/jobs/info/69f0cc1c825a315d7ca344f0?utm_campaign=1050&utm_source=git)** | Nashville, TN, US | On Site | Apr 28 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Supply Chain Operations](https://jobright.ai/jobs/info/69bc70665b89c002acf22898?utm_campaign=1050&utm_source=git)** | Augusta, KS | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
