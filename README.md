@@ -59,8 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer jobs: Project Coordinators](https://jobright.ai/jobs/info/69f1900cecbc8c2f73206ef5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 28 |
 | **[TriStar Skyline Medical Center](https://tristarskyline.com/)** | **[Administrative Intern PRN](https://jobright.ai/jobs/info/69f18ff962b48c6838796a65?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Buses Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f1b096825a315d7ca39726?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | Apr 28 |
 | **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/69f1a78d62b48c6838797336?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Operations Intern (For College Credit)](https://jobright.ai/jobs/info/69f1817c825a315d7ca38478?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
+| **[American Red Cross](http://redcross.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/69f1b086825a315d7ca396e0?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Business Team Intern (Open Role) (MBA+)](https://jobright.ai/jobs/info/69f173168feca91f149201d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1a38862b48c6838796ae0?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Administrative Support](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205966?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f0d053ecbc8c2f7320213f?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Apr 28 |
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Clubhouse Operations Intern](https://jobright.ai/jobs/info/69f0cc1c825a315d7ca344f0?utm_campaign=1050&utm_source=git)** | Nashville, TN, US | On Site | Apr 28 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Supply Chain Operations](https://jobright.ai/jobs/info/69bc70665b89c002acf22898?utm_campaign=1050&utm_source=git)** | Augusta, KS | On Site | Apr 28 |
-| **[De Soto Unified School Dist](https://www.usd232.org/)** | **[Building Secretary - 0.5 FTE](https://jobright.ai/jobs/info/69f0e7d7ecbc8c2f73202821?utm_campaign=1050&utm_source=git)** | Shawnee, KS | On Site | Apr 28 |
-| **[SageNet](http://www.sagenet.com/)** | **[PMO Internship](https://jobright.ai/jobs/info/69f0c670ecbc8c2f73201bc9?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
