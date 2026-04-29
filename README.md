@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f1ee538d8d624381a9e852?utm_campaign=1050&utm_source=git)** | Stuttgart, AR | On Site | Apr 29 |
+| **[JD.COM](http://corporate.jd.com)** | **[Commodity Supply Chain (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/69f1ebab8feca91f14922777?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Apr 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Technical Program Management Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcafcae6a0d9792584b27f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f1ddf18d8d624381a9e65d?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
 | **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Supply Business Management Operations Intern](https://jobright.ai/jobs/info/69e94708e0cd471b2f13c384?utm_campaign=1050&utm_source=git)** | El Segundo, California | On Site | Apr 29 |
-| **[Generac](https://www.generac.com)** | **[Intern Engineering - Project Manager](https://jobright.ai/jobs/info/69f1ddcff154d768fbaa46b9?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Apr 29 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1d3beab4ec4779fff6821?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 29 |
 | **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1cce6ecbc8c2f732080cd?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Office Clerk (2026-2027 School Year)](https://jobright.ai/jobs/info/69f1c9208feca91f14922481?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Central Strategy and Research Intern (Global Business Solutions-MSO-SMB) - 2026 Fall (MBA)](https://jobright.ai/jobs/info/69f0df70825a315d7ca34ba0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support](https://jobright.ai/jobs/info/69f0df458feca91f1491d2f3?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 28 |
 | **[Leslie's](https://lesliespool.com/)** | **[Intern - Retail Operations](https://jobright.ai/jobs/info/69ba88ad5697383741401dd5?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (General Office Assistant) - Office of Aeronautics](https://jobright.ai/jobs/info/69f11894b27fee43e8cd72d3?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Apr 28 |
-| **[American Arbitration Association](https://www.adr.org)** | **[IT Project Coordinator Intern](https://jobright.ai/jobs/info/69e95cc57820c036924e7acd?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
