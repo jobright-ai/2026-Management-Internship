@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f15efeecbc8c2f7320570b?utm_campaign=1050&utm_source=git)** | New York, US | On Site | Apr 28 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Logistics & Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69f15cdb825a315d7ca378b8?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 28 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Statesboro, GA 2026](https://jobright.ai/jobs/info/69f15cccb27fee43e8cd8aef?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Apr 28 |
+| **[Shinkei](https://www.shinkei.systems)** | **[Operations Intern](https://jobright.ai/jobs/info/69f15cccb27fee43e8cd8af3?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Apr 28 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/69f153d2ecbc8c2f73205455?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Continental](https://www.continental.com)** | **[Intern - Freight & Warehouse / Purchasing, Year-Round](https://jobright.ai/jobs/info/69e18bc5ff71e82d604b7699?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 28 |
 | ↳ | **[Intern - Sea Freight Logistics, Year-Round](https://jobright.ai/jobs/info/69e69e9f7820c036924d1968?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | On Site | Apr 28 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f0c5628d8d624381a97a0b?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Apr 28 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[General Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97991?utm_campaign=1050&utm_source=git)** | Mathews, LA | On Site | Apr 28 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d401f5891d7b11cfcf68b0?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | Apr 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924bf?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924c0?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Apr 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924c0?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924bf?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | **[Mynx Softwares](https://www.mynxsoftwares.com)** | **[Technical Project Coordinator (Intern)](https://jobright.ai/jobs/info/69f0df428d8d624381a98c99?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
 | **[DYW (Developing the Young Workforce) Moray](http://www.dywmoray.co.uk)** | **[Clerical Assistant, DYW Moray- Elgin](https://jobright.ai/jobs/info/69f0df428feca91f1491d2e1?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | Apr 28 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/69f0b8e3825a315d7ca33567?utm_campaign=1050&utm_source=git)** | Penn State University Park, US | Hybrid | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69e9a33158811370cb12e80a?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Apr 28 |
 | ↳ | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/69f0c5918feca91f1491c883?utm_campaign=1050&utm_source=git)** | Piscataway, NJ | On Site | Apr 28 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69f0974becbc8c2f731ffab5?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Apr 28 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/69d48e54e63cea7a8b65b17a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[Town of Brookline](BrooklineMA.gov)** | **[Senior Office Assistant](https://jobright.ai/jobs/info/69f0978ab27fee43e8cd393d?utm_campaign=1050&utm_source=git)** | Brookline, MA | On Site | Apr 28 |
-| **[CJ America, Inc.](https://cjamerica.com)** | **[[CJ America] Summer Intern - Corporate Strategy (New York)](https://jobright.ai/jobs/info/69f0911f62b48c6838790190?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
