@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1d3beab4ec4779fff6821?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 29 |
+| **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1cce6ecbc8c2f732080cd?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 29 |
+| **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Office Clerk (2026-2027 School Year)](https://jobright.ai/jobs/info/69f1c9208feca91f14922481?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f1ba19ecbc8c2f73207fa2?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
+| **[Alberta Health Services](http://www.albertahealthservices.ca)** | **[Student Project Coordinator – ALA Business and Clinical Support](https://jobright.ai/jobs/info/69f1d3b8ab4ec4779fff680e?utm_campaign=1050&utm_source=git)** | Greater Edmonton Metropolitan Area | On Site | Apr 28 |
 | **[Amperesand](https://amperesand.io/)** | **[Business Strategy MBA Intern](https://jobright.ai/jobs/info/69d593f9891d7b11cfd02ff5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer jobs: Project Coordinators](https://jobright.ai/jobs/info/69f1900cecbc8c2f73206ef5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 28 |
 | **[TriStar Skyline Medical Center](https://tristarskyline.com/)** | **[Administrative Intern PRN](https://jobright.ai/jobs/info/69f18ff962b48c6838796a65?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Buses Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f1b096825a315d7ca39726?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | Apr 28 |
-| **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/69f1a78d62b48c6838797336?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Operations Intern (For College Credit)](https://jobright.ai/jobs/info/69f1817c825a315d7ca38478?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[American Red Cross](http://redcross.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/69f1b086825a315d7ca396e0?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Business Team Intern (Open Role) (MBA+)](https://jobright.ai/jobs/info/69f173168feca91f149201d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1a38862b48c6838796ae0?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Apr 28 |
+| **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f1d39becbc8c2f7320815e?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Administrative Support](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205966?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 28 |
 | **[Vestar](http://vestar.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1660fecbc8c2f732058b9?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 28 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Process Documentation Intern](https://jobright.ai/jobs/info/69eae1240a6e095553043794?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f141aa8feca91f1491f682?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f141f28feca91f1491f84c?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f135db825a315d7ca36a25?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
-| ↳ | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
+| ↳ | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Summer 2026)](https://jobright.ai/jobs/info/69f118c1825a315d7ca360d0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69f13a0662b48c68387947ce?utm_campaign=1050&utm_source=git)** | Omni Frisco Hotel at The Star, 11 Cowboys Way, Frisco, Texas, United States of America | On Site | Apr 28 |
 | **[19six Architects](https://www.19six.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69f17c0662b48c6838795be3?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CWB Group](https://www.cwbgroup.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69f0d66662b48c68387922d9?utm_campaign=1050&utm_source=git)** | Canada | Remote | Apr 28 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86bee758f2e4ac3ff2488?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a86b2bd627244576e32814?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 28 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Project Manager Intern - S2026](https://jobright.ai/jobs/info/69d3d258cdb525785fbc36cc?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
-| **[Indiana University Health](http://iuhealth.org)** | **[High School Student Administrative Intern](https://jobright.ai/jobs/info/69f103f7ecbc8c2f7320328a?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
-| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f0d053ecbc8c2f7320213f?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Apr 28 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Clubhouse Operations Intern](https://jobright.ai/jobs/info/69f0cc1c825a315d7ca344f0?utm_campaign=1050&utm_source=git)** | Nashville, TN, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
