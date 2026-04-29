@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Business Team Intern (Open Role) (MBA+)](https://jobright.ai/jobs/info/69f173168feca91f149201d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[KevaAI](https://www.linkedin.com/company/109233015)** | **[MBA Intern](https://jobright.ai/jobs/info/69f166488feca91f1492005c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Administrative Support](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205966?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 28 |
 | **[Vestar](http://vestar.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1660fecbc8c2f732058b9?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 28 |
@@ -91,13 +92,15 @@ For a complete list, click the following sortable link below:
 | **[Usui International Corporation](https://usuiusa.com/)** | **[Production Manager Intern](https://jobright.ai/jobs/info/69f12951b27fee43e8cd7751?utm_campaign=1050&utm_source=git)** | Sharonville, OH | On Site | Apr 28 |
 | **[OmniOn Power](https://omnionpower.com)** | **[Operations and Supply Chain Intern](https://jobright.ai/jobs/info/69f128ebb27fee43e8cd7571?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69f153daecbc8c2f73205485?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Apr 28 |
+| **[KELLER](https://www.keller-france.com/)** | **[Intern](https://jobright.ai/jobs/info/69f179e862b48c68387957d9?utm_campaign=1050&utm_source=git)** | Cumberland, RI | On Site | Apr 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f141aa8feca91f1491f682?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f141f28feca91f1491f84c?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f135db825a315d7ca36a25?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
-| ↳ | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
+| ↳ | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Summer 2026)](https://jobright.ai/jobs/info/69f118c1825a315d7ca360d0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69f13a0662b48c68387947ce?utm_campaign=1050&utm_source=git)** | Omni Frisco Hotel at The Star, 11 Cowboys Way, Frisco, Texas, United States of America | On Site | Apr 28 |
+| **[19six Architects](https://www.19six.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69f17c0662b48c6838795be3?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Apr 28 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69f110678feca91f1491e6c2?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 28 |
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f110538d8d624381a9a321?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Project Intern](https://jobright.ai/jobs/info/69ba88da5697383741401eb4?utm_campaign=1050&utm_source=git)** | Yankton, SD | On Site | Apr 28 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[Summer Business Operations Internship](https://jobright.ai/jobs/info/69f0e764b27fee43e8cd617a?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Accord Carton](https://www.accordcarton.com/)** | **[Supply Chain Intern – Inventory Management & Systems - 100% on-site](https://jobright.ai/jobs/info/69e739f0e0cd471b2f12a8aa?utm_campaign=1050&utm_source=git)** | Alsip, IL | On Site | Apr 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/69f0e0718d8d624381a98de9?utm_campaign=1050&utm_source=git)** | Winchester, VA, US | On Site | Apr 28 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship - 100% Remote](https://jobright.ai/jobs/info/69f0e03062b48c6838792672?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Apr 28 |
 | **[Rembrandt Foods](http://rembrandtfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f0dfab62b48c6838792626?utm_campaign=1050&utm_source=git)** | Iowa Office-Rembrandt Plant, US | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Strategy and Research Intern (Global Business Solutions-MSO-SMB) - 2026 Fall (MBA)](https://jobright.ai/jobs/info/69f0df70825a315d7ca34ba0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 28 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support](https://jobright.ai/jobs/info/69f0df458feca91f1491d2f3?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 28 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f0c5628d8d624381a97a0b?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Apr 28 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[General Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97991?utm_campaign=1050&utm_source=git)** | Mathews, LA | On Site | Apr 28 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d401f5891d7b11cfcf68b0?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | Apr 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924bf?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924c0?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Apr 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924c0?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924bf?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | **[Mynx Softwares](https://www.mynxsoftwares.com)** | **[Technical Project Coordinator (Intern)](https://jobright.ai/jobs/info/69f0df428d8d624381a98c99?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
 | **[DYW (Developing the Young Workforce) Moray](http://www.dywmoray.co.uk)** | **[Clerical Assistant, DYW Moray- Elgin](https://jobright.ai/jobs/info/69f0df428feca91f1491d2e1?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | Apr 28 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/69f0b8e3825a315d7ca33567?utm_campaign=1050&utm_source=git)** | Penn State University Park, US | Hybrid | Apr 28 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support](https://jobright.ai/jobs/info/69f0b8e3ecbc8c2f73200d83?utm_campaign=1050&utm_source=git)** | US-PA-Philadelphia, US | Remote | Apr 28 |
 | **[Uber](http://www.uber.com)** | **[Program Manager, uBecome Intern Experience & Community](https://jobright.ai/jobs/info/69d4061e366bb95ba5539c96?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
-| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | Apr 28 |
-| **[WILLOUGHBY-EASTLAKE CITY SCHOOL DISTRICT](http://willoughby-eastlake.k12.oh.us)** | **[Administrative Secretary, Class II](https://jobright.ai/jobs/info/69f0d6d18feca91f1491d17e?utm_campaign=1050&utm_source=git)** | Eastlake, OH | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
