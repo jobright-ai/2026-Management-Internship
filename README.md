@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688bb390906ac06e1d1cd86a?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Apr 29 |
+| **[The Shade Store](https://www.theshadestore.com/)** | **[Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/69d55bc5cdb525785fbd0133?utm_campaign=1050&utm_source=git)** | Pompano Beach, FL | Hybrid | Apr 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | Apr 29 |
+| **[Enovis](https://enovis.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699ccea4e0bddb6acacbdaaf?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
+| **[Penn State University](http://psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/69f20e098d8d624381a9f001?utm_campaign=1050&utm_source=git)** | Penn State University Park, US | On Site | Apr 29 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[Corporate Intern -Hourly](https://jobright.ai/jobs/info/69f20b178d8d624381a9eec5?utm_campaign=1050&utm_source=git)** | Dallas Beverage, 1805 Record Crossing, Dallas, Texas, United States of America | On Site | Apr 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Fall 2026](https://jobright.ai/jobs/info/69d1e53fcfdc6132f94471b4?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Apr 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69f20030f154d768fbaa4bbc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
@@ -95,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[ScriptSourcing, LLC](https://scriptsourcing.com/)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/69f19debecbc8c2f73206fc2?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Apr 28 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-Commercial Banking (MD)](https://jobright.ai/jobs/info/69f1818f62b48c6838795f59?utm_campaign=1050&utm_source=git)** | Cockeysville, MD | On Site | Apr 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2c?utm_campaign=1050&utm_source=git)** | Moline, IL | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2b?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1869c825a315d7ca3850e?utm_campaign=1050&utm_source=git)** | Taylor, MI | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186508feca91f14920a8a?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Apr 28 |
 | **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f15efeecbc8c2f7320570b?utm_campaign=1050&utm_source=git)** | New York, US | On Site | Apr 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[bankESB](http://www.bankesb.com)** | **[Strategic Projects Intern](https://jobright.ai/jobs/info/69e7fdac0a6e09555302d703?utm_campaign=1050&utm_source=git)** | Easthampton, MA | On Site | Apr 28 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- UNPAID (1677)](https://jobright.ai/jobs/info/69f10383825a315d7ca357a6?utm_campaign=1050&utm_source=git)** | Pearland, TX | Remote | Apr 28 |
 | **[AFL](http://www.AFLglobal.com)** | **[Business Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69d4392754f00230c6d2f6e2?utm_campaign=1050&utm_source=git)** | Duncan, SC | Hybrid | Apr 28 |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69f0ff098feca91f1491ddd7?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Apr 28 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696576c45ad3a93f8230bb84?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
-| **[AXS](https://www.axs.com/)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f0fed4ecbc8c2f73202ff8?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Cellular Sales](https://cellularport.com/)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/69f0fd358feca91f1491ddbd?utm_campaign=1050&utm_source=git)** | Knoxville | On Site | Apr 28 |
-| **[WD-40 Company](https://www.wd40company.com/)** | **[Stakeholder Engagement Intern (Part-Time)](https://jobright.ai/jobs/info/69f0fc9decbc8c2f73202f8b?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
