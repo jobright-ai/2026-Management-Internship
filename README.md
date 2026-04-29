@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer jobs: Project Coordinators](https://jobright.ai/jobs/info/69f1900cecbc8c2f73206ef5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 28 |
+| **[TriStar Skyline Medical Center](https://tristarskyline.com/)** | **[Administrative Intern PRN](https://jobright.ai/jobs/info/69f18ff962b48c6838796a65?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 28 |
 | **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Operations Intern (For College Credit)](https://jobright.ai/jobs/info/69f1817c825a315d7ca38478?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Business Team Intern (Open Role) (MBA+)](https://jobright.ai/jobs/info/69f173168feca91f149201d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
-| **[KevaAI](https://www.linkedin.com/company/109233015)** | **[MBA Intern](https://jobright.ai/jobs/info/69f166488feca91f1492005c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Administrative Support](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205966?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 28 |
 | **[Vestar](http://vestar.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1660fecbc8c2f732058b9?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 28 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Process Documentation Intern](https://jobright.ai/jobs/info/69eae1240a6e095553043794?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Technology Business Enablement, Deloitte Technology Canada - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69f18cad825a315d7ca38661?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-Commercial Banking (MD)](https://jobright.ai/jobs/info/69f1818f62b48c6838795f59?utm_campaign=1050&utm_source=git)** | Cockeysville, MD | On Site | Apr 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2c?utm_campaign=1050&utm_source=git)** | Moline, IL | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Summer Intern - Field & Administrative Support](https://jobright.ai/jobs/info/69f139a3825a315d7ca36bf7?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Allworld Project Management](https://allworldpm.com/)** | **[Project Manager Trainee](https://jobright.ai/jobs/info/69f1365c8feca91f1491f445?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f135ef62b48c6838794584?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 28 |
+| **[Greystar](http://greystar.com)** | **[Property Management Internship - Tampa](https://jobright.ai/jobs/info/69eb5e6016b2612c2a11b765?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Apr 28 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f135888feca91f1491f193?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 28 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Logistics Associate - Supply Chain Management - SEOP (Summer Internship)](https://jobright.ai/jobs/info/69f13577ecbc8c2f73204767?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Apr 28 |
 | **[MADI 19six Architects](http://www.madi-arch.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f135198feca91f1491f075?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f0c605ecbc8c2f73201a45?utm_campaign=1050&utm_source=git)** | Airport Boulevard | On Site | Apr 28 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d3bfa9366bb95ba553637c?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Apr 28 |
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f0c5628d8d624381a97a0b?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Apr 28 |
-| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[General Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97991?utm_campaign=1050&utm_source=git)** | Mathews, LA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
