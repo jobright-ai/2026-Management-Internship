@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legacy Philanthropy](http://www.legacyphilanthropy.com)** | **[Operations Intern (For College Credit)](https://jobright.ai/jobs/info/69f1817c825a315d7ca38478?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[PROJXON](www.projxon.com)** | **[Business Team Intern (Open Role) (MBA+)](https://jobright.ai/jobs/info/69f173168feca91f149201d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 28 |
 | **[KevaAI](https://www.linkedin.com/company/109233015)** | **[MBA Intern](https://jobright.ai/jobs/info/69f166488feca91f1492005c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Administrative Support](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205966?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 28 |
 | **[Vestar](http://vestar.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69f1660fecbc8c2f732058b9?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 28 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Process Documentation Intern](https://jobright.ai/jobs/info/69eae1240a6e095553043794?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Technology Business Enablement, Deloitte Technology Canada - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69f18cad825a315d7ca38661?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-Commercial Banking (MD)](https://jobright.ai/jobs/info/69f1818f62b48c6838795f59?utm_campaign=1050&utm_source=git)** | Cockeysville, MD | On Site | Apr 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2c?utm_campaign=1050&utm_source=git)** | Moline, IL | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2b?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1869c825a315d7ca3850e?utm_campaign=1050&utm_source=git)** | Taylor, MI | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186508feca91f14920a8a?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Apr 28 |
 | **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f15efeecbc8c2f7320570b?utm_campaign=1050&utm_source=git)** | New York, US | On Site | Apr 28 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Logistics & Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69f15cdb825a315d7ca378b8?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Apr 28 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Statesboro, GA 2026](https://jobright.ai/jobs/info/69f15cccb27fee43e8cd8aef?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Apr 28 |
@@ -96,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f141aa8feca91f1491f682?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f141f28feca91f1491f84c?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Apr 28 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Strategy (AXS)](https://jobright.ai/jobs/info/69f135db825a315d7ca36a25?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
-| ↳ | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Special Projects Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69f118df62b48c6838793c99?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Apr 28 |
+| ↳ | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f118dfb27fee43e8cd7470?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Summer 2026)](https://jobright.ai/jobs/info/69f118c1825a315d7ca360d0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage Omni Care Internship (OCI) - Summer 2026](https://jobright.ai/jobs/info/69f13a0662b48c68387947ce?utm_campaign=1050&utm_source=git)** | Omni Frisco Hotel at The Star, 11 Cowboys Way, Frisco, Texas, United States of America | On Site | Apr 28 |
 | **[19six Architects](https://www.19six.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69f17c0662b48c6838795be3?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Apr 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69d3bfa9366bb95ba553637c?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Apr 28 |
 | **[Central Health](https://www.centralhealth.net/)** | **[Health & Wellness Operations - Intern](https://jobright.ai/jobs/info/69f0c5628d8d624381a97a0b?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Apr 28 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[General Intern](https://jobright.ai/jobs/info/69f0c4878d8d624381a97991?utm_campaign=1050&utm_source=git)** | Mathews, LA | On Site | Apr 28 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d401f5891d7b11cfcf68b0?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | Apr 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924c0?utm_campaign=1050&utm_source=git)** | South Haven, MI | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f0defb62b48c68387924bf?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| **[Mynx Softwares](https://www.mynxsoftwares.com)** | **[Technical Project Coordinator (Intern)](https://jobright.ai/jobs/info/69f0df428d8d624381a98c99?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 28 |
-| **[DYW (Developing the Young Workforce) Moray](http://www.dywmoray.co.uk)** | **[Clerical Assistant, DYW Moray- Elgin](https://jobright.ai/jobs/info/69f0df428feca91f1491d2e1?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | Apr 28 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/69f0b8e3825a315d7ca33567?utm_campaign=1050&utm_source=git)** | Penn State University Park, US | Hybrid | Apr 28 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support](https://jobright.ai/jobs/info/69f0b8e3ecbc8c2f73200d83?utm_campaign=1050&utm_source=git)** | US-PA-Philadelphia, US | Remote | Apr 28 |
-| **[Uber](http://www.uber.com)** | **[Program Manager, uBecome Intern Experience & Community](https://jobright.ai/jobs/info/69d4061e366bb95ba5539c96?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
