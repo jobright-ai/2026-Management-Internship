@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f1ddf18d8d624381a9e65d?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Apr 29 |
+| **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Supply Business Management Operations Intern](https://jobright.ai/jobs/info/69e94708e0cd471b2f13c384?utm_campaign=1050&utm_source=git)** | El Segundo, California | On Site | Apr 29 |
+| **[Generac](https://www.generac.com)** | **[Intern Engineering - Project Manager](https://jobright.ai/jobs/info/69f1ddcff154d768fbaa46b9?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Apr 29 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1d3beab4ec4779fff6821?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Apr 29 |
 | **[Cresa Dallas](https://www.cresa.com/dallas-tx)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f1cce6ecbc8c2f732080cd?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Office Clerk (2026-2027 School Year)](https://jobright.ai/jobs/info/69f1c9208feca91f14922481?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[ScriptSourcing, LLC](https://scriptsourcing.com/)** | **[Summer Operations Internship](https://jobright.ai/jobs/info/69f19debecbc8c2f73206fc2?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Apr 28 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-Commercial Banking (MD)](https://jobright.ai/jobs/info/69f1818f62b48c6838795f59?utm_campaign=1050&utm_source=git)** | Cockeysville, MD | On Site | Apr 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2c?utm_campaign=1050&utm_source=git)** | Moline, IL | On Site | Apr 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186b38d8d624381a9ca2b?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Apr 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1865562b48c6838795fe4?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f1869c825a315d7ca3850e?utm_campaign=1050&utm_source=git)** | Taylor, MI | On Site | Apr 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f186508feca91f14920a8a?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | Apr 28 |
 | **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (NY)](https://jobright.ai/jobs/info/69f15efeecbc8c2f7320570b?utm_campaign=1050&utm_source=git)** | New York, US | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leslie's](https://lesliespool.com/)** | **[Intern - Retail Operations](https://jobright.ai/jobs/info/69ba88ad5697383741401dd5?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (General Office Assistant) - Office of Aeronautics](https://jobright.ai/jobs/info/69f11894b27fee43e8cd72d3?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Apr 28 |
 | **[American Arbitration Association](https://www.adr.org)** | **[IT Project Coordinator Intern](https://jobright.ai/jobs/info/69e95cc57820c036924e7acd?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
-| **[CWB Group](https://www.cwbgroup.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/69f0d66662b48c68387922d9?utm_campaign=1050&utm_source=git)** | Canada | Remote | Apr 28 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86bee758f2e4ac3ff2488?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Apr 28 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a86b2bd627244576e32814?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
