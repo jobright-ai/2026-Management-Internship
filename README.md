@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/69f3859a1f90bd6ae23cf8ad?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 30 |
+| **[Startup Grind](https://www.startupgrind.com/)** | **[Assistant](https://jobright.ai/jobs/info/69f38115c78b9e4518954f2b?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Apr 30 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68cfd202fb49c96ca6eabd0a?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Apr 30 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb39b3a30793eb963cb68?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Apr 30 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a869e96acf96396f71fc06?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Apr 30 |
+| **[CLS Health](https://www.clearlake-specialties.com/)** | **[CLS Health Business Operations Internship](https://jobright.ai/jobs/info/69f37b80c78b9e4518954de1?utm_campaign=1050&utm_source=git)** | Webster,TX,US | On Site | Apr 30 |
+| **[Continental](https://www.continental.com)** | **[Intern - Logistics Analyst, Year-Round](https://jobright.ai/jobs/info/69f37b5758b23a2329da49b3?utm_campaign=1050&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Apr 30 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Summer Office Assistant (Student Assistant)](https://jobright.ai/jobs/info/69f37a29461b9b613a62066d?utm_campaign=1050&utm_source=git)** | Conway, SC | On Site | Apr 30 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3737fc78b9e4518954c33?utm_campaign=1050&utm_source=git)** | Meridian, MS | On Site | Apr 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f372ed461b9b613a6204fb?utm_campaign=1050&utm_source=git)** | Milledgeville, GA | On Site | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
@@ -79,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698172847f40342e15da7dce?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[YMCA of the USA](http://www.ymca.net/)** | **[President and CEO](https://jobright.ai/jobs/info/69f322a2461b9b613a61ee56?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
+| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69f37c27343eef4fb0a9a921?utm_campaign=1050&utm_source=git)** | Morocco, Tangier, 90150, MA | On Site | Apr 30 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f30bdaab4ec4779fffe57d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Capital Project Intern](https://jobright.ai/jobs/info/69f31e2f343eef4fb0a9923d?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equinox](http://www.equinox.com)** | **[Strategy Intern (MBA)](https://jobright.ai/jobs/info/69f279708d8d624381aa10a8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Magna International](http://www.magna.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f28a7b825a315d7ca3d224?utm_campaign=1050&utm_source=git)** | Shelby Twp, Michigan, US | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0854c749500645096f13d?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 29 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Procurement and Supply Chain](https://jobright.ai/jobs/info/69d582a9366bb95ba5545ae0?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 29 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69b25793ae2a534885e95116?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 29 |
-| **[Border States](https://www.borderstates.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69f24d60f154d768fbaa657a?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f24d108feca91f149241e9?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
-| **[Feline Apparel](www.felineapparel.com)** | **[Executive Assistant Intern (CEO Support) — Nashville, TN](https://jobright.ai/jobs/info/69f27a008feca91f14924f1f?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ce1fc4cfdc6132f9424e19?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
-| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Associate-Ks-Wakeeney](https://jobright.ai/jobs/info/69f28525825a315d7ca3cf20?utm_campaign=1050&utm_source=git)** | Wa Keeney, KS | On Site | Apr 29 |
-| **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69f245f58feca91f149240ed?utm_campaign=1050&utm_source=git)** | South Western Communications - Nashville, 1713 Lebanon Pike, Nashville, Tennessee, United States of America | On Site | Apr 29 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUPPLY CHAIN INTERN](https://jobright.ai/jobs/info/69eb9928dc35f7132c4b1f18?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
