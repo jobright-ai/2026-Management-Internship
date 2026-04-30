@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Richemont](https://www.richemont.com/)** | **[Project Manager Administration Support Intern](https://jobright.ai/jobs/info/69f369ce343eef4fb0a9a43a?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3737fc78b9e4518954c33?utm_campaign=1050&utm_source=git)** | Meridian, MS | On Site | Apr 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f372ed461b9b613a6204fb?utm_campaign=1050&utm_source=git)** | Milledgeville, GA | On Site | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68c7bc42369c3763c743b081?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Apr 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f36734461b9b613a6201c8?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Apr 30 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/69ea8fa54b0fa35a70774f60?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 30 |
 | **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Project Management Level of Effort](https://jobright.ai/jobs/info/699c99b7ce78e77b4fe16190?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 30 |
-| **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Performance Tracking Assistant Intern](https://jobright.ai/jobs/info/69f35e64343eef4fb0a9a11b?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 30 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/69ba8c2a3b74eb1e2c88783f?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Apr 30 |
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69eb48b57820c036924f2836?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[The Forum](http://theforum.social/)** | **[Real Time Planning Analyst (12 Month FTC)](https://jobright.ai/jobs/info/69f34229343eef4fb0a998af?utm_campaign=1050&utm_source=git)** | Cheshire, CT | Hybrid | Apr 30 |
