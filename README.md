@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Richemont](https://www.richemont.com/)** | **[Project Manager Administration Support Intern](https://jobright.ai/jobs/info/69f369ce343eef4fb0a9a43a?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Apr 30 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68c7bc42369c3763c743b081?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Apr 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f36734461b9b613a6201c8?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Apr 30 |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/69ea8fa54b0fa35a70774f60?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 30 |
+| **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Project Management Level of Effort](https://jobright.ai/jobs/info/699c99b7ce78e77b4fe16190?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 30 |
+| **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Performance Tracking Assistant Intern](https://jobright.ai/jobs/info/69f35e64343eef4fb0a9a11b?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 30 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/69ba8c2a3b74eb1e2c88783f?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Apr 30 |
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69eb48b57820c036924f2836?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[The Forum](http://theforum.social/)** | **[Real Time Planning Analyst (12 Month FTC)](https://jobright.ai/jobs/info/69f34229343eef4fb0a998af?utm_campaign=1050&utm_source=git)** | Cheshire, CT | Hybrid | Apr 30 |
@@ -132,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Ferrero](https://www.ferrero.com)** | **[INTERNSHIP EndToEnd Planning Transformation Analyst (Starting from September)](https://jobright.ai/jobs/info/69f269dd8d8d624381aa0cea?utm_campaign=1050&utm_source=git)** | Field, British Columbia, Canada | On Site | Apr 29 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[NANA Worley](http://nanaworleyparsons.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/69f269c4ab4ec4779fff8f52?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Apr 29 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - IT Project Management](https://jobright.ai/jobs/info/69f269b7ab4ec4779fff8f0c?utm_campaign=1050&utm_source=git)** | Berkeley Heights, New Jersey, United States of America | On Site | Apr 29 |
 | **[De'Longhi Group](https://www.delonghigroup.com/en)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f2696d825a315d7ca3c6d8?utm_campaign=1050&utm_source=git)** | Upper Saddle River, NJ | On Site | Apr 29 |
 | **[Stefanini Group](https://stefanini.com)** | **[Change Management Specialist](https://jobright.ai/jobs/info/69f281978d8d624381aa1241?utm_campaign=1050&utm_source=git)** | Dover, DE | Remote | Apr 29 |
 | **[Haven Headache & Migraine Center](http://www.havenheadache.com)** | **[MBA Strategy & Growth Intern](https://jobright.ai/jobs/info/69f28974f154d768fbaa7938?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
@@ -144,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0854c749500645096f13d?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 29 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Procurement and Supply Chain](https://jobright.ai/jobs/info/69d582a9366bb95ba5545ae0?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69b25793ae2a534885e95116?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Apr 29 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69f24d6fab4ec4779fff86e9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Border States](https://www.borderstates.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69f24d60f154d768fbaa657a?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Apr 29 |
 | **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f24d108feca91f149241e9?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Feline Apparel](www.felineapparel.com)** | **[Executive Assistant Intern (CEO Support) — Nashville, TN](https://jobright.ai/jobs/info/69f27a008feca91f14924f1f?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Apr 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Associate-Ks-Wakeeney](https://jobright.ai/jobs/info/69f28525825a315d7ca3cf20?utm_campaign=1050&utm_source=git)** | Wa Keeney, KS | On Site | Apr 29 |
 | **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69f245f58feca91f149240ed?utm_campaign=1050&utm_source=git)** | South Western Communications - Nashville, 1713 Lebanon Pike, Nashville, Tennessee, United States of America | On Site | Apr 29 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUPPLY CHAIN INTERN](https://jobright.ai/jobs/info/69eb9928dc35f7132c4b1f18?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ | On Site | Apr 29 |
-| **[Penn State University](http://psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/69f278248d8d624381aa0dbb?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Apr 29 |
-| **[Quench USA, Inc.](https://quench.culligan.com)** | **[2026 Culligan Quench Summer Internship Program](https://jobright.ai/jobs/info/69f243b9ecbc8c2f73209a00?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | Remote | Apr 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ccd93f891d7b11cfcb4850?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
-| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BA Intern - Orlando](https://jobright.ai/jobs/info/69f23deeab4ec4779fff8275?utm_campaign=1050&utm_source=git)** | Orlando, FL, US | On Site | Apr 29 |
-| **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f23cdff154d768fbaa60ba?utm_campaign=1050&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
