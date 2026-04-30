@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/69ba8c2a3b74eb1e2c88783f?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Apr 30 |
 | **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69eb48b57820c036924f2836?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[The Forum](http://theforum.social/)** | **[Real Time Planning Analyst (12 Month FTC)](https://jobright.ai/jobs/info/69f34229343eef4fb0a998af?utm_campaign=1050&utm_source=git)** | Cheshire, CT | Hybrid | Apr 30 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d7258252a5bf580012e3a6?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Apr 30 |
@@ -65,9 +66,11 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ba845256973837414004e2?utm_campaign=1050&utm_source=git)** | Rochester, NH | On Site | Apr 30 |
 | **[ByteDance](http://bytedance.com)** | **[Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0dca440a62c1fa93b5377?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/69d32dec0b098b7a6708c628?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Apr 30 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35614461b9b613a61fb2c?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f35628343eef4fb0a99ef3?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Program Operations Content Programs Project Intern (TikTok-Operations-Entertainment-Global Programs) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330d458b23a2329da3297?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | ↳ | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
-| **[Generac](https://www.generac.com)** | **[Intern Sourcing](https://jobright.ai/jobs/info/69f3498f58b23a2329da3c35?utm_campaign=1050&utm_source=git)** | South Burlington, VT | On Site | Apr 30 |
+| ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698172847f40342e15da7dce?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[YMCA of the USA](http://www.ymca.net/)** | **[President and CEO](https://jobright.ai/jobs/info/69f322a2461b9b613a61ee56?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f30bdaab4ec4779fffe57d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Operations Intern (Edmore, MI) - Summer '26](https://jobright.ai/jobs/info/69f2a4ad8feca91f1492606d?utm_campaign=1050&utm_source=git)** | Edmore, MI | On Site | Apr 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69f2a4aa8feca91f14926062?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Apr 29 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager Internship, Fall 2026](https://jobright.ai/jobs/info/69eae1820a6e09555304381a?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 29 |
-| **[Kindeva Drug Delivery](https://www.kindevadd.com/)** | **[Summer Internship- Supply Chain](https://jobright.ai/jobs/info/69f2a0c7f154d768fbaa8209?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Apr 29 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Corporate Strategy](https://jobright.ai/jobs/info/69d5595bcfdc6132f94617df?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Apr 29 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 29 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 - Mid-Market Strategy & Transformation Intern](https://jobright.ai/jobs/info/69f29b01ab4ec4779fffa10b?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ccd93f891d7b11cfcb4850?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BA Intern - Orlando](https://jobright.ai/jobs/info/69f23deeab4ec4779fff8275?utm_campaign=1050&utm_source=git)** | Orlando, FL, US | On Site | Apr 29 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f23cdff154d768fbaa60ba?utm_campaign=1050&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Apr 29 |
-| **[Walgreens](https://www.walgreens.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f23ccff154d768fbaa607a?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | Apr 29 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f23cb0ab4ec4779fff81ed?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL,60015-04620-00001-2 | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
