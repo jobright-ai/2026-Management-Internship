@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Project Management (IT) (Fall 2026)](https://jobright.ai/jobs/info/69d73bf548f0c8161d2fef6b?utm_campaign=1050&utm_source=git)** | Montgomery, AL | Hybrid | Apr 30 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ba845256973837414004e2?utm_campaign=1050&utm_source=git)** | Rochester, NH | On Site | Apr 30 |
+| **[ByteDance](http://bytedance.com)** | **[Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e0dca440a62c1fa93b5377?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
+| **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/69d32dec0b098b7a6708c628?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Program Operations Content Programs Project Intern (TikTok-Operations-Entertainment-Global Programs) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330d458b23a2329da3297?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69f330af58b23a2329da3202?utm_campaign=1050&utm_source=git)** | Eagle Mountain, UT | On Site | Apr 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
+| ↳ | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[YMCA of the USA](http://www.ymca.net/)** | **[President and CEO](https://jobright.ai/jobs/info/69f322a2461b9b613a61ee56?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f30bdaab4ec4779fffe57d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Capital Project Intern](https://jobright.ai/jobs/info/69f31e2f343eef4fb0a9923d?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5ee?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Apr 29 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f311aa8d8d624381aa510e?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Apr 29 |
 | **[Jitto](getjitto.com)** | **[Operations Associate Intern](https://jobright.ai/jobs/info/69f30bf3ab4ec4779fffe5e9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
-| **[Danfoss](https://www.danfoss.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f2e00e8feca91f14928c17?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
 | **[Comet National Shipping](http://www.cometnational.com)** | **[Intern](https://jobright.ai/jobs/info/69f2f735ab4ec4779fffdd33?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f32536343eef4fb0a9942d?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Agence de mobilité durable de Montréal](https://www.agencemobilitedurable.ca/fr/a-propos/agence-de-mobilite-durable.html)** | **[Stage : Conseiller-ère gestion de la bordure](https://jobright.ai/jobs/info/69f303118feca91f149293c3?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69f23c42ecbc8c2f732097c3?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Apr 29 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[Corporate Intern -Hourly](https://jobright.ai/jobs/info/69f26227f154d768fbaa6b49?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Food and Beverage Internship- Level One](https://jobright.ai/jobs/info/69f25c508feca91f149246d6?utm_campaign=1050&utm_source=git)** | Boyne Falls, MI | On Site | Apr 29 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688bb9501808534a89cb562d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
