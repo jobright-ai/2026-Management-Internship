@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Danfoss](https://www.danfoss.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f2e00e8feca91f14928c17?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
+| **[Comet National Shipping](http://www.cometnational.com)** | **[Intern](https://jobright.ai/jobs/info/69f2f735ab4ec4779fffdd33?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Apr 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Technical Project Management Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69f2d3168feca91f14928890?utm_campaign=1050&utm_source=git)** | Clearwater, FL | Remote | Apr 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69f2d1498feca91f14928208?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 29 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f2cc52ab4ec4779fffc23b?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Apr 29 |
@@ -139,16 +140,16 @@ For a complete list, click the following sortable link below:
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69f23c42ecbc8c2f732097c3?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Apr 29 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[Corporate Intern -Hourly](https://jobright.ai/jobs/info/69f26227f154d768fbaa6b49?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Food and Beverage Internship- Level One](https://jobright.ai/jobs/info/69f25c508feca91f149246d6?utm_campaign=1050&utm_source=git)** | Boyne Falls, MI | On Site | Apr 29 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688bb9501808534a89cb562d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688bb9501808534a89cb562d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69f23b4af154d768fbaa5d22?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 29 |
 | **[Ornge](https://www.ornge.ca/home)** | **[Executive Assistant to CFO](https://jobright.ai/jobs/info/69f26981825a315d7ca3c741?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 29 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Pharmacy Resident - FT - Days - Pharmacy Internship @ MV](https://jobright.ai/jobs/info/69d59deb706f771673ba467a?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c79424db52c07d2884c6b0?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a87137d627244576e32977?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68cd77cdb2a74e1837ed721f?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b29bc9f4e41a61efd86f5c?utm_campaign=1050&utm_source=git)** | West Jordan, UT | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a87067758f2e4ac3ff2555?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 29 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b29bc9f4e41a61efd86f5c?utm_campaign=1050&utm_source=git)** | West Jordan, UT | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c8f39bf9c6ff7aedf154e9?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c6320fdb52c07d28844f2b?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Apr 29 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Calvert ESG - Engagement and Proxy Voting - Internship](https://jobright.ai/jobs/info/69f22b1fab4ec4779fff7ac2?utm_campaign=1050&utm_source=git)** | New York, New York, United States of America | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68ca22e5f61c922772a734af?utm_campaign=1050&utm_source=git)** | Greater Sacramento | On Site | Apr 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CSULB](https://jobright.ai/jobs/info/69f225028d8d624381a9f5d0?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a86fb56acf96396f71fd6f?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | On Site | Apr 29 |
-| **[Enovis](https://enovis.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699cd94fce78e77b4fe192af?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
