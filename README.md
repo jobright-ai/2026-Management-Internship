@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxcess](http://www.maxcessintl.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f3c024343eef4fb0a9deb1?utm_campaign=1050&utm_source=git)** | Eureka, MO | On Site | Apr 30 |
+| **[You.com](https://you.com)** | **[2026 Strategy & Operations Intern](https://jobright.ai/jobs/info/69e6c45de0cd471b2f12763f?utm_campaign=1050&utm_source=git)** | San Francisco, CA (Hybrid) | Hybrid | Apr 30 |
+| **[Milestone Technologies, Inc.](http://www.milestonepowered.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f3bad41f90bd6ae23d17ee?utm_campaign=1050&utm_source=git)** | LA Metro Area | Remote | Apr 30 |
+| **[Maxcess](http://www.maxcessintl.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f3b3591f90bd6ae23d1762?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Apr 30 |
 | **[Dematic](http://www.dematic.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3ad5a6942c746fa6936bf?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 | **[State Street](https://www.statestreet.com/)** | **[Professional Services Operations Intern- July- Dec (6 Month)](https://jobright.ai/jobs/info/69e715f43aa0c47964396d69?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Apr 30 |
 | **[BHS Construction, Inc.](http://bhsconstruction.net)** | **[Office/IT Intern](https://jobright.ai/jobs/info/69f3ad0d6942c746fa69364f?utm_campaign=1050&utm_source=git)** | Manhattan, Kansas, United States | On Site | Apr 30 |
@@ -95,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68cfd202fb49c96ca6eabd0a?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Apr 30 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb39b3a30793eb963cb68?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Apr 30 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a869e96acf96396f71fc06?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Apr 30 |
+| **[Prosponsive Logistics](https://prosponsive.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69d850e7738f2f099e89bd06?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Apr 30 |
 | **[CLS Health](https://www.clearlake-specialties.com/)** | **[CLS Health Business Operations Internship](https://jobright.ai/jobs/info/69f37b80c78b9e4518954de1?utm_campaign=1050&utm_source=git)** | Webster,TX,US | On Site | Apr 30 |
 | **[Continental](https://www.continental.com)** | **[Intern - Logistics Analyst, Year-Round](https://jobright.ai/jobs/info/69f37b5758b23a2329da49b3?utm_campaign=1050&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | Hybrid | Apr 30 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Summer Office Assistant (Student Assistant)](https://jobright.ai/jobs/info/69f37a29461b9b613a62066d?utm_campaign=1050&utm_source=git)** | Conway, SC | On Site | Apr 30 |
@@ -129,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[YMCA of the USA](http://www.ymca.net/)** | **[President and CEO](https://jobright.ai/jobs/info/69f322a2461b9b613a61ee56?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69f37c27343eef4fb0a9a921?utm_campaign=1050&utm_source=git)** | Morocco, Tangier, 90150, MA | On Site | Apr 30 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/69b41d4906c1ba00c5454a00?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[ERP Supervisor](https://jobright.ai/jobs/info/69d4143dcdb525785fbc5fc8?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f30bdaab4ec4779fffe57d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Capital Project Intern](https://jobright.ai/jobs/info/69f31e2f343eef4fb0a9923d?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f322211f90bd6ae23cdabc?utm_campaign=1050&utm_source=git)** | Pearl, MS | On Site | Apr 29 |
@@ -136,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5ee?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Apr 29 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f311aa8d8d624381aa510e?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Apr 29 |
 | **[Jitto](getjitto.com)** | **[Operations Associate Intern](https://jobright.ai/jobs/info/69f30bf3ab4ec4779fffe5e9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
-| **[Comet National Shipping](http://www.cometnational.com)** | **[Intern](https://jobright.ai/jobs/info/69f2f735ab4ec4779fffdd33?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f32536343eef4fb0a9942d?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| **[Danfoss](https://www.danfoss.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f3bbfa461b9b613a623b8b?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
 | **[Agence de mobilité durable de Montréal](https://www.agencemobilitedurable.ca/fr/a-propos/agence-de-mobilite-durable.html)** | **[Stage : Conseiller-ère gestion de la bordure](https://jobright.ai/jobs/info/69f303118feca91f149293c3?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Technical Project Management Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69f2d3168feca91f14928890?utm_campaign=1050&utm_source=git)** | Clearwater, FL | Remote | Apr 29 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[AVA Internship/Project Assistant, Paediatrics](https://jobright.ai/jobs/info/69f30be4ab4ec4779fffe5bb?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/69f2b672825a315d7ca3e0d1?utm_campaign=1050&utm_source=git)** | Misenheimer, NC | On Site | Apr 29 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f2b65cab4ec4779fffa785?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 29 |
 | **[Community Unit School District 300](http://D300.org)** | **[Secretary-Registrar](https://jobright.ai/jobs/info/69f2d18034c4af7a79ab67ed?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | Apr 29 |
-| **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/69f2b05c34c4af7a79ab4831?utm_campaign=1050&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
-| **[Stanford Medicine Children's Health](http://stanfordchildrens.org)** | **[Administrative Internship - cpmV](https://jobright.ai/jobs/info/69f2a82c8feca91f149262bc?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Apr 29 |
-| **[Magna International](http://www.magna.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f2a81aab4ec4779fffa499?utm_campaign=1050&utm_source=git)** | Shelby, MI | On Site | Apr 29 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/69f2a631825a315d7ca3db04?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 29 |
-| **[College of Pharmacists of British Columbia](http://www.bcpharmacists.org)** | **[Project Coordinator Student Intern](https://jobright.ai/jobs/info/69f2a589ecbc8c2f7320bae3?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 29 |
-| **[Tabhi](https://www.tabhi.ai)** | **[AI Management Intern - CEO's Office](https://jobright.ai/jobs/info/69f2a4cdab4ec4779fffa28c?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
