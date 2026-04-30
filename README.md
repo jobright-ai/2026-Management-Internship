@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of the USA](http://www.ymca.net/)** | **[President and CEO](https://jobright.ai/jobs/info/69f322a2461b9b613a61ee56?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f30bdaab4ec4779fffe57d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
+| **[Georgetown University](http://www.georgetown.edu)** | **[Capital Project Intern](https://jobright.ai/jobs/info/69f31e2f343eef4fb0a9923d?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f322211f90bd6ae23cdabc?utm_campaign=1050&utm_source=git)** | Pearl, MS | On Site | Apr 29 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/69f31e0b58b23a2329da2fab?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 29 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f3115bab4ec4779fffe5ee?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Apr 29 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f311aa8d8d624381aa510e?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Apr 29 |
 | **[Jitto](getjitto.com)** | **[Operations Associate Intern](https://jobright.ai/jobs/info/69f30bf3ab4ec4779fffe5e9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | **[Danfoss](https://www.danfoss.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f2e00e8feca91f14928c17?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Apr 29 |
 | **[Comet National Shipping](http://www.cometnational.com)** | **[Intern](https://jobright.ai/jobs/info/69f2f735ab4ec4779fffdd33?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Apr 29 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69f32536343eef4fb0a9942d?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Agence de mobilité durable de Montréal](https://www.agencemobilitedurable.ca/fr/a-propos/agence-de-mobilite-durable.html)** | **[Stage : Conseiller-ère gestion de la bordure](https://jobright.ai/jobs/info/69f303118feca91f149293c3?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Technical Project Management Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69f2d3168feca91f14928890?utm_campaign=1050&utm_source=git)** | Clearwater, FL | Remote | Apr 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69f2d1498feca91f14928208?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Apr 29 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69f23c42ecbc8c2f732097c3?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Apr 29 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[Corporate Intern -Hourly](https://jobright.ai/jobs/info/69f26227f154d768fbaa6b49?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Food and Beverage Internship- Level One](https://jobright.ai/jobs/info/69f25c508feca91f149246d6?utm_campaign=1050&utm_source=git)** | Boyne Falls, MI | On Site | Apr 29 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688bb9501808534a89cb562d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688bb9501808534a89cb562d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69f23b4af154d768fbaa5d22?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 29 |
 | **[Ornge](https://www.ornge.ca/home)** | **[Executive Assistant to CFO](https://jobright.ai/jobs/info/69f26981825a315d7ca3c741?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Apr 29 |
 | **[El Camino Health](https://www.elcaminohealth.org )** | **[Pharmacy Resident - FT - Days - Pharmacy Internship @ MV](https://jobright.ai/jobs/info/69d59deb706f771673ba467a?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c79424db52c07d2884c6b0?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a87137d627244576e32977?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b29bc9f4e41a61efd86f5c?utm_campaign=1050&utm_source=git)** | West Jordan, UT | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a87067758f2e4ac3ff2555?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 29 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68cd77cdb2a74e1837ed721f?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
