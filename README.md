@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Global Spares Strategy Intern](https://jobright.ai/jobs/info/69f3cb73343eef4fb0a9e110?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3c941c78b9e4518957aa5?utm_campaign=1050&utm_source=git)** | Alexandria, LA | On Site | Apr 30 |
+| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project Management - Summer 2026 Internship](https://jobright.ai/jobs/info/69f3c6b0461b9b613a623d88?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| **[Continental](https://www.continental.com)** | **[Intern - Logistics Analyst, Year-Round](https://jobright.ai/jobs/info/69f3c37a58b23a2329da7f79?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 30 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f3c31e58b23a2329da7dc3?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Apr 30 |
 | **[Maxcess](http://www.maxcessintl.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f3c024343eef4fb0a9deb1?utm_campaign=1050&utm_source=git)** | Eureka, MO | On Site | Apr 30 |
 | **[You.com](https://you.com)** | **[2026 Strategy & Operations Intern](https://jobright.ai/jobs/info/69e6c45de0cd471b2f12763f?utm_campaign=1050&utm_source=git)** | San Francisco, CA (Hybrid) | Hybrid | Apr 30 |
 | **[Milestone Technologies, Inc.](http://www.milestonepowered.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f3bad41f90bd6ae23d17ee?utm_campaign=1050&utm_source=git)** | LA Metro Area | Remote | Apr 30 |
@@ -70,20 +75,21 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a5ae461b9b613a6223d1?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a5abc78b9e4518956996?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a57058b23a2329da6577?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a4e81f90bd6ae23d11c3?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a11a6942c746fa69321d?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Apr 30 |
-| **[Power Factors](http://www.powerfactors.com/)** | **[Intern, Office of the CFO (Summer)](https://jobright.ai/jobs/info/69f3a09b343eef4fb0a9c379?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
-| ↳ | **[Intern, Office of the CFO (Summer)](https://jobright.ai/jobs/info/69f397131f90bd6ae23d0da4?utm_campaign=1050&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
+| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Team Secretary - CAMHS](https://jobright.ai/jobs/info/69f3c330343eef4fb0a9df64?utm_campaign=1050&utm_source=git)** | Andrew, Alberta, Canada | On Site | Apr 30 |
+| **[Dematic](http://www.dematic.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a4e81f90bd6ae23d11c3?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6966ace35ad3a93f8231fd84?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Apr 30 |
+| **[Dematic](http://www.dematic.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3a11a6942c746fa69321d?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Apr 30 |
+| **[Power Factors](http://www.powerfactors.com/)** | **[Intern, Office of the CFO (Summer)](https://jobright.ai/jobs/info/69f397131f90bd6ae23d0da4?utm_campaign=1050&utm_source=git)** | Québec City, Quebec, Canada | Remote | Apr 30 |
 | ↳ | **[Intern, Office of the CFO (Summer)](https://jobright.ai/jobs/info/69f397106942c746fa692f5d?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | Remote | Apr 30 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f394326942c746fa692e72?utm_campaign=1050&utm_source=git)** | Montgomery, AL, US | On Site | Apr 30 |
 | **[Nemetschek Group](https://www.nemetschek.com/en)** | **[Integration and Communications Intern](https://jobright.ai/jobs/info/69f394021f90bd6ae23d0cc6?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Businessolver](https://www.businessolver.com)** | **[Innovation & Data Science Internship (Remote)](https://jobright.ai/jobs/info/69f394011f90bd6ae23d0cb9?utm_campaign=1050&utm_source=git)** | Marion County, IN | Remote | Apr 30 |
-| **[Power Factors](http://www.powerfactors.com/)** | **[Intern, Office of the CFO (Summer)](https://jobright.ai/jobs/info/69f393dc58b23a2329da6001?utm_campaign=1050&utm_source=git)** | Québec, Quebec, Canada | On Site | Apr 30 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Admin Intern /TEMP (NW)](https://jobright.ai/jobs/info/69f393d9461b9b613a621e68?utm_campaign=1050&utm_source=git)** | 400 East Main Street, Mount Kisco, NY, 10549, US | On Site | Apr 30 |
+| **[Gallagher](https://www.ajg.com/)** | **[GTS Corp Intern](https://jobright.ai/jobs/info/69bba0a806c1ba00c54e35a7?utm_campaign=1050&utm_source=git)** | Rolling Meadows, IL | Remote | Apr 30 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Summer Intern - Project Coordinator - Suffolk, VA](https://jobright.ai/jobs/info/69f3ad3f58b23a2329da68ba?utm_campaign=1050&utm_source=git)** | Suffolk, VA | On Site | Apr 30 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern - Summer 2026](https://jobright.ai/jobs/info/69d68ff8366bb95ba554d64a?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 30 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e08d6d9564e855a25de200?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 30 |
-| **[Power Factors](http://www.powerfactors.com/)** | **[Intern Corporate Strategy - EMS TAM & Commercial Strategy (Summer)](https://jobright.ai/jobs/info/69f389f16942c746fa69242b?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 30 |
+| **[Power Factors](http://www.powerfactors.com/)** | **[Intern Corporate Strategy - EMS TAM & Commercial Strategy (Summer)](https://jobright.ai/jobs/info/69f3c8f8c78b9e4518957977?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Remote | Apr 30 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3895c58b23a2329da552e?utm_campaign=1050&utm_source=git)** | Midland, Texas | Hybrid | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86fec6acf96396f71fd8d?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Apr 30 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3894d1f90bd6ae23d009b?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | Hybrid | Apr 30 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f372ed461b9b613a6204fb?utm_campaign=1050&utm_source=git)** | Milledgeville, GA | On Site | Apr 30 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Technical Specialist, Project Management](https://jobright.ai/jobs/info/69f3a084343eef4fb0a9c320?utm_campaign=1050&utm_source=git)** | Ralston, Alberta, Canada | On Site | Apr 30 |
 | **[Everllence](https://www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Apr 30 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68c7bc42369c3763c743b081?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Apr 30 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68c7bc42369c3763c743b081?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Apr 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f36734461b9b613a6201c8?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Apr 30 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/69ea8fa54b0fa35a70774f60?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 30 |
 | **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Project Management Level of Effort](https://jobright.ai/jobs/info/699c99b7ce78e77b4fe16190?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Apr 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EDF power solutions North America](http://www.edf-re.com)** | **[SkillBridge Fellowship - Digital Technology P2P](https://jobright.ai/jobs/info/69f2ca3a8feca91f14927eda?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 29 |
 | **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/69f3030f8feca91f149293b3?utm_campaign=1050&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | **[Standard Solar](http://www.standardsolar.com/)** | **[O&M Intern](https://jobright.ai/jobs/info/69f2c4a8825a315d7ca3f941?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Apr 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f2c48c34c4af7a79ab6055?utm_campaign=1050&utm_source=git)** | Grand Forks, ND | On Site | Apr 29 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern - Vermillion Medical Center - Part Time](https://jobright.ai/jobs/info/69f2b69234c4af7a79ab4982?utm_campaign=1050&utm_source=git)** | Vermillion, SD | On Site | Apr 29 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Fall 2026)](https://jobright.ai/jobs/info/69f2b6738d8d624381aa2411?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/69f2b672825a315d7ca3e0d1?utm_campaign=1050&utm_source=git)** | Misenheimer, NC | On Site | Apr 29 |
-| **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f2b65cab4ec4779fffa785?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Apr 29 |
-| **[Community Unit School District 300](http://D300.org)** | **[Secretary-Registrar](https://jobright.ai/jobs/info/69f2d18034c4af7a79ab67ed?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
