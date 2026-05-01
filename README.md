@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Clinical Administrative Intern](https://jobright.ai/jobs/info/69f3f88758b23a2329da90d7?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CPI Skillsbridge](https://jobright.ai/jobs/info/69f3f87d343eef4fb0a9f49b?utm_campaign=1050&utm_source=git)** | San Diego, California, United States | On Site | Apr 30 |
 | **[Travel Radar](https://travelradar.aero)** | **[Operations Management Intern](https://jobright.ai/jobs/info/69f3f793c78b9e4518958d97?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Apr 30 |
-| **[Intersect](https://www.intersectpower.com)** | **[Equipment Procurement MBA Intern](https://jobright.ai/jobs/info/69f423cc343eef4fb0a9fe0a?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Apr 30 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Director of Development-Athletics](https://jobright.ai/jobs/info/69f4299b1f90bd6ae23d3c18?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Apr 30 |
 | **[AVA Technologies Global Corp](https://avatech-global.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3ecc71f90bd6ae23d2e64?utm_campaign=1050&utm_source=git)** | Southern Pines, NC | On Site | Apr 30 |
 | **[PROJXON](www.projxon.com)** | **[IT Program Lead Intern](https://jobright.ai/jobs/info/69f3eb381f90bd6ae23d2d7d?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 30 |
@@ -145,11 +144,11 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e08d6d9564e855a25de200?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 30 |
 | **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8626942c746fa695458?utm_campaign=1050&utm_source=git)** | Warrendale, PA, US | On Site | Apr 30 |
 | ↳ | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8621f90bd6ae23d1af6?utm_campaign=1050&utm_source=git)** | Hybrid, US | Hybrid | Apr 30 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8501f90bd6ae23d1aac?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d855343eef4fb0a9e597?utm_campaign=1050&utm_source=git)** | DEMATIC Dallas, TX, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d85b461b9b613a62446a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States, US | On Site | Apr 30 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d855343eef4fb0a9e597?utm_campaign=1050&utm_source=git)** | DEMATIC Dallas, TX, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8c3c78b9e4518958089?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695416?utm_campaign=1050&utm_source=git)** | Henrietta, NY, United States, US | On Site | Apr 30 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d85b461b9b613a62446a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States, US | On Site | Apr 30 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8501f90bd6ae23d1aac?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695417?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | Apr 30 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3895c58b23a2329da552e?utm_campaign=1050&utm_source=git)** | Midland, Texas | Hybrid | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3894d1f90bd6ae23d009b?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | Hybrid | Apr 30 |
 | ↳ | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f38942c78b9e45189551bf?utm_campaign=1050&utm_source=git)** | Houston, Texas | Hybrid | Apr 30 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a87097758f2e4ac3ff2569?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Apr 30 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f38935343eef4fb0a9b20e?utm_campaign=1050&utm_source=git)** | Austin, Texas | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
