@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Senior Bird Bellows](https://sabird-bellows.co.uk/)** | **[Program Manager  Intern](https://jobright.ai/jobs/info/69f407fac78b9e4518959283?utm_campaign=1050&utm_source=git)** | 2980 N San Fernando, Burbank, California, United States | On Site | Apr 30 |
+| **[Intact](http://www.intactfc.com)** | **[Administrative Support Agent, Summer Student 2026](https://jobright.ai/jobs/info/69f40707343eef4fb0a9f9cb?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 30 |
+| **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern Business Administration](https://jobright.ai/jobs/info/69f406fe461b9b613a625784?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Apr 30 |
 | **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Property Operations Strategic Initiatives - Central Office, Hayward](https://jobright.ai/jobs/info/69f4048958b23a2329da9344?utm_campaign=1050&utm_source=git)** | Hayward, CA | On Site | Apr 30 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CPI Skillsbridge](https://jobright.ai/jobs/info/69f3f93ec78b9e4518958e78?utm_campaign=1050&utm_source=git)** | Riverside, California, United States | On Site | Apr 30 |
 | ↳ | **[Operations Intern - CPI Skillsbridge](https://jobright.ai/jobs/info/69f3f91d461b9b613a62544a?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 30 |
@@ -122,13 +125,13 @@ For a complete list, click the following sortable link below:
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Summer Intern - Project Coordinator - Suffolk, VA](https://jobright.ai/jobs/info/69f3ad3f58b23a2329da68ba?utm_campaign=1050&utm_source=git)** | Suffolk, VA | On Site | Apr 30 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern - Summer 2026](https://jobright.ai/jobs/info/69d68ff8366bb95ba554d64a?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 30 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e08d6d9564e855a25de200?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 30 |
-| **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8626942c746fa695458?utm_campaign=1050&utm_source=git)** | Warrendale, PA, US | On Site | Apr 30 |
-| ↳ | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8621f90bd6ae23d1af6?utm_campaign=1050&utm_source=git)** | Hybrid, US | Hybrid | Apr 30 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d855343eef4fb0a9e597?utm_campaign=1050&utm_source=git)** | DEMATIC Dallas, TX, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8c3c78b9e4518958089?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d85b461b9b613a62446a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States, US | On Site | Apr 30 |
+| **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8621f90bd6ae23d1af6?utm_campaign=1050&utm_source=git)** | Hybrid, US | Hybrid | Apr 30 |
+| ↳ | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8626942c746fa695458?utm_campaign=1050&utm_source=git)** | Warrendale, PA, US | On Site | Apr 30 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d85b461b9b613a62446a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695416?utm_campaign=1050&utm_source=git)** | Henrietta, NY, United States, US | On Site | Apr 30 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d855343eef4fb0a9e597?utm_campaign=1050&utm_source=git)** | DEMATIC Dallas, TX, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8501f90bd6ae23d1aac?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 30 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8c3c78b9e4518958089?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695417?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | Apr 30 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3895c58b23a2329da552e?utm_campaign=1050&utm_source=git)** | Midland, Texas | Hybrid | Apr 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f3737fc78b9e4518954c33?utm_campaign=1050&utm_source=git)** | Meridian, MS | On Site | Apr 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f372ed461b9b613a6204fb?utm_campaign=1050&utm_source=git)** | Milledgeville, GA | On Site | Apr 30 |
 | **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Technical Specialist, Project Management](https://jobright.ai/jobs/info/69f3a084343eef4fb0a9c320?utm_campaign=1050&utm_source=git)** | Ralston, Alberta, Canada | On Site | Apr 30 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68a874516acf96396f72011c?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Apr 30 |
-| **[Everllence](https://www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Apr 30 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
