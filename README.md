@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/69f4903612f2811ab5a5ec32?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69670aa86f782b4e8d52ba33?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 01 |
+| **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69d7e4ee869c7e25d8592159?utm_campaign=1050&utm_source=git)** | United States | Remote | May 01 |
+| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69f4861ddb88714bcdfada11?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | May 01 |
 | **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Production Operations](https://jobright.ai/jobs/info/69d80a4bb67cec4f9b09a192?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 01 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69f4736fa3d34b4f76f4f419?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | ↳ | **[Operations Internship](https://jobright.ai/jobs/info/69f4722e43a25828a8d122ad?utm_campaign=1050&utm_source=git)** | Sylmar, California | On Site | May 01 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e08d6d9564e855a25de200?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 30 |
 | **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8626942c746fa695458?utm_campaign=1050&utm_source=git)** | Warrendale, PA, US | On Site | Apr 30 |
 | ↳ | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8621f90bd6ae23d1af6?utm_campaign=1050&utm_source=git)** | Hybrid, US | Hybrid | Apr 30 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d85b461b9b613a62446a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d855343eef4fb0a9e597?utm_campaign=1050&utm_source=git)** | DEMATIC Dallas, TX, US | On Site | Apr 30 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8501f90bd6ae23d1aac?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8c3c78b9e4518958089?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States, US | On Site | Apr 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695416?utm_campaign=1050&utm_source=git)** | Henrietta, NY, United States, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8501f90bd6ae23d1aac?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 30 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69f3d8506942c746fa695417?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | Apr 30 |
-| **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern (CEO)](https://jobright.ai/jobs/info/69e236b05a16743a729c557d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
