@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – R&D Strategy & Operations](https://jobright.ai/jobs/info/69f4241558b23a2329da9a81?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Apr 30 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Supply Chain - Summer 2026](https://jobright.ai/jobs/info/69f423fdc78b9e45189596a9?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Apr 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Project Integrator](https://jobright.ai/jobs/info/69f423e6461b9b613a625bb0?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Apr 30 |
+| **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Administrative Intern PRN](https://jobright.ai/jobs/info/69f448dd1f90bd6ae23d4109?utm_campaign=1050&utm_source=git)** | Tomball, TX | On Site | Apr 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f42a411f90bd6ae23d3c65?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Apr 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f42a411f90bd6ae23d3c63?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Apr 30 |
 | **[Senior Bird Bellows](https://sabird-bellows.co.uk/)** | **[Program Manager  Intern](https://jobright.ai/jobs/info/69f407fac78b9e4518959283?utm_campaign=1050&utm_source=git)** | 2980 N San Fernando, Burbank, California, United States | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Temporary - Technology Operations (Immediate Opening)](https://jobright.ai/jobs/info/69f3891c6942c746fa692098?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | Hybrid | Apr 30 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Safety and Health Intern](https://jobright.ai/jobs/info/69d71da4cfdc6132f946f357?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[TBEI, Inc.](http://www.tbei.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f3ad6b1f90bd6ae23d155a?utm_campaign=1050&utm_source=git)** | Fayette, AL | On Site | Apr 30 |
-| **[Idaho National Laboratory](https://inl.gov)** | **[Undergraduate Internship - Operations and Strategy Management](https://jobright.ai/jobs/info/69f3859a1f90bd6ae23cf8ad?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
