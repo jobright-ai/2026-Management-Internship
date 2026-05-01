@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChampionX](https://www.championx.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f27777825a315d7ca3c9c6?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | May 01 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/69f49af8db88714bcdfaed23?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/69d5c37e366bb95ba55484dd?utm_campaign=1050&utm_source=git)** | United States | Remote | May 01 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/69f4903612f2811ab5a5ec32?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 01 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Tennis Channel](http://www.tennischannel.com/)** | **[Summer 2026 Intern – Production Operations](https://jobright.ai/jobs/info/69d80a4bb67cec4f9b09a192?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 01 |
 | **[Marsden Co](http://www.marsden.com)** | **[Intern - Stadiums Operations](https://jobright.ai/jobs/info/69f49c4243a25828a8d13b0b?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692f926fef4b48533d146ead?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 01 |
-| **[Hard Rock Hotel & Casino Atlantic City](https://hardrockhotelatlanticcity.com/)** | **[Intern - Hotel Operations](https://jobright.ai/jobs/info/69f49e9312f2811ab5a5fe56?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | May 01 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69f4736fa3d34b4f76f4f419?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | ↳ | **[Operations Internship](https://jobright.ai/jobs/info/69f4722e43a25828a8d122ad?utm_campaign=1050&utm_source=git)** | Sylmar, California | On Site | May 01 |
 | **[Owens Corning](http://www.owenscorning.com/)** | **[Operational Summer Intern](https://jobright.ai/jobs/info/69f456b71f90bd6ae23d454d?utm_campaign=1050&utm_source=git)** | Waxahachie, TX | On Site | May 01 |
@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[AVA Technologies Global Corp](https://avatech-global.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69f3ecc71f90bd6ae23d2e64?utm_campaign=1050&utm_source=git)** | Southern Pines, NC | On Site | Apr 30 |
 | **[PROJXON](www.projxon.com)** | **[IT Program Lead Intern](https://jobright.ai/jobs/info/69f3eb381f90bd6ae23d2d7d?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Program Office Intern - Falls Church VA - R10231286](https://jobright.ai/jobs/info/69f3e41758b23a2329da8cea?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Apr 30 |
-| **[AAON, Inc.](https://www.aaon.com)** | **[OCM Intern](https://jobright.ai/jobs/info/69f3e3bfc78b9e451895897f?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Apr 30 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Operations Intern - Jonestown, PA](https://jobright.ai/jobs/info/69f3e3956942c746fa695da3?utm_campaign=1050&utm_source=git)** | Jonestown.PA, US | On Site | Apr 30 |
 | **[Vericel® Corporation](http://vcel.com/)** | **[Meetings & Events Summer Intern](https://jobright.ai/jobs/info/69f404dac78b9e4518958f6b?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Apr 30 |
 | **[CRH](http://crh.com)** | **[Business Intern - PebbleTec](https://jobright.ai/jobs/info/69f404de6942c746fa696605?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Summer Intern - Project Coordinator - Suffolk, VA](https://jobright.ai/jobs/info/69f3ad3f58b23a2329da68ba?utm_campaign=1050&utm_source=git)** | Suffolk, VA | On Site | Apr 30 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern - Summer 2026](https://jobright.ai/jobs/info/69d68ff8366bb95ba554d64a?utm_campaign=1050&utm_source=git)** | Waco, TX | On Site | Apr 30 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69e08d6d9564e855a25de200?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Apr 30 |
+| **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d8621f90bd6ae23d1af6?utm_campaign=1050&utm_source=git)** | Hybrid, US | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
