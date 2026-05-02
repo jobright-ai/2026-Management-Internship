@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c41a07e471ef3ce16d3a5a?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | May 02 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e081d4c17d1d5254334e32?utm_campaign=1050&utm_source=git)** | Brattleboro, VT | On Site | May 02 |
+| **[Double Good](https://www.doublegood.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcae91e6a0d9792584b16b?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | May 02 |
+| **[Astranis Space Technologies](http://www.astranis.com)** | **[Associate Technical Program Manager (USG Systems) (Summer 2026)](https://jobright.ai/jobs/info/69a130e281476f6176bb8bbb?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69f611d10b36ff0354754487?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Reading](https://jobright.ai/jobs/info/694b819d5d73121134701f57?utm_campaign=1050&utm_source=git)** | Reading, PA | On Site | May 02 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | May 02 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Project Management Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988ccb67cec4f9b0a297f?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4ae?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69afb1a9dfaeda6ff5983f8e?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69979e5781476f6176afb981?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be90?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 02 |
@@ -71,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations, Clinical Operations](https://jobright.ai/jobs/info/69d9c06f738f2f099e8a4444?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69bcd27145e08b3dc1f9ae83?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69d9bfa8869c7e25d859d4f8?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
+| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/69f615fc582f810f9c8c85d3?utm_campaign=1050&utm_source=git)** | MCKENZIE, ND - Distribution/Manufacturing/Fleet | On Site | May 02 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698240300f6f7e7a2cdb69ed?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[DoD SkillBridge - Project/Program Manager Intern](https://jobright.ai/jobs/info/6967da0e1703f05405a97ebb?utm_campaign=1050&utm_source=git)** | Mary Esther, FL | Hybrid | May 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Programme Management Intern Job ID : 275791](https://jobright.ai/jobs/info/69f5ec0ddb88714bcdfb5649?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69f5068f12f2811ab5a629e5?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, US | On Site | May 01 |
 | **[ICL Group](http://icl-group.com)** | **[Supply Chain Co-op](https://jobright.ai/jobs/info/69f5063edb88714bcdfb187c?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | May 01 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Specialty Intern](https://jobright.ai/jobs/info/698266b3348f733a5c353939?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | May 01 |
-| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/69f5016912f2811ab5a625cd?utm_campaign=1050&utm_source=git)** | Middlesex County, MA | On Site | May 01 |
-| **[Boxer Property](http://boxerproperty.com)** | **[Intern](https://jobright.ai/jobs/info/69f5016012f2811ab5a62598?utm_campaign=1050&utm_source=git)** | Houston - Southwest - Houston, TX 77074 | On Site | May 01 |
-| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/69f500d2a3d34b4f76f52fcf?utm_campaign=1050&utm_source=git)** | Piscataway, NJ | On Site | May 01 |
-| **[The Wasserstrom Company](http://www.wasserstrom.com)** | **[2026 Summer Internship - Project Management & Special Projects](https://jobright.ai/jobs/info/69f5004aa3d34b4f76f52dda?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 01 |
-| **[Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates](http://www.skadden.com)** | **[Business Services Professionals Summer Intern](https://jobright.ai/jobs/info/69bc4def4828227293fded07?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 01 |
-| **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69f51c5da3d34b4f76f53b69?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 01 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/69f52a53db88714bcdfb2880?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | May 01 |
-| **[ATI](https://www.forging.com)** | **[Supply Chain / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/69f51de343a25828a8d170ec?utm_campaign=1050&utm_source=git)** | Albany, OR | On Site | May 01 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/69d9209e869c7e25d8598e23?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
