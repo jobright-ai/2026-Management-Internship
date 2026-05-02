@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 02 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69f640e5b1fc847fc1ae2af5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e4738f2f099e8a26b2?utm_campaign=1050&utm_source=git)** | Whitby, Ontario, Canada | On Site | May 02 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d95f36f748bc5d08a4ae8c?utm_campaign=1050&utm_source=git)** | Brecksville, OH | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c41a07e471ef3ce16d3a5a?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | May 02 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69e081d4c17d1d5254334e32?utm_campaign=1050&utm_source=git)** | Brattleboro, VT | On Site | May 02 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Program Management](https://jobright.ai/jobs/info/69f640dfb1fc847fc1ae2aef?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | May 02 |
+| **[AMBIKEYA LAW CHAMBERS (ALC)](https://www.linkedin.com/company/107571396)** | **[Regional Vice President of Operations](https://jobright.ai/jobs/info/69f6415d81706a5bd216860a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
 | **[Double Good](https://www.doublegood.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/69bcae91e6a0d9792584b16b?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Associate Technical Program Manager (USG Systems) (Summer 2026)](https://jobright.ai/jobs/info/69a130e281476f6176bb8bbb?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69f611d10b36ff0354754487?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 02 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d20e7f5bef51c96ead9a6?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | May 02 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Project Management Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988ccb67cec4f9b0a297f?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4ae?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 02 |
+| **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Supply Chain](https://jobright.ai/jobs/info/69d9bfa8869c7e25d859d4f8?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698240300f6f7e7a2cdb69ed?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[DoD SkillBridge - Project/Program Manager Intern](https://jobright.ai/jobs/info/6967da0e1703f05405a97ebb?utm_campaign=1050&utm_source=git)** | Mary Esther, FL | Hybrid | May 02 |
+| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - San Francisco, CA](https://jobright.ai/jobs/info/69bda4c54828227293ffdb3a?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 02 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Programme Management Intern Job ID : 275791](https://jobright.ai/jobs/info/69f5ec0ddb88714bcdfb5649?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f5a9b10b36ff0354752abd?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 02 |
 | **[UNC Health](https://www.unchealth.org)** | **[Student Intern Supply Chain](https://jobright.ai/jobs/info/69f598f912f2811ab5a651f9?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | May 01 |
@@ -110,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | **[Lightspeed](http://lsvp.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f5739b12f2811ab5a64c34?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Executive Office Intern](https://jobright.ai/jobs/info/69f510e281706a5bd21648e3?utm_campaign=1050&utm_source=git)** | Englewood, Colorado | On Site | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f51055a3d34b4f76f536cc?utm_campaign=1050&utm_source=git)** | New York, NY | Austin, TX | King of Prussia, PA | On Site | May 01 |
 | **[Mason Controls](https://masoncontrols.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/69f5344ba3d34b4f76f54497?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Forward Air Corporation](http://www.forwardair.com)** | **[Intern - Intermodal Operations](https://jobright.ai/jobs/info/69f50f89a3d34b4f76f53595?utm_campaign=1050&utm_source=git)** | Oak Brook, IL, United States | On Site | May 01 |
-| **[HomeServe USA](http://www.homeserveusa.com)** | **[Progressive Pathway Intern](https://jobright.ai/jobs/info/69f50f20db88714bcdfb1c4e?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | May 01 |
-| **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Operations Intern (Clinical WFM)](https://jobright.ai/jobs/info/69f50d4a0b36ff03547504c8?utm_campaign=1050&utm_source=git)** | CAN - Toronto, CA | Hybrid | May 01 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative Intern - Financial Management Operations](https://jobright.ai/jobs/info/69f52a1512f2811ab5a6369a?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69f52ba143a25828a8d1791c?utm_campaign=1050&utm_source=git)** | Crowley, LA | On Site | May 01 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69f53c2c0b36ff035475150f?utm_campaign=1050&utm_source=git)** | Maryville, IL | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
