@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lessen](https://lessen.com)** | **[Internship](https://jobright.ai/jobs/info/69f564f0db88714bcdfb36ab?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 01 |
+| **[Forward Air Corporation](http://www.forwardair.com)** | **[Intern - Intermodal Operations](https://jobright.ai/jobs/info/69f5607412f2811ab5a6467d?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | May 01 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Terminal Operations Intern](https://jobright.ai/jobs/info/69f552e781706a5bd2165eda?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 | **[Ninyo & Moore, A SOCOTEC Company](http://ninyoandmoore.com)** | **[Staff Engineer or Geologist (CMT Assistant Project Manager)](https://jobright.ai/jobs/info/69f53d3981706a5bd2165b30?utm_campaign=1050&utm_source=git)** | Las Vegas, NV, US | On Site | May 01 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Trustco Bank](http://www.trustcobank.com/)** | **[Trustco Bank Internship Program - Shape Your Future!](https://jobright.ai/jobs/info/69f53c3b12f2811ab5a63ff4?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[Crow Holdings](http://crowholdings.com)** | **[Development Intern](https://jobright.ai/jobs/info/69f53be943a25828a8d17f53?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 01 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Supervisor (Intern)](https://jobright.ai/jobs/info/69f53672db88714bcdfb2d19?utm_campaign=1050&utm_source=git)** | Bluffton, SC | On Site | May 01 |
+| **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Operations Intern (Clinical WFM)](https://jobright.ai/jobs/info/69f565dea3d34b4f76f54efc?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f533e4a3d34b4f76f54471?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Assistant for the Maker Space at The Point](https://jobright.ai/jobs/info/69f5324881706a5bd2165668?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f5305243a25828a8d17b75?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5303481706a5bd2165564?utm_campaign=1050&utm_source=git)** | Flushing, NY | On Site | May 01 |
 | ↳ | **[Strategic Priorities, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f53027a3d34b4f76f543ef?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | May 01 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Business Operations Intern, Information Technology](https://jobright.ai/jobs/info/69f52fffa3d34b4f76f5431b?utm_campaign=1050&utm_source=git)** | Meridian, Idaho, United States | On Site | May 01 |
+| **[Scottish Canals](https://www.scottishcanals.co.uk/)** | **[Head of Asset Management](https://jobright.ai/jobs/info/69f5603ca3d34b4f76f54e7c?utm_campaign=1050&utm_source=git)** | Glasgow, OR | On Site | May 01 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Administrative Intern - Engineering](https://jobright.ai/jobs/info/69f52d9aa3d34b4f76f5418c?utm_campaign=1050&utm_source=git)** | High Ridge, MO | On Site | May 01 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/69f52bd343a25828a8d179ac?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Cell Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/69f52bb043a25828a8d17957?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 01 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Bilfinger North America](https://www.bilfinger.com/en/us/)** | **[Intern - Atlanta, GA](https://jobright.ai/jobs/info/69d80ec19f97a42dc9c1a1b3?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a87107758f2e4ac3ff2593?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | May 01 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961e77ba112b4026610660f?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 01 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688bb07a3a30793eb963c9a1?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | May 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b27f021ade4306aa63767e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 01 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688bb07a3a30793eb963c9a1?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | May 01 |
 | **[CT United](https://www.ctunited.com)** | **[Team Operations Intern [Fall]](https://jobright.ai/jobs/info/69f4bbce81706a5bd2162a8c?utm_campaign=1050&utm_source=git)** | Stamford, US | On Site | May 01 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[CoOp Intern](https://jobright.ai/jobs/info/69bc6a375b89c002acf212e3?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | May 01 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Sacramento)](https://jobright.ai/jobs/info/69ebbc70dc35f7132c4b2d40?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | May 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/69f4b14781706a5bd21626bb?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | May 01 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/69f4903612f2811ab5a5ec32?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69670aa86f782b4e8d52ba33?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 01 |
-| ↳ | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692f926fef4b48533d146ead?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 01 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4ce4981706a5bd21632c3?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | May 01 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b144a3d34b4f76f512d2?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | May 01 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f4b6f212f2811ab5a6076c?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
