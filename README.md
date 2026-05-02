@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Engagement Business Operations Intern](https://jobright.ai/jobs/info/69f6522adb88714bcdfb6105?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[IT Project Management Intern (UNPAID)](https://jobright.ai/jobs/info/69f65224a3d34b4f76f5830a?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Business Operations & Strategy Intern](https://jobright.ai/jobs/info/69f64f670b36ff0354754a3e?utm_campaign=1050&utm_source=git)** | 3043 Walton Rd, Plymouth Meeting, PA 19462, USA | On Site | May 02 |
+| **[Nordic Ware](http://nordicware.com)** | **[Project Management Intern - Summer](https://jobright.ai/jobs/info/69f6709181706a5bd216902a?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | May 02 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 02 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69f640e5b1fc847fc1ae2af5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 02 |
 | **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69f650f781706a5bd21687b8?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | May 02 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | **[Lightspeed](http://lsvp.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f5739b12f2811ab5a64c34?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/69f522f381706a5bd2165006?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f543fd43a25828a8d180f9?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | May 01 |
 | **[San Juan Unified School District](https://www.sanjuan.edu/rioamericano)** | **[Administrative Assistant at Facilities (PC #: 30980/ Job 7834)](https://jobright.ai/jobs/info/69f522460b36ff0354750b2e?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | May 01 |
-| **[Lessen](https://lessen.com)** | **[Internship](https://jobright.ai/jobs/info/69f51e4343a25828a8d171a3?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
