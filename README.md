@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alberta Health Services](http://www.albertahealthservices.ca)** | **[Student Project Coordinator – ALA Business and Clinical Support](https://jobright.ai/jobs/info/69f656d9a3d34b4f76f5865a?utm_campaign=1050&utm_source=git)** | Greater Edmonton Metropolitan Area | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of Planning Summer Internship](https://jobright.ai/jobs/info/69f653750b36ff0354754e67?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Executive Office Administrative Intern - ENV](https://jobright.ai/jobs/info/69f653730b36ff0354754e59?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Scheduler Intern](https://jobright.ai/jobs/info/69d95a83738f2f099e8a14b2?utm_campaign=1050&utm_source=git)** | Whitestone, NY | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f543fd43a25828a8d180f9?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | May 01 |
 | **[San Juan Unified School District](https://www.sanjuan.edu/rioamericano)** | **[Administrative Assistant at Facilities (PC #: 30980/ Job 7834)](https://jobright.ai/jobs/info/69f522460b36ff0354750b2e?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | May 01 |
 | **[Lessen](https://lessen.com)** | **[Internship](https://jobright.ai/jobs/info/69f51e4343a25828a8d171a3?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 01 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Project Coordinator, Faculty of Social Work](https://jobright.ai/jobs/info/69f53c4a43a25828a8d17fd5?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
