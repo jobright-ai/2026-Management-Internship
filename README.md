@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
-| **[Richemont](https://www.richemont.com/)** | **[Digital Operations Support Intern](https://jobright.ai/jobs/info/69a230440da45516f16b78a9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | May 03 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 03 |
+| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/69860c418da7a6120460bbb1?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69dddd7b5913ad339813b0e0?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 03 |
+| ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69eaa22c0a6e09555304239f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/69ebbce87820c036924f68ea?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | May 03 |
+| ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f73ef8db88714bcdfb87bf?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 03 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69f74d4981706a5bd216b9c4?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 03 |
@@ -103,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69afb1a9dfaeda6ff5983f8e?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 | **[Ninyo & Moore, A SOCOTEC Company](http://ninyoandmoore.com)** | **[Staff Engineer or Geologist (CMT Assistant Project Manager)](https://jobright.ai/jobs/info/69f53d3981706a5bd2165b30?utm_campaign=1050&utm_source=git)** | Las Vegas, NV, US | On Site | May 01 |
-| **[Helm Bank USA](https://www.helmbankusa.com/)** | **[Intern](https://jobright.ai/jobs/info/69f53d3781706a5bd2165b26?utm_campaign=1050&utm_source=git)** | Miami, FL 33131-3044, USA | On Site | May 01 |
-| **[Western States Equipment](https://westernstatescat.com)** | **[Business Operations Intern, Information Technology](https://jobright.ai/jobs/info/69f53c6f43a25828a8d18018?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | May 01 |
-| **[Trustco Bank](http://www.trustcobank.com/)** | **[Trustco Bank Internship Program - Shape Your Future!](https://jobright.ai/jobs/info/69f53c3b12f2811ab5a63ff4?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | May 01 |
-| **[Crow Holdings](http://crowholdings.com)** | **[Development Intern](https://jobright.ai/jobs/info/69f53be943a25828a8d17f53?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 01 |
-| **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Supervisor (Intern)](https://jobright.ai/jobs/info/69f53672db88714bcdfb2d19?utm_campaign=1050&utm_source=git)** | Bluffton, SC | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
