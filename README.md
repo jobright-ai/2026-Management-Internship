@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f73ef8db88714bcdfb87bf?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 03 |
 | ↳ | **[Logistics Commercial Process Management Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d5f4de706f771673ba83b1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Summer Intern 2026-Supply Chain-Materials & Scheduling](https://jobright.ai/jobs/info/69bdac164828227293ffed23?utm_campaign=1050&utm_source=git)** | Butler, IN | On Site | May 03 |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Hospitality Intern - Summer and Fall](https://jobright.ai/jobs/info/69be65044828227293013c3f?utm_campaign=1050&utm_source=git)** | St Helena, CA | On Site | May 03 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College intern](https://jobright.ai/jobs/info/69eb0c2d0a6e095553044236?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 03 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f70169b1fc847fc1ae4cea?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f6b4bba3d34b4f76f598a4?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | May 02 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69c6972d1b5ad028873854ec?utm_campaign=1050&utm_source=git)** | Manning, SC | On Site | May 02 |
 | **[Soccer Shots Twin Cities](https://www.soccershots.com/minneapolis/)** | **[Small Business Internship](https://jobright.ai/jobs/info/69f680c3db88714bcdfb6a22?utm_campaign=1050&utm_source=git)** | White Bear Lake, MN | On Site | May 02 |
 | **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dc6c6d5356a60f40fe881c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 02 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68eb6a6f76a1db7c5985fee2?utm_campaign=1050&utm_source=git)** | Markle, IN | On Site | May 02 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69bcd2784828227293fed2a7?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations, Clinical Operations](https://jobright.ai/jobs/info/69d9c06f738f2f099e8a4444?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69bcd27145e08b3dc1f9ae83?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Operations Intern (Clinical WFM)](https://jobright.ai/jobs/info/69f565dea3d34b4f76f54efc?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f533e4a3d34b4f76f54471?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Assistant for the Maker Space at The Point](https://jobright.ai/jobs/info/69f5324881706a5bd2165668?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | May 01 |
-| **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f5305243a25828a8d17b75?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[KQED](http://www.kqed.org)** | **[KQED Creative Project Management Systems Implementation Intern](https://jobright.ai/jobs/info/69f5304181706a5bd2165577?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 01 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5303481706a5bd2165564?utm_campaign=1050&utm_source=git)** | Flushing, NY | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
