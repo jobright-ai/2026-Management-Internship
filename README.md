@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698240300f6f7e7a2cdb69ed?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 02 |
 | **[Planned Systems International](http://www.plan-sys.com)** | **[DoD SkillBridge - Project/Program Manager Intern](https://jobright.ai/jobs/info/6967da0e1703f05405a97ebb?utm_campaign=1050&utm_source=git)** | Mary Esther, FL | Hybrid | May 02 |
 | **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern - San Francisco, CA](https://jobright.ai/jobs/info/69bda4c54828227293ffdb3a?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 02 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Programme Management Intern Job ID : 275791](https://jobright.ai/jobs/info/69f71a8cdb88714bcdfb80e9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 02 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f5a9b10b36ff0354752abd?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 02 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Business Operations & Strategy Intern](https://jobright.ai/jobs/info/69f6526ddb88714bcdfb61c7?utm_campaign=1050&utm_source=git)** | Plymouth Meeting, PA | On Site | May 01 |
 | **[UNC Health](https://www.unchealth.org)** | **[Student Intern Supply Chain](https://jobright.ai/jobs/info/69f598f912f2811ab5a651f9?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | May 01 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 | **[Ninyo & Moore, A SOCOTEC Company](http://ninyoandmoore.com)** | **[Staff Engineer or Geologist (CMT Assistant Project Manager)](https://jobright.ai/jobs/info/69f53d3981706a5bd2165b30?utm_campaign=1050&utm_source=git)** | Las Vegas, NV, US | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western States Equipment](https://westernstatescat.com)** | **[Business Operations Intern, Information Technology](https://jobright.ai/jobs/info/69f52fffa3d34b4f76f5431b?utm_campaign=1050&utm_source=git)** | Meridian, Idaho, United States | On Site | May 01 |
 | **[Scottish Canals](https://www.scottishcanals.co.uk/)** | **[Head of Asset Management](https://jobright.ai/jobs/info/69f5603ca3d34b4f76f54e7c?utm_campaign=1050&utm_source=git)** | Glasgow, OR | On Site | May 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Athletics Parking Operations Intern](https://jobright.ai/jobs/info/69f56e39db88714bcdfb3824?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | May 01 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Administrative Intern - Engineering](https://jobright.ai/jobs/info/69f52d9aa3d34b4f76f5418c?utm_campaign=1050&utm_source=git)** | High Ridge, MO | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
