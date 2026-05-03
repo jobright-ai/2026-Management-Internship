@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsden Co](http://www.marsden.com)** | **[Intern - Stadiums Operations](https://jobright.ai/jobs/info/69f68850582f810f9c8c9656?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 02 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Lifestyle And Sports Management Intern](https://jobright.ai/jobs/info/69f678c90b36ff03547552ef?utm_campaign=1050&utm_source=git)** | Greater Boston | Hybrid | May 02 |
 | **[JAM Best-One](https://jambestone.com)** | **[Commercial Facilities & 5S Internship](https://jobright.ai/jobs/info/69f678ad582f810f9c8c8ddd?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69f67e50db88714bcdfb6888?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69afb1a9dfaeda6ff5983f8e?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be90?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4b3?utm_campaign=1050&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69c6972d1b5ad028873854ec?utm_campaign=1050&utm_source=git)** | Manning, SC | On Site | May 02 |
+| **[Soccer Shots Twin Cities](https://www.soccershots.com/minneapolis/)** | **[Small Business Internship](https://jobright.ai/jobs/info/69f680c3db88714bcdfb6a22?utm_campaign=1050&utm_source=git)** | White Bear Lake, MN | On Site | May 02 |
 | **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dc6c6d5356a60f40fe881c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 02 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Project Manager Intern (PM Intern)](https://jobright.ai/jobs/info/69bcd2784828227293fed2a7?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations, Clinical Operations](https://jobright.ai/jobs/info/69d9c06f738f2f099e8a4444?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Administrative Intern - Engineering](https://jobright.ai/jobs/info/69f52d9aa3d34b4f76f5418c?utm_campaign=1050&utm_source=git)** | High Ridge, MO | On Site | May 01 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/69f52bd343a25828a8d179ac?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Cell Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/69f52bb043a25828a8d17957?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 01 |
-| ↳ | **[Internship, Technical Program Manager, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/69f52aaf12f2811ab5a638e6?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 01 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern - Project Support](https://jobright.ai/jobs/info/69f52a5aa3d34b4f76f540e5?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
