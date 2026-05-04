@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68d01cc8fb49c96ca6eae0e6?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69be9d18b1060245628414f5?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | May 03 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f73ef8db88714bcdfb87bf?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 03 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69f74d4981706a5bd216b9c4?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Commercial Process Management Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d5f4de706f771673ba83b1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
@@ -117,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69afb1a9dfaeda6ff5983f8e?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Operations Intern [Fall]](https://jobright.ai/jobs/info/69f57e6981706a5bd2166974?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | May 01 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Terminal Operations Intern](https://jobright.ai/jobs/info/69f552e781706a5bd2165eda?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | May 01 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f570e0a3d34b4f76f551c8?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
