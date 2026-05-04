@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f6b4bba3d34b4f76f598a4?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | May 02 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d414c4366bb95ba553a40a?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | May 02 |
 | **[Marsden Co](http://www.marsden.com)** | **[Intern - Stadiums Operations](https://jobright.ai/jobs/info/69f68850582f810f9c8c9656?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 02 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f69b6c0b36ff035475602b?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | May 02 |
 | **[JAM Best-One](https://jambestone.com)** | **[Commercial Facilities & 5S Internship](https://jobright.ai/jobs/info/69f678ad582f810f9c8c8ddd?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69f67e50db88714bcdfb6888?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
 | **[Alberta Health Services](http://www.albertahealthservices.ca)** | **[Student Project Coordinator – ALA Business and Clinical Support](https://jobright.ai/jobs/info/69f656d9a3d34b4f76f5865a?utm_campaign=1050&utm_source=git)** | Greater Edmonton Metropolitan Area | On Site | May 02 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
+| **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
