@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cortexel, LLC](https://sites.google.com/view/cortexelglobal-net/home?authuser=0)** | **[Executive Assistant Intern - Cortexel LLC](https://jobright.ai/jobs/info/69f83a410b36ff03547593b0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | May 03 |
+| **[BMO](http://www.bmo.com)** | **[Operations Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f834d40b36ff03547593a8?utm_campaign=1050&utm_source=git)** | Barrie, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Data & Operational Initiatives Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249fb1fc847fc1ae733e?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69f8041cdb88714bcdfb9bec?utm_campaign=1050&utm_source=git)** | United States | Remote | May 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Finance and Spend iXp Intern - Business Strategy Analyst](https://jobright.ai/jobs/info/69a0d97081476f6176bb2857?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | May 03 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 03 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69d962b2b67cec4f9b0a1c2c?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | May 03 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Operations Intern [Fall]](https://jobright.ai/jobs/info/69f57e6981706a5bd2166974?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | May 01 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Terminal Operations Intern](https://jobright.ai/jobs/info/69f552e781706a5bd2165eda?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | May 01 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f570e0a3d34b4f76f551c8?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
