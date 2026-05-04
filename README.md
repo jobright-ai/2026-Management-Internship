@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/69d5e0414a12eb12c5e14335?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 04 |
 | **[Cortexel, LLC](https://sites.google.com/view/cortexelglobal-net/home?authuser=0)** | **[Executive Assistant Intern - Cortexel LLC](https://jobright.ai/jobs/info/69f83a410b36ff03547593b0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Operations Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f834d40b36ff03547593a8?utm_campaign=1050&utm_source=git)** | Barrie, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Data & Operational Initiatives Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249fb1fc847fc1ae733e?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69dddd7b5913ad339813b0e0?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69eaa22c0a6e09555304239f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/69ebbce87820c036924f68ea?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | May 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68d01cc8fb49c96ca6eae0e6?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69be9d18b1060245628414f5?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | May 03 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69f70169b1fc847fc1ae4cea?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f6b4bba3d34b4f76f598a4?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | May 02 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d414c4366bb95ba553a40a?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | May 02 |
-| **[Marsden Co](http://www.marsden.com)** | **[Intern - Stadiums Operations](https://jobright.ai/jobs/info/69f68850582f810f9c8c9656?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 02 |
 | **[JAM Best-One](https://jambestone.com)** | **[Commercial Facilities & 5S Internship](https://jobright.ai/jobs/info/69f678ad582f810f9c8c8ddd?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/69f67e50db88714bcdfb6888?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | May 02 |
 | **[Alberta Health Services](http://www.albertahealthservices.ca)** | **[Student Project Coordinator – ALA Business and Clinical Support](https://jobright.ai/jobs/info/69f656d9a3d34b4f76f5865a?utm_campaign=1050&utm_source=git)** | Greater Edmonton Metropolitan Area | On Site | May 02 |
@@ -116,11 +115,10 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69afb1a9dfaeda6ff5983f8e?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69979e5781476f6176afb981?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be90?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4b3?utm_campaign=1050&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 02 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Global Partners LP](http://www.globalp.com)** | **[Terminal Operations Intern](https://jobright.ai/jobs/info/69f552e781706a5bd2165eda?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | May 01 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69f570e0a3d34b4f76f551c8?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
