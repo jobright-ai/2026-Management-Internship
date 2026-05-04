@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Vision Partners](http://www.ascendvision.com)** | **[Process and Project Management Intern](https://jobright.ai/jobs/info/69f8f33881706a5bd216f62f?utm_campaign=1050&utm_source=git)** | Maitland,FL,US | On Site | May 04 |
+| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Administrative Support](https://jobright.ai/jobs/info/69f8f03a0b36ff035475bb75?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
+| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Trust Administrative Intern](https://jobright.ai/jobs/info/69f8ec48a3d34b4f76f5ea48?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA, US | On Site | May 04 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2027 Internship - Operations](https://jobright.ai/jobs/info/69f8e60f81706a5bd216eaf4?utm_campaign=1050&utm_source=git)** | Kent, Washington | On Site | May 04 |
 | **[Spoonful Media & Development](https://addalittlesugar.us/)** | **[Admin Grad Intern](https://jobright.ai/jobs/info/69f8e449a3d34b4f76f5e241?utm_campaign=1050&utm_source=git)** | United States | Remote | May 04 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Intern - International Banking Intern](https://jobright.ai/jobs/info/69f8dd20582f810f9c8ce62d?utm_campaign=1050&utm_source=git)** | Miramar, FL, US | On Site | May 04 |
@@ -132,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69979e5781476f6176afb981?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Business Operations & Strategy Intern](https://jobright.ai/jobs/info/69f6526ddb88714bcdfb61c7?utm_campaign=1050&utm_source=git)** | Plymouth Meeting, PA | On Site | May 01 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/69f5c5dedb88714bcdfb4a56?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a092db88714bcdfb43ce?utm_campaign=1050&utm_source=git)** | Queens, NY | On Site | May 01 |
-| ↳ | **[Strategic Priorities, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a07aa3d34b4f76f55c49?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | May 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c6d0b36ff0354752505?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| ↳ | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c670b36ff03547524f9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
