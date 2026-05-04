@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Data & Operational Initiatives Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249fb1fc847fc1ae733e?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69f8041cdb88714bcdfb9bec?utm_campaign=1050&utm_source=git)** | United States | Remote | May 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Finance and Spend iXp Intern - Business Strategy Analyst](https://jobright.ai/jobs/info/69a0d97081476f6176bb2857?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | May 03 |
@@ -68,7 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69eaa22c0a6e09555304239f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/69ebbce87820c036924f68ea?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | May 03 |
-| ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68d01cc8fb49c96ca6eae0e6?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69be9d18b1060245628414f5?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | May 03 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69f73ef8db88714bcdfb87bf?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
