@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICON Strategic Solutions](https://www.iconplc.com/services/strategic-solutions/)** | **[Intern](https://jobright.ai/jobs/info/69f8c26b0b36ff035475ab0d?utm_campaign=1050&utm_source=git)** | US, Lenexa KCIB (PRA), US | On Site | May 04 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Operations](https://jobright.ai/jobs/info/69f8c211a3d34b4f76f5dbd3?utm_campaign=1050&utm_source=git)** | Medinah, IL, US | On Site | May 04 |
 | **[Acosta](https://www.acosta.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/69f8bcc7b1fc847fc1ae86e4?utm_campaign=1050&utm_source=git)** | Lewisville, TX, United States | On Site | May 04 |
-| **[PROJXON](www.projxon.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69f8b9dd0b36ff035475a97e?utm_campaign=1050&utm_source=git)** | United States | Remote | May 04 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Software Project Manager Analyst – Co-op/Intern](https://jobright.ai/jobs/info/69f8b11781706a5bd216dd8f?utm_campaign=1050&utm_source=git)** | Canada - Ottawa (Bill Leathem), CA | On Site | May 04 |
 | **[Spur Logistics LLC](https://www.spurlogistics.com)** | **[Summer Logistics Operations Paid Internship](https://jobright.ai/jobs/info/69f8aac2a3d34b4f76f5d647?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | May 04 |
 | **[BMO](http://www.bmo.com)** | **[Administrative Assistant (Intern), Nesbitt Burns](https://jobright.ai/jobs/info/69f8a61c582f810f9c8cdba7?utm_campaign=1050&utm_source=git)** | MONTREAL, QC, CAN, CA | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
