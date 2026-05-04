@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JCB North America](http://jcbna.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f8a297b1fc847fc1ae7b0d?utm_campaign=1050&utm_source=git)** | Bamford Blvd, Pooler, GA, USA | On Site | May 04 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/69d5e0414a12eb12c5e14335?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 04 |
 | **[Cortexel, LLC](https://sites.google.com/view/cortexelglobal-net/home?authuser=0)** | **[Executive Assistant Intern - Cortexel LLC](https://jobright.ai/jobs/info/69f83a410b36ff03547593b0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Operations Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f834d40b36ff03547593a8?utm_campaign=1050&utm_source=git)** | Barrie, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Data & Operational Initiatives Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f8249fb1fc847fc1ae733e?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
-| **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69f8041cdb88714bcdfb9bec?utm_campaign=1050&utm_source=git)** | United States | Remote | May 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Finance and Spend iXp Intern - Business Strategy Analyst](https://jobright.ai/jobs/info/69a0d97081476f6176bb2857?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1050&utm_source=git)** | Twin Falls, ID | On Site | May 03 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6968a839f25a380066972f50?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 03 |
@@ -69,8 +69,6 @@ For a complete list, click the following sortable link below:
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699fcd76ce78e77b4fe5b811?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 03 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/69860c418da7a6120460bbb1?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | May 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/69dddd7b5913ad339813b0e0?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 03 |
-| ↳ | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69eaa22c0a6e09555304239f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | May 03 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68d01cc8fb49c96ca6eae0e6?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/69b6438f56973837413b8626?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 03 |
@@ -95,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Engagement Business Operations Intern](https://jobright.ai/jobs/info/69f6522adb88714bcdfb6105?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[IT Project Management Intern (UNPAID)](https://jobright.ai/jobs/info/69f65224a3d34b4f76f5830a?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 02 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69f672eadb88714bcdfb64b2?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | May 02 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Business Operations & Strategy Intern](https://jobright.ai/jobs/info/69f64f670b36ff0354754a3e?utm_campaign=1050&utm_source=git)** | 3043 Walton Rd, Plymouth Meeting, PA 19462, USA | On Site | May 02 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 02 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69f640e5b1fc847fc1ae2af5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 02 |
 | **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69f650f781706a5bd21687b8?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | May 02 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fbf?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dfa3d34b4f76f551c7?utm_campaign=1050&utm_source=git)** | Elgin, IL | On Site | May 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f5706d43a25828a8d18a64?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570a70b36ff0354751fc0?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | May 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69f570dda3d34b4f76f551c4?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | May 01 |
+| **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class B - 2026-27](https://jobright.ai/jobs/info/69f54c8143a25828a8d1827f?utm_campaign=1050&utm_source=git)** | Champlin, MN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
