@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixi Inc.](https://www.pixibeauty.com)** | **[Operations Intern - US](https://jobright.ai/jobs/info/69f92d77a3d34b4f76f60b44?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | May 04 |
+| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Building Operations, Fall 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f92c2e0b36ff035475da70?utm_campaign=1050&utm_source=git)** | Vancouver, CA | On Site | May 04 |
+| **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Intern - Property Management](https://jobright.ai/jobs/info/69f92b10b1fc847fc1aeb57a?utm_campaign=1050&utm_source=git)** | Doral, Florida, United States | Hybrid | May 04 |
+| **[GoMaterials](https://www.gomaterials.com/)** | **[Quote Prepper Intern - Fall 2026](https://jobright.ai/jobs/info/69f9286c81706a5bd2170ee5?utm_campaign=1050&utm_source=git)** | Montreal, QC | Remote | May 04 |
+| **[Swift Transportation](http://www.swifttrans.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f9241981706a5bd2170dac?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona | On Site | May 04 |
+| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Chicago Youth Works - Intern - Kennedy-King College](https://jobright.ai/jobs/info/69f923cdb1fc847fc1aeb415?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | May 04 |
+| **[GFT](https://www.gftinc.com)** | **[Intern - Administrative Support](https://jobright.ai/jobs/info/69f9234ddb88714bcdfbdfec?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
 | **[MAT Holdings, Inc.](http://www.matholdingsinc.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/69c5a1c6e565c26a700131e9?utm_campaign=1050&utm_source=git)** | Long Grove, IL | On Site | May 04 |
 | **[PennAero](https://pennaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f91ba70b36ff035475d48f?utm_campaign=1050&utm_source=git)** | Tolleson, AZ | On Site | May 04 |
 | **[Trustco Bank](http://www.trustcobank.com/)** | **[Trustco Bank Internship Program - Shape Your Future!](https://jobright.ai/jobs/info/69f53c3b12f2811ab5a63ff4?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | May 04 |
@@ -68,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Red Tail Residential](https://www.rtresi.com)** | **[Leasing Internship](https://jobright.ai/jobs/info/69f90c6281706a5bd217002f?utm_campaign=1050&utm_source=git)** | Arrive Paso Robles, Paso Robles, CA, US | On Site | May 04 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Intern](https://jobright.ai/jobs/info/69f90c56a3d34b4f76f5fa39?utm_campaign=1050&utm_source=git)** | Lehi, Utah, United States | On Site | May 04 |
 | **[Portal](https://portal.bio)** | **[Coporate Strategy Intern](https://jobright.ai/jobs/info/69f8ff7ca3d34b4f76f5f7da?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 04 |
-| **[Ascend Vision Partners](http://www.ascendvision.com)** | **[Process and Project Management Intern](https://jobright.ai/jobs/info/69f8f33881706a5bd216f62f?utm_campaign=1050&utm_source=git)** | Maitland,FL,US | On Site | May 04 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Administrative Support](https://jobright.ai/jobs/info/69f8f03a0b36ff035475bb75?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA, US | On Site | May 04 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[Trust Administrative Intern](https://jobright.ai/jobs/info/69f8ec48a3d34b4f76f5ea48?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA, US | On Site | May 04 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2027 Internship - Operations](https://jobright.ai/jobs/info/69f8e60f81706a5bd216eaf4?utm_campaign=1050&utm_source=git)** | Kent, Washington | On Site | May 04 |
@@ -134,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 02 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/69f640e5b1fc847fc1ae2af5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 02 |
 | **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69f650f781706a5bd21687b8?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | May 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Round Rock and Cedar Park](https://jobright.ai/jobs/info/6969d42d639b452fb57fd481?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e4738f2f099e8a26b2?utm_campaign=1050&utm_source=git)** | Whitby, Ontario, Canada | On Site | May 02 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69d95f36f748bc5d08a4ae8c?utm_campaign=1050&utm_source=git)** | Brecksville, OH | On Site | May 02 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c41a07e471ef3ce16d3a5a?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | May 02 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Intern, Operations - USA - NJ - Sewell - R26-03748](https://jobright.ai/jobs/info/69d988cab67cec4f9b0a2963?utm_campaign=1050&utm_source=git)** | Mantua, NJ | On Site | May 02 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990c8738f2f099e8a2678?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 02 |
 | **[Hut 8](https://hut8.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69bc8b4b4828227293fe6d3b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d99167f748bc5d08a4bf66?utm_campaign=1050&utm_source=git)** | Hamilton, Ontario, Canada | On Site | May 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be8f?utm_campaign=1050&utm_source=git)** | London, Ontario, Canada | On Site | May 02 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4af?utm_campaign=1050&utm_source=git)** | St Thomas, Ontario, Canada | On Site | May 02 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern](https://jobright.ai/jobs/info/69bd373db106024562821fc4?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | May 02 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69979e5781476f6176afb981?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d9912cf748bc5d08a4be90?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/69d990e45356a60f40fda4b3?utm_campaign=1050&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 02 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69c6972d1b5ad028873854ec?utm_campaign=1050&utm_source=git)** | Manning, SC | On Site | May 02 |
-| **[Soccer Shots Twin Cities](https://www.soccershots.com/minneapolis/)** | **[Small Business Internship](https://jobright.ai/jobs/info/69f680c3db88714bcdfb6a22?utm_campaign=1050&utm_source=git)** | White Bear Lake, MN | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
