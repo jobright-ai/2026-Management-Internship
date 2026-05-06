@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signify](https://www.signify.com)** | **[Supply Chain Analyst Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69fb8b0d87a4820e6da88cba?utm_campaign=1050&utm_source=git)** | Peachtree City, US | On Site | May 06 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fb7d79d21cf86d1e3d36bd?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 06 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fb7d72d21cf86d1e3d36af?utm_campaign=1050&utm_source=git)** | 92335 | On Site | May 06 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fb7d6a18b94b2515be2cb9?utm_campaign=1050&utm_source=git)** | 13450 Napa Street | On Site | May 06 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fb7d6318b94b2515be2cb3?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | May 06 |
 | **[Attindas Hygiene Partners](https://www.attindas.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69fb7ac486d5cd46527d5f47?utm_campaign=1050&utm_source=git)** | Greenville, North Carolina | On Site | May 06 |
 | **[Realtime Robotics, Inc.](https://rtr.ai/)** | **[Business Operations Internship or Co-op](https://jobright.ai/jobs/info/69fb7a9f86d5cd46527d5f29?utm_campaign=1050&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 06 |
 | **[Kids Empire](https://www.kidsempire.com)** | **[Intern-Park Manager](https://jobright.ai/jobs/info/69fb7a9218b94b2515be2b6f?utm_campaign=1050&utm_source=git)** | Gresham,OR,US | On Site | May 06 |
@@ -67,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Lease Administration Intern](https://jobright.ai/jobs/info/69c2e402753c101b2156494f?utm_campaign=1050&utm_source=git)** | Tampa, FL | Remote | May 06 |
 | **[Texas Cultural Trust](https://txculturaltrust.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fb6d6986d5cd46527d5a22?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 06 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECCO, Strategic Execution Intern (4 Months)](https://jobright.ai/jobs/info/69fb6d6387a4820e6da8824f?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 06 |
+| **[B&G Foods Inc.](http://bgfoods.com)** | **[Warehouse Operations & Leadership Intern](https://jobright.ai/jobs/info/69fb8a5886d5cd46527d6399?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | May 06 |
+| **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f543fd43a25828a8d180f9?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | May 06 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Associate Internship](https://jobright.ai/jobs/info/69fb660218b94b2515be23cc?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | May 06 |
 | **[UPS](http://www.ups.com)** | **[Intern](https://jobright.ai/jobs/info/69fb6563ffa73664aeaff69e?utm_campaign=1050&utm_source=git)** | US - MARKEN HEADQUARTERS (NCSLA), US | On Site | May 06 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Sports Management Intern - St. Luke's SportsPlex](https://jobright.ai/jobs/info/69fb650186d5cd46527d559f?utm_campaign=1050&utm_source=git)** | Allentown, PA - 4836 Crackersport Rd, US | On Site | May 06 |
@@ -74,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Fairway Construction Co., Inc.](https://fairwayconstruction.net/)** | **[Intern - Project Coordinator](https://jobright.ai/jobs/info/69fb63f886d5cd46527d53f2?utm_campaign=1050&utm_source=git)** | Atlanta Office, Atlanta, GA, US | Hybrid | May 06 |
 | **[Affordable Equity Partners, Inc.](https://aepartners.com/)** | **[Intern - Project Coordinator](https://jobright.ai/jobs/info/69fb63ead21cf86d1e3d2a4d?utm_campaign=1050&utm_source=git)** | Atlanta Office, Atlanta, GA, US | Hybrid | May 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69fb63c238179b6f1ae78046?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | On Site | May 06 |
-| **[Jabil](https://www.jabil.com)** | **[Program Manager](https://jobright.ai/jobs/info/69fb7bfcffa73664aeaffe8c?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | May 06 |
+| **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69fb80eb18b94b2515be2d0f?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | May 06 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[AVA Internship/Project Assistant, Paediatrics](https://jobright.ai/jobs/info/69f30be4ab4ec4779fffe5bb?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 06 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Arizona Fall League - Game Day Operations Intern](https://jobright.ai/jobs/info/69dfb761aba61f141731cd1c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 06 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69fb65dad21cf86d1e3d2caf?utm_campaign=1050&utm_source=git)** | Gastonia, NC | On Site | May 06 |
 | **[B&G Foods Inc.](http://bgfoods.com)** | **[Warehouse Operations & Leadership Intern](https://jobright.ai/jobs/info/69fb4979ffa73664aeafe361?utm_campaign=1050&utm_source=git)** | Ankeny, IA, US | On Site | May 06 |
 | **[Symetra](http://www.symetra.com)** | **[Sr. Process Owner - Remote](https://jobright.ai/jobs/info/69decddf433ac8430e0dc9c9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
@@ -120,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Janicki](http://www.janicki.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fa962bb1fc847fc1af0d60?utm_campaign=1050&utm_source=git)** | Hamilton, Washington, United States | On Site | May 05 |
 | **[Faurecia](https://www.forvia.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69fb3d7718b94b2515be0c48?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | May 05 |
 | **[Stonehill Communities](https://www.stonehilldbq.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/69fa834281706a5bd2175fad?utm_campaign=1050&utm_source=git)** | Dubuque, IA 52001, USA | On Site | May 05 |
-| **[Carlsmed](https://www.carlsmed.com/)** | **[Intern - MedTech Supply Chain](https://jobright.ai/jobs/info/69fa8222b1fc847fc1af088a?utm_campaign=1050&utm_source=git)** | Carlsbad, California, United States | On Site | May 05 |
 | **[Anoka-Hennepin School District](https://www.ahschools.us)** | **[Secretary - Class A - 2026-27](https://jobright.ai/jobs/info/69fb3acf87a4820e6da866e6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 05 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Costpoint Project Set up Intern](https://jobright.ai/jobs/info/69fb2e7086d5cd46527d3b70?utm_campaign=1050&utm_source=git)** | Alexandria, VA | Remote | May 05 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: CI Projects Analyst (Summer 2026)](https://jobright.ai/jobs/info/69fb2beae156000841157680?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ebenezer](https://www.ebenezercares.org/)** | **[Intern - Ebenezer](https://jobright.ai/jobs/info/69fb26f3d21cf86d1e3d0185?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | May 05 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Dedicated Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69fb1e4418b94b2515bdf409?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Graybar](http://www.graybar.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/69fa4c3081706a5bd2175288?utm_campaign=1050&utm_source=git)** | MES Brentwood, MO, US | On Site | May 05 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)](https://jobright.ai/jobs/info/69fb201a18b94b2515bdf7af?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 05 |
-| **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Director Innovative Programs (2026-2027)](https://jobright.ai/jobs/info/69fb5f11d21cf86d1e3d248a?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | May 05 |
-| ↳ | **[Coordinator Strategic Planning (2026-2027)](https://jobright.ai/jobs/info/69fb2a8a18b94b2515be00bb?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | May 05 |
-| **[PACCAR](http://www.paccar.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69fb2b9ed21cf86d1e3d0a46?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | May 05 |
-| **[Lakeland Fire + Safety](http://www.lakeland.com)** | **[Supply Planning Operations Intern](https://jobright.ai/jobs/info/69fb21b486d5cd46527d2ea8?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | May 05 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Supply Chain Associate- Intern](https://jobright.ai/jobs/info/69fb1e4418b94b2515bdf40a?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | May 05 |
-| **[Fairmount Memorial Association](https://www.fairmountmemorial.com)** | **[Funeral Director (Intern)](https://jobright.ai/jobs/info/69fa46e40b36ff03547619eb?utm_campaign=1050&utm_source=git)** | Coeur d'Alene,ID,US | On Site | May 05 |
-| **[Justin McClure Creative](http://www.justinmcclure.com)** | **[Project Management Summer Intern](https://jobright.ai/jobs/info/69fa44590b36ff0354761580?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
