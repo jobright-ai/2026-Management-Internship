@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Radiology Partners](http://www.radpartners.com)** | **[Information Technology Project Intern](https://jobright.ai/jobs/info/69fb9bb138179b6f1ae7a17e?utm_campaign=1050&utm_source=git)** | Edina, MN, US | On Site | May 06 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Agile Scrum Master Intern (100% Remote)](https://jobright.ai/jobs/info/69fb97fb38179b6f1ae798ca?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 06 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69fb8f9938179b6f1ae7942a?utm_campaign=1050&utm_source=git)** | New York, NY, US | Hybrid | May 06 |
-| **[Cartesian](http://cartesian.systems)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69fb8d0318b94b2515be33fe?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Signify](https://www.signify.com)** | **[Supply Chain Analyst Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69fb8b0d87a4820e6da88cba?utm_campaign=1050&utm_source=git)** | Peachtree City, US | On Site | May 06 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/69a65e02e567421f42576681?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 06 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fb7d79d21cf86d1e3d36bd?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69fa70450b36ff0354762839?utm_campaign=1050&utm_source=git)** | United States - Remote, US | Remote | May 05 |
 | **[First American](http://www.firstam.com)** | **[Business Operations Undergraduate Intern (Onsite)](https://jobright.ai/jobs/info/69fb2c77d21cf86d1e3d0cb2?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID | On Site | May 05 |
 | **[Leidos](https://www.leidos.com)** | **[Contracts and Supply Chain Intern](https://jobright.ai/jobs/info/69fb3add38179b6f1ae76c4d?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | May 05 |
+| **[Twin City Die Castings](http://www.tcdcinc.com)** | **[Engineering/Project Management Intern](https://jobright.ai/jobs/info/69fb2775e156000841156ded?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
