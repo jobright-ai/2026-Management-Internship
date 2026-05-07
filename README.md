@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Draper](https://www.draper.com)** | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc17623160b250eb1bc24b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fc2361c39b9a66c0c566ba?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | May 06 |
+| **[Draper](https://www.draper.com)** | **[Operations Summer Intern - Operations/Production Planning](https://jobright.ai/jobs/info/69fc1c7e76c60e7b70af21f9?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
+| ↳ | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc17623160b250eb1bc24b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/69fc0d6576c60e7b70af1c8d?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | May 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fc0d7a3802c7621fd8f538?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 06 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Project Manager (Building)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1169?utm_campaign=1050&utm_source=git)** | Ottawa West, Ontario, Canada | On Site | May 06 |
@@ -94,10 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Change & Payments Modernization Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fbd99018b94b2515be5063?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | **[Draper](https://www.draper.com)** | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fbfcfc3160b250eb1bafc0?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69fbf5fe2f9f6b7cf691016e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | May 06 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Project Services Intern](https://jobright.ai/jobs/info/69fbeea52f9f6b7cf690f748?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 06 |
-| **[Certified Centerless Grinding](https://www.certifiedcenterless.com/)** | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02380?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | May 06 |
+| **[Certified Centerless Grinding](https://www.certifiedcenterless.com/)** | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9aa86d5cd46527d83b1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9a9d21cf86d1e3d533f?utm_campaign=1050&utm_source=git)** | rochester, NY | On Site | May 06 |
-| ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9aa86d5cd46527d83b1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
+| ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02380?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | May 06 |
 | **[Impact Ventures](https://impact-ventures.co)** | **[Special Assistant to the CEO (Internship)](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238d?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | May 06 |
 | **[Nature First Landscaping](www.naturefirstlandscaping.com)** | **[Summer Business Operations Internship](https://jobright.ai/jobs/info/69fbd9ab86d5cd46527d83b3?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 06 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECCO, Strategic Execution Intern (4 Months)](https://jobright.ai/jobs/info/69fb9e9b87a4820e6da89fca?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Kids Empire](https://www.kidsempire.com)** | **[Intern-Park Manager](https://jobright.ai/jobs/info/69fb7a9218b94b2515be2b6f?utm_campaign=1050&utm_source=git)** | Gresham,OR,US | On Site | May 06 |
 | **[Critical Response Group](https://www.crgplans.com)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69fb7a8818b94b2515be2b63?utm_campaign=1050&utm_source=git)** | Hamilton, NJ | On Site | May 06 |
 | **[Arcadis](http://www.arcadis.com)** | **[LACCD Intern](https://jobright.ai/jobs/info/69fb78cf87a4820e6da886fa?utm_campaign=1050&utm_source=git)** | 333 South Hope Street Suite C-200 Los Angeles, CA - Bank of America Plaza, Los Angeles, CA, 90071, US | On Site | May 06 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant-Structured Recess Duty](https://jobright.ai/jobs/info/69fbddc0d21cf86d1e3d5793?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
-| ↳ | **[Office Assistant-Recess Duty](https://jobright.ai/jobs/info/69fbdc21ffa73664aeb027af?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant-Recess Duty](https://jobright.ai/jobs/info/69fbdc21ffa73664aeb027af?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
+| ↳ | **[Office Assistant-Structured Recess Duty](https://jobright.ai/jobs/info/69fbddc0d21cf86d1e3d5793?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
 | **[Summit Financial Strategies, Inc.](https://www.summitfin.com/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69fb9c1f87a4820e6da89e5c?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69fb7483d21cf86d1e3d343c?utm_campaign=1050&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[Voith Paper](http://www.voith.com/paper)** | **[Intern, Operations](https://jobright.ai/jobs/info/69fb9e4386d5cd46527d7535?utm_campaign=1050&utm_source=git)** | Austell, GA | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/698a644b0f6f7e7a2ce58659?utm_campaign=1050&utm_source=git)** | Whitewater, WI | On Site | May 06 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations, Textile Sampling](https://jobright.ai/jobs/info/69a732802672cb0acb4b9fc5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69ec5eaddc35f7132c4b6bfc?utm_campaign=1050&utm_source=git)** | Southgate, MI | On Site | May 06 |
-| **[Trench Group](https://trench-group.com/)** | **[After Sales Process Intern](https://jobright.ai/jobs/info/69ded8c1e34484770f1a5213?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
