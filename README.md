@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant](https://jobright.ai/jobs/info/69fc31593160b250eb1bc884?utm_campaign=1050&utm_source=git)** | Syracuse-Auburn Area | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69fc30903802c7621fd8fe3a?utm_campaign=1050&utm_source=git)** | San Jose, CA, US | On Site | May 06 |
+| **[Leidos](https://www.leidos.com)** | **[Business Intern – College](https://jobright.ai/jobs/info/69fc27d03802c7621fd8fc3b?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | May 06 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fc2361c39b9a66c0c566ba?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | May 06 |
 | **[Draper](https://www.draper.com)** | **[Operations Summer Intern - Operations/Production Planning](https://jobright.ai/jobs/info/69fc1c7e76c60e7b70af21f9?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | ↳ | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc17623160b250eb1bc24b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/69fc0d6576c60e7b70af1c8d?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | May 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fc0d7a3802c7621fd8f538?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 06 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fc3134a5949019c55b3785?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 06 |
+| ↳ | **[2027 Summer Intern: Strategic Finance- MBA](https://jobright.ai/jobs/info/69fc31052f9f6b7cf691195f?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 06 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Project Manager (Building)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1169?utm_campaign=1050&utm_source=git)** | Ottawa West, Ontario, Canada | On Site | May 06 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69fbefeb2f9f6b7cf690fe51?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | May 06 |
+| **[Atlas Post Acute](https://atlas-pa.com/)** | **[Administrative Services Intern](https://jobright.ai/jobs/info/69fc29ca3802c7621fd8fd5d?utm_campaign=1050&utm_source=git)** | PACS, US | On Site | May 06 |
 | **[Cartesian](http://cartesian.systems)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69fbf04ea5949019c55b1d0d?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN - NON-CAREER - FINANCE (GRANTS)](https://jobright.ai/jobs/info/69fbef833160b250eb1ba7cf?utm_campaign=1050&utm_source=git)** | California, United States | On Site | May 06 |
 | **[EBC Inc.](http://www.ebcinc.com)** | **[Internship \- Project Manager (Building)](https://jobright.ai/jobs/info/69fc05813160b250eb1bb111?utm_campaign=1050&utm_source=git)** | Ottawa West, Ontario, Canada | On Site | May 06 |
@@ -96,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Change & Payments Modernization Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fbd99018b94b2515be5063?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | **[Draper](https://www.draper.com)** | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fbfcfc3160b250eb1bafc0?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69fbf5fe2f9f6b7cf691016e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | May 06 |
-| **[Certified Centerless Grinding](https://www.certifiedcenterless.com/)** | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9aa86d5cd46527d83b1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
-| ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9a9d21cf86d1e3d533f?utm_campaign=1050&utm_source=git)** | rochester, NY | On Site | May 06 |
+| **[Certified Centerless Grinding](https://www.certifiedcenterless.com/)** | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9a9d21cf86d1e3d533f?utm_campaign=1050&utm_source=git)** | rochester, NY | On Site | May 06 |
+| ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9aa86d5cd46527d83b1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02380?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | May 06 |
 | **[Impact Ventures](https://impact-ventures.co)** | **[Special Assistant to the CEO (Internship)](https://jobright.ai/jobs/info/69fbd9adffa73664aeb0238d?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | May 06 |
 | **[Nature First Landscaping](www.naturefirstlandscaping.com)** | **[Summer Business Operations Internship](https://jobright.ai/jobs/info/69fbd9ab86d5cd46527d83b3?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 06 |
@@ -121,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Kids Empire](https://www.kidsempire.com)** | **[Intern-Park Manager](https://jobright.ai/jobs/info/69fb7a9218b94b2515be2b6f?utm_campaign=1050&utm_source=git)** | Gresham,OR,US | On Site | May 06 |
 | **[Critical Response Group](https://www.crgplans.com)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69fb7a8818b94b2515be2b63?utm_campaign=1050&utm_source=git)** | Hamilton, NJ | On Site | May 06 |
 | **[Arcadis](http://www.arcadis.com)** | **[LACCD Intern](https://jobright.ai/jobs/info/69fb78cf87a4820e6da886fa?utm_campaign=1050&utm_source=git)** | 333 South Hope Street Suite C-200 Los Angeles, CA - Bank of America Plaza, Los Angeles, CA, 90071, US | On Site | May 06 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant-Recess Duty](https://jobright.ai/jobs/info/69fbdc21ffa73664aeb027af?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
-| ↳ | **[Office Assistant-Structured Recess Duty](https://jobright.ai/jobs/info/69fbddc0d21cf86d1e3d5793?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant-Structured Recess Duty](https://jobright.ai/jobs/info/69fbddc0d21cf86d1e3d5793?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
+| ↳ | **[Office Assistant-Recess Duty](https://jobright.ai/jobs/info/69fbdc21ffa73664aeb027af?utm_campaign=1050&utm_source=git)** | Sand Springs, OK | On Site | May 06 |
 | **[Summit Financial Strategies, Inc.](https://www.summitfin.com/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69fb9c1f87a4820e6da89e5c?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 06 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69fb7483d21cf86d1e3d343c?utm_campaign=1050&utm_source=git)** | Lexington, MA (Hybrid) | Hybrid | May 06 |
 | **[Voith Paper](http://www.voith.com/paper)** | **[Intern, Operations](https://jobright.ai/jobs/info/69fb9e4386d5cd46527d7535?utm_campaign=1050&utm_source=git)** | Austell, GA | On Site | May 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[Sr. Process Owner - Remote](https://jobright.ai/jobs/info/69decddf433ac8430e0dc9c9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
 | **[Cosm](https://www.cosm.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69dee55218cf504166e3056f?utm_campaign=1050&utm_source=git)** | Chadds Ford, PA | On Site | May 06 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Projects and Governance Intern](https://jobright.ai/jobs/info/69debaf85913ad339813f82b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 06 |
-| **[Fairway Management, Inc.](https://www.fairwaymanagement.com)** | **[Intern - Project Coordinator](https://jobright.ai/jobs/info/69fb673bd21cf86d1e3d2e21?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | May 06 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69fb637fffa73664aeaff504?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | May 06 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69fb647f18b94b2515be2127?utm_campaign=1050&utm_source=git)** | Burnsville, MN | On Site | May 06 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/698a644b0f6f7e7a2ce58659?utm_campaign=1050&utm_source=git)** | Whitewater, WI | On Site | May 06 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations, Textile Sampling](https://jobright.ai/jobs/info/69a732802672cb0acb4b9fc5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/69ec5eaddc35f7132c4b6bfc?utm_campaign=1050&utm_source=git)** | Southgate, MI | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
