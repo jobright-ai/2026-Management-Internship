@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vacatia](https://vacatia.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fcf7a36b788e7e7a5c4130?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Resident Services Administrative Intern](https://jobright.ai/jobs/info/69fcf5756b788e7e7a5c3f81?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, US | On Site | May 07 |
+| ↳ | **[Summer Intern, Entry Level - Internal Operations](https://jobright.ai/jobs/info/69fcf515938a651755f97fc2?utm_campaign=1050&utm_source=git)** | Washington, DC, US | On Site | May 07 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[IT Lab Ops Portfolio Management Intern - Summer 2026](https://jobright.ai/jobs/info/69fceea35cff890b03f34bf6?utm_campaign=1050&utm_source=git)** | US - WI - Madison, US | On Site | May 07 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Program Management Intern – End User Support & Productivity (EUSP)](https://jobright.ai/jobs/info/69fcea7e432a3c4da8e003d6?utm_campaign=1050&utm_source=git)** | San Diego, US | On Site | May 07 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Medical Services Administrative Intern](https://jobright.ai/jobs/info/69fce8465cff890b03f34739?utm_campaign=1050&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | May 07 |
 | **[Cobec, Inc.](https://cobec.com)** | **[Summer Intern, Entry Level - Internal Operations](https://jobright.ai/jobs/info/69fcdf13938a651755f9740d?utm_campaign=1050&utm_source=git)** | Washington, DC, US | On Site | May 07 |
@@ -80,12 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master - Internship](https://jobright.ai/jobs/info/69fcb4c86b788e7e7a5c1e87?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 07 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69fcd2ea5cff890b03f33b6d?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 07 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern - Project/ Business Manager](https://jobright.ai/jobs/info/69fcca1a432a3c4da8dff0c6?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 07 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26bd?utm_campaign=1050&utm_source=git)** | Salisbury, Maryland, United States | Remote | May 07 |
+| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26be?utm_campaign=1050&utm_source=git)** | Hernando, Florida, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1432a3c4da8dfeed0?utm_campaign=1050&utm_source=git)** | Dover, Delaware, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26bd?utm_campaign=1050&utm_source=git)** | Salisbury, Maryland, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b9b113035a9f8eb8f4?utm_campaign=1050&utm_source=git)** | Belle Haven, Virginia, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b8666f063d3d6d092f?utm_campaign=1050&utm_source=git)** | Georgetown, Delaware, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26be?utm_campaign=1050&utm_source=git)** | Hernando, Florida, United States | Remote | May 07 |
 | **[Leidos](https://www.leidos.com)** | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc2ae432a3c4da8dfee13?utm_campaign=1050&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 07 |
 | ↳ | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc331666f063d3d6d0877?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 07 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc17623160b250eb1bc24b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Spring Intern](https://jobright.ai/jobs/info/69fc36bc0940765d3b5019c9?utm_campaign=1050&utm_source=git)** | Parma, OH | On Site | May 06 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/69fc0d6576c60e7b70af1c8d?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | May 06 |
+| **[Bay Home & Window, A division of the Home Source Company](https://www.bayhomeandwindow.com/)** | **[Project Coordinator Internship](https://jobright.ai/jobs/info/69fceebb432a3c4da8e004e9?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | May 06 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fc0d7a3802c7621fd8f538?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 06 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fc3134a5949019c55b3785?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 06 |
-| ↳ | **[2027 Summer Intern: Strategic Finance- MBA](https://jobright.ai/jobs/info/69fc31052f9f6b7cf691195f?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 06 |
-| **[EBC Inc.](http://www.ebcinc.com)** | **[Internship - Project Manager (Building)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1169?utm_campaign=1050&utm_source=git)** | Ottawa West, Ontario, Canada | On Site | May 06 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - FP&A](https://jobright.ai/jobs/info/69fbefeb2f9f6b7cf690fe51?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | May 06 |
-| **[Cartesian](http://cartesian.systems)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/69fbf04ea5949019c55b1d0d?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
