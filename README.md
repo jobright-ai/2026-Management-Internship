@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SideKix HQ Inc.](SideKixHQ.com)** | **[Business Operations & Admin Internship (unpaid)](https://jobright.ai/jobs/info/69fc9f53938a651755f9563b?utm_campaign=1050&utm_source=git)** | United States | Remote | May 07 |
+| **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 07 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[IT Portfolio & Operations Analyst Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69dfce085913ad3398145e48?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4b6ee33eecf3107951f34?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | May 07 |
 | **[Hancock County School District](http://hancockcountyschools.net)** | **[2026-27 HMS Secretary / Records Clerk (210 Days)](https://jobright.ai/jobs/info/69fc39d73926295db8029ea5?utm_campaign=1050&utm_source=git)** | Kiln, MS | On Site | May 07 |
 | ↳ | **[2026-27 HHS Secretary (Front Desk Clerk)](https://jobright.ai/jobs/info/69fc39d33926295db8029e8c?utm_campaign=1050&utm_source=git)** | Kiln, MS | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[MBA Intern - AI Transformation](https://jobright.ai/jobs/info/69fc6d3b666f063d3d6cd5be?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
@@ -94,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LACCD Intern](https://jobright.ai/jobs/info/69fc421d633e68586cd30054?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, US | On Site | May 06 |
 | ↳ | **[Business Operations Internship or Co-op](https://jobright.ai/jobs/info/69fc3fafd6f1e3068d8efe6c?utm_campaign=1050&utm_source=git)** | Boston, MA, US | Hybrid | May 06 |
 | ↳ | **[Chief of Staff Intern](https://jobright.ai/jobs/info/69fc416d6e32960ebbbe80f4?utm_campaign=1050&utm_source=git)** | NJ, US | On Site | May 06 |
-| ↳ | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fc410b6e32960ebbbe80dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 06 |
 | ↳ | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fc409e3431b1292b9b5d33?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | May 06 |
+| ↳ | **[College Intern (ETS) / Temporary](https://jobright.ai/jobs/info/69fc410b6e32960ebbbe80dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 06 |
 | ↳ | **[MBA Summer Intern](https://jobright.ai/jobs/info/69fc40f5633e68586cd30013?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
 | ↳ | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69fc3e919fc67a0b39f47a09?utm_campaign=1050&utm_source=git)** | Lexington, MA, US | Hybrid | May 06 |
 | ↳ | **[Internship (Research/ Central Business Office)](https://jobright.ai/jobs/info/69fc39ee4ab6391714fd45f3?utm_campaign=1050&utm_source=git)** | MD, US | On Site | May 06 |
@@ -140,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Scrum Master Intern](https://jobright.ai/jobs/info/69fbef0e76c60e7b70af0af9?utm_campaign=1050&utm_source=git)** | Peachtree Corners, GA | On Site | May 06 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College intern](https://jobright.ai/jobs/info/69eb0c2d0a6e095553044236?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 06 |
 | ↳ | **[College Intern - Planning & Development Services](https://jobright.ai/jobs/info/69ebfdde16b2612c2a120561?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 06 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fbdaa3d21cf86d1e3d5444?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | May 06 |
-| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fbdaa287a4820e6da8b029?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | May 06 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fbdaa287a4820e6da8b029?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | May 06 |
+| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fbdaa3d21cf86d1e3d5444?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | May 06 |
 | **[Arrive](https://www.arrive.com)** | **[Strategic Programs Intern](https://jobright.ai/jobs/info/69fbaa7738179b6f1ae7a877?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[Pivotal](https://pivotal.aero)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/69fbaa6338179b6f1ae7a807?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 06 |
 | **[Beyond Type 1](https://beyondtype1.org/)** | **[MBA Intern](https://jobright.ai/jobs/info/69fbead0c39b9a66c0c53f19?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Change & Payments Modernization Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fbdbab86d5cd46527d86af?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Paper Transport](http://www.papertransport.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69fbd97886d5cd46527d82e6?utm_campaign=1050&utm_source=git)** | De Pere, Wisconsin, United States | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Change & Payments Modernization Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fbd99018b94b2515be5063?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
-| **[Draper](https://www.draper.com)** | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fbfcfc3160b250eb1bafc0?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69fbf5fe2f9f6b7cf691016e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | May 06 |
-| **[Certified Centerless Grinding](https://www.certifiedcenterless.com/)** | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9aa86d5cd46527d83b1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
-| ↳ | **[Intern - Executive Assistant (Paid developmental role)](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02380?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
