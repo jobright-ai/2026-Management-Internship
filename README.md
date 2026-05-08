@@ -111,13 +111,13 @@ For a complete list, click the following sortable link below:
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69fcd2ea5cff890b03f33b6d?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 07 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern - Project/ Business Manager](https://jobright.ai/jobs/info/69fcca1a432a3c4da8dff0c6?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 07 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26bd?utm_campaign=1050&utm_source=git)** | Salisbury, Maryland, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1432a3c4da8dfeed0?utm_campaign=1050&utm_source=git)** | Dover, Delaware, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26be?utm_campaign=1050&utm_source=git)** | Hernando, Florida, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b8666f063d3d6d092f?utm_campaign=1050&utm_source=git)** | Georgetown, Delaware, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b9b113035a9f8eb8f4?utm_campaign=1050&utm_source=git)** | Belle Haven, Virginia, United States | Remote | May 07 |
-| **[Leidos](https://www.leidos.com)** | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc2ae432a3c4da8dfee13?utm_campaign=1050&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 07 |
-| ↳ | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc331666f063d3d6d0877?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1432a3c4da8dfeed0?utm_campaign=1050&utm_source=git)** | Dover, Delaware, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b8666f063d3d6d092f?utm_campaign=1050&utm_source=git)** | Georgetown, Delaware, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
+| **[Leidos](https://www.leidos.com)** | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc331666f063d3d6d0877?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 07 |
+| ↳ | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc2ae432a3c4da8dfee13?utm_campaign=1050&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Data Analytics & Project Management Intern](https://jobright.ai/jobs/info/69c4f37733eecf31079570c5?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 07 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Change Management Intern ((NCS) - BCIT](https://jobright.ai/jobs/info/69dfcdf65913ad3398145e27?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 07 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/69e02a735913ad339814813d?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | May 07 |
@@ -127,8 +127,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69e0b36cd612782e61144a47?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 07 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/69c452ae33eecf3107948ca5?utm_campaign=1050&utm_source=git)** | Waterbury, CT | On Site | May 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/69c4b6ee33eecf3107951f34?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | May 07 |
-| **[Hancock County School District](http://hancockcountyschools.net)** | **[2026-27 HMS Secretary / Records Clerk (210 Days)](https://jobright.ai/jobs/info/69fc39d73926295db8029ea5?utm_campaign=1050&utm_source=git)** | Kiln, MS | On Site | May 07 |
-| ↳ | **[2026-27 HHS Secretary (Front Desk Clerk)](https://jobright.ai/jobs/info/69fc39d33926295db8029e8c?utm_campaign=1050&utm_source=git)** | Kiln, MS | On Site | May 07 |
+| **[Hancock County School District](http://hancockcountyschools.net)** | **[2026-27 HHS Secretary (Front Desk Clerk)](https://jobright.ai/jobs/info/69fc39d33926295db8029e8c?utm_campaign=1050&utm_source=git)** | Kiln, MS | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[MBA Intern - AI Transformation](https://jobright.ai/jobs/info/69fc6d3b666f063d3d6cd5be?utm_campaign=1050&utm_source=git)** | United States | Remote | May 06 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Office Assistant](https://jobright.ai/jobs/info/69fc31593160b250eb1bc884?utm_campaign=1050&utm_source=git)** | Syracuse-Auburn Area | On Site | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Comcast Financial Application Analyst Intern Co-op](https://jobright.ai/jobs/info/69fc6cd8e17071257af1a513?utm_campaign=1050&utm_source=git)** | Philadelphia, PA, US | On Site | May 06 |
@@ -144,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Administrative Services Intern](https://jobright.ai/jobs/info/69fc65d92e6c421278ddbe8d?utm_campaign=1050&utm_source=git)** | US | On Site | May 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fc615648d4483e4b6394c4?utm_campaign=1050&utm_source=git)** | Kenosha, WI, US | On Site | May 06 |
 | ↳ | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc61852e6c421278ddbd7b?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
-| ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb548ae180867213541?utm_campaign=1050&utm_source=git)** | Newport Beach, CA, US | Hybrid | May 06 |
 | ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb048ae180867213540?utm_campaign=1050&utm_source=git)** | DC, US | Hybrid | May 06 |
+| ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb548ae180867213541?utm_campaign=1050&utm_source=git)** | Newport Beach, CA, US | Hybrid | May 06 |
 | ↳ | **[Intern - FP&A](https://jobright.ai/jobs/info/69fc5b7e48d4483e4b63916a?utm_campaign=1050&utm_source=git)** | Reston, VA, US | Hybrid | May 06 |
 | ↳ | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69fc56ed48d4483e4b63907a?utm_campaign=1050&utm_source=git)** | Columbus, OH, US | On Site | May 06 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69fc558848d4483e4b638f9e?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/69fc48fd2e6c421278ddb0e1?utm_campaign=1050&utm_source=git)** | MN, US | On Site | May 06 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69fc4484d6f1e3068d8f00b3?utm_campaign=1050&utm_source=git)** | NY, US | On Site | May 06 |
 | ↳ | **[Strategic Programs Intern](https://jobright.ai/jobs/info/69fc4491a90a7f57e848e86b?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | May 06 |
+| ↳ | **[Intern - Project Coordinator](https://jobright.ai/jobs/info/69fc449f633e68586cd301d0?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
