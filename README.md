@@ -110,12 +110,12 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master - Internship](https://jobright.ai/jobs/info/69fcb4c86b788e7e7a5c1e87?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 07 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69fcd2ea5cff890b03f33b6d?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI 48309, US | On Site | May 07 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern - Project/ Business Manager](https://jobright.ai/jobs/info/69fcca1a432a3c4da8dff0c6?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 07 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26be?utm_campaign=1050&utm_source=git)** | Hernando, Florida, United States | Remote | May 07 |
+| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b9b113035a9f8eb8f4?utm_campaign=1050&utm_source=git)** | Belle Haven, Virginia, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b8666f063d3d6d092f?utm_campaign=1050&utm_source=git)** | Georgetown, Delaware, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1432a3c4da8dfeed0?utm_campaign=1050&utm_source=git)** | Dover, Delaware, United States | Remote | May 07 |
 | ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26bd?utm_campaign=1050&utm_source=git)** | Salisbury, Maryland, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b9b113035a9f8eb8f4?utm_campaign=1050&utm_source=git)** | Belle Haven, Virginia, United States | Remote | May 07 |
-| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b8666f063d3d6d092f?utm_campaign=1050&utm_source=git)** | Georgetown, Delaware, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b66b788e7e7a5c26be?utm_campaign=1050&utm_source=git)** | Hernando, Florida, United States | Remote | May 07 |
+| ↳ | **[Energy Logistics Intern](https://jobright.ai/jobs/info/69fcc8b1938a651755f967c5?utm_campaign=1050&utm_source=git)** | Lantana, Florida, United States | Remote | May 07 |
 | **[Leidos](https://www.leidos.com)** | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc2ae432a3c4da8dfee13?utm_campaign=1050&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 07 |
 | ↳ | **[Capture Management Intern](https://jobright.ai/jobs/info/69fcc331666f063d3d6d0877?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 07 |
 | **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69dff2995913ad3398146c33?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | May 07 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Administrative Services Intern](https://jobright.ai/jobs/info/69fc65d92e6c421278ddbe8d?utm_campaign=1050&utm_source=git)** | US | On Site | May 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fc615648d4483e4b6394c4?utm_campaign=1050&utm_source=git)** | Kenosha, WI, US | On Site | May 06 |
 | ↳ | **[Decision Solutions Program Management Intern](https://jobright.ai/jobs/info/69fc61852e6c421278ddbd7b?utm_campaign=1050&utm_source=git)** | Cambridge, MA, US | On Site | May 06 |
-| ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb048ae180867213540?utm_campaign=1050&utm_source=git)** | DC, US | Hybrid | May 06 |
 | ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb548ae180867213541?utm_campaign=1050&utm_source=git)** | Newport Beach, CA, US | Hybrid | May 06 |
+| ↳ | **[SAP iXp Intern - Customer Evolution CoE Supply Chain Management Program Manager](https://jobright.ai/jobs/info/69fc5fb048ae180867213540?utm_campaign=1050&utm_source=git)** | DC, US | Hybrid | May 06 |
 | ↳ | **[Intern - FP&A](https://jobright.ai/jobs/info/69fc5b7e48d4483e4b63916a?utm_campaign=1050&utm_source=git)** | Reston, VA, US | Hybrid | May 06 |
 | ↳ | **[Fall 2026 Internship](https://jobright.ai/jobs/info/69fc56ed48d4483e4b63907a?utm_campaign=1050&utm_source=git)** | Columbus, OH, US | On Site | May 06 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/69fc558848d4483e4b638f9e?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | May 06 |
