@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ff65bd238f143e835256f8?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff65b7fa1aa73213d8bea3?utm_campaign=1050&utm_source=git)** | CRYSTAL LAKE, IL | On Site | May 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff65b6c2ffb31f4535eeb9?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff65b6c4b08448a0b1814f?utm_campaign=1050&utm_source=git)** | COON RAPIDS, MN | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff49d1fa1aa73213d8b728?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff49cba0eddc08c23988d2?utm_campaign=1050&utm_source=git)** | LANCASTER, OH | On Site | May 09 |
@@ -67,12 +66,12 @@ For a complete list, click the following sortable link below:
 | **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/698e9dbef64d441a1650e6be?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ff2cfbc2ffb31f4535d9da?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL,60015-04620-00001-2 | On Site | May 09 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ff2cfac2ffb31f4535d9d9?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 09 |
-| **[Creative Expansions, Inc](cei)** | **[Summer Internship with Mentoring from the CEO](https://jobright.ai/jobs/info/69ff2ce2a0eddc08c2397adb?utm_campaign=1050&utm_source=git)** | Manhattan, NY | Remote | May 09 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/69ff2bba238f143e835240e3?utm_campaign=1050&utm_source=git)** | Aliso Viejo, California, USA | On Site | May 09 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Accelerated Leadership Program Summer Internship](https://jobright.ai/jobs/info/69ff2ba9fa1aa73213d8aa21?utm_campaign=1050&utm_source=git)** | Missouri, St. Louis | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Logistics Continuous Improvement Intern (Re-Hire Only)](https://jobright.ai/jobs/info/69ff29e4c2ffb31f4535d8fc?utm_campaign=1050&utm_source=git)** | Nashua New Hampshire | On Site | May 09 |
 | ↳ | **[Supply Chain Management Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29c1c2ffb31f4535d8e9?utm_campaign=1050&utm_source=git)** | Fort Worth Texas | On Site | May 09 |
 | **[Machine Solutions Inc.](http://www.machinesolutions.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda604?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | May 09 |
+| **[Ports America](https://www.portsamerica.com/)** | **[Intern- Operations- Freeport](https://jobright.ai/jobs/info/69a74ada76bbe83d3afaa8da?utm_campaign=1050&utm_source=git)** | Freeport, TX | On Site | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Project Management)](https://jobright.ai/jobs/info/69ff238074b5407dd4673ab9?utm_campaign=1050&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/69ff230d238f143e83523e84?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 09 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69fb8c0338179b6f1ae79340?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AUMOVIO](https://www.aumovio.com)** | **[Project Management Intern – Automotive Electronics](https://jobright.ai/jobs/info/69fe0f6d52e2b44f558ae34e?utm_campaign=1050&utm_source=git)** | 1 Continental Drive, Auburn Hills, MI | On Site | May 08 |
 | **[BWC Terminals](https://www.bwcterminals.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69feb2301161630dd3b01883?utm_campaign=1050&utm_source=git)** | Gretna, US | On Site | May 08 |
 | **[LOFT Community Services](https://loftcs.org)** | **[Administrative Assistant_Summer Internship](https://jobright.ai/jobs/info/69fe0b1552e2b44f558adf0c?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | On Site | May 08 |
+| **[Hollister Incorporated](https://www.hollister.com)** | **[Intern - Change & Communications](https://jobright.ai/jobs/info/69fe063052e2b44f558ade17?utm_campaign=1050&utm_source=git)** | Stuarts Draft, VA, US, 24477-9998 | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
