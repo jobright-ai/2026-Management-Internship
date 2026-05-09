@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69ff115ea0eddc08c2397669?utm_campaign=1050&utm_source=git)** | LANCASTER, OH | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff1159fa1aa73213d8a66e?utm_campaign=1050&utm_source=git)** | GRAND FORKS, ND | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff1158fa1aa73213d8a66d?utm_campaign=1050&utm_source=git)** | AMES, IA | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff1157fa1aa73213d8a66a?utm_campaign=1050&utm_source=git)** | CRYSTAL LAKE, IL | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69ff1157238f143e835239a8?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[High School Administrative Intern](https://jobright.ai/jobs/info/69ff10dcfa1aa73213d8a650?utm_campaign=1050&utm_source=git)** | United States | Remote | May 09 |
 | **[IMCMV Holdings, Inc- Margaritaville Restaurants](http://www.internationalmealcompany.com)** | **[Front of House Leadership Intern](https://jobright.ai/jobs/info/69fefaf274b5407dd467367d?utm_campaign=1050&utm_source=git)** | Atlantic City,NJ,US | On Site | May 09 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69fef59bc4b08448a0b164f1?utm_campaign=1050&utm_source=git)** | GRIMES, IA | On Site | May 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fef599fa1aa73213d8a2b4?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fef597238f143e835235f6?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 09 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69fef599fa1aa73213d8a2b4?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fef596c2ffb31f4535d1e7?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fef592a0eddc08c2397282?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (EAST) | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Front of House Leadership Intern](https://jobright.ai/jobs/info/69fed2f4cdb965044a864ab4?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ, US | On Site | May 08 |
@@ -77,8 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Ventura Coastal, LLC](http://venturacoastal.com)** | **[Operations Intern (71735)](https://jobright.ai/jobs/info/69febb3f373fc1347f2d0883?utm_campaign=1050&utm_source=git)** | Tipton Plant - Tipton, CA 93272 | On Site | May 08 |
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/69feb59dcdb965044a864250?utm_campaign=1050&utm_source=git)** | NYC | On Site | May 08 |
 | ↳ | **[MBA Intern](https://jobright.ai/jobs/info/69feb42ccdb965044a8641c7?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Supply Chain Management Intern, Summer 2026](https://jobright.ai/jobs/info/69feacb86bcf315dc8f58b95?utm_campaign=1050&utm_source=git)** | Fort Worth Texas | On Site | May 08 |
-| ↳ | **[Logistics Continuous Improvement Intern (Re-Hire Only)](https://jobright.ai/jobs/info/69feac026bcf315dc8f58b2d?utm_campaign=1050&utm_source=git)** | Nashua New Hampshire | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Office Internship](https://jobright.ai/jobs/info/69fe9e85f363bc4dc339fa0b?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO, US | On Site | May 08 |
 | **[Pivotal](https://pivotal.aero)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/69fbaa6338179b6f1ae7a807?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Hotel Operations Intern (based in Santa Monica, CA)](https://jobright.ai/jobs/info/69fe82cd4b9bbf21744b1f90?utm_campaign=1050&utm_source=git)** | NY, US | On Site | May 08 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[COPAL MN](https://www.copalmn.org)** | **[Administrative Assistant - Intern](https://jobright.ai/jobs/info/69feb5941161630dd3b02382?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | May 08 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69e146ca40a62c1fa93b7968?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | May 08 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / PATH Tucson Admin & Communications Intern](https://jobright.ai/jobs/info/69fdf605ad691a11f34eb0c7?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | May 08 |
-| **[Edward Jones](https://www.edwardjones.com)** | **[Accelerated Leadership Program Summer Internship](https://jobright.ai/jobs/info/69fdf4527714cd50b90fd304?utm_campaign=1050&utm_source=git)** | Missouri, St. Louis | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Temporary High School Intern- Lega](https://jobright.ai/jobs/info/69fdf1e04b9bbf21744ad68f?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[Trideum Corporation](http://trideum.com)** | **[Facilities Operations Intern](https://jobright.ai/jobs/info/69fdf0e34b9bbf21744ad5c1?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | May 08 |
 | **[Skydio](https://www.skydio.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c2adfa753c101b2155ef01?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | May 08 |
