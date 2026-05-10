@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69fff24f238f143e8352735d?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24f238f143e8352735e?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24f238f143e8352735f?utm_campaign=1050&utm_source=git)** | ELKHART, IN | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24efa1aa73213d8db55?utm_campaign=1050&utm_source=git)** | GRAND FORKS, ND | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24d74b5407dd4676bf8?utm_campaign=1050&utm_source=git)** | LINCOLN, NE (NORTH) | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24dc4b08448a0b19d99?utm_campaign=1050&utm_source=git)** | COON RAPIDS, MN | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24dc4b08448a0b19d9a?utm_campaign=1050&utm_source=git)** | GRIMES, IA | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24da0eddc08c239aa99?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (EAST) | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24da0eddc08c239aa98?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24da0eddc08c239aa9a?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24dc2ffb31f45360bc5?utm_campaign=1050&utm_source=git)** | KANSAS CITY, KS (WEST) | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24dc2ffb31f45360bc6?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24cfa1aa73213d8db50?utm_campaign=1050&utm_source=git)** | CRYSTAL LAKE, IL | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24cfa1aa73213d8db4f?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24cfa1aa73213d8db51?utm_campaign=1050&utm_source=git)** | BIG RAPIDS, MI | On Site | May 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69fff24cfa1aa73213d8db52?utm_campaign=1050&utm_source=git)** | MOUNT PROSPECT, IL | On Site | May 09 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ffd507238f143e83526f7d?utm_campaign=1050&utm_source=git)** | District of Columbia-Washington | On Site | May 09 |
 | **[CR Equity Ai, Inc.](https://crequitypartnersinvestgrp.com)** | **[Chief of Staff](https://jobright.ai/jobs/info/69ffd34bfa1aa73213d8d708?utm_campaign=1050&utm_source=git)** | United States | Remote | May 09 |
 | **[Cresa](https://pacificpmg.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ffbaef74b5407dd4676520?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 09 |
@@ -106,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe7e8b6bcf315dc8f57f41?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, US | On Site | May 08 |
 | **[Arcus Housing](www.arcushousing.com)** | **[Real estate development project manager](https://jobright.ai/jobs/info/69fe74fef363bc4dc339ed79?utm_campaign=1050&utm_source=git)** | Burlingame, CA | On Site | May 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711c52e2b44f558b1d8a?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed09?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
 | ↳ | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed03?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed09?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe6f76f363bc4dc339ec6c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 08 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe6b76f363bc4dc339ebae?utm_campaign=1050&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | May 08 |
 | **[City of Corona](https://www.coronaca.gov/)** | **[DoD SkillBridge Internship \- Associate Project Manager (501748)](https://jobright.ai/jobs/info/69fe6785ad691a11f34edb87?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | May 08 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 08 |
 | **[FDH Aero](https://fdhaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fe31034b9bbf21744af015?utm_campaign=1050&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
 | **[Analog Devices](http://www.analog.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69a8c41e2580d3183f00d722?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | May 08 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Pricing and Legal Project Management)](https://jobright.ai/jobs/info/69a8e0be79f3f4037f436f01?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Logistics Finance Year-Round Intern](https://jobright.ai/jobs/info/69fe2b347714cd50b90fe97c?utm_campaign=1050&utm_source=git)** | Springdale, AR, US | On Site | May 08 |
-| ↳ | **[Administrative Assistant - Intern](https://jobright.ai/jobs/info/69fe2a604b9bbf21744aec13?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, US | On Site | May 08 |
-| ↳ | **[Year-Round Fleet Operations Intern](https://jobright.ai/jobs/info/69fe2a5fad691a11f34ebfe5?utm_campaign=1050&utm_source=git)** | Charlotte, NC, US | Hybrid | May 08 |
-| ↳ | **[Google Gemini Strategy & Governance Intern](https://jobright.ai/jobs/info/69fe2a3ff363bc4dc339bf0b?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
-| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[VP, Head of Research US Oncology](https://jobright.ai/jobs/info/69a73b7576bbe83d3afa962b?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 08 |
-| **[Christians Living and Care](https://thelutheranhomecape.com)** | **[Business Office Internship](https://jobright.ai/jobs/info/69fe269f6bcf315dc8f54de9?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | May 08 |
-| **[Corpay](https://payments.corpay.com)** | **[Enterprise Associate Intern - Enterprise Management](https://jobright.ai/jobs/info/69fafc1e86d5cd46527d18f1?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 08 |
-| **[BWC Terminals](https://www.bwcterminals.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69fe204e4b9bbf21744ae846?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, US | On Site | May 08 |
-| **[Pretium Enterprise Services, India](www.pretium.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/69fe20316bcf315dc8f54c7c?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
-| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BA Intern - Orlando](https://jobright.ai/jobs/info/69feb2461161630dd3b01901?utm_campaign=1050&utm_source=git)** | Orlando, FL, US | On Site | May 08 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 08 |
-| **[iDE (International Development Enterprises)](https://www.ideglobal.org/)** | **[Google Gemini Strategy & Governance Intern](https://jobright.ai/jobs/info/69fe14947714cd50b90fe1a3?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | May 08 |
-| **[The Susan Thompson Buffett Foundation](http://buffettscholarships.org)** | **[Intern, Global Programs](https://jobright.ai/jobs/info/69fe14794b9bbf21744ae4e9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
-| **[York Space Systems](http://www.yorkspacesystems.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fe10ac6bcf315dc8f547ca?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO, 6060 South Willow Drive, Greenwood Village, Colorado, United States of America | On Site | May 08 |
-| **[Winter4Kids](https://winter4kids.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fe106bad691a11f34eb8e6?utm_campaign=1050&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
