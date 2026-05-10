@@ -57,16 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0046b774b5407dd4678363?utm_campaign=1050&utm_source=git)** | WARREN, OH | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b1a0eddc08c239bc09?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b1238f143e83528869?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | May 10 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0062fa238f143e83528bb3?utm_campaign=1050&utm_source=git)** | ROLLA,MO | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062faa0eddc08c239bf8f?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062fafa1aa73213d8f24d?utm_campaign=1050&utm_source=git)** | GRAND FORKS, ND | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062fac2ffb31f4536203b?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062fac2ffb31f4536203a?utm_campaign=1050&utm_source=git)** | KANSAS CITY, KS (WEST) | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062fafa1aa73213d8f24c?utm_campaign=1050&utm_source=git)** | MOUNT PROSPECT, IL | On Site | May 10 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a0062faa0eddc08c239bf90?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0062f9c4b08448a0b1b201?utm_campaign=1050&utm_source=git)** | COON RAPIDS, MN | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b1a0eddc08c239bc0a?utm_campaign=1050&utm_source=git)** | LANCASTER, OH | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b1238f143e83528869?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eef3?utm_campaign=1050&utm_source=git)** | AMES, IA | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eef1?utm_campaign=1050&utm_source=git)** | BIG RAPIDS, MI | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eeee?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0c4b08448a0b1ae9a?utm_campaign=1050&utm_source=git)** | GRIMES, IA | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eeed?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eeee?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eef1?utm_campaign=1050&utm_source=git)** | BIG RAPIDS, MI | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eef2?utm_campaign=1050&utm_source=git)** | CRYSTAL LAKE, IL | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046b0fa1aa73213d8eeed?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046afa0eddc08c239bc04?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (EAST) | On Site | May 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0046afa0eddc08c239bc05?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 10 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a003c5e238f143e83528431?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Early In Career Program Manager Intern](https://jobright.ai/jobs/info/69fe3b45ad691a11f34ec626?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, USA Office | On Site | May 08 |
 | **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/69fe3a8052e2b44f558af461?utm_campaign=1050&utm_source=git)** | US-AL-Montgomery | On Site | May 08 |
 | **[MV Transportation](http://www.mvtransit.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/69fe3a644b9bbf21744af35b?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX, US | On Site | May 08 |
-| **[NJ Cannabis Consulting LLC](http://www.njcannabisconsulting.com)** | **[Intern - The Cannabis Learning Center](https://jobright.ai/jobs/info/69fe39976bcf315dc8f5577d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
-| **[Co-operators](http://www.cooperators.ca/)** | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39656bcf315dc8f556b2?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| ↳ | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39634b9bbf21744af18a?utm_campaign=1050&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | May 08 |
-| **[Loenbro](http://loenbro.com)** | **[Intern](https://jobright.ai/jobs/info/69ddf78be34484770f1a05a0?utm_campaign=1050&utm_source=git)** | Gilbert, AZ | On Site | May 08 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fe31034b9bbf21744af015?utm_campaign=1050&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
