@@ -57,9 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a019852fa1aa73213d93b22?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a019851df52f1450d8441f6?utm_campaign=1050&utm_source=git)** | WAUSAU, WI | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a019851df52f1450d8441f4?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 11 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a018dc3c2ffb31f45366349?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 11 |
 | **[PuffRush](https://www.thepuffrush.com)** | **[Project Manager](https://jobright.ai/jobs/info/6a018412c2ffb31f453662ed?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 11 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a01697cc2ffb31f45365d7f?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR, US | On Site | May 10 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69fe48d74b9bbf21744b052a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/69fe487952e2b44f558b0579?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | May 08 |
 | ↳ | **[Project Management Intern – Automotive Electronics](https://jobright.ai/jobs/info/69fe469df363bc4dc339d6a2?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI, US | On Site | May 08 |
+| ↳ | **[Enterprise Strategy Summer Internship](https://jobright.ai/jobs/info/69fe468452e2b44f558b0246?utm_campaign=1050&utm_source=git)** | Westwood, MA, US | On Site | May 08 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain/Shared Services](https://jobright.ai/jobs/info/69fe468152e2b44f558b0239?utm_campaign=1050&utm_source=git)** | RALEIGH, North Carolina | On Site | May 08 |
+| **[NetApp](http://netapp.com)** | **[Early In Career Program Manager Intern](https://jobright.ai/jobs/info/69fe3b45ad691a11f34ec626?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, USA Office | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
