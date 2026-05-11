@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrizePicks](https://prizepicks.com)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a01e62fc2ffb31f45368473?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 11 |
+| **[Mayze Interiors](https://mayzeatelier.com/)** | **[Administrative Operations Intern (Unpaid – For Credit)](https://jobright.ai/jobs/info/6a01e438c4b08448a0b213c5?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 11 |
+| **[Ring Power Cat](http://www.ringpower.com)** | **[Service Supervisor Trainee - Heavy Equipment - (Summer Intern)](https://jobright.ai/jobs/info/6a01dd37c2ffb31f45367b2a?utm_campaign=1050&utm_source=git)** | St. Augustine, FL, US | On Site | May 11 |
+| **[Moderna](http://www.modernatx.com)** | **[Intern, Program and Portfolio Strategy](https://jobright.ai/jobs/info/6a01dcf03053db70a117281c?utm_campaign=1050&utm_source=git)** | G&A, US | On Site | May 11 |
+| **[Ring Power Cat](http://www.ringpower.com)** | **[Service Supervisor Trainee - Heavy Equipment - (Summer Intern)](https://jobright.ai/jobs/info/6a01dce0fa1aa73213d9499f?utm_campaign=1050&utm_source=git)** | US-FL-St. Augustine | On Site | May 11 |
+| **[Moderna](http://www.modernatx.com)** | **[Intern, Program and Portfolio Strategy](https://jobright.ai/jobs/info/6a01dcafdf52f1450d84556f?utm_campaign=1050&utm_source=git)** | Cambridge, Massachusetts, US | On Site | May 11 |
+| **[Yale University](https://www.yale.edu)** | **[Facilities SPPP Intern](https://jobright.ai/jobs/info/6a01dcaa238f143e8352e58f?utm_campaign=1050&utm_source=git)** | Whitney Grove Square, US | On Site | May 11 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a01d721c2ffb31f453677ef?utm_campaign=1050&utm_source=git)** | US-NY-Calverton | On Site | May 11 |
 | ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a01d71ffa1aa73213d947f6?utm_campaign=1050&utm_source=git)** | New York | On Site | May 11 |
 | ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a01d6eec4b08448a0b20941?utm_campaign=1050&utm_source=git)** | Calverton, NY, US | On Site | May 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a01d0b1df52f1450d845281?utm_campaign=1050&utm_source=git)** | WAUSAU, WI | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a01d0b1df52f1450d845280?utm_campaign=1050&utm_source=git)** | KANSAS CITY, KS (WEST) | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a01d0b1df52f1450d84527f?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 11 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a018dc3c2ffb31f45366349?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 11 |
 | **[PuffRush](https://www.thepuffrush.com)** | **[Project Manager](https://jobright.ai/jobs/info/6a018412c2ffb31f453662ed?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 11 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a01697cc2ffb31f45365d7f?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR, US | On Site | May 10 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Remote | May 10 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/697264fe4ccbf64f8df25e4b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | May 10 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 10 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 10 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6cd091818a24cd84c8a5b?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | May 10 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Associate Vice President, Office of Research and Economic Development](https://jobright.ai/jobs/info/694b58665d731211346fe181?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | May 10 |
@@ -139,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe7e8b6bcf315dc8f57f41?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, US | On Site | May 08 |
 | **[Arcus Housing](www.arcushousing.com)** | **[Real estate development project manager](https://jobright.ai/jobs/info/69fe74fef363bc4dc339ed79?utm_campaign=1050&utm_source=git)** | Burlingame, CA | On Site | May 08 |
 | **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - Admin/Outreah](https://jobright.ai/jobs/info/6a016867c2ffb31f453659a1?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711c52e2b44f558b1d8a?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed09?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed09?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
+| ↳ | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711c52e2b44f558b1d8a?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 08 |
 | ↳ | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed03?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 08 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe6f76f363bc4dc339ec6c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 08 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe6b76f363bc4dc339ebae?utm_campaign=1050&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | May 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Broking- Natural Resources-2026](https://jobright.ai/jobs/info/69fe629a7714cd50b9100a34?utm_campaign=1050&utm_source=git)** | Miami, FL, US | On Site | May 08 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Recent Grad Admin Intern](https://jobright.ai/jobs/info/69fe6163f363bc4dc339e40a?utm_campaign=1050&utm_source=git)** | University, MS, US | On Site | May 08 |
 | **[LOFT Community Services](https://loftcs.org)** | **[Project Administration Officer_Summer Internship](https://jobright.ai/jobs/info/69fe611e52e2b44f558b1456?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Hybrid | May 08 |
-| **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe608f52e2b44f558b13f3?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 08 |
-| **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe5bdb6bcf315dc8f56f4c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, USA | On Site | May 08 |
-| **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69e17716d612782e61148cf3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 08 |
-| **[WTW](https://www.wtwco.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Broking- Natural Resources-2026](https://jobright.ai/jobs/info/69feb6711161630dd3b027a2?utm_campaign=1050&utm_source=git)** | 1450 Brickell Avenue, Miami, FL, 33131, US | On Site | May 08 |
-| **[REVELxp](https://revelxp.com)** | **[REVELxp - Carolina Athletic Hospitality Game Day Intern](https://jobright.ai/jobs/info/69fe4d317714cd50b9100451?utm_campaign=1050&utm_source=git)** | Chapel Hill,NC,US | On Site | May 08 |
-| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Summer Internship - Project Management](https://jobright.ai/jobs/info/69fe49786bcf315dc8f569eb?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States of America | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
