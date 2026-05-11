@@ -58,12 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a01697cc2ffb31f45365d7f?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR, US | On Site | May 10 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a015fe7c2ffb31f4536589b?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a015fe7fa1aa73213d92da6?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a015fe7a0eddc08c239f4cc?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 10 |
 | **[Jefferson Bank](https://www.jeffersonbank.com/)** | **[Private Banking Intern](https://jobright.ai/jobs/info/6a015cb43053db70a1170540?utm_campaign=1050&utm_source=git)** | San Antonio, TX, US | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Utilization & Growth Internship](https://jobright.ai/jobs/info/6a0159daa0eddc08c239f255?utm_campaign=1050&utm_source=git)** | United States | Remote | May 10 |
-| **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a01397b238f143e8352b6d1?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 10 |
 | **[United Airlines](https://www.united.com)** | **[Intern - CRE Strategy and Analytics (Summer 2026)](https://jobright.ai/jobs/info/6a012574c2ffb31f45364b48?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | May 10 |
 | **[TransLink](http://www.translink.ca)** | **[Technology Business Management Intern - FTT](https://jobright.ai/jobs/info/69c4daa56f4f855eeda78d68?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 10 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d414c4366bb95ba553a40a?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | May 10 |
@@ -80,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/69efe2a70a6e095553057d4a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69f58c5f43a25828a8d190de?utm_campaign=1050&utm_source=git)** | Deerfield, IL | On Site | May 09 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager Internship, Fall 2026](https://jobright.ai/jobs/info/69eae1820a6e09555304381a?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 09 |
-| **[Roselyn Initiative](https://roselyninitiative.wixsite.com/roselyn-initiative-1)** | **[Chief of Staff](https://jobright.ai/jobs/info/6a01686da0eddc08c239f605?utm_campaign=1050&utm_source=git)** | United States | Remote | May 09 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69d74cd4e63cea7a8b670653?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | May 09 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ffd507238f143e83526f7d?utm_campaign=1050&utm_source=git)** | District of Columbia-Washington | On Site | May 09 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager Internship, Fall 2026](https://jobright.ai/jobs/info/69ea64294b0fa35a70773d2b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 09 |
@@ -157,4 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern – Automotive Electronics](https://jobright.ai/jobs/info/69fe469df363bc4dc339d6a2?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI, US | On Site | May 08 |
 | ↳ | **[Enterprise Strategy Summer Internship](https://jobright.ai/jobs/info/69fe468452e2b44f558b0246?utm_campaign=1050&utm_source=git)** | Westwood, MA, US | On Site | May 08 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain/Shared Services](https://jobright.ai/jobs/info/69fe468152e2b44f558b0239?utm_campaign=1050&utm_source=git)** | RALEIGH, North Carolina | On Site | May 08 |
+| **[NetApp](http://netapp.com)** | **[Early In Career Program Manager Intern](https://jobright.ai/jobs/info/69fe3b45ad691a11f34ec626?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, USA Office | On Site | May 08 |
+| **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/69fe3a8052e2b44f558af461?utm_campaign=1050&utm_source=git)** | US-AL-Montgomery | On Site | May 08 |
+| **[MV Transportation](http://www.mvtransit.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/69fe3a644b9bbf21744af35b?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX, US | On Site | May 08 |
+| **[NJ Cannabis Consulting LLC](http://www.njcannabisconsulting.com)** | **[Intern - The Cannabis Learning Center](https://jobright.ai/jobs/info/69fe39976bcf315dc8f5577d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
+| **[Co-operators](http://www.cooperators.ca/)** | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39656bcf315dc8f556b2?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
