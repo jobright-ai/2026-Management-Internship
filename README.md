@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jefferson Bank](https://www.jeffersonbank.com/)** | **[Private Banking Intern](https://jobright.ai/jobs/info/6a015cb43053db70a1170540?utm_campaign=1050&utm_source=git)** | San Antonio, TX, US | On Site | May 10 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Utilization & Growth Internship](https://jobright.ai/jobs/info/6a0159daa0eddc08c239f255?utm_campaign=1050&utm_source=git)** | United States | Remote | May 10 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a01397b238f143e8352b6d1?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 10 |
 | **[United Airlines](https://www.united.com)** | **[Intern - CRE Strategy and Analytics (Summer 2026)](https://jobright.ai/jobs/info/6a012574c2ffb31f45364b48?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | May 10 |
+| **[TransLink](http://www.translink.ca)** | **[Technology Business Management Intern - FTT](https://jobright.ai/jobs/info/69c4daa56f4f855eeda78d68?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 10 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Program Management Summer Intern 2026](https://jobright.ai/jobs/info/69d414c4366bb95ba553a40a?utm_campaign=1050&utm_source=git)** | Brisbane, CA | On Site | May 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Student Intern – Bilingual Japanese and English](https://jobright.ai/jobs/info/69bca7bf45e08b3dc1f96ca0?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | May 10 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Remote | May 10 |
@@ -135,14 +138,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Supply Chain/Shared Services](https://jobright.ai/jobs/info/69fe65a76bcf315dc8f57632?utm_campaign=1050&utm_source=git)** | Raleigh, NC, US | On Site | May 08 |
 | ↳ | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69fe62b84b9bbf21744b11ff?utm_campaign=1050&utm_source=git)** | NY, US | Hybrid | May 08 |
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Broking- Natural Resources-2026](https://jobright.ai/jobs/info/69fe629a7714cd50b9100a34?utm_campaign=1050&utm_source=git)** | Miami, FL, US | On Site | May 08 |
-| **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f533e4a3d34b4f76f54471?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 08 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Recent Grad Admin Intern](https://jobright.ai/jobs/info/69fe6163f363bc4dc339e40a?utm_campaign=1050&utm_source=git)** | University, MS, US | On Site | May 08 |
 | **[LOFT Community Services](https://loftcs.org)** | **[Project Administration Officer_Summer Internship](https://jobright.ai/jobs/info/69fe611e52e2b44f558b1456?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Hybrid | May 08 |
 | **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe608f52e2b44f558b13f3?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 08 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f543fd43a25828a8d180f9?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | May 08 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/69fe5bdb6bcf315dc8f56f4c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, USA | On Site | May 08 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/69e17716d612782e61148cf3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 08 |
-| **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Business & Operations](https://jobright.ai/jobs/info/69f5305243a25828a8d17b75?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Broking- Natural Resources-2026](https://jobright.ai/jobs/info/69feb6711161630dd3b027a2?utm_campaign=1050&utm_source=git)** | 1450 Brickell Avenue, Miami, FL, 33131, US | On Site | May 08 |
 | **[REVELxp](https://revelxp.com)** | **[REVELxp - Carolina Athletic Hospitality Game Day Intern](https://jobright.ai/jobs/info/69fe4d317714cd50b9100451?utm_campaign=1050&utm_source=git)** | Chapel Hill,NC,US | On Site | May 08 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Summer Internship - Project Management](https://jobright.ai/jobs/info/69fe49786bcf315dc8f569eb?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States of America | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/69fe3a8052e2b44f558af461?utm_campaign=1050&utm_source=git)** | US-AL-Montgomery | On Site | May 08 |
 | **[MV Transportation](http://www.mvtransit.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/69fe3a644b9bbf21744af35b?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX, US | On Site | May 08 |
 | **[NJ Cannabis Consulting LLC](http://www.njcannabisconsulting.com)** | **[Intern - The Cannabis Learning Center](https://jobright.ai/jobs/info/69fe39976bcf315dc8f5577d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 08 |
-| **[Co-operators](http://www.cooperators.ca/)** | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39656bcf315dc8f556b2?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
