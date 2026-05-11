@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a010bddc2ffb31f453647a0?utm_campaign=1050&utm_source=git)** | WESTOVER, WV | On Site | May 10 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a010bddfa1aa73213d918ce?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | May 10 |
 | **[Harry Fintech India](https://www.linkedin.com/company/106418786)** | **[Clinical Research Coordination](https://jobright.ai/jobs/info/6a00ecb474b5407dd467a5c2?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | May 10 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Remote | May 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6955f909f1f8465b79ece776?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Co-operators](http://www.cooperators.ca/)** | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39656bcf315dc8f556b2?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 | ↳ | **[Senior Vendor Mgmt Coordinator](https://jobright.ai/jobs/info/69fe39634b9bbf21744af18a?utm_campaign=1050&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | May 08 |
 | **[Loenbro](http://loenbro.com)** | **[Intern](https://jobright.ai/jobs/info/69ddf78be34484770f1a05a0?utm_campaign=1050&utm_source=git)** | Gilbert, AZ | On Site | May 08 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6971377451f7264771836de5?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 08 |
-| **[FDH Aero](https://fdhaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fe31034b9bbf21744af015?utm_campaign=1050&utm_source=git)** | Commerce, CA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
