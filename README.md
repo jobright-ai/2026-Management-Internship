@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Project Manager (Intern)](https://jobright.ai/jobs/info/6a028037df52f1450d84b128?utm_campaign=1050&utm_source=git)** | United States | Remote | May 11 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[MDN Administrative Intern (Per Diem)](https://jobright.ai/jobs/info/6a027ac9c4b08448a0b2694e?utm_campaign=1050&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | May 11 |
+| **[Willdan Performance Engineering](https://www.willdan.com/solutions/design-build-energy-performance-contracting.aspx)** | **[Administrative Assistant - Summer Intern](https://jobright.ai/jobs/info/6a027761c4b08448a0b26799?utm_campaign=1050&utm_source=git)** | Temecula, CA, US | On Site | May 11 |
 | **[Kiva](http://kiva.org)** | **[Review and Translation Program Project Manager Intern](https://jobright.ai/jobs/info/6a027669fa1aa73213d9a541?utm_campaign=1050&utm_source=git)** | U.S Remote | Remote | May 11 |
 | **[Willdan](http://www.willdan.com)** | **[Administrative Assistant - Summer Intern](https://jobright.ai/jobs/info/6a02740fc2ffb31f4536d4dc?utm_campaign=1050&utm_source=git)** | Temecula, CA, US | On Site | May 11 |
 | **[Commute.org](http://www.commute.org)** | **[Shuttle Program Internship](https://jobright.ai/jobs/info/6a02647cc2ffb31f4536d02f?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 11 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a025d28c2ffb31f4536cdd0?utm_campaign=1050&utm_source=git)** | ST. CROIX FALLS, WI | On Site | May 11 |
 | **[Moderna](http://www.modernatx.com)** | **[Intern, Business and Alliance Management Operations](https://jobright.ai/jobs/info/6a024de7df52f1450d84996d?utm_campaign=1050&utm_source=git)** | G&A, US | On Site | May 11 |
 | ↳ | **[Intern, Business and Alliance Management Operations](https://jobright.ai/jobs/info/6a024dcec4b08448a0b25100?utm_campaign=1050&utm_source=git)** | Cambridge, Massachusetts, US | On Site | May 11 |
 | **[careers at ease](easeradio.com)** | **[Operations & Production Internship / Summer 2026](https://jobright.ai/jobs/info/6a024dcb238f143e83532d47?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69ffd507238f143e83526f7d?utm_campaign=1050&utm_source=git)** | District of Columbia-Washington | On Site | May 09 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager Internship, Fall 2026](https://jobright.ai/jobs/info/69ea64294b0fa35a70773d2b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 09 |
 | **[Amazon](https://amazon.com)** | **[Technical Program Manager LEO Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a026ca4c2ffb31f4536d1ac?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 09 |
-| **[Cresa](https://pacificpmg.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69ffbaef74b5407dd4676520?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 09 |
-| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Program Management Summer Intern (3 months)](https://jobright.ai/jobs/info/69c5b044aa9a29199e808cff?utm_campaign=1050&utm_source=git)** | Aston, PA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
