@@ -57,19 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Logistics Planning (International Student)](https://jobright.ai/jobs/info/6a02e64a22395b6dc6d8f272?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 12 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a02d0c77c753c287f6e137e?utm_campaign=1050&utm_source=git)** | Pittston, PA, US | On Site | May 12 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a02c3647c753c287f6e06a3?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a02b1babc4184089f22b3dd?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1babc4184089f22b3de?utm_campaign=1050&utm_source=git)** | FRIDLEY, MN | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1afed6a637463f48bac?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1afed6a637463f48bab?utm_campaign=1050&utm_source=git)** | SHEBOYGAN, WI | On Site | May 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1afed6a637463f48bac?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1afed6a637463f48baa?utm_campaign=1050&utm_source=git)** | DEFIANCE, OH | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1ac6c07461fe16fca3d?utm_campaign=1050&utm_source=git)** | MARION, OH | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1ac6c07461fe16fca3e?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1ab6c07461fe16fca3c?utm_campaign=1050&utm_source=git)** | BELLEVILLE,MI | On Site | May 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1a97c753c287f6dfd2f?utm_campaign=1050&utm_source=git)** | LINCOLN, NE (NORTH) | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1a97c753c287f6dfd2e?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1a97c753c287f6dfd2d?utm_campaign=1050&utm_source=git)** | OTTUMWA, IA | On Site | May 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02b1a97c753c287f6dfd2f?utm_campaign=1050&utm_source=git)** | LINCOLN, NE (NORTH) | On Site | May 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Agile Scrum Master Internship (100% Remote)](https://jobright.ai/jobs/info/6a02c3fcf3d6cc51d6370769?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 11 |
 | **[SquareTrade](https://www.squaretrade.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/6a02934205484923de47667c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Operations Intern - US](https://jobright.ai/jobs/info/69faf679d21cf86d1e3ce945?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
@@ -138,6 +138,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Program and Portfolio Strategy](https://jobright.ai/jobs/info/6a01dcafdf52f1450d84556f?utm_campaign=1050&utm_source=git)** | Cambridge, Massachusetts, US | On Site | May 11 |
 | **[Yale University](https://www.yale.edu)** | **[Facilities SPPP Intern](https://jobright.ai/jobs/info/6a01dcaa238f143e8352e58f?utm_campaign=1050&utm_source=git)** | Whitney Grove Square, US | On Site | May 11 |
 | **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Operations Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6be7820c036924cddcc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a02e634f3d6cc51d63716b7?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | May 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02e6316c07461fe16fe8f0?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | May 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02e6316c07461fe16fe8ef?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a02e634f3d6cc51d63716b8?utm_campaign=1050&utm_source=git)** | De Pere, WI | On Site | May 11 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a01d721c2ffb31f453677ef?utm_campaign=1050&utm_source=git)** | US-NY-Calverton | On Site | May 11 |
 | ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a01d71ffa1aa73213d947f6?utm_campaign=1050&utm_source=git)** | New York | On Site | May 11 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo Grove, IL | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regal Boats](http://regalboats.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69e8489f58811370cb121ff4?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 10 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a01697cc2ffb31f45365d7f?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR, US | On Site | May 10 |
 | **[Jefferson Bank](https://www.jeffersonbank.com/)** | **[Private Banking Intern](https://jobright.ai/jobs/info/6a015cb43053db70a1170540?utm_campaign=1050&utm_source=git)** | San Antonio, TX, US | On Site | May 10 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Utilization & Growth Internship](https://jobright.ai/jobs/info/6a0159daa0eddc08c239f255?utm_campaign=1050&utm_source=git)** | United States | Remote | May 10 |
-| **[Pivotal](https://pivotal.aero)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/69fbaa6338179b6f1ae7a807?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 10 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Executive Assistant & Operations Coordinator](https://jobright.ai/jobs/info/69c713651818a24cd84cb693?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 10 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a02c8b5f3d6cc51d6370b3a?utm_campaign=1050&utm_source=git)** | Chillicothe, OH | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
