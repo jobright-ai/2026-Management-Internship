@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Electric Construction Co., Inc.](http://capitalelectric.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a03d6d66c07461fe1707b9f?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | May 12 |
+| **[HIMSS](http://www.himss.org)** | **[Intern - Chapter Engagement Operations](https://jobright.ai/jobs/info/6a03d6b4f811a04369605ec9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a03d56922395b6dc6d9825f?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 12 |
+| **[ATL Technology](http://atltechnology.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a03d22af811a04369605d8e?utm_campaign=1050&utm_source=git)** | Springville, UT | On Site | May 12 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03c6ccbc4184089f235a44?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
 | **[State Street](https://www.statestreet.com/)** | **[Legal PMO – Project Analyst, Full-time 6 months internship (July 2026 - Dec 2026)](https://jobright.ai/jobs/info/6a03c6bef3d6cc51d6379c4c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 12 |
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03c44b6c07461fe170739e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/6a03b5c322395b6dc6d9774b?utm_campaign=1050&utm_source=git)** | Piscataway, NJ | On Site | May 12 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a03b5696c07461fe1706e84?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 12 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship - Front Office Operations](https://jobright.ai/jobs/info/6a03b5488ecfd93cd9c1121c?utm_campaign=1050&utm_source=git)** | McGaheysville, VA | On Site | May 12 |
-| **[General Dynamics](https://www.gd.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/6a03b2be7c753c287f6e9b41?utm_campaign=1050&utm_source=git)** | US-Telework-Telework | Remote | May 12 |
 | **[Hayes Company LLC](https://hayesco.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a03af948ecfd93cd9c10e18?utm_campaign=1050&utm_source=git)** | Mesquite, TX, US | On Site | May 12 |
 | **[Switch](https://switch.us/)** | **[Intern](https://jobright.ai/jobs/info/6a03af407c753c287f6e98c1?utm_campaign=1050&utm_source=git)** | St Louis, MO 63139, USA | On Site | May 12 |
 | **[Berluti](http://www.berluti.com/)** | **[Berluti Internship - Retail Excellence Assistant](https://jobright.ai/jobs/info/6a03ac4522395b6dc6d971a9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6a038f1f22395b6dc6d95ed2?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[WM](https://www.wm.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a038f06f3d6cc51d6377f85?utm_campaign=1050&utm_source=git)** | Windsor, CT | Hybrid | May 12 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship, Summer 2026](https://jobright.ai/jobs/info/6a038eb76c07461fe170540e?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | May 12 |
-| **[Community Health Systems](http://www.chs.net)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a038e44bc4184089f2339bf?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a038dc68ecfd93cd9c0f6e8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 12 |
 | **[Gilson](http://gilson.com)** | **[Supply Chain and Operations Intern](https://jobright.ai/jobs/info/6a038d936c07461fe1705275?utm_campaign=1050&utm_source=git)** | Middleton, WI, US | On Site | May 12 |
 | **[Everus](https://everus.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a038be68ecfd93cd9c0f559?utm_campaign=1050&utm_source=git)** | Kansas City, MO 64165, USA | On Site | May 12 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6a0376f1f3d6cc51d6376d4b?utm_campaign=1050&utm_source=git)** | Mandeville, LA, USA, US | On Site | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/6a03766bbc4184089f232a86?utm_campaign=1050&utm_source=git)** | US | Remote | May 12 |
 | **[Keel](http://keel.so)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a037639f3d6cc51d6376cbc?utm_campaign=1050&utm_source=git)** | Saginaw,MI,US | On Site | May 12 |
-| **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a0372c022395b6dc6d947af?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 12 |
 | **[State Street](https://www.statestreet.com/)** | **[Legal PMO – Project Analyst, Full-time 6 months internship (July 2026 - Dec 2026)](https://jobright.ai/jobs/info/6a037288ed6a637463f4fd60?utm_campaign=1050&utm_source=git)** | Boston, Massachusetts, US | On Site | May 12 |
 | **[CreaGen, Inc.](https://creageninc.com)** | **[Entry Level Business Administration and Operations Intern](https://jobright.ai/jobs/info/6a036e3e6c07461fe1703aad?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | May 12 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a0344aef3d6cc51d637528a?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
 | **[You.com](https://you.com)** | **[2026 Strategy & Operations Intern](https://jobright.ai/jobs/info/69e715929b6eb37e26f82fa7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/69f21d64825a315d7ca3ad4d?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | May 12 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3d?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | May 12 |
-| ↳ | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3c?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | May 12 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3c?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | May 12 |
+| ↳ | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3d?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | May 12 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69ca9c92e565c26a7003ed25?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 12 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a033e586c07461fe17021b5?utm_campaign=1050&utm_source=git)** | White, GA, US, 30184 | On Site | May 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a033e39ed6a637463f4e030?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
 | **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699381b2ce78e77b4fd75370?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcdee7e6a0d979258507a8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 12 |
-| ↳ | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a033699bc4184089f22ff48?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
