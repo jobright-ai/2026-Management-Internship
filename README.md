@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Administrative Intern - Research Institute](https://jobright.ai/jobs/info/69fc43a8633e68586cd300ac?utm_campaign=1050&utm_source=git)** | Cooperstown, NY | On Site | May 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef1cf811a04369606824?utm_campaign=1050&utm_source=git)** | Brusly, LA | On Site | May 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef09f811a043696067bb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef0822395b6dc6d98c05?utm_campaign=1050&utm_source=git)** | Denham Springs, LA | On Site | May 12 |
@@ -66,8 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708275?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | May 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708277?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | May 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03e87fbc4184089f2367a7?utm_campaign=1050&utm_source=git)** | Muscatine, IA | On Site | May 12 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a03e72b6c07461fe1708201?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 12 |
-| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a03e72b7c753c287f6eb107?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 12 |
 | **[TAMKO](http://tamko.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a03e2a17c753c287f6eaf35?utm_campaign=1050&utm_source=git)** | Joplin, Missouri, United States | On Site | May 12 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy - CAPEX Projects (Fall 2026)](https://jobright.ai/jobs/info/6a03e24922395b6dc6d98850?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | ↳ | **[Intern, Project Management - Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a03e154bc4184089f23647f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
@@ -127,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Intern - Supply Planning Optimization 1](https://jobright.ai/jobs/info/6a037d60bc4184089f232e39?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | May 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Managment Intern (Office of Operations)](https://jobright.ai/jobs/info/6a037892ed6a637463f502fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Quest Global](http://www.quest-global.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0378416c07461fe17044fa?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/69ce0371cdb525785fb92c23?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | May 12 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6a0376f1f3d6cc51d6376d4b?utm_campaign=1050&utm_source=git)** | Mandeville, LA, USA, US | On Site | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/6a03766bbc4184089f232a86?utm_campaign=1050&utm_source=git)** | US | Remote | May 12 |
 | **[Keel](http://keel.so)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a037639f3d6cc51d6376cbc?utm_campaign=1050&utm_source=git)** | Saginaw,MI,US | On Site | May 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a0344aef3d6cc51d637528a?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
 | **[You.com](https://you.com)** | **[2026 Strategy & Operations Intern](https://jobright.ai/jobs/info/69e715929b6eb37e26f82fa7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/69f21d64825a315d7ca3ad4d?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | May 12 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3c?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | May 12 |
+| ↳ | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3d?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
