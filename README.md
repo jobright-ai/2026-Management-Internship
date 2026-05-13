@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Potomac Testing](https://www.potomactesting.com/)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/6a0409876c07461fe1709250?utm_campaign=1050&utm_source=git)** | Crofton, MD | On Site | May 12 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042e7c753c287f6ebfba?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 12 |
+| ↳ | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042d7c753c287f6ebfb9?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0402f6bc4184089f237618?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0402f6bc4184089f237611?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 12 |
 | **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Administrative Intern - Research Institute](https://jobright.ai/jobs/info/69fc43a8633e68586cd300ac?utm_campaign=1050&utm_source=git)** | Cooperstown, NY | On Site | May 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef1cf811a04369606824?utm_campaign=1050&utm_source=git)** | Brusly, LA | On Site | May 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef09f811a043696067bb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Scrum Master Intern (100% Remote)](https://jobright.ai/jobs/info/6a037ffb6c07461fe1704b73?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 12 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Revenue Cycle Admin Intern](https://jobright.ai/jobs/info/6a034916f3d6cc51d6375364?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 12 |
 | ↳ | **[Rotational Revenue Cycle: Admin Intern](https://jobright.ai/jobs/info/6a034911f3d6cc51d637534f?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 12 |
-| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a0344aef3d6cc51d637528a?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
-| **[You.com](https://you.com)** | **[2026 Strategy & Operations Intern](https://jobright.ai/jobs/info/69e715929b6eb37e26f82fa7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
-| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/69f21d64825a315d7ca3ad4d?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | May 12 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3c?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | May 12 |
-| ↳ | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a034156bc4184089f230b3d?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
