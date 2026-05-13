@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/69e8bc34e0cd471b2f137dcf?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | May 13 |
+| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Office Administrator Intern](https://jobright.ai/jobs/info/6a04d1596c07461fe1710f8f?utm_campaign=1050&utm_source=git)** | Santa Clara, California, United States | On Site | May 13 |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdcf3d6cc51d6382e00?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | May 13 |
+| ↳ | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdbf3d6cc51d6382dff?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | May 13 |
+| **[Team Select](https://www.tshc.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/6a04cb5b6c07461fe1710c6a?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | May 13 |
+| **[AMS Group, Inc.](https://www.amsgroup.net)** | **[Program Administrator Intern](https://jobright.ai/jobs/info/6a04ca6f7c753c287f6f34cf?utm_campaign=1050&utm_source=git)** | San Diego,CA,US | On Site | May 13 |
+| **[Markondo](https://www.markondo.com)** | **[Front Office Operations Intern](https://jobright.ai/jobs/info/6a04c9d16c07461fe1710b9b?utm_campaign=1050&utm_source=git)** | Falls Church, VA, US | On Site | May 13 |
+| ↳ | **[Front Office Operations Intern](https://jobright.ai/jobs/info/6a04c9cf6c07461fe1710b9a?utm_campaign=1050&utm_source=git)** | US-VA-Falls Church | On Site | May 13 |
+| **[Accenture Infrastructure](https://www.linkedin.com/company/97896931)** | **[Infrastructure & Capital Projects – Operations Intern, ANS](https://jobright.ai/jobs/info/6a04c9c36c07461fe1710b86?utm_campaign=1050&utm_source=git)** | Chesterbrook, PA | Hybrid | May 13 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a04c7fc6c07461fe17109f2?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
+| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a04c3e27c753c287f6f2ec5?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | May 13 |
+| **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a04c3dd7c753c287f6f2eae?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | May 13 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, CMC Project Management](https://jobright.ai/jobs/info/69cc7b66cdb525785fb7bb65?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | May 13 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Distribution and Training Intern](https://jobright.ai/jobs/info/6a04bdbabc4184089f23e344?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, US | Hybrid | May 13 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Finance & Process Documentation Intern - Summer 2026 - Lakeland, FL](https://jobright.ai/jobs/info/6a03a907f3d6cc51d6378cb7?utm_campaign=1050&utm_source=git)** | Lakeland, FL | Hybrid | May 12 |
 | **[Parfums Christian Dior](https://www.dior.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03a8de8ecfd93cd9c109cb?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
 | **[Crete United](https://creteunited.com)** | **[Intern](https://jobright.ai/jobs/info/6a03a85bbc4184089f234ac7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | May 12 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6a03a81222395b6dc6d96d56?utm_campaign=1050&utm_source=git)** | Mandeville, LA | On Site | May 12 |
-| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/69f522f381706a5bd2165006?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
-| **[QuEra Computing Inc.](https://www.quera.com)** | **[Supply Chain Co-op](https://jobright.ai/jobs/info/6a039e55f3d6cc51d63787b4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Harris Energy Solutions LLC](https://www.hesconnect.com)** | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a039c8122395b6dc6d96777?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 12 |
-| **[St. Mark's Episcopal School](http://www.stmes.org)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/6a039c7822395b6dc6d9675b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 12 |
-| **[Communications & Power Industries (CPI)](https://www.cpii.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a03960fbc4184089f2340b2?utm_campaign=1050&utm_source=git)** | Kilgore, TX | On Site | May 12 |
-| **[Northeast Georgia Health System](http://www.nghs.com/)** | **[Intern-Administrative](https://jobright.ai/jobs/info/6a0395d76c07461fe1705ba3?utm_campaign=1050&utm_source=git)** | Demorest, GA | On Site | May 12 |
-| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0395c6f3d6cc51d63784b3?utm_campaign=1050&utm_source=git)** | Windsor, CT, United States | Hybrid | May 12 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a039529f3d6cc51d637848b?utm_campaign=1050&utm_source=git)** | Baytown, TX, US | On Site | May 12 |
-| **[Massanutten Resort](http://massresort.com)** | **[Internship - Front Office Operations](https://jobright.ai/jobs/info/6a0393156c07461fe1705a22?utm_campaign=1050&utm_source=git)** | Mc Gaheysville, Virginia, United States | On Site | May 12 |
-| **[ATL Technology](http://atltechnology.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a0392bd7c753c287f6e8a1d?utm_campaign=1050&utm_source=git)** | Springville UT, US | On Site | May 12 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Construction Division Business Operations Intern](https://jobright.ai/jobs/info/6a03903abc4184089f233c28?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
