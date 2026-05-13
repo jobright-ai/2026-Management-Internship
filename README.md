@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Jr Program Support Analyst Intern](https://jobright.ai/jobs/info/6a04e1977c753c287f6f453e?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
+| **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a04dfdaf3d6cc51d638405d?utm_campaign=1050&utm_source=git)** | Huntsville,AL,US | On Site | May 13 |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
+| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Operating Model Intern](https://jobright.ai/jobs/info/6a04ddc322395b6dc6da177b?utm_campaign=1050&utm_source=git)** | Remote Flex - North Carolina, US | Remote | May 13 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/69e8bc34e0cd471b2f137dcf?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | May 13 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Office Administrator Intern](https://jobright.ai/jobs/info/6a04d1596c07461fe1710f8f?utm_campaign=1050&utm_source=git)** | Santa Clara, California, United States | On Site | May 13 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdcf3d6cc51d6382e00?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | May 13 |
 | ↳ | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdbf3d6cc51d6382dff?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | May 13 |
-| **[Team Select](https://www.tshc.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/6a04cb5b6c07461fe1710c6a?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | May 13 |
 | **[AMS Group, Inc.](https://www.amsgroup.net)** | **[Program Administrator Intern](https://jobright.ai/jobs/info/6a04ca6f7c753c287f6f34cf?utm_campaign=1050&utm_source=git)** | San Diego,CA,US | On Site | May 13 |
 | **[Markondo](https://www.markondo.com)** | **[Front Office Operations Intern](https://jobright.ai/jobs/info/6a04c9d16c07461fe1710b9b?utm_campaign=1050&utm_source=git)** | Falls Church, VA, US | On Site | May 13 |
 | ↳ | **[Front Office Operations Intern](https://jobright.ai/jobs/info/6a04c9cf6c07461fe1710b9a?utm_campaign=1050&utm_source=git)** | US-VA-Falls Church | On Site | May 13 |
 | **[Accenture Infrastructure](https://www.linkedin.com/company/97896931)** | **[Infrastructure & Capital Projects – Operations Intern, ANS](https://jobright.ai/jobs/info/6a04c9c36c07461fe1710b86?utm_campaign=1050&utm_source=git)** | Chesterbrook, PA | Hybrid | May 13 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a04c7fc6c07461fe17109f2?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a04c3e27c753c287f6f2ec5?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | May 13 |
 | **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a04c3dd7c753c287f6f2eae?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | May 13 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Project Management - Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a03e154bc4184089f23647f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[HIMSS](http://www.himss.org)** | **[Intern](https://jobright.ai/jobs/info/6a03e002f3d6cc51d637a4b4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
 | **[Korea Innovation Center Washington DC (KIC DC)](http://www.kicdc.org/about-kic-washington-d-c/)** | **[Startup Program Assistant Intern (Korean Bilingual)](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3f?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | May 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab01?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | May 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab03?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | May 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab03?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | May 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab01?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | May 12 |
 | **[Capital Electric Construction Co., Inc.](http://capitalelectric.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a03d6d66c07461fe1707b9f?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 | **[HIMSS](http://www.himss.org)** | **[Intern - Chapter Engagement Operations](https://jobright.ai/jobs/info/6a03d6b4f811a04369605ec9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
 | **[ATL Technology](http://atltechnology.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a03d22af811a04369605d8e?utm_campaign=1050&utm_source=git)** | Springville, UT | On Site | May 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hayes Company LLC](https://hayesco.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a03af948ecfd93cd9c10e18?utm_campaign=1050&utm_source=git)** | Mesquite, TX, US | On Site | May 12 |
 | **[Switch](https://switch.us/)** | **[Intern](https://jobright.ai/jobs/info/6a03af407c753c287f6e98c1?utm_campaign=1050&utm_source=git)** | St Louis, MO 63139, USA | On Site | May 12 |
 | **[Berluti](http://www.berluti.com/)** | **[Berluti Internship - Retail Excellence Assistant](https://jobright.ai/jobs/info/6a03ac4522395b6dc6d971a9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
-| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Village Life Intern](https://jobright.ai/jobs/info/6a03ab6f22395b6dc6d97043?utm_campaign=1050&utm_source=git)** | 9301 Hog Eye Road, Austin, TX, USA | On Site | May 12 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Finance & Process Documentation Intern - Summer 2026 - Lakeland, FL](https://jobright.ai/jobs/info/6a03a907f3d6cc51d6378cb7?utm_campaign=1050&utm_source=git)** | Lakeland, FL | Hybrid | May 12 |
-| **[Parfums Christian Dior](https://www.dior.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03a8de8ecfd93cd9c109cb?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 12 |
-| **[Crete United](https://creteunited.com)** | **[Intern](https://jobright.ai/jobs/info/6a03a85bbc4184089f234ac7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
