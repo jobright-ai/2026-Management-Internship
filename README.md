@@ -57,16 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeGenius Records](www.BeGeniusRecords.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0488357c753c287f6f069b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 13 |
 | **[Precision Castparts](http://precast.com)** | **[Supply Chain Intern (Co-Op)](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 13 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/68ccf032d11b445e0bee4a3a?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0473cabc4184089f23abbc?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 13 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a0473ca6c07461fe170c96a?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0473c4f811a0436960a8ac?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0473c4f811a0436960a8ac?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0473c27c753c287f6ef2ec?utm_campaign=1050&utm_source=git)** | ST. CROIX FALLS, WI | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0473c2bc4184089f23abb9?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 13 |
-| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a0473bf7c753c287f6ef2ea?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 13 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Fall 2026](https://jobright.ai/jobs/info/69cb3f9baa3c2c1995e356a1?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | May 13 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a04694e7c753c287f6eed03?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 13 |
+| **[Eurofins Viracor BioPharma Services](https://www.eurofins-viracorbiopharma.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a0487fef3d6cc51d637ffca?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb6167bcb7608b3d28ed7?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | May 13 |
 | ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | May 13 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[MDN Administrative Intern (Per Diem)](https://jobright.ai/jobs/info/6a04591d22395b6dc6d9c068?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | May 13 |
@@ -91,16 +90,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0419f6bc4184089f2386aa?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[TechPro Power Group Inc.](https://www.techpropowergroup.com)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/6a03e92222395b6dc6d98b98?utm_campaign=1050&utm_source=git)** | Crofton,MD,US | On Site | May 12 |
 | **[3A Composites Display and Graphic Arts Americas](http://3acompositesusa.com)** | **[Procurement Operations Intern](https://jobright.ai/jobs/info/6a03e8b16c07461fe170831c?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | May 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708275?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | May 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708277?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | May 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708277?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | May 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708275?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | May 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03e87fbc4184089f2367a7?utm_campaign=1050&utm_source=git)** | Muscatine, IA | On Site | May 12 |
 | **[TAMKO](http://tamko.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a03e2a17c753c287f6eaf35?utm_campaign=1050&utm_source=git)** | Joplin, Missouri, United States | On Site | May 12 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy - CAPEX Projects (Fall 2026)](https://jobright.ai/jobs/info/6a03e24922395b6dc6d98850?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | ↳ | **[Intern, Project Management - Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a03e154bc4184089f23647f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[HIMSS](http://www.himss.org)** | **[Intern](https://jobright.ai/jobs/info/6a03e002f3d6cc51d637a4b4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
 | **[Korea Innovation Center Washington DC (KIC DC)](http://www.kicdc.org/about-kic-washington-d-c/)** | **[Startup Program Assistant Intern (Korean Bilingual)](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3f?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | May 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab01?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | May 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab03?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | May 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab03?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | May 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a03db457c753c287f6eab01?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | May 12 |
 | **[Capital Electric Construction Co., Inc.](http://capitalelectric.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a03d6d66c07461fe1707b9f?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 | **[HIMSS](http://www.himss.org)** | **[Intern - Chapter Engagement Operations](https://jobright.ai/jobs/info/6a03d6b4f811a04369605ec9?utm_campaign=1050&utm_source=git)** | United States | Remote | May 12 |
 | **[ATL Technology](http://atltechnology.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a03d22af811a04369605d8e?utm_campaign=1050&utm_source=git)** | Springville, UT | On Site | May 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
 | **[Sunnybrook](https://sunnybrook.ca/research/)** | **[Stewardship Intern - Foundation - Temporary full-time - 2026-17408 (2026-17408)](https://jobright.ai/jobs/info/6a03660bf3d6cc51d63762a0?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
 | **[Community Health Systems](http://www.chs.net)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0365c96c07461fe17036f0?utm_campaign=1050&utm_source=git)** | 4000 Meridian Blvd, Franklin, TN, 37067, US | On Site | May 12 |
+| **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a036590ed6a637463f4f5f4?utm_campaign=1050&utm_source=git)** | West Columbia, SC, US | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
