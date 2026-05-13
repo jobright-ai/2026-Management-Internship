@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Analyst (Maintenance of Way), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a041c7a7c753c287f6ed09f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 12 |
+| **[TAMKO](http://tamko.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a04153b22395b6dc6d9a4ad?utm_campaign=1050&utm_source=git)** | Joplin, MO | On Site | May 12 |
 | **[Potomac Testing](https://www.potomactesting.com/)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/6a0409876c07461fe1709250?utm_campaign=1050&utm_source=git)** | Crofton, MD | On Site | May 12 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042e7c753c287f6ebfba?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 12 |
 | ↳ | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042d7c753c287f6ebfb9?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 12 |
@@ -67,6 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef09f811a043696067bb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef0822395b6dc6d98c05?utm_campaign=1050&utm_source=git)** | Denham Springs, LA | On Site | May 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef05f3d6cc51d637aa52?utm_campaign=1050&utm_source=git)** | Gonzales, LA | On Site | May 12 |
+| **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a0419f1bc4184089f23868d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 12 |
+| ↳ | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a0419de22395b6dc6d9aa1f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 12 |
+| ↳ | **[CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/6a0419e122395b6dc6d9aa3b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 12 |
+| ↳ | **[Program Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0419f6bc4184089f2386aa?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[TechPro Power Group Inc.](https://www.techpropowergroup.com)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/6a03e92222395b6dc6d98b98?utm_campaign=1050&utm_source=git)** | Crofton,MD,US | On Site | May 12 |
 | **[3A Composites Display and Graphic Arts Americas](http://3acompositesusa.com)** | **[Procurement Operations Intern](https://jobright.ai/jobs/info/6a03e8b16c07461fe170831c?utm_campaign=1050&utm_source=git)** | Davidson, NC | On Site | May 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a03e8896c07461fe1708275?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Logistics](https://jobright.ai/jobs/info/6a0355f1bc4184089f23168e?utm_campaign=1050&utm_source=git)** | Piperton, TN | On Site | May 12 |
 | **[Baltimore Crisis Response, Inc.](https://bcresponse.org/)** | **[Executive Inten (10726)](https://jobright.ai/jobs/info/69f3d9676942c746fa695704?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 12 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Membership Operations Intern](https://jobright.ai/jobs/info/6a0353666c07461fe1702c31?utm_campaign=1050&utm_source=git)** | NL-Hub | On Site | May 12 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Project Managment Intern (Office of Operations)](https://jobright.ai/jobs/info/6a0350516c07461fe1702a54?utm_campaign=1050&utm_source=git)** | NYC-ALL BOROS | On Site | May 12 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a034fb6bc4184089f2311e3?utm_campaign=1050&utm_source=git)** | White, GA | On Site | May 12 |
-| **[Expeditors](http://www.expeditors.com)** | **[Summer Intern - Logistics](https://jobright.ai/jobs/info/6a034e51ed6a637463f4e84f?utm_campaign=1050&utm_source=git)** | 290 Milton Dr, Piperton, TN 38017, USA | On Site | May 12 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Scrum Master Intern (100% Remote)](https://jobright.ai/jobs/info/6a037ffb6c07461fe1704b73?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 12 |
-| **[Northwell Health](https://www.northwell.edu/)** | **[Revenue Cycle Admin Intern](https://jobright.ai/jobs/info/6a034916f3d6cc51d6375364?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 12 |
-| ↳ | **[Rotational Revenue Cycle: Admin Intern](https://jobright.ai/jobs/info/6a034911f3d6cc51d637534f?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
