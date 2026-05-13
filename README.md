@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a04a53df3d6cc51d638161c?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 13 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Operations Capacity Planning Intern](https://jobright.ai/jobs/info/69bc25654828227293fd8467?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | May 13 |
+| **[Canfor](http://www.canfor.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a04a087f811a0436960d026?utm_campaign=1050&utm_source=git)** | Mobile, AL, US | On Site | May 13 |
 | **[Chamberlin Roofing & Waterproofing](http://chamberlinltd.com)** | **[Project Intern](https://jobright.ai/jobs/info/6a0498f922395b6dc6d9ef73?utm_campaign=1050&utm_source=git)** | Greater McAllen Area | On Site | May 13 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Project Management Intern – Automotive Electronics](https://jobright.ai/jobs/info/6a0498f122395b6dc6d9ef4e?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/69e8c3544b0fa35a70769180?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 13 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Summer 2026 Project Manager Intern (Electrical Engineer)](https://jobright.ai/jobs/info/6a036f56ed6a637463f4fac7?utm_campaign=1050&utm_source=git)** | Rosemount, MN | On Site | May 13 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Intern - Front Office](https://jobright.ai/jobs/info/6a049406bc4184089f23cbe1?utm_campaign=1050&utm_source=git)** | Norton Shores, MI, US | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0493e4f811a0436960c978?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, US | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a04900ebc4184089f23c76f?utm_campaign=1050&utm_source=git)** | BUFFALO, MN | On Site | May 13 |
 | **[BeGenius Records](www.BeGeniusRecords.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0488357c753c287f6f069b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 13 |
 | **[Precision Castparts](http://precast.com)** | **[Supply Chain Intern (Co-Op)](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 13 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/68ccf032d11b445e0bee4a3a?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Operations/Supply Chain Intern](https://jobright.ai/jobs/info/69c3696b7a7a0045db892497?utm_campaign=1050&utm_source=git)** | Carthage, MO | On Site | May 12 |
 | **[Rich Products Corporation](https://rich.com)** | **[Intern - Supply Planning Optimization 1](https://jobright.ai/jobs/info/6a037db46c07461fe17046c1?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | May 12 |
 | **[RailWorks Corporation](http://www.railworks.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a037d61bc4184089f232e3c?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | May 12 |
-| **[Rich Products Corporation](https://rich.com)** | **[Intern - Supply Planning Optimization 1](https://jobright.ai/jobs/info/6a037d60bc4184089f232e39?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | May 12 |
-| **[City of New York](http://www1.nyc.gov)** | **[Project Managment Intern (Office of Operations)](https://jobright.ai/jobs/info/6a037892ed6a637463f502fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
