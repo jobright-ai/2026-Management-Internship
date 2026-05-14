@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnett Engineering & Signaling Laboratories (BESL) LLC](http://www.besl.org/)** | **[Student Administrative Engineering Internship](https://jobright.ai/jobs/info/6a056d88bc4184089f24519b?utm_campaign=1050&utm_source=git)** | COLORADO SPRINGS,CO,US | On Site | May 13 |
+| **[Avis Rent A Car / Bob's Rentals Inc](avis.com)** | **[Office Intern](https://jobright.ai/jobs/info/6a056cb76c07461fe1716340?utm_campaign=1050&utm_source=git)** | Springfield-Branson National Airport (SGF) (SGF), North Airport Boulevard, Springfield, MO, USA | On Site | May 13 |
+| **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Assistant Manager Owner - Internship](https://jobright.ai/jobs/info/6a056bedfbf3d169d3c5ee17?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | May 13 |
+| **[takealot.com](https://www.takealot.com)** | **[Transport & logistics Internship](https://jobright.ai/jobs/info/69eb91970a6e095553047e92?utm_campaign=1050&utm_source=git)** | Cape Town DC | On Site | May 13 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585b6c07461fe1715c3d?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
 | ↳ | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711cf363bc4dc339ed03?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 13 |
 | **[Fenwick & West](http://fenwick.com)** | **[Office Services Intern](https://jobright.ai/jobs/info/6a055762a88ea73abf7f0a83?utm_campaign=1050&utm_source=git)** | Santa Monica, US | On Site | May 13 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Strategy and Operations Intern (Software)](https://jobright.ai/jobs/info/6a05574ef3d6cc51d638880f?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a05548c6c07461fe1715b1f?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0554897c753c287f6f89a3?utm_campaign=1050&utm_source=git)** | WEST DULUTH, MN | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a055487a88ea73abf7f09ae?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a055168a88ea73abf7f0883?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | May 13 |
 | ↳ | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a055153fbf3d169d3c5def8?utm_campaign=1050&utm_source=git)** | Haskell, TX | On Site | May 13 |
 | ↳ | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0551096c07461fe17159a2?utm_campaign=1050&utm_source=git)** | Monroe, LA | On Site | May 13 |
-| **[Avis Rent A Car / Bob's Rentals Inc](avis.com)** | **[Office Intern](https://jobright.ai/jobs/info/6a0550966c07461fe1715959?utm_campaign=1050&utm_source=git)** | Springfield-Branson National Airport (SGF) (SGF), North Airport Boulevard, Springfield, MO, USA | On Site | May 13 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Performance Management Analyst CoE (US-O)](https://jobright.ai/jobs/info/6a053a5bf3d6cc51d6387b58?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | May 13 |
 | **[Aleut](https://www.aleutcorp.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a053a58bc4184089f243ef4?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0536b1fbf3d169d3c5d4a4?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | May 13 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Jr Program Support Analyst Intern](https://jobright.ai/jobs/info/6a04e1977c753c287f6f453e?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a04dfdaf3d6cc51d638405d?utm_campaign=1050&utm_source=git)** | Huntsville,AL,US | On Site | May 13 |
-| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
-| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
+| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Operating Model Intern](https://jobright.ai/jobs/info/6a04ddc322395b6dc6da177b?utm_campaign=1050&utm_source=git)** | Remote Flex - North Carolina, US | Remote | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f967f3d6cc51d6384f55?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 13 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04f963f3d6cc51d6384f42?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
