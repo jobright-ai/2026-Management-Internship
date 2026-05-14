@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueForge Alliance](https://blueforgealliance.us)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a058dbaf3d6cc51d6389d23?utm_campaign=1050&utm_source=git)** | BRYAN, TX 77807-7595, USA | On Site | May 14 |
+| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/6a058cb47c753c287f6fa083?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 14 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0588d06c07461fe1716f35?utm_campaign=1050&utm_source=git)** | Closter, NJ | On Site | May 14 |
 | **[Dalia Research](http://www.daliaresearch.com)** | **[Project Management - Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a05874c6c07461fe1716dbc?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | May 14 |
 | ↳ | **[Project Management - Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a05873ca88ea73abf7f1bc8?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | On Site | May 14 |
 | **[Sinai Health](https://www.sinaihealthsystem.ca)** | **[Intern, Project Coordinator - (14884)](https://jobright.ai/jobs/info/6a0582e46c07461fe1716ad6?utm_campaign=1050&utm_source=git)** | Mount Sinai Hospital Campus - Toronto, ON M5G 1X5 CA (Primary) | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Procurement Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a05778abc4184089f2456fc?utm_campaign=1050&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Application Delivery Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057783fbf3d169d3c5f3a1?utm_campaign=1050&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a057095f3d6cc51d6389185?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05708ea88ea73abf7f139c?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a05708ea88ea73abf7f139c?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05708d7c753c287f6f94c5?utm_campaign=1050&utm_source=git)** | WEST DULUTH, MN | On Site | May 13 |
 | **[Barnett Engineering & Signaling Laboratories (BESL) LLC](http://www.besl.org/)** | **[Student Administrative Engineering Internship](https://jobright.ai/jobs/info/6a056d88bc4184089f24519b?utm_campaign=1050&utm_source=git)** | COLORADO SPRINGS,CO,US | On Site | May 13 |
 | **[Avis Rent A Car / Bob's Rentals Inc](avis.com)** | **[Office Intern](https://jobright.ai/jobs/info/6a056cb76c07461fe1716340?utm_campaign=1050&utm_source=git)** | Springfield-Branson National Airport (SGF) (SGF), North Airport Boulevard, Springfield, MO, USA | On Site | May 13 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Capital Markets EDSF 2026 Summer Internship](https://jobright.ai/jobs/info/6a0524087c753c287f6f7193?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a0520ef6c07461fe171424d?utm_campaign=1050&utm_source=git)** | Tetlin, AK | On Site | May 13 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Winship Cancer Institute (ETS) / Temporary](https://jobright.ai/jobs/info/6a051e204373b07358a3a520?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40e9?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40eb?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40eb?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40e9?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 13 |
 | **[Eurofins Viracor BioPharma Services](https://www.eurofins-viracorbiopharma.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a051ac522395b6dc6da4077?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Food Service Administrative Support Intern](https://jobright.ai/jobs/info/6a051a8ef3d6cc51d6386bb6?utm_campaign=1050&utm_source=git)** | Mount Hermon, CA 95041 | On Site | May 13 |
 | **[CME Group](http://www.cmegroup.com)** | **[Corporate Facilities Summer Internship](https://jobright.ai/jobs/info/6a050df2f3d6cc51d6386210?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 13 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Jr Program Support Analyst Intern](https://jobright.ai/jobs/info/6a04e1977c753c287f6f453e?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a04dfdaf3d6cc51d638405d?utm_campaign=1050&utm_source=git)** | Huntsville,AL,US | On Site | May 13 |
-| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
-| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
+| **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
+| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Operating Model Intern](https://jobright.ai/jobs/info/6a04ddc322395b6dc6da177b?utm_campaign=1050&utm_source=git)** | Remote Flex - North Carolina, US | Remote | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f967f3d6cc51d6384f55?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 13 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04f963f3d6cc51d6384f42?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Office Administrator Intern](https://jobright.ai/jobs/info/6a04d1596c07461fe1710f8f?utm_campaign=1050&utm_source=git)** | Santa Clara, California, United States | On Site | May 13 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdcf3d6cc51d6382e00?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | May 13 |
 | ↳ | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdbf3d6cc51d6382dff?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | May 13 |
-| **[AMS Group, Inc.](https://www.amsgroup.net)** | **[Program Administrator Intern](https://jobright.ai/jobs/info/6a04ca6f7c753c287f6f34cf?utm_campaign=1050&utm_source=git)** | San Diego,CA,US | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
