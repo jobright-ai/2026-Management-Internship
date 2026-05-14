@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Curi Capital](http://www.rmbcap.com)** | **[Intern](https://jobright.ai/jobs/info/6a05077a6c07461fe17133e4?utm_campaign=1050&utm_source=git)** | St Joe, AR | On Site | May 13 |
+| **[Matson Logistics](http://www.matsonlogistics.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a05076ef3d6cc51d6386021?utm_campaign=1050&utm_source=git)** | United States | Remote | May 13 |
+| **[Aleut](https://www.aleutcorp.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a050593f3d6cc51d6385f76?utm_campaign=1050&utm_source=git)** | Anchorage, Alaska, United States | On Site | May 13 |
+| **[Palermo's Pizza](http://www.palermospizza.com/)** | **[Supply Chain- Summer Internship!](https://jobright.ai/jobs/info/6a0504e722395b6dc6da3351?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | May 13 |
+| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a0502cfbc4184089f24207d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a050140bc4184089f241fe3?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 13 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a05013a6c07461fe17130ec?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0501357c753c287f6f5e33?utm_campaign=1050&utm_source=git)** | WEST DULUTH, MN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05012d22395b6dc6da316b?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05012d22395b6dc6da316c?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 13 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Dallas Addison Quorum By The Galleria - Hospitality Management Intern](https://jobright.ai/jobs/info/6a04ffe24373b07358a393e4?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 13 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE Mentor Program Externship](https://jobright.ai/jobs/info/6a04ffb17c753c287f6f5cd0?utm_campaign=1050&utm_source=git)** | Honolulu, Hawaii, United States | On Site | May 13 |
+| **[Byrne](https://www.byrne.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a04ffa66c07461fe1712f2d?utm_campaign=1050&utm_source=git)** | Rockford, MI | On Site | May 13 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a04ff8cbc4184089f241e1c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 13 |
+| **[nVenia, A Duravant Company](https://www.nvenia.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6a04ff2322395b6dc6da2f59?utm_campaign=1050&utm_source=git)** | Wood Dale, IL | On Site | May 13 |
+| **[Ampliwork](https://www.ampliwork.com)** | **[Operations & Strategy Intern](https://jobright.ai/jobs/info/6a04fc096c07461fe1712b8c?utm_campaign=1050&utm_source=git)** | Montréal, Canada | On Site | May 13 |
+| **[Curi Capital](http://www.rmbcap.com)** | **[Intern](https://jobright.ai/jobs/info/6a04fb126c07461fe17129ca?utm_campaign=1050&utm_source=git)** | St. Joe, Michigan | On Site | May 13 |
 | **[Nevada System of Higher Education](http://www.nevada.edu)** | **[Operations Intern, Office of the Chancellor](https://jobright.ai/jobs/info/6a04f75622395b6dc6da2552?utm_campaign=1050&utm_source=git)** | System Administration Office - North, US | On Site | May 13 |
 | ↳ | **[Operations Intern, Office of the Chancellor](https://jobright.ai/jobs/info/6a04f75522395b6dc6da254f?utm_campaign=1050&utm_source=git)** | System Administration Office - South, US | On Site | May 13 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern:  Strategic Sourcing](https://jobright.ai/jobs/info/6a04f5df6c07461fe1712297?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 13 |
@@ -76,8 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Byrne](https://www.byrne.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a04ea7e7c753c287f6f4a31?utm_campaign=1050&utm_source=git)** | Rockford, Michigan, United States | On Site | May 13 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/6a04e8346c07461fe1711b91?utm_campaign=1050&utm_source=git)** | Columbia, MO - Corporate Office, US | On Site | May 13 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Intern - Purchasing Dept](https://jobright.ai/jobs/info/6a04e65df3d6cc51d63844a8?utm_campaign=1050&utm_source=git)** | Moraine, OH, US | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a04e54c6c07461fe1711aa9?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a04e54b4373b07358a37dba?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a04e3697c753c287f6f47fc?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL,60015-04620-00001-2 | On Site | May 13 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a04e36922395b6dc6da1ba4?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a04e3677c753c287f6f47f9?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 13 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eurofins Viracor BioPharma Services](https://www.eurofins-viracorbiopharma.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a0487fef3d6cc51d637ffca?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb6167bcb7608b3d28ed7?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | May 13 |
 | ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | May 13 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[MDN Administrative Intern (Per Diem)](https://jobright.ai/jobs/info/6a04591d22395b6dc6d9c068?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | May 13 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Toronto Office)](https://jobright.ai/jobs/info/6a045503f811a04369609510?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 13 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68cca5017342c7623ae678be?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | May 13 |
-| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | May 13 |
-| **[Volo Sports](https://www.volosports.com)** | **[Sports Management Internship - Miami (Summer)](https://jobright.ai/jobs/info/6a043cdf7c753c287f6eddc6?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 13 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Analyst (Maintenance of Way), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a041c7a7c753c287f6ed09f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 12 |
-| **[TAMKO](http://tamko.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a04153b22395b6dc6d9a4ad?utm_campaign=1050&utm_source=git)** | Joplin, MO | On Site | May 12 |
-| **[Potomac Testing](https://www.potomactesting.com/)** | **[Administrative Summer Intern](https://jobright.ai/jobs/info/6a0409876c07461fe1709250?utm_campaign=1050&utm_source=git)** | Crofton, MD | On Site | May 12 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042e7c753c287f6ebfba?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 12 |
-| ↳ | **[Strategy & Research Intern](https://jobright.ai/jobs/info/6a04042d7c753c287f6ebfb9?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 12 |
-| **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Administrative Intern - Research Institute](https://jobright.ai/jobs/info/69fc43a8633e68586cd300ac?utm_campaign=1050&utm_source=git)** | Cooperstown, NY | On Site | May 12 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef1cf811a04369606824?utm_campaign=1050&utm_source=git)** | Brusly, LA | On Site | May 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef09f811a043696067bb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef0822395b6dc6d98c05?utm_campaign=1050&utm_source=git)** | Denham Springs, LA | On Site | May 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a03ef05f3d6cc51d637aa52?utm_campaign=1050&utm_source=git)** | Gonzales, LA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
