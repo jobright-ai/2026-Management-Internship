@@ -57,13 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0536b1fbf3d169d3c5d4a4?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | May 13 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0536ad6c07461fe1714d63?utm_campaign=1050&utm_source=git)** | Saraland, AL | On Site | May 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0536a47c753c287f6f7b99?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 13 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE Mentor Program Externship](https://jobright.ai/jobs/info/6a0536827c753c287f6f7b13?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | May 13 |
+| **[MADE Hoops](https://www.madehoops.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a0532eb7c753c287f6f7947?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0532b2fbf3d169d3c5d21d?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0532a5d954223d386e9d5f?utm_campaign=1050&utm_source=git)** | Sheboygan, WI | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05329f6c07461fe1714af7?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a053293f3d6cc51d63876fb?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | May 13 |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a052e036c07461fe171455d?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 13 |
+| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/6a052d1bbc4184089f243463?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a052cfb7c753c287f6f72aa?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144ae?utm_campaign=1050&utm_source=git)** | Bradley, IL | On Site | May 13 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0528546c07461fe1714433?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 13 |
 | **[McLean Dermatology and Skincare Center](https://www.mcleanskin.com)** | **[Business Administrative Intern](https://jobright.ai/jobs/info/6a0528527c753c287f6f726c?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Capital Markets EDSF 2026 Summer Internship](https://jobright.ai/jobs/info/6a0524087c753c287f6f7193?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a0520ef6c07461fe171424d?utm_campaign=1050&utm_source=git)** | Tetlin, AK | On Site | May 13 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Graduate Intern, Winship Cancer Institute (ETS) / Temporary](https://jobright.ai/jobs/info/6a051e204373b07358a3a520?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a051cd54373b07358a3a4ab?utm_campaign=1050&utm_source=git)** | MOORHEAD, MN | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd54373b07358a3a4ac?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a051cd54373b07358a3a4ac?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40eb?utm_campaign=1050&utm_source=git)** | COTTAGE GROVE, MN | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd322395b6dc6da40e9?utm_campaign=1050&utm_source=git)** | MONONA, WI | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd2bc4184089f242f82?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 13 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/6a04ba02bc4184089f23e0d7?utm_campaign=1050&utm_source=git)** | Jonestown, PA | On Site | May 13 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Summer 2026 Project Manager Intern (Electrical Engineer)](https://jobright.ai/jobs/info/6a04b9856c07461fe170ff47?utm_campaign=1050&utm_source=git)** | Rosemount, MN | On Site | May 13 |
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/69b09e66749500645097487e?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | May 13 |
-| **[Eurofins](http://eurofins.com)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a04b59ebc4184089f23e00c?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[911 Administrative Intern](https://jobright.ai/jobs/info/6a04b5736c07461fe170fe9d?utm_campaign=1050&utm_source=git)** | Durango, CO | On Site | May 13 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Project Intern](https://jobright.ai/jobs/info/6a04b3687c753c287f6f267b?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, US | On Site | May 13 |
-| **[FreshDirect](http://freshdirect.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69cc56c6891d7b11cfcabe6b?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | May 13 |
-| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a04a53df3d6cc51d638161c?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 13 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Operations Capacity Planning Intern](https://jobright.ai/jobs/info/69bc25654828227293fd8467?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | May 13 |
-| **[Canfor](http://www.canfor.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a04a087f811a0436960d026?utm_campaign=1050&utm_source=git)** | Mobile, AL, US | On Site | May 13 |
-| **[Chamberlin Roofing & Waterproofing](http://chamberlinltd.com)** | **[Project Intern](https://jobright.ai/jobs/info/6a0498f922395b6dc6d9ef73?utm_campaign=1050&utm_source=git)** | Greater McAllen Area | On Site | May 13 |
-| **[AUMOVIO](https://www.aumovio.com)** | **[Project Management Intern – Automotive Electronics](https://jobright.ai/jobs/info/6a0498f122395b6dc6d9ef4e?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | May 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/69e8c3544b0fa35a70769180?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 13 |
-| **[Allstate](http://www.allstate.com)** | **[Summer 2026 Corporate Finance & Development MBA Intern](https://jobright.ai/jobs/info/6a04979ef811a0436960ccda?utm_campaign=1050&utm_source=git)** | Chicago River Point, US | Hybrid | May 13 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Financial Application Analyst Intern Co-op](https://jobright.ai/jobs/info/6a0496a4f3d6cc51d6380ee9?utm_campaign=1050&utm_source=git)** | PA - Philadelphia, 1800 Arch St, US | On Site | May 13 |
-| **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0494a5f811a0436960cb37?utm_campaign=1050&utm_source=git)** | Framingham, MA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
