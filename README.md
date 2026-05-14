@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6a05ecbe6c07461fe171a120?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | May 14 |
+| **[CR Meyer](http://crmeyer.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a05f6167c753c287f6fd74b?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | May 14 |
+| **[NetApp](http://netapp.com)** | **[Business Strategy Analyst Intern](https://jobright.ai/jobs/info/6a05efaa6c07461fe171a1f0?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | May 14 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/69e9485c4b0fa35a7076d42a?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | May 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a05e73ebc4184089f248b44?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | May 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05e727320bff2205ea5a48?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | May 14 |
@@ -74,9 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[R26-0010 - Supply Chain Intern](https://jobright.ai/jobs/info/69e9642a0a6e09555303b995?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | May 14 |
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Administrative Intern, Cellular Therapy](https://jobright.ai/jobs/info/6a05d880f3d6cc51d638bc39?utm_campaign=1050&utm_source=git)** | Charleston, US | On Site | May 14 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Stanley Black & Decker Intern – Global Supply Chain Management](https://jobright.ai/jobs/info/6a05d7666c07461fe17191cd?utm_campaign=1050&utm_source=git)** | New Britain, CT, United States, US | On Site | May 14 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/6a05c81ff3d6cc51d638b42b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | May 14 |
-| ↳ | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/6a05c81ff3d6cc51d638b42c?utm_campaign=1050&utm_source=git)** | US-WI-Milwaukee | On Site | May 14 |
-| **[Eisai US](http://us.eisai.com/)** | **[IT Intern, Global Infrastructure Office](https://jobright.ai/jobs/info/6a05e9e7f3d6cc51d638c9ce?utm_campaign=1050&utm_source=git)** | Nutley, NJ | Hybrid | May 14 |
+| **[Foley & Lardner LLP](http://www.foley.com)** | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/6a05c81ff3d6cc51d638b42c?utm_campaign=1050&utm_source=git)** | US-WI-Milwaukee | On Site | May 14 |
+| ↳ | **[Clerical Assistant/Intern](https://jobright.ai/jobs/info/6a05c81ff3d6cc51d638b42b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | May 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/69c139142c312363dcd3f53f?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | May 14 |
 | **[Parts Town](https://www.partstown.com)** | **[Project Managment Intern](https://jobright.ai/jobs/info/69e94e170a6e09555303af17?utm_campaign=1050&utm_source=git)** | DuPage County, IL | Hybrid | May 14 |
 | **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a05bf89f3d6cc51d638b08a?utm_campaign=1050&utm_source=git)** | Huntsville,AL,US | On Site | May 14 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a052e036c07461fe171455d?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 13 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/6a052d1bbc4184089f243463?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a052cfb7c753c287f6f72aa?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144ae?utm_campaign=1050&utm_source=git)** | Bradley, IL | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0528546c07461fe1714433?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 13 |
 | **[McLean Dermatology and Skincare Center](https://www.mcleanskin.com)** | **[Business Administrative Intern](https://jobright.ai/jobs/info/6a0528527c753c287f6f726c?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Capital Markets EDSF 2026 Summer Internship](https://jobright.ai/jobs/info/6a0524087c753c287f6f7193?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 13 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Curi Capital](http://www.rmbcap.com)** | **[Intern](https://jobright.ai/jobs/info/6a04fb126c07461fe17129ca?utm_campaign=1050&utm_source=git)** | St. Joe, Michigan | On Site | May 13 |
 | **[Nevada System of Higher Education](http://www.nevada.edu)** | **[Operations Intern, Office of the Chancellor](https://jobright.ai/jobs/info/6a04f75622395b6dc6da2552?utm_campaign=1050&utm_source=git)** | System Administration Office - North, US | On Site | May 13 |
 | ↳ | **[Operations Intern, Office of the Chancellor](https://jobright.ai/jobs/info/6a04f75522395b6dc6da254f?utm_campaign=1050&utm_source=git)** | System Administration Office - South, US | On Site | May 13 |
-| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Intern - Front Office](https://jobright.ai/jobs/info/6a04f456f3d6cc51d6384ac8?utm_campaign=1050&utm_source=git)** | Norton Shores, MI | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a04f437f3d6cc51d6384a2d?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 13 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
-| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
+| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Intern](https://jobright.ai/jobs/info/6a04f437f3d6cc51d6384a2d?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 13 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
+| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f2e8bc4184089f240f64?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | May 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f25d6c07461fe17120e7?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
