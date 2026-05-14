@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCI](https://www.bci.ca/)** | **[Procurement Co-op/ Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a05778abc4184089f2456fc?utm_campaign=1050&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Application Delivery Co-op/ Internship (Fall 2026)](https://jobright.ai/jobs/info/6a057783fbf3d169d3c5f3a1?utm_campaign=1050&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a057095f3d6cc51d6389185?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05708ea88ea73abf7f139c?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a05708d7c753c287f6f94c5?utm_campaign=1050&utm_source=git)** | WEST DULUTH, MN | On Site | May 13 |
 | **[Barnett Engineering & Signaling Laboratories (BESL) LLC](http://www.besl.org/)** | **[Student Administrative Engineering Internship](https://jobright.ai/jobs/info/6a056d88bc4184089f24519b?utm_campaign=1050&utm_source=git)** | COLORADO SPRINGS,CO,US | On Site | May 13 |
 | **[Avis Rent A Car / Bob's Rentals Inc](avis.com)** | **[Office Intern](https://jobright.ai/jobs/info/6a056cb76c07461fe1716340?utm_campaign=1050&utm_source=git)** | Springfield-Branson National Airport (SGF) (SGF), North Airport Boulevard, Springfield, MO, USA | On Site | May 13 |
 | **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Assistant Manager Owner - Internship](https://jobright.ai/jobs/info/6a056bedfbf3d169d3c5ee17?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | May 13 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern:  Strategic Sourcing](https://jobright.ai/jobs/info/6a04f5df6c07461fe1712297?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 13 |
 | **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Intern - Front Office](https://jobright.ai/jobs/info/6a04f456f3d6cc51d6384ac8?utm_campaign=1050&utm_source=git)** | Norton Shores, MI | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a04f437f3d6cc51d6384a2d?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 13 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
-| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
+| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f2e8bc4184089f240f64?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | May 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f25d6c07461fe17120e7?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | May 13 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Associate - Halifax, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a051ac76c07461fe1713f46?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Front Office Operations Intern](https://jobright.ai/jobs/info/6a04c9cf6c07461fe1710b9a?utm_campaign=1050&utm_source=git)** | US-VA-Falls Church | On Site | May 13 |
 | **[Accenture Infrastructure](https://www.linkedin.com/company/97896931)** | **[Infrastructure & Capital Projects – Operations Intern, ANS](https://jobright.ai/jobs/info/6a04c9c36c07461fe1710b86?utm_campaign=1050&utm_source=git)** | Chesterbrook, PA | Hybrid | May 13 |
 | **[PI (Physik Instrumente) Group](https://www.physikinstrumente.com/en/?utm_medium=social&utm_source=linkedin.com&utm_campaign=PIGroup-CompanyProfile)** | **[Supply Chain Internship - Fall 2026](https://jobright.ai/jobs/info/6a04efcf22395b6dc6da1faa?utm_campaign=1050&utm_source=git)** | Shrewsbury, MA | On Site | May 13 |
-| **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a04c3e27c753c287f6f2ec5?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | May 13 |
-| **[Eurofins | EAG Laboratories](http://www.eag.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a04c3dd7c753c287f6f2eae?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
-| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Office Administrator Intern](https://jobright.ai/jobs/info/6a04f96322395b6dc6da284c?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations - A&C Transformation Specialist](https://jobright.ai/jobs/info/69e7f7ae3aa0c4796439ce44?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | May 13 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, CMC Project Management](https://jobright.ai/jobs/info/69cc7b66cdb525785fb7bb65?utm_campaign=1050&utm_source=git)** | Tustin, CA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
