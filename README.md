@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Performance Management Analyst CoE (US-O)](https://jobright.ai/jobs/info/6a053a5bf3d6cc51d6387b58?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | May 13 |
+| **[Aleut](https://www.aleutcorp.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a053a58bc4184089f243ef4?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0536b1fbf3d169d3c5d4a4?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0536ad6c07461fe1714d63?utm_campaign=1050&utm_source=git)** | Saraland, AL | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a0536a47c753c287f6f7b99?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | May 13 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a052e036c07461fe171455d?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 13 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/6a052d1bbc4184089f243463?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a052cfb7c753c287f6f72aa?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144ae?utm_campaign=1050&utm_source=git)** | Bradley, IL | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0528546c07461fe1714433?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 13 |
 | **[McLean Dermatology and Skincare Center](https://www.mcleanskin.com)** | **[Business Administrative Intern](https://jobright.ai/jobs/info/6a0528527c753c287f6f726c?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Capital Markets EDSF 2026 Summer Internship](https://jobright.ai/jobs/info/6a0524087c753c287f6f7193?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 13 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a051cd2bc4184089f242f82?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 13 |
 | **[Eurofins Viracor BioPharma Services](https://www.eurofins-viracorbiopharma.com/)** | **[Intern, Project Management / EAG Laboratories](https://jobright.ai/jobs/info/6a051ac522395b6dc6da4077?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 13 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Food Service Administrative Support Intern](https://jobright.ai/jobs/info/6a051a8ef3d6cc51d6386bb6?utm_campaign=1050&utm_source=git)** | Mount Hermon, CA 95041 | On Site | May 13 |
-| **[Avis Rent A Car / Bob's Rentals Inc](avis.com)** | **[Office Intern](https://jobright.ai/jobs/info/6a0518d36c07461fe1713d0a?utm_campaign=1050&utm_source=git)** | Springfield-Branson National Airport (SGF) (SGF), North Airport Boulevard, Springfield, MO, USA | On Site | May 13 |
 | **[CME Group](http://www.cmegroup.com)** | **[Corporate Facilities Summer Internship](https://jobright.ai/jobs/info/6a050df2f3d6cc51d6386210?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Priority Health](http://www.priorityhealth.com/)** | **[Distribution and Training Intern](https://jobright.ai/jobs/info/6a050de8f3d6cc51d63861ec?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 13 |
 | **[Curi Capital](http://www.rmbcap.com)** | **[Intern](https://jobright.ai/jobs/info/6a05077a6c07461fe17133e4?utm_campaign=1050&utm_source=git)** | St Joe, AR | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Project Intern](https://jobright.ai/jobs/info/6a04ba4dbc4184089f23e1e4?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | May 13 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Supply Chain Operation - Intern](https://jobright.ai/jobs/info/6a04ba02bc4184089f23e0d7?utm_campaign=1050&utm_source=git)** | Jonestown, PA | On Site | May 13 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Summer 2026 Project Manager Intern (Electrical Engineer)](https://jobright.ai/jobs/info/6a04b9856c07461fe170ff47?utm_campaign=1050&utm_source=git)** | Rosemount, MN | On Site | May 13 |
-| **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/69b09e66749500645097487e?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
