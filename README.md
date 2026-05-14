@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern  (TikTok Shop - Operations)  - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a05a6fcf3d6cc51d638a39e?utm_campaign=1050&utm_source=git)** | Los Angeles | On Site | May 14 |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a05a68d6c07461fe171776d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 14 |
+| ↳ | **[Category Manager Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d6?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 14 |
+| **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/69b4be1006c1ba00c5463361?utm_campaign=1050&utm_source=git)** | Murrieta, CA | On Site | May 14 |
+| **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - Poplar Bluff Psychiatry](https://jobright.ai/jobs/info/6a05a2d9f3d6cc51d638a22d?utm_campaign=1050&utm_source=git)** | UBHCC Crisis Center/PB BHC/Psychiatry/SUD Clinic, Poplar Bluff, MO, US | On Site | May 14 |
+| **[Wallen Garage Doors](https://www.wallengaragedoors.com/)** | **[Operations and Growth Internship](https://jobright.ai/jobs/info/6a05a2c7320bff2205ea3220?utm_campaign=1050&utm_source=git)** | Yorktown, VA | On Site | May 14 |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern](https://jobright.ai/jobs/info/6a05a1c0f3d6cc51d638a175?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | May 14 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Business Excellence (Operations) Intern](https://jobright.ai/jobs/info/69af32dfdfaeda6ff5974b81?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 14 |
+| **[Ampliwork](https://www.ampliwork.com)** | **[Operations & Strategy Intern](https://jobright.ai/jobs/info/6a0599fa320bff2205ea2f66?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 14 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Project Services- EN](https://jobright.ai/jobs/info/69ab3be67e1fab39d382d333?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[BlueForge Alliance](https://blueforgealliance.us)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a058dbaf3d6cc51d6389d23?utm_campaign=1050&utm_source=git)** | BRYAN, TX 77807-7595, USA | On Site | May 14 |
-| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/6a058cb47c753c287f6fa083?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 14 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0588d06c07461fe1716f35?utm_campaign=1050&utm_source=git)** | Closter, NJ | On Site | May 14 |
 | **[Dalia Research](http://www.daliaresearch.com)** | **[Project Management - Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a05874c6c07461fe1716dbc?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | May 14 |
 | ↳ | **[Project Management - Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a05873ca88ea73abf7f1bc8?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | On Site | May 14 |
@@ -92,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a052e036c07461fe171455d?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 13 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Vendor Management](https://jobright.ai/jobs/info/6a052d1bbc4184089f243463?utm_campaign=1050&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a052cfb7c753c287f6f72aa?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144ae?utm_campaign=1050&utm_source=git)** | Bradley, IL | On Site | May 13 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144af?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | May 13 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a052cdb6c07461fe17144ae?utm_campaign=1050&utm_source=git)** | Bradley, IL | On Site | May 13 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0528546c07461fe1714433?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 13 |
 | **[McLean Dermatology and Skincare Center](https://www.mcleanskin.com)** | **[Business Administrative Intern](https://jobright.ai/jobs/info/6a0528527c753c287f6f726c?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Capital Markets EDSF 2026 Summer Internship](https://jobright.ai/jobs/info/6a0524087c753c287f6f7193?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 13 |
@@ -120,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Intern:  Strategic Sourcing](https://jobright.ai/jobs/info/6a04f5df6c07461fe1712297?utm_campaign=1050&utm_source=git)** | United States, US | On Site | May 13 |
 | **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Intern - Front Office](https://jobright.ai/jobs/info/6a04f456f3d6cc51d6384ac8?utm_campaign=1050&utm_source=git)** | Norton Shores, MI | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a04f437f3d6cc51d6384a2d?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 13 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
-| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c4?utm_campaign=1050&utm_source=git)** | Tok, Alaska, USA | On Site | May 13 |
+| ↳ | **[Exploration Administrative Intern](https://jobright.ai/jobs/info/6a04f32e22395b6dc6da23c3?utm_campaign=1050&utm_source=git)** | Tetlin, Alaska, USA | On Site | May 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f2e8bc4184089f240f64?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | May 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f25d6c07461fe17120e7?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | May 13 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Associate - Halifax, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a051ac76c07461fe1713f46?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Jr Program Support Analyst Intern](https://jobright.ai/jobs/info/6a04e1977c753c287f6f453e?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 13 |
 | **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a04dfdaf3d6cc51d638405d?utm_campaign=1050&utm_source=git)** | Huntsville,AL,US | On Site | May 13 |
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378bd?utm_campaign=1050&utm_source=git)** | Fort Washington, MD | On Site | May 13 |
-| ↳ | **[Office - Intern](https://jobright.ai/jobs/info/6a04ddd34373b07358a378be?utm_campaign=1050&utm_source=git)** | Largo, MD | On Site | May 13 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Operating Model Intern](https://jobright.ai/jobs/info/6a04ddc322395b6dc6da177b?utm_campaign=1050&utm_source=git)** | Remote Flex - North Carolina, US | Remote | May 13 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a04f967f3d6cc51d6384f55?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 13 |
-| **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04f963f3d6cc51d6384f42?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 13 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Network Delivery Logistics Intern](https://jobright.ai/jobs/info/6a0523ef7c753c287f6f7147?utm_campaign=1050&utm_source=git)** | West Greenwich, RI | On Site | May 13 |
-| **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a04f4d74373b07358a385f3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 13 |
-| **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/69e8bc34e0cd471b2f137dcf?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | May 13 |
-| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Office Administrator Intern](https://jobright.ai/jobs/info/6a04d1596c07461fe1710f8f?utm_campaign=1050&utm_source=git)** | Santa Clara, California, United States | On Site | May 13 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdcf3d6cc51d6382e00?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | May 13 |
-| ↳ | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdbf3d6cc51d6382dff?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
