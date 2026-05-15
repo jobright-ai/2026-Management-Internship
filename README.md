@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / PATH Tucson Admin & Communications Intern](https://jobright.ai/jobs/info/6a074df4403fc339507e2dc2?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | May 15 |
+| **[Red Tail Residential](https://www.rtresi.com)** | **[Intern](https://jobright.ai/jobs/info/6a074d193b54ed42d74cc20f?utm_campaign=1050&utm_source=git)** | Residences at South High, Pittsburgh, PA, US | On Site | May 15 |
+| **[Stockman of Montana](https://www.stockmanbank.com/)** | **[INTERN AG & COMMERCIAL LENDING](https://jobright.ai/jobs/info/6a074af7a203b1052e439426?utm_campaign=1050&utm_source=git)** | Conrad, MT, US | On Site | May 15 |
+| **[SGS & Co](https://www.sgsco.com/)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6a074acba203b1052e439419?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
+| **[Princeton Properties](http://princetonproperties.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a074a056186f4685987ce22?utm_campaign=1050&utm_source=git)** | Bradford, Massachusetts, United States | On Site | May 15 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a0748b8a203b1052e4392a1?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | May 15 |
+| **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Intern II](https://jobright.ai/jobs/info/6a0747db6186f4685987cbc1?utm_campaign=1050&utm_source=git)** | Golden, CO, US | On Site | May 15 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern – Toronto](https://jobright.ai/jobs/info/6a07456ba203b1052e438f37?utm_campaign=1050&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 15 |
 | **[BMO](http://www.bmo.com)** | **[Process and Change Management Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a0739d5403fc339507e2301?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 15 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0737a4939a5f01db94d633?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | On Site | May 15 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a0737a48f3e371eb6174c0b?utm_campaign=1050&utm_source=git)** | Bloomington, IL, US | On Site | May 15 |
@@ -92,12 +100,12 @@ For a complete list, click the following sortable link below:
 | **[Harris Energy Solutions LLC](https://www.hesconnect.com)** | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a07048424dcb03739f1e44d?utm_campaign=1050&utm_source=git)** | Texas | Hybrid | May 15 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf4?utm_campaign=1050&utm_source=git)** | San Diego Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf5?utm_campaign=1050&utm_source=git)** | Salt Lake City Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade4?utm_campaign=1050&utm_source=git)** | New York Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9adef?utm_campaign=1050&utm_source=git)** | Chicago Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade5?utm_campaign=1050&utm_source=git)** | New Orleans Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade8?utm_campaign=1050&utm_source=git)** | Atlanta Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade2?utm_campaign=1050&utm_source=git)** | Seattle Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade4?utm_campaign=1050&utm_source=git)** | New York Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade0?utm_campaign=1050&utm_source=git)** | Nashville Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade2?utm_campaign=1050&utm_source=git)** | Seattle Depot | On Site | May 15 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a07047b1f7fa33581c9adb1?utm_campaign=1050&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 15 |
 | **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207f9?utm_campaign=1050&utm_source=git)** | Intrinsic Development (Lee's Summit) | On Site | May 15 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207ee?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 15 |
@@ -122,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[bioMérieux](https://www.biomerieux.it)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/69eb52ca16b2612c2a11aeeb?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern, Foundations (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/6a070114078fec52738a5592?utm_campaign=1050&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Solutions Delivery Intern, Foundations (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/6a070107078fec52738a552c?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Solutions Delivery Intern, Foundations (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/6a070104078fec52738a5524?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 15 |
 | ↳ | **[Solutions Delivery Intern, Foundations (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/6a070104078fec52738a5526?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | May 15 |
+| ↳ | **[Solutions Delivery Intern, Foundations (Fall/September 2026, 8-12 Months)](https://jobright.ai/jobs/info/6a070104078fec52738a5524?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a07010424dcb03739f1d4d0?utm_campaign=1050&utm_source=git)** | Murrieta | On Site | May 15 |
 | ↳ | **[Special Projects Intern](https://jobright.ai/jobs/info/69b497085697383741397c34?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 15 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a038dc68ecfd93cd9c0f6e8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 15 |
@@ -140,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Project Management & Analytics](https://jobright.ai/jobs/info/69debddf5913ad339813fbb2?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | May 15 |
 | **[Stansell Electric Company, Inc.](http://stansellelectric.com)** | **[Intern](https://jobright.ai/jobs/info/6a06fc191f7fa33581c97e7c?utm_campaign=1050&utm_source=git)** | Nashville | On Site | May 15 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 15 |
-| **[Ally Behavior Centers](https://www.allybehavior.com)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf9?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 15 |
-| ↳ | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf8?utm_campaign=1050&utm_source=git)** | McLean, Virginia, USA | On Site | May 15 |
+| **[Ally Behavior Centers](https://www.allybehavior.com)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf8?utm_campaign=1050&utm_source=git)** | McLean, Virginia, USA | On Site | May 15 |
+| ↳ | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf9?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb52bc16b2612c2a11aea3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69cd3bce891d7b11cfcb6dfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb1d078fec52738a3399?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fadb1f7fa33581c97652?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a06fa874a0a6a7e7d81d742?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 15 |
 | ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a06fa814a0a6a7e7d81d72e?utm_campaign=1050&utm_source=git)** | McGregor, TX | On Site | May 15 |
-| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a06fa7b4a0a6a7e7d81d71f?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 15 |
-| **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a04e36922395b6dc6da1ba4?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | May 15 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 15 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 15 |
-| **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a06fa0a4a0a6a7e7d81d5e6?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | May 15 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Team Operations Intern](https://jobright.ai/jobs/info/6a06f9f84a0a6a7e7d81d59b?utm_campaign=1050&utm_source=git)** | Mercy Health Training Center, Milford, Ohio | On Site | May 15 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Program Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07249c24dcb03739f22843?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 15 |
-| ↳ | **[CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/6a07249724dcb03739f22832?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
