@@ -57,32 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/6a06a6f47c753c287f704bf2?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 14 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a06a6ee6c07461fe1721ab0?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a06a161f3d6cc51d6394ca8?utm_campaign=1050&utm_source=git)** | 451 W. Third St., OH | On Site | May 14 |
 | **[Beyond Type 1](https://beyondtype1.org/)** | **[MBA Intern](https://jobright.ai/jobs/info/6a06a08e7c753c287f704951?utm_campaign=1050&utm_source=git)** | United States | Remote | May 14 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Hospital Operations Intern](https://jobright.ai/jobs/info/6a069bbe320bff2205eadccc?utm_campaign=1050&utm_source=git)** | Admin Services Bldg. (ASB), US | On Site | May 14 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative Intern College](https://jobright.ai/jobs/info/6a06940da88ea73abf7fcb99?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0689cef3d6cc51d63943e1?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | May 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0689cea88ea73abf7fc8a1?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 14 |
 | **[BCI Construction Inc.](https://bciconstruction.us/)** | **[Project Management Internship](https://jobright.ai/jobs/info/6a0684676c07461fe1720ea9?utm_campaign=1050&utm_source=git)** | Mora, MN | On Site | May 14 |
 | **[Pivotal](https://pivotal.aero)** | **[Internship, Supply Chain Analyst](https://jobright.ai/jobs/info/69fbaa6338179b6f1ae7a807?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a067e927c753c287f7039ae?utm_campaign=1050&utm_source=git)** | Willmar, MN | On Site | May 14 |
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a067e4da88ea73abf7fc232?utm_campaign=1050&utm_source=git)** | Ventura, CA | On Site | May 14 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6a067e31a88ea73abf7fc198?utm_campaign=1050&utm_source=git)** | Bowie, MD | On Site | May 14 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a067e25a88ea73abf7fc16d?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | May 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a067e25a88ea73abf7fc16b?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | May 14 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a067e25a88ea73abf7fc16b?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | May 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a067e25a88ea73abf7fc16d?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | May 14 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6a067e14bc4184089f24fe97?utm_campaign=1050&utm_source=git)** | Germantown, MD | On Site | May 14 |
 | **[Bilin Academy](https://bilin.academy)** | **[Bilingual Executive Assistant Intern](https://jobright.ai/jobs/info/6a067dd4f3d6cc51d6393d49?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | May 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a06a143320bff2205eadf51?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | May 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a140bc4184089f250c0b?utm_campaign=1050&utm_source=git)** | Apple Valley, MN | On Site | May 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a1107c753c287f704979?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | May 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a1946c07461fe172187d?utm_campaign=1050&utm_source=git)** | Richfield, MN | On Site | May 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a140bc4184089f250c0c?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | May 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a1107c753c287f704979?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | May 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a06a1946c07461fe172187f?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | May 14 |
 | **[Austal USA](http://austalusa.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6a067162320bff2205eacc23?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | May 14 |
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c57c753c287f703734?utm_campaign=1050&utm_source=git)** | US-CA-Ventura | On Site | May 14 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703732?utm_campaign=1050&utm_source=git)** | Ventura, CA, US | On Site | May 14 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703731?utm_campaign=1050&utm_source=git)** | Community Memorial Hospital - Ventura | On Site | May 14 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703733?utm_campaign=1050&utm_source=git)** | Ventura | On Site | May 14 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703732?utm_campaign=1050&utm_source=git)** | Ventura, CA, US | On Site | May 14 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[SCS Intern](https://jobright.ai/jobs/info/6a066ef7bc4184089f24fa2a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a066e256c07461fe1720744?utm_campaign=1050&utm_source=git)** | FORT WAYNE, IN (SOUTH) | On Site | May 14 |
 | **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 56](https://jobright.ai/jobs/info/6a06614dbc4184089f24f213?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 14 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Strategy Financial Group](https://www.strategyfinancialgroup.com)** | **[Executive Strategy Intern](https://jobright.ai/jobs/info/6a06321ef3d6cc51d6390a69?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 14 |
 | **[Sightline Commercial Solutions](https://www.sightlinecommercial.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a06313df3d6cc51d6390936?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Intern - Hourly/At-Will/Part-Time](https://jobright.ai/jobs/info/6a0630fc7c753c287f7004cb?utm_campaign=1050&utm_source=git)** | City Hall 12700 Norwalk Blvd., CA | On Site | May 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a0652246c07461fe171f4fa?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
-| ↳ | **[2026 Summer Supply Chain Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/6a0652bca88ea73abf7fab2d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 14 |
+| **[Parker Hannifin](http://www.parker.com)** | **[2026 Summer Supply Chain Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/6a0652bca88ea73abf7fab2d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 14 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a0652246c07461fe171f4fa?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a06534cf3d6cc51d6392706?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[CWI Logistics](https://cwi-logistics.com/)** | **[Intern](https://jobright.ai/jobs/info/6a062f72f3d6cc51d639078a?utm_campaign=1050&utm_source=git)** | Winter Haven, FL, US | On Site | May 14 |
 | **[Tao Group Hospitality](http://taogroup.com)** | **[Intern - Las Vegas](https://jobright.ai/jobs/info/6a062f69a88ea73abf7f8b40?utm_campaign=1050&utm_source=git)** | Las Vegas, NV, United States | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[CCI Research Operations Intern, 24 hours](https://jobright.ai/jobs/info/6a0666166c07461fe172006e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 14 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a06210a7c753c287f6ff8ec?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 14 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a062077bc4184089f24b5b7?utm_campaign=1050&utm_source=git)** | Fulton, NY, US | On Site | May 14 |
-| **[Montage International](https://www.montageinternational.com)** | **[Intern - CORP](https://jobright.ai/jobs/info/6a061e56bc4184089f24b499?utm_campaign=1050&utm_source=git)** | USA - CA - Irvine - Corporate Headquarters, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
