@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea91e60a6e095553041def?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | May 15 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a072d8a4a0a6a7e7d825eec?utm_campaign=1050&utm_source=git)** | WEST BURLINGTON, IA | On Site | May 15 |
+| **[RailWorks Corporation](http://www.railworks.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a07289b1f7fa33581c9cf36?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | May 15 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a07285f078fec52738ab23f?utm_campaign=1050&utm_source=git)** | US-LA-Bossier City | On Site | May 15 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a07285a078fec52738ab23a?utm_campaign=1050&utm_source=git)** | Bossier City, LA, US | On Site | May 15 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Stanley Black & Decker Intern – Global Supply Chain Management](https://jobright.ai/jobs/info/6a07280c9f57175bd582056c?utm_campaign=1050&utm_source=git)** | New Britain, CT, United States, US | On Site | May 15 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Graduate Intern, Winship Cancer Institute (ETS) / Temporary](https://jobright.ai/jobs/info/6a07187e078fec52738a8eda?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
 | **[Ephraim McDowell Health](https://emhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/6a0717661f7fa33581c9c0ab?utm_campaign=1050&utm_source=git)** | Danville, KY, 40422, United States | On Site | May 15 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0716861f7fa33581c9c087?utm_campaign=1050&utm_source=git)** | BURLINGTON, WI | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations)  - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a07152824dcb03739f20856?utm_campaign=1050&utm_source=git)** | Los Angeles | On Site | May 15 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/6a0713151f7fa33581c9bea1?utm_campaign=1050&utm_source=git)** | University Park, PA | Hybrid | May 15 |
 | **[KaarTech](https://www.kaartech.com)** | **[Intern](https://jobright.ai/jobs/info/6a070eb21f7fa33581c9badd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
@@ -68,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69d962b2b67cec4f9b0a1c2c?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07076b078fec52738a71d6?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c418876f4f855eeda675df?utm_campaign=1050&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
-| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 15 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/6a07062e4a0a6a7e7d8215c1?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 15 |
 | **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a0705a224dcb03739f1ea0e?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 15 |
@@ -80,17 +85,17 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/6a0704a41f7fa33581c9aee3?utm_campaign=1050&utm_source=git)** | Chicago | On Site | May 15 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704841f7fa33581c9ae05?utm_campaign=1050&utm_source=git)** | Union City, California, United States | On Site | May 15 |
 | **[Harris Energy Solutions LLC](https://www.hesconnect.com)** | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a07048424dcb03739f1e44d?utm_campaign=1050&utm_source=git)** | Texas | Hybrid | May 15 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf5?utm_campaign=1050&utm_source=git)** | Salt Lake City Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf4?utm_campaign=1050&utm_source=git)** | San Diego Depot | On Site | May 15 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf4?utm_campaign=1050&utm_source=git)** | San Diego Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704821f7fa33581c9adf5?utm_campaign=1050&utm_source=git)** | Salt Lake City Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade5?utm_campaign=1050&utm_source=git)** | New Orleans Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9adef?utm_campaign=1050&utm_source=git)** | Chicago Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade8?utm_campaign=1050&utm_source=git)** | Atlanta Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9ade4?utm_campaign=1050&utm_source=git)** | New York Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade2?utm_campaign=1050&utm_source=git)** | Seattle Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704811f7fa33581c9adef?utm_campaign=1050&utm_source=git)** | Chicago Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade0?utm_campaign=1050&utm_source=git)** | Nashville Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a0704801f7fa33581c9ade2?utm_campaign=1050&utm_source=git)** | Seattle Depot | On Site | May 15 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a07047b1f7fa33581c9adb1?utm_campaign=1050&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 15 |
-| **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207f9?utm_campaign=1050&utm_source=git)** | Intrinsic Development (Lee's Summit) | On Site | May 15 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207ee?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 15 |
+| **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207ee?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 15 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a0704434a0a6a7e7d8207f9?utm_campaign=1050&utm_source=git)** | Intrinsic Development (Lee's Summit) | On Site | May 15 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69fe48d74b9bbf21744b052a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0703c9078fec52738a6054?utm_campaign=1050&utm_source=git)** | Manteno, IL | On Site | May 15 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0703c6078fec52738a6033?utm_campaign=1050&utm_source=git)** | Manteno, Illinois | On Site | May 15 |
@@ -104,8 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a0702171f7fa33581c99ebf?utm_campaign=1050&utm_source=git)** | New York City | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/6a0702154a0a6a7e7d820009?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/6a0702124a0a6a7e7d820000?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | May 15 |
-| **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/6a0702114a0a6a7e7d81fffa?utm_campaign=1050&utm_source=git)** | Dallas Office | On Site | May 15 |
-| ↳ | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | May 15 |
+| **[Momentum](https://momentum.com/)** | **[MBA Summer Intern / Strategy & Operations](https://jobright.ai/jobs/info/69d666b352a5bf580012879b?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | May 15 |
 | **[Ginkgo Bioworks](http://ginkgobioworks.com)** | **[Commercial MBA Intern](https://jobright.ai/jobs/info/6a0701e3078fec52738a5ab8?utm_campaign=1050&utm_source=git)** | Boston Drydock | On Site | May 15 |
 | ↳ | **[Commercial MBA Intern](https://jobright.ai/jobs/info/69e7a437e0cd471b2f12cc30?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | May 15 |
 | **[Maxcess](http://www.maxcessintl.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/69f3c024343eef4fb0a9deb1?utm_campaign=1050&utm_source=git)** | Eureka, MO | On Site | May 15 |
@@ -133,6 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Stansell Electric Company, Inc.](http://stansellelectric.com)** | **[Intern](https://jobright.ai/jobs/info/6a06fc191f7fa33581c97e7c?utm_campaign=1050&utm_source=git)** | Nashville | On Site | May 15 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a06fc191f7fa33581c97e7f?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 15 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 15 |
+| **[Ally Behavior Centers](https://www.allybehavior.com)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf8?utm_campaign=1050&utm_source=git)** | McLean, Virginia, USA | On Site | May 15 |
+| ↳ | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a0725eb078fec52738aacf9?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb52bc16b2612c2a11aea3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69cd3bce891d7b11cfcb6dfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb1d078fec52738a3399?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
@@ -142,19 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a06fa814a0a6a7e7d81d72e?utm_campaign=1050&utm_source=git)** | McGregor, TX | On Site | May 15 |
 | ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a06fa7b4a0a6a7e7d81d71f?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 15 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a04e36922395b6dc6da1ba4?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | May 15 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 15 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 15 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 15 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 15 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a06fa0a4a0a6a7e7d81d5e6?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Team Operations Intern](https://jobright.ai/jobs/info/6a06f9f84a0a6a7e7d81d59b?utm_campaign=1050&utm_source=git)** | Mercy Health Training Center, Milford, Ohio | On Site | May 15 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Program Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07249c24dcb03739f22843?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 15 |
+| ↳ | **[CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://jobright.ai/jobs/info/6a07249724dcb03739f22832?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Eulerity](https://www.eulerity.com)** | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a06f8a39f57175bd581b25d?utm_campaign=1050&utm_source=git)** | New York | Hybrid | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Team Operations Intern](https://jobright.ai/jobs/info/69fa374d582f810f9c8d4b0f?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
 | **[Thesis](https://takethesis.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a06f7644a0a6a7e7d81ce64?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| **[Carrum Health](https://www.carrumhealth.com)** | **[Utilization & Growth Internship](https://jobright.ai/jobs/info/6a071f0e078fec52738a9f15?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb52907820c036924f2dc8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 15 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a07223a24dcb03739f2227f?utm_campaign=1050&utm_source=git)** | Chicago Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a07223a24dcb03739f2227d?utm_campaign=1050&utm_source=git)** | New Orleans Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a07223924dcb03739f22276?utm_campaign=1050&utm_source=git)** | San Diego Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/69ab209d7e1fab39d382a7b5?utm_campaign=1050&utm_source=git)** | Las Vegas, Nevada, United States | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a07223e24dcb03739f22296?utm_campaign=1050&utm_source=git)** | Salt Lake City Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern - Las Vegas](https://jobright.ai/jobs/info/6a07223e24dcb03739f22295?utm_campaign=1050&utm_source=git)** | Nashville Depot | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
