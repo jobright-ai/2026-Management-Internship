@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austal USA](http://austalusa.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6a067162320bff2205eacc23?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | May 14 |
+| **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c57c753c287f703734?utm_campaign=1050&utm_source=git)** | US-CA-Ventura | On Site | May 14 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703731?utm_campaign=1050&utm_source=git)** | Community Memorial Hospital - Ventura | On Site | May 14 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703733?utm_campaign=1050&utm_source=git)** | Ventura | On Site | May 14 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a0670c47c753c287f703732?utm_campaign=1050&utm_source=git)** | Ventura, CA, US | On Site | May 14 |
+| **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[SCS Intern](https://jobright.ai/jobs/info/6a066ef7bc4184089f24fa2a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 14 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a066e26bc4184089f24f94b?utm_campaign=1050&utm_source=git)** | FRANKLIN, WI | On Site | May 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a066e256c07461fe1720744?utm_campaign=1050&utm_source=git)** | FORT WAYNE, IN (SOUTH) | On Site | May 14 |
 | **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 56](https://jobright.ai/jobs/info/6a06614dbc4184089f24f213?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Chromalloy Corporation](http://www.sequa.com)** | **[Production Planning - Intern](https://jobright.ai/jobs/info/6a065ab4bc4184089f24ef6b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a065aabbc4184089f24ef08?utm_campaign=1050&utm_source=git)** | Holly Springs, MS | On Site | May 14 |
@@ -67,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6a0652c0bc4184089f24e83c?utm_campaign=1050&utm_source=git)** | Mandeville, LA | On Site | May 14 |
 | **[Enovis](https://enovis.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a06525c320bff2205eab92e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a0652507c753c287f7023b8?utm_campaign=1050&utm_source=git)** | Fulton, NY | On Site | May 14 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a065197a88ea73abf7fa957?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a065192f3d6cc51d6392573?utm_campaign=1050&utm_source=git)** | PLATTEVILLE, WI | On Site | May 14 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a065192f3d6cc51d6392573?utm_campaign=1050&utm_source=git)** | PLATTEVILLE, WI | On Site | May 14 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a03038e7c753c287f6e2a2c?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[Brink Constructors, Inc.](https://brinkred.com/)** | **[Intern - Assistant Project Manager SDM](https://jobright.ai/jobs/info/6a064e02bc4184089f24e3f1?utm_campaign=1050&utm_source=git)** | Rapid City, SD | On Site | May 14 |
 | **[American Red Cross](http://redcross.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/6a064dfabc4184089f24e3bf?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/6a0607bd6c07461fe171b775?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Administrative Intern, Cellular Therapy](https://jobright.ai/jobs/info/6a0607ad7c753c287f6fe498?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | May 14 |
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern – Summer 2027](https://jobright.ai/jobs/info/69e91fd0e0cd471b2f13a777?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | Hybrid | May 14 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern](https://jobright.ai/jobs/info/6a06059bbc4184089f24a164?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | May 14 |
-| **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern](https://jobright.ai/jobs/info/6a06058a320bff2205ea717d?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | May 14 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Stanley Black & Decker Intern – Global Supply Chain Management](https://jobright.ai/jobs/info/6a063191bc4184089f24c93b?utm_campaign=1050&utm_source=git)** | New Britain, CT | On Site | May 14 |
-| **[CLEAResult](http://www.clearesult.com)** | **[MBA or Graduate Student Intern – Corporate Development & Strategy](https://jobright.ai/jobs/info/6a062867f3d6cc51d6390103?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 14 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern – Informatics Strategy – Bothell, WA – Summer 2026](https://jobright.ai/jobs/info/6a0601f56c07461fe171b4c6?utm_campaign=1050&utm_source=git)** | Bothell, Washington, United States, US | On Site | May 14 |
-| **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Operations Intern (Clinical WFM)](https://jobright.ai/jobs/info/6a062882f3d6cc51d6390178?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 14 |
-| **[Team Select](https://www.tshc.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/6a0600cea88ea73abf7f60fd?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
