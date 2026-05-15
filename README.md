@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 56](https://jobright.ai/jobs/info/6a06614dbc4184089f24f213?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Chromalloy Corporation](http://www.sequa.com)** | **[Production Planning - Intern](https://jobright.ai/jobs/info/6a065ab4bc4184089f24ef6b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a065aabbc4184089f24ef08?utm_campaign=1050&utm_source=git)** | Holly Springs, MS | On Site | May 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - DEAM [Real Estate Project Manager I]](https://jobright.ai/jobs/info/6a06576bf3d6cc51d6392a8c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | May 14 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Strategy Financial Group](https://www.strategyfinancialgroup.com)** | **[Executive Strategy Intern](https://jobright.ai/jobs/info/6a06321ef3d6cc51d6390a69?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 14 |
 | **[Sightline Commercial Solutions](https://www.sightlinecommercial.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a06313df3d6cc51d6390936?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Intern - Hourly/At-Will/Part-Time](https://jobright.ai/jobs/info/6a0630fc7c753c287f7004cb?utm_campaign=1050&utm_source=git)** | City Hall 12700 Norwalk Blvd., CA | On Site | May 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a0652246c07461fe171f4fa?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
-| ↳ | **[2026 Summer Supply Chain Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/6a0652bca88ea73abf7fab2d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 14 |
+| **[Parker Hannifin](http://www.parker.com)** | **[2026 Summer Supply Chain Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/6a0652bca88ea73abf7fab2d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 14 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a0652246c07461fe171f4fa?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a06534cf3d6cc51d6392706?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[CWI Logistics](https://cwi-logistics.com/)** | **[Intern](https://jobright.ai/jobs/info/6a062f72f3d6cc51d639078a?utm_campaign=1050&utm_source=git)** | Winter Haven, FL, US | On Site | May 14 |
 | **[Tao Group Hospitality](http://taogroup.com)** | **[Intern - Las Vegas](https://jobright.ai/jobs/info/6a062f69a88ea73abf7f8b40?utm_campaign=1050&utm_source=git)** | Las Vegas, NV, United States | On Site | May 14 |
@@ -120,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/6a062432bc4184089f24bfab?utm_campaign=1050&utm_source=git)** | Piscataway, NJ | On Site | May 14 |
 | **[Goodwill of Central & Southern Indiana](https://www.goodwillindy.org/foundation)** | **[Summer Intern: Leadership Planning](https://jobright.ai/jobs/info/6a06242b6c07461fe171cdc9?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | May 14 |
 | **[Accion](http://www.accion.org)** | **[Knowledge & Insights Summer Intern, Impact Measurement and Management (IMM)](https://jobright.ai/jobs/info/6a0624246c07461fe171cda8?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | May 14 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[CCI Research Operations Intern, 24 hours](https://jobright.ai/jobs/info/6a0666166c07461fe172006e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 14 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a06210a7c753c287f6ff8ec?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 14 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a062077bc4184089f24b5b7?utm_campaign=1050&utm_source=git)** | Fulton, NY, US | On Site | May 14 |
 | **[Montage International](https://www.montageinternational.com)** | **[Intern - CORP](https://jobright.ai/jobs/info/6a061e56bc4184089f24b499?utm_campaign=1050&utm_source=git)** | USA - CA - Irvine - Corporate Headquarters, US | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Informatics Strategy – Bothell, WA – Summer 2026](https://jobright.ai/jobs/info/6a0601f56c07461fe171b4c6?utm_campaign=1050&utm_source=git)** | Bothell, Washington, United States, US | On Site | May 14 |
 | **[Teladoc Health Canada](https://www.teladochealth.ca/)** | **[Operations Intern (Clinical WFM)](https://jobright.ai/jobs/info/6a062882f3d6cc51d6390178?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 14 |
 | **[Team Select](https://www.tshc.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/6a0600cea88ea73abf7f60fd?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | May 14 |
-| **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern – Summer 2027](https://jobright.ai/jobs/info/69e956680a6e09555303b338?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | May 14 |
-| **[City of Corona](https://www.coronaca.gov/)** | **[DoD SkillBridge Internship \- Associate Project Manager (505429](https://jobright.ai/jobs/info/6a05fc6a7c753c287f6fdce2?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina, United States | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
