@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holloway Health & Life Benefits, LLC](https://www.linkedin.com/company/104807125)** | **[Executive Assistant & Business Operations Intern](https://jobright.ai/jobs/info/6a08c3b46186f46859889e49?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | May 16 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6a08a71c3b54ed42d74d8a63?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 16 |
 | **[Liberty Construction Services](https://libertycs.net)** | **[Construction Management Intern - Braintree(2026 Interns)](https://jobright.ai/jobs/info/6a08a0c9a203b1052e4455f1?utm_campaign=1050&utm_source=git)** | US-MA-Braintree | On Site | May 16 |
 | ↳ | **[Construction Management Intern - Braintree(2026 Interns)](https://jobright.ai/jobs/info/6a08a0c8a203b1052e4455f0?utm_campaign=1050&utm_source=git)** | Braintree, MA, US | On Site | May 16 |
@@ -74,14 +75,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a248f3e371eb61802e2?utm_campaign=1050&utm_source=git)** | Ashland | On Site | May 16 |
 | ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a248f3e371eb61802e1?utm_campaign=1050&utm_source=git)** | Medford | On Site | May 16 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6a086a23a203b1052e444621?utm_campaign=1050&utm_source=git)** | Chico | On Site | May 16 |
-| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a238f3e371eb61802df?utm_campaign=1050&utm_source=git)** | Medford, OR, US | On Site | May 16 |
 | ↳ | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a086a23403fc339507ede92?utm_campaign=1050&utm_source=git)** | Rutland, VT, US | On Site | May 16 |
+| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a238f3e371eb61802df?utm_campaign=1050&utm_source=git)** | Medford, OR, US | On Site | May 16 |
 | ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/6a086a22a203b1052e44461f?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL, US | On Site | May 16 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/6a086a22939a5f01db95978e?utm_campaign=1050&utm_source=git)** | Santa Cruz | On Site | May 16 |
-| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974a?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
-| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974b?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | May 16 |
-| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede24?utm_campaign=1050&utm_source=git)** | US-AK-Kobuk | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede27?utm_campaign=1050&utm_source=git)** | Kobuk , AK, US | On Site | May 16 |
+| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974b?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | May 16 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974a?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
+| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede27?utm_campaign=1050&utm_source=git)** | Kobuk , AK, US | On Site | May 16 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede24?utm_campaign=1050&utm_source=git)** | US-AK-Kobuk | On Site | May 16 |
 | **[Creative Expansions, Inc](cei)** | **[Summer Internship with Mentoring from the CEO](https://jobright.ai/jobs/info/6a0865046186f468598882f9?utm_campaign=1050&utm_source=git)** | Manhattan, NY | Remote | May 16 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a057d3af3d6cc51d638953f?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | May 16 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0851c0939a5f01db958a7f?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | May 16 |
@@ -114,15 +115,15 @@ For a complete list, click the following sortable link below:
 | **[Accion](http://www.accion.org)** | **[Knowledge & Insights Summer Intern, Impact Measurement and Management (IMM)](https://jobright.ai/jobs/info/6a084ec23b54ed42d74d640b?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084ea48f3e371eb617f0cd?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | ↳ | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084ea38f3e371eb617f0c9?utm_campaign=1050&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 16 |
-| ↳ | **[Arena Operations Intern / Part-Time /UBS Arena](https://jobright.ai/jobs/info/6a084e9b6186f46859887341?utm_campaign=1050&utm_source=git)** | UBS Arena, 2400 Hempstead Turnpike, US-NY-Elmont | On Site | May 16 |
 | ↳ | **[Arena Operations Intern / Part-Time /UBS Arena](https://jobright.ai/jobs/info/6a084e9b6186f46859887342?utm_campaign=1050&utm_source=git)** | UBS Arena, 2400 Hempstead Turnpike, Elmont, NY 11003, US | On Site | May 16 |
+| ↳ | **[Arena Operations Intern / Part-Time /UBS Arena](https://jobright.ai/jobs/info/6a084e9b6186f46859887341?utm_campaign=1050&utm_source=git)** | UBS Arena, 2400 Hempstead Turnpike, US-NY-Elmont | On Site | May 16 |
 | ↳ | **[Arena Operations Intern / Part-Time /UBS Arena](https://jobright.ai/jobs/info/6a084e8f6186f4685988733a?utm_campaign=1050&utm_source=git)** | US-NY-Elmont | On Site | May 16 |
 | **[Kirby](http://www.kirbycorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a084e70403fc339507ec958?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | May 16 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a084e6f403fc339507ec956?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, US | On Site | May 16 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Management Internship Fall 2026](https://jobright.ai/jobs/info/6a084e623b54ed42d74d6285?utm_campaign=1050&utm_source=git)** | Manchaca, TX, US | On Site | May 16 |
 | ↳ | **[Project Management Internship Fall 2026](https://jobright.ai/jobs/info/6a084e613b54ed42d74d627a?utm_campaign=1050&utm_source=git)** | US-TX-Manchaca | On Site | May 16 |
-| ↳ | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a084e5ea203b1052e443095?utm_campaign=1050&utm_source=git)** | US-PA-Reading | On Site | May 16 |
 | ↳ | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a084e5ea203b1052e443097?utm_campaign=1050&utm_source=git)** | Reading, PA, US | On Site | May 16 |
+| ↳ | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a084e5ea203b1052e443095?utm_campaign=1050&utm_source=git)** | US-PA-Reading | On Site | May 16 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Operations Management Summer Intern](https://jobright.ai/jobs/info/6a084e233b54ed42d74d6144?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | May 16 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a084e188f3e371eb617ee08?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | May 16 |
 | ↳ | **[Office Service Intern](https://jobright.ai/jobs/info/6a084e188f3e371eb617ee09?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 16 |
@@ -135,13 +136,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/69fbdaa287a4820e6da8b029?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | May 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084cac939a5f01db957c85?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084cab939a5f01db957c82?utm_campaign=1050&utm_source=git)** | US-TX-Dallas | On Site | May 16 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca93b54ed42d74d5f15?utm_campaign=1050&utm_source=git)** | US-TX-Lufkin | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca9939a5f01db957c81?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA, US | On Site | May 16 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca93b54ed42d74d5f15?utm_campaign=1050&utm_source=git)** | US-TX-Lufkin | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca8a203b1052e442db5?utm_campaign=1050&utm_source=git)** | Hoover, AL, US | On Site | May 16 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca78f3e371eb617ec67?utm_campaign=1050&utm_source=git)** | Bossier City, LA, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca78f3e371eb617ec68?utm_campaign=1050&utm_source=git)** | Baytown, TX, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca7403fc339507ec60d?utm_campaign=1050&utm_source=git)** | Columbia, SC, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca78f3e371eb617ec66?utm_campaign=1050&utm_source=git)** | US-LA-Bossier City | On Site | May 16 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca78f3e371eb617ec67?utm_campaign=1050&utm_source=git)** | Bossier City, LA, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca6403fc339507ec60c?utm_campaign=1050&utm_source=git)** | US-TX-Waco | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca53b54ed42d74d5f14?utm_campaign=1050&utm_source=git)** | Denham Springs, LA, US | On Site | May 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca43b54ed42d74d5f13?utm_campaign=1050&utm_source=git)** | US-LA-Denham Springs | On Site | May 16 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a084c80a203b1052e442d9b?utm_campaign=1050&utm_source=git)** | 11040 N. Solar Canyon Way, Surprise, AZ 85379, US | On Site | May 16 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a084c80a203b1052e442d9c?utm_campaign=1050&utm_source=git)** | 11040 N. Solar Canyon Way, Surprise, AZ 85379 | On Site | May 16 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a084c79a203b1052e442d94?utm_campaign=1050&utm_source=git)** | US-AZ-Surprise | On Site | May 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a084c17939a5f01db957c33?utm_campaign=1050&utm_source=git)** | MONTGOMERY, IL | On Site | May 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69cf2bf4cdb525785fb9f70f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 16 |
 | ↳ | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69604d29a1bbea1d9a7b2f0c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 16 |
