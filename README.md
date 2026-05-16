@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ifm](https://www.ifm-electronic.com)** | **[Logistics Intern - DC Picking and Shipping Summer Intern](https://jobright.ai/jobs/info/6a07bccc3b54ed42d74d1724?utm_campaign=1050&utm_source=git)** | Downingtown, PA | On Site | May 15 |
+| **[State Street](https://www.statestreet.com/)** | **[PIC Internship - 2026](https://jobright.ai/jobs/info/6a07b9966186f468598824cd?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 15 |
+| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a07b9913b54ed42d74d147d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (ADMINISTRATION AND OFFICE SUPPORT).](https://jobright.ai/jobs/info/6a07aba2939a5f01db952d2c?utm_campaign=1050&utm_source=git)** | Town Center, MD | On Site | May 15 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a07ab6c6186f46859881ef9?utm_campaign=1050&utm_source=git)** | Ironton, MO | On Site | May 15 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern, High Point Medical Center, GAP Program](https://jobright.ai/jobs/info/6a07a4ee939a5f01db952986?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | May 15 |
-| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/6a07a366403fc339507e6e2f?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 15 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a07a3663b54ed42d74d0b1a?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 15 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a07a3656186f46859881bc9?utm_campaign=1050&utm_source=git)** | BURLINGTON, WI | On Site | May 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a07a362a203b1052e43d77b?utm_campaign=1050&utm_source=git)** | Georgia-Lithonia | On Site | May 15 |
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/6a07a26f8f3e371eb6179455?utm_campaign=1050&utm_source=git)** | Gainesville, TX | On Site | May 15 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 Business Operations Intern](https://jobright.ai/jobs/info/6a079c333b54ed42d74d05f5?utm_campaign=1050&utm_source=git)** | Chantilly, VA | Hybrid | May 15 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07076b078fec52738a71d6?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c418876f4f855eeda675df?utm_campaign=1050&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
-| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 15 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/6a07062e4a0a6a7e7d8215c1?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 15 |
 | **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a0705a224dcb03739f1ea0e?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 15 |
