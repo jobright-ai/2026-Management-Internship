@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[F&B Intern (Harrah's Philadelphia)](https://jobright.ai/jobs/info/6a07fbb68f3e371eb617c462?utm_campaign=1050&utm_source=git)** | Chester, PA, United States | On Site | May 15 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a07f7a43b54ed42d74d33a4?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a07f7a46186f468598843e1?utm_campaign=1050&utm_source=git)** | BURLINGTON, WI | On Site | May 15 |
+| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a07f7a4403fc339507e9825?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 15 |
 | **[NETSYNC](https://www.netsync.com/)** | **[Deployment Intern - IT Summer Projects (Paid)](https://jobright.ai/jobs/info/6a07cf1e8f3e371eb617a995?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a07cf148f3e371eb617a96c?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | May 15 |
+| **[Conduit Health](https://www.conduithealth.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a07fa768f3e371eb617c334?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a07fa6b8f3e371eb617c2fa?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | May 15 |
 | **[Frontera Healthcare](https://fronterahcn.org)** | **[Summer 2026 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/6a07c9803b54ed42d74d1dd2?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | May 15 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a07c9753b54ed42d74d1d93?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | May 15 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/6a07c157403fc339507e7e25?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | May 15 |
@@ -75,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Tonix Pharmaceuticals](http://www.tonixpharma.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0798baa203b1052e43ce9a?utm_campaign=1050&utm_source=git)** | North Dartmouth, MA | Hybrid | May 15 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a0798b0a203b1052e43ce94?utm_campaign=1050&utm_source=git)** | Berkeley Heights, NJ | Hybrid | May 15 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6a0795a06186f4685988123b?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
-| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Project Strategy & Planning Intern](https://jobright.ai/jobs/info/6a0794f86186f4685988120b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[SquareTrade](https://www.squaretrade.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/6a0794ef3b54ed42d74d00ec?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 15 |
 | **[GlobalFoundries](https://gf.com/)** | **[Strategic Finance and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0794d33b54ed42d74d0057?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Administrative Services Intern](https://jobright.ai/jobs/info/6a0790793b54ed42d74cf5af?utm_campaign=1050&utm_source=git)** | Dexter Horton Building - 710 Second Avenue #200, Seattle, WA | On Site | May 15 |
@@ -116,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Strategic Finance and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0761c73b54ed42d74ccbd4?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin, US | On Site | May 15 |
 | **[Downtown San Diego Partnership](http://www.downtownsandiego.org/)** | **[Business Engagement Intern](https://jobright.ai/jobs/info/6a07618c8f3e371eb61761e1?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 15 |
 | **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.50/hr!*](https://jobright.ai/jobs/info/69a94d96f2055e05d171700f?utm_campaign=1050&utm_source=git)** | Stanton, CA | On Site | May 15 |
-| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Project Strategy & Planning Intern](https://jobright.ai/jobs/info/6a0759dba203b1052e439c79?utm_campaign=1050&utm_source=git)** | AUSTIN, TX | On Site | May 15 |
 | **[Propelis](https://propelis.com)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6a0758303b54ed42d74cc96d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[Volta Medical](https://www.volta-medical.com/)** | **[US Business Operations Intern](https://jobright.ai/jobs/info/6a0757b7403fc339507e3320?utm_campaign=1050&utm_source=git)** | Providence, RI | Hybrid | May 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Agency Leasing Summer Internship](https://jobright.ai/jobs/info/6a0754fd3b54ed42d74cc7cb?utm_campaign=1050&utm_source=git)** | San Francisco, California, USA, US | On Site | May 15 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07076b078fec52738a71d6?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c418876f4f855eeda675df?utm_campaign=1050&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
-| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
-| **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 15 |
-| **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/6a07062e4a0a6a7e7d8215c1?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 15 |
-| **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a0705a224dcb03739f1ea0e?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 15 |
-| ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69d7def4f4ea471a51fe2216?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | May 15 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
+| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
