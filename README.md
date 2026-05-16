@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Katalyst CRO](http://katalysthls.com)** | **[Support 1, Operations Intern](https://jobright.ai/jobs/info/6a082a3ea203b1052e441b71?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 16 |
+| **[MGI Construction Corp.](https://mgicorp.ca)** | **[Office Coordinator (Internship)](https://jobright.ai/jobs/info/6a0826138f3e371eb617d689?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 16 |
+| ↳ | **[Project Coordinator (Internship)](https://jobright.ai/jobs/info/6a0825bca203b1052e441767?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 16 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Site Operations Intern](https://jobright.ai/jobs/info/6a08186f403fc339507eacab?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | May 16 |
-| **[Menards](https://www.menards.com)** | **[Distribution Internship](https://jobright.ai/jobs/info/6a081399403fc339507eab16?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 15 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[F&B Intern (Harrah's Philadelphia)](https://jobright.ai/jobs/info/6a07fbb68f3e371eb617c462?utm_campaign=1050&utm_source=git)** | Chester, PA, United States | On Site | May 15 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a78?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | May 15 |
 | **[NETSYNC](https://www.netsync.com/)** | **[Deployment Intern - IT Summer Projects (Paid)](https://jobright.ai/jobs/info/6a07cf1e8f3e371eb617a995?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Facility and Campus Operations Intern](https://jobright.ai/jobs/info/6a076dcd939a5f01db94f5ac?utm_campaign=1050&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d4a8f3e371eb6176b49?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 15 |
 | ↳ | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d478f3e371eb6176b43?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | May 15 |
-| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
-| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
+| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
+| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076cf3939a5f01db94f47f?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a07892f3b54ed42d74cf225?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 15 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076a51a203b1052e43a596?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Process and Change Management Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a074fd8939a5f01db94e474?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / PATH Tucson Admin & Communications Intern](https://jobright.ai/jobs/info/6a074df4403fc339507e2dc2?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | May 15 |
 | **[Red Tail Residential](https://www.rtresi.com)** | **[Intern](https://jobright.ai/jobs/info/6a074d193b54ed42d74cc20f?utm_campaign=1050&utm_source=git)** | Residences at South High, Pittsburgh, PA, US | On Site | May 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/69d88b51f4ea471a51fe65dc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 15 |
 | **[Stockman of Montana](https://www.stockmanbank.com/)** | **[INTERN AG & COMMERCIAL LENDING](https://jobright.ai/jobs/info/6a074af7a203b1052e439426?utm_campaign=1050&utm_source=git)** | Conrad, MT, US | On Site | May 15 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6a074acba203b1052e439419?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[Princeton Properties](http://princetonproperties.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a074a056186f4685987ce22?utm_campaign=1050&utm_source=git)** | Bradford, Massachusetts, United States | On Site | May 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/6a0713151f7fa33581c9bea1?utm_campaign=1050&utm_source=git)** | University Park, PA | Hybrid | May 15 |
 | **[KaarTech](https://www.kaartech.com)** | **[Intern](https://jobright.ai/jobs/info/6a070eb21f7fa33581c9badd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
 | **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a070d021f7fa33581c9b9a7?utm_campaign=1050&utm_source=git)** | Austin, TX - HQ | On Site | May 15 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
-| **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07076b078fec52738a71d6?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
-| ↳ | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c418876f4f855eeda675df?utm_campaign=1050&utm_source=git)** | Remote, US | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
