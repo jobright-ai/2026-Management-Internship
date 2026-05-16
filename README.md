@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NETSYNC](https://www.netsync.com/)** | **[Deployment Intern - IT Summer Projects (Paid)](https://jobright.ai/jobs/info/6a07cf1e8f3e371eb617a995?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a07cf148f3e371eb617a96c?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | May 15 |
 | **[Frontera Healthcare](https://fronterahcn.org)** | **[Summer 2026 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/6a07c9803b54ed42d74d1dd2?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | May 15 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a07c9753b54ed42d74d1d93?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | May 15 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/6a07c157403fc339507e7e25?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | May 15 |
-| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a07bfbe3b54ed42d74d1a4b?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 15 |
-| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a07bfbe403fc339507e7d4b?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 15 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a07bf49403fc339507e7d20?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[State Street](https://www.statestreet.com/)** | **[PIC Internship - 2026](https://jobright.ai/jobs/info/6a07b9966186f468598824cd?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 15 |
 | **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (ADMINISTRATION AND OFFICE SUPPORT).](https://jobright.ai/jobs/info/6a07aba2939a5f01db952d2c?utm_campaign=1050&utm_source=git)** | Town Center, MD | On Site | May 15 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a07ab6c6186f46859881ef9?utm_campaign=1050&utm_source=git)** | Ironton, MO | On Site | May 15 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern, High Point Medical Center, GAP Program](https://jobright.ai/jobs/info/6a07a4ee939a5f01db952986?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | May 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a07a362a203b1052e43d77b?utm_campaign=1050&utm_source=git)** | Georgia-Lithonia | On Site | May 15 |
-| **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/6a07a26f8f3e371eb6179455?utm_campaign=1050&utm_source=git)** | Gainesville, TX | On Site | May 15 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 Business Operations Intern](https://jobright.ai/jobs/info/6a079c333b54ed42d74d05f5?utm_campaign=1050&utm_source=git)** | Chantilly, VA | Hybrid | May 15 |
 | **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0799f1a203b1052e43cf42?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 15 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0799c3a203b1052e43cf06?utm_campaign=1050&utm_source=git)** | Irving, TX, US | Hybrid | May 15 |
@@ -133,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Princeton Properties](http://princetonproperties.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/6a074a056186f4685987ce22?utm_campaign=1050&utm_source=git)** | Bradford, Massachusetts, United States | On Site | May 15 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Intern II](https://jobright.ai/jobs/info/6a0747db6186f4685987cbc1?utm_campaign=1050&utm_source=git)** | Golden, CO, US | On Site | May 15 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman Summer 2027 Intern – Toronto](https://jobright.ai/jobs/info/6a07456ba203b1052e438f37?utm_campaign=1050&utm_source=git)** | Toronto - Bremner, CA | Hybrid | May 15 |
-| **[Cascades](http://www.cascades.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69bc941a4828227293fe7909?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY | On Site | May 15 |
 | **[BMO](http://www.bmo.com)** | **[Process and Change Management Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a0739d5403fc339507e2301?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 15 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0737a4939a5f01db94d633?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | On Site | May 15 |
 | **[Hard Rock International](https://www.hardrockhotels.com)** | **[Intern - F&B Administration](https://jobright.ai/jobs/info/6a073683a203b1052e4389d1?utm_campaign=1050&utm_source=git)** | Hard Rock Hotel & Casino Atlantic City, US | On Site | May 15 |
@@ -153,8 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69ec0ac2dc35f7132c4b5474?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07076b078fec52738a71d6?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | ↳ | **[Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/69c418876f4f855eeda675df?utm_campaign=1050&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
-| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
+| ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3a?utm_campaign=1050&utm_source=git)** | State College, Pennsylvania, United States | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 15 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/6a07062e4a0a6a7e7d8215c1?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 15 |
+| **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a0705a224dcb03739f1ea0e?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 15 |
+| ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69d7def4f4ea471a51fe2216?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
