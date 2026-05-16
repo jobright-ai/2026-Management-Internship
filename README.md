@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ifm](https://www.ifm-electronic.com)** | **[Logistics Intern - DC Picking and Shipping Summer Intern](https://jobright.ai/jobs/info/6a07bccc3b54ed42d74d1724?utm_campaign=1050&utm_source=git)** | Downingtown, PA | On Site | May 15 |
+| **[Frontera Healthcare](https://fronterahcn.org)** | **[Summer 2026 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/6a07c9803b54ed42d74d1dd2?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | May 15 |
+| **[Legrand, North America](http://www.legrand.us)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a07c9753b54ed42d74d1d93?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | May 15 |
+| **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/6a07c157403fc339507e7e25?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | May 15 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a07bfbe3b54ed42d74d1a4b?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 15 |
+| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a07bfbe403fc339507e7d4b?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 15 |
+| **[Nomara USA](https://intermediumcorp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a07bf49403fc339507e7d20?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[State Street](https://www.statestreet.com/)** | **[PIC Internship - 2026](https://jobright.ai/jobs/info/6a07b9966186f468598824cd?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 15 |
-| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a07b9913b54ed42d74d147d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (ADMINISTRATION AND OFFICE SUPPORT).](https://jobright.ai/jobs/info/6a07aba2939a5f01db952d2c?utm_campaign=1050&utm_source=git)** | Town Center, MD | On Site | May 15 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a07ab6c6186f46859881ef9?utm_campaign=1050&utm_source=git)** | Ironton, MO | On Site | May 15 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern, High Point Medical Center, GAP Program](https://jobright.ai/jobs/info/6a07a4ee939a5f01db952986?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | May 15 |
@@ -98,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Facility and Campus Operations Intern](https://jobright.ai/jobs/info/6a076dcd939a5f01db94f5ac?utm_campaign=1050&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d4a8f3e371eb6176b49?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 15 |
 | ↳ | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d478f3e371eb6176b43?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | May 15 |
-| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
-| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
+| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
+| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076cf3939a5f01db94f47f?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a07892f3b54ed42d74cf225?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 15 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076a51a203b1052e43a596?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
@@ -117,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Propelis](https://propelis.com)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6a0758303b54ed42d74cc96d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 15 |
 | **[Volta Medical](https://www.volta-medical.com/)** | **[US Business Operations Intern](https://jobright.ai/jobs/info/6a0757b7403fc339507e3320?utm_campaign=1050&utm_source=git)** | Providence, RI | Hybrid | May 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Agency Leasing Summer Internship](https://jobright.ai/jobs/info/6a0754fd3b54ed42d74cc7cb?utm_campaign=1050&utm_source=git)** | San Francisco, California, USA, US | On Site | May 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ae?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, Florida | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ad?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | Hybrid | May 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ad?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | Hybrid | May 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ae?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, Florida | Hybrid | May 15 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Management Associate (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/6a075069939a5f01db94e49a?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | May 15 |
 | **[Red Tail Residential](https://www.rtresi.com)** | **[Intern](https://jobright.ai/jobs/info/6a075033a203b1052e439807?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[BMO](http://www.bmo.com)** | **[Process and Change Management Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a074fd8939a5f01db94e474?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a0707504a0a6a7e7d821d3b?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/6a04e19f4373b07358a37a7c?utm_campaign=1050&utm_source=git)** | Surrey, British Columbia, Canada | On Site | May 15 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern, Executive Office](https://jobright.ai/jobs/info/6a07062e4a0a6a7e7d8215c1?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 15 |
-| **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a0705a224dcb03739f1ea0e?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 15 |
-| ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69d7def4f4ea471a51fe2216?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | May 15 |
-| **[Harris Energy Solutions LLC](https://www.hesconnect.com)** | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a07056a24dcb03739f1e940?utm_campaign=1050&utm_source=git)** | Austin, TX area | Hybrid | May 15 |
-| **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/6a0704a41f7fa33581c9aee3?utm_campaign=1050&utm_source=git)** | Chicago | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
