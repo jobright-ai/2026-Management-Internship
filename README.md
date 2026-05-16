@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Katalyst CRO](http://katalysthls.com)** | **[Support 1, Operations Intern](https://jobright.ai/jobs/info/6a082a3ea203b1052e441b71?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 16 |
+| **[FMOL Health](https://fmolhs.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a083320939a5f01db9572d5?utm_campaign=1050&utm_source=git)** | 6955 Perkins Rd, Baton Rouge, LA, 70810, US | On Site | May 16 |
+| **[Glee Church](http://www.gleechurch.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6a0830c6a203b1052e442278?utm_campaign=1050&utm_source=git)** | Bowie, Maryland | On Site | May 16 |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a0830633b54ed42d74d53a2?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 16 |
+| ↳ | **[Distribution Internship](https://jobright.ai/jobs/info/6a083062403fc339507ebacc?utm_campaign=1050&utm_source=git)** | SHELBY, IA - Distribution/Manufacturing/Fleet | On Site | May 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a083062939a5f01db957171?utm_campaign=1050&utm_source=git)** | MONTGOMERY, IL | On Site | May 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0830626186f46859886453?utm_campaign=1050&utm_source=git)** | BURLINGTON, WI | On Site | May 16 |
 | **[MGI Construction Corp.](https://mgicorp.ca)** | **[Office Coordinator (Internship)](https://jobright.ai/jobs/info/6a0826138f3e371eb617d689?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 16 |
 | ↳ | **[Project Coordinator (Internship)](https://jobright.ai/jobs/info/6a0825bca203b1052e441767?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 16 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Site Operations Intern](https://jobright.ai/jobs/info/6a08186f403fc339507eacab?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | May 16 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Facility and Campus Operations Intern](https://jobright.ai/jobs/info/6a076dcd939a5f01db94f5ac?utm_campaign=1050&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d4a8f3e371eb6176b49?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 15 |
 | ↳ | **[Office Service Intern](https://jobright.ai/jobs/info/6a076d478f3e371eb6176b43?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | May 15 |
-| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
-| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
+| **[Amivero](https://amivero.com)** | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b34?utm_campaign=1050&utm_source=git)** | Reston, VA, US | On Site | May 15 |
+| ↳ | **[Project Coordinator Intern - HQ](https://jobright.ai/jobs/info/6a076d358f3e371eb6176b33?utm_campaign=1050&utm_source=git)** | US-VA-Reston | On Site | May 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076cf3939a5f01db94f47f?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a07892f3b54ed42d74cf225?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | May 15 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Central Mass Area Office - Worcester](https://jobright.ai/jobs/info/6a076a51a203b1052e43a596?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a07285f078fec52738ab23f?utm_campaign=1050&utm_source=git)** | US-LA-Bossier City | On Site | May 15 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a07285a078fec52738ab23a?utm_campaign=1050&utm_source=git)** | Bossier City, LA, US | On Site | May 15 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Stanley Black & Decker Intern – Global Supply Chain Management](https://jobright.ai/jobs/info/6a07280c9f57175bd582056c?utm_campaign=1050&utm_source=git)** | New Britain, CT, United States, US | On Site | May 15 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Graduate Intern, Winship Cancer Institute (ETS) / Temporary](https://jobright.ai/jobs/info/6a07187e078fec52738a8eda?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
 | **[Ephraim McDowell Health](https://emhealth.org)** | **[Graduate Intern](https://jobright.ai/jobs/info/6a0717661f7fa33581c9c0ab?utm_campaign=1050&utm_source=git)** | Danville, KY, 40422, United States | On Site | May 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations)  - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a07152824dcb03739f20856?utm_campaign=1050&utm_source=git)** | Los Angeles | On Site | May 15 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Commercialization Intern](https://jobright.ai/jobs/info/6a0713151f7fa33581c9bea1?utm_campaign=1050&utm_source=git)** | University Park, PA | Hybrid | May 15 |
-| **[KaarTech](https://www.kaartech.com)** | **[Intern](https://jobright.ai/jobs/info/6a070eb21f7fa33581c9badd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 15 |
-| **[Ownwell](https://www.ownwell.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a070d021f7fa33581c9b9a7?utm_campaign=1050&utm_source=git)** | Austin, TX - HQ | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
