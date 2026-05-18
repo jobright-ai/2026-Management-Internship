@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Office Coordinator – Intern (Temporary Coverage)](https://jobright.ai/jobs/info/6a0b40d30411d7417a1aeac1?utm_campaign=1050&utm_source=git)** | FL - Orlando | On Site | May 18 |
+| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a0b3ca8a235d749afa82f7c?utm_campaign=1050&utm_source=git)** | Aliquippa, PA | On Site | May 18 |
+| **[Montrose Environmental Group](https://montrose-env.com)** | **[Administrative Assistant (Internship) - Laboratory](https://jobright.ai/jobs/info/6a0b3a6e0411d7417a1ae2d1?utm_campaign=1050&utm_source=git)** | USA-NC-Durham-Capitola Drive, US | On Site | May 18 |
+| **[The Magnum Ice Cream Company](https://corporate.magnumicecream.com/en/home.html)** | **[Internship 26' - Procurement Strategy and Operations](https://jobright.ai/jobs/info/6a0b379fa235d749afa82853?utm_campaign=1050&utm_source=git)** | AIR Office, NL | On Site | May 18 |
 | **[TransCargo Solutions](https://www.transcargo.io)** | **[Logistics Operations Intern](https://jobright.ai/jobs/info/6a0b31fe0411d7417a1ae019?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 18 |
 | **[Amentum](https://www.amentum.com/)** | **[Strategy and Corporate Development Intern](https://jobright.ai/jobs/info/6a0b2bbd538d03366dc8267d?utm_campaign=1050&utm_source=git)** | US-NY-New York City, US | Remote | May 18 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Command Center- Aviation Logistics Intern](https://jobright.ai/jobs/info/6a0b2a7e22d0d34036c891a6?utm_campaign=1050&utm_source=git)** | Andover, MA, US | On Site | May 18 |
@@ -74,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Athletic Facilities and Operations Intern](https://jobright.ai/jobs/info/6a0b18d44d9320363686d3e3?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | May 18 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0b1078a235d749afa812ec?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | May 18 |
 | **[Valley Health](https://www.valleyhealthlink.com/)** | **[Intern, Administration](https://jobright.ai/jobs/info/6a0b0db54d9320363686cb69?utm_campaign=1050&utm_source=git)** | Winchester, VA, US | On Site | May 18 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44f290f7450ea3d79?utm_campaign=1050&utm_source=git)** | US-GA-Macon | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | May 18 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | May 18 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44f290f7450ea3d79?utm_campaign=1050&utm_source=git)** | US-GA-Macon | On Site | May 18 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca7403fc339507ec60d?utm_campaign=1050&utm_source=git)** | Columbia, SC, US | On Site | May 18 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4f400923a0090b191?utm_campaign=1050&utm_source=git)** | US-SC-Columbia | On Site | May 18 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 18 |
@@ -126,20 +130,19 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69b787af3b74eb1e2c8523b8?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | May 16 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Business Continuity & Loss Prevention](https://jobright.ai/jobs/info/6a0882c4403fc339507ee682?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | May 16 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69cee720cdb525785fb9ce9a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | May 16 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/6a08a3e56186f46859889876?utm_campaign=1050&utm_source=git)** | Fresno, CA | Hybrid | May 16 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b4ea203b1052e444704?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/6a086a2e939a5f01db95979f?utm_campaign=1050&utm_source=git)** | North Miami | On Site | May 16 |
-| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a248f3e371eb61802e2?utm_campaign=1050&utm_source=git)** | Ashland | On Site | May 16 |
 | ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a248f3e371eb61802e1?utm_campaign=1050&utm_source=git)** | Medford | On Site | May 16 |
-| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a238f3e371eb61802df?utm_campaign=1050&utm_source=git)** | Medford, OR, US | On Site | May 16 |
+| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a248f3e371eb61802e2?utm_campaign=1050&utm_source=git)** | Ashland | On Site | May 16 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6a086a23a203b1052e444621?utm_campaign=1050&utm_source=git)** | Chico | On Site | May 16 |
 | ↳ | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a086a23403fc339507ede92?utm_campaign=1050&utm_source=git)** | Rutland, VT, US | On Site | May 16 |
+| ↳ | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/6a086a238f3e371eb61802df?utm_campaign=1050&utm_source=git)** | Medford, OR, US | On Site | May 16 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/6a086a22939a5f01db95978e?utm_campaign=1050&utm_source=git)** | Santa Cruz | On Site | May 16 |
 | ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/6a086a22a203b1052e44461f?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL, US | On Site | May 16 |
 | **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974a?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
 | ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6a0869d8939a5f01db95974b?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | Hybrid | May 16 |
-| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede27?utm_campaign=1050&utm_source=git)** | Kobuk , AK, US | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede24?utm_campaign=1050&utm_source=git)** | US-AK-Kobuk | On Site | May 16 |
+| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede24?utm_campaign=1050&utm_source=git)** | US-AK-Kobuk | On Site | May 16 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f2403fc339507ede27?utm_campaign=1050&utm_source=git)** | Kobuk , AK, US | On Site | May 16 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a057d3af3d6cc51d638953f?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | May 16 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0851c0939a5f01db958a7f?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | May 16 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0851bf939a5f01db958a7e?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | May 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a085026403fc339507ecdee?utm_campaign=1050&utm_source=git)** | Community Memorial Hospital - Ventura | On Site | May 16 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a08500e939a5f01db958465?utm_campaign=1050&utm_source=git)** | Pittston, PA, US | On Site | May 16 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Strategy and Operations Intern (Software)](https://jobright.ai/jobs/info/6a084fca403fc339507ecd41?utm_campaign=1050&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 16 |
-| **[Shriners Children's](https://www.shrinerschildrens.org)** | **[Administrative Intern - Per Diem](https://jobright.ai/jobs/info/6a084fa36186f46859887677?utm_campaign=1050&utm_source=git)** | US-CA-Pasadena | On Site | May 16 |
-| ↳ | **[Administrative Intern - Per Diem](https://jobright.ai/jobs/info/6a084fa36186f46859887676?utm_campaign=1050&utm_source=git)** | Pasadena, CA, US | On Site | May 16 |
-| **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Intern - Medical Group Operations](https://jobright.ai/jobs/info/6a084fa18f3e371eb617f394?utm_campaign=1050&utm_source=git)** | DESLOGE OP CENTER-WC-BLD A | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
