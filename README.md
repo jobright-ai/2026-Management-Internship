@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc6?utm_campaign=1050&utm_source=git)** | SAINT ANN, MO | On Site | May 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc7?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc5?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 18 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Pricing and Legal Project Management)](https://jobright.ai/jobs/info/6a0bc3cf4d93203636873df7?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 18 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Operations Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a0bc349a235d749afa8857a?utm_campaign=1050&utm_source=git)** | Pasadena, CA, United States | On Site | May 18 |
 | **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0bbd7d22d0d34036c8f5f3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
+| **[Mac Properties](http://macapartments.com)** | **[Warehouse & Operations Intern](https://jobright.ai/jobs/info/6a0bd6ff22d0d34036c8ffd2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a0bb63fa235d749afa8826e?utm_campaign=1050&utm_source=git)** | Bakersfield | On Site | May 18 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a0bb5c10411d7417a1b3b70?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a0bb532538d03366dc8848f?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Protect Environmental](https://www.protectenvironmental.com/)** | **[Project Administration Intern](https://jobright.ai/jobs/info/6a0b8f94a235d749afa86b97?utm_campaign=1050&utm_source=git)** | Flanders, NJ | On Site | May 18 |
 | **[Electra Grid Solutions](https://electragridsolutions.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0b8ba1a235d749afa86945?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | May 18 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b89db4d932036368720db?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | May 18 |
+| **[Amentum](https://www.amentum.com/)** | **[Strategy and Corporate Development Intern](https://jobright.ai/jobs/info/6a0bd839a235d749afa88ea1?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | May 18 |
 | **[JCB North America](http://jcbna.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0b8422a235d749afa863a7?utm_campaign=1050&utm_source=git)** | Bamford Blvd, Pooler, GA, USA | On Site | May 18 |
 | **[PowerGrid Services](https://www.powergridservices.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0b7ee04d93203636871af2?utm_campaign=1050&utm_source=git)** | Irondale, AL 35210, USA | On Site | May 18 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b7caf963f7a67d95d06ef?utm_campaign=1050&utm_source=git)** | Richmond, British Columbia, Canada | On Site | May 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0ad0d36186f468598929c0?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
 | **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0aa9853b54ed42d74e1198?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b2b6186f46859891c27?utm_campaign=1050&utm_source=git)** | US-LA-Covington | On Site | May 17 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b246186f46859891c1d?utm_campaign=1050&utm_source=git)** | US-TX-Corpus Christi | On Site | May 17 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b216186f46859891c17?utm_campaign=1050&utm_source=git)** | Covington, LA, US | On Site | May 17 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b1b6186f46859891c06?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX, US | On Site | May 17 |
-| **[Utah Asphalt Company](http://utahasphaltcompany.com)** | **[Project Manager](https://jobright.ai/jobs/info/6a0a8ca3939a5f01db962dda?utm_campaign=1050&utm_source=git)** | Spanish Fork, UT | On Site | May 17 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0a72083b54ed42d74dff7b?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | May 17 |
-| **[Jockey International, Inc.](http://www.jockey.com)** | **[Planning Admin Intern](https://jobright.ai/jobs/info/6a0bad79538d03366dc87f34?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
