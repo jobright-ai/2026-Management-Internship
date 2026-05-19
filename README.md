@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0bbd7d22d0d34036c8f5f3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a0bb63fa235d749afa8826e?utm_campaign=1050&utm_source=git)** | Bakersfield | On Site | May 18 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a0bb5c10411d7417a1b3b70?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a0bb532538d03366dc8848f?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bb3d30411d7417a1b3aed?utm_campaign=1050&utm_source=git)** | WEST BEND, WI | On Site | May 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bb3d1538d03366dc88423?utm_campaign=1050&utm_source=git)** | POPLAR BLUFF, MO | On Site | May 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bb3d122d0d34036c8f2f3?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 18 |
+| **[Amazon](https://amazon.com)** | **[Technical Program Manager Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a0bb2344d93203636873854?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | May 18 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | May 18 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Enterprise Change Management Intern](https://jobright.ai/jobs/info/6a0badcf963f7a67d95d240d?utm_campaign=1050&utm_source=git)** | Twin Cities Area | On Site | May 18 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0badb80411d7417a1b3642?utm_campaign=1050&utm_source=git)** | Highland Park, MI | On Site | May 18 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/69e94e663aa0c479643a901e?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | May 18 |
@@ -64,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[O'Hara's Son Roofing Company (OSR)](https://www.oharasson.com/)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6a0ba39f0411d7417a1b3042?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | May 18 |
 | **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/6a0ba2d8963f7a67d95d1ddb?utm_campaign=1050&utm_source=git)** | Gowan Milling Arizona, Yuma, AZ, US | On Site | May 18 |
 | **[RXO, Inc.](https://rxo.com)** | **[Intern- Office of the CEO](https://jobright.ai/jobs/info/6a0b9d45a235d749afa87542?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | May 18 |
 | **[Barnhardt](https://barnhardtcotton.net)** | **[Intern I](https://jobright.ai/jobs/info/6a0b955822d0d34036c8e199?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
 | **[MassPortfolio INC](massportfolio.org)** | **[Executive Assistant Intern - Volunteer Internship](https://jobright.ai/jobs/info/6a0b9522a235d749afa87168?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | May 18 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[Supply Chain Strategy & Agriculture Intern](https://jobright.ai/jobs/info/6a0b94db0411d7417a1b29ac?utm_campaign=1050&utm_source=git)** | Sacramento, CA | Hybrid | May 18 |
@@ -95,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707b9?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 18 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0b646322d0d34036c8bb0f?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | May 18 |
 | **[Manulife](http://www.manulife.com/)** | **[Fall 2026 Operations Excellence Intern (Canada)](https://jobright.ai/jobs/info/6a0b6460a235d749afa84d57?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, CA | Hybrid | May 18 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dede38dbee7915cf7408?utm_campaign=1050&utm_source=git)** | Crowley, LA, US | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0b5ffb963f7a67d95cf249?utm_campaign=1050&utm_source=git)** | US-LA-Crowley | On Site | May 18 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0b5ffb963f7a67d95cf249?utm_campaign=1050&utm_source=git)** | US-LA-Crowley | On Site | May 18 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dede38dbee7915cf7408?utm_campaign=1050&utm_source=git)** | Crowley, LA, US | On Site | May 18 |
 | **[Plunkett's Pest Control](https://plunketts.net/)** | **[Fleet Intern](https://jobright.ai/jobs/info/6a0b5f2222d0d34036c8b902?utm_campaign=1050&utm_source=git)** | Fridley,MN,US | On Site | May 18 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 SFP Operations & Strategic Projects Initiative Intern](https://jobright.ai/jobs/info/6a0b5e37a235d749afa84943?utm_campaign=1050&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | ↳ | **[Fall 2026 SFP Operations & Strategic Projects Initiative Intern](https://jobright.ai/jobs/info/6a0b5e33a235d749afa8493e?utm_campaign=1050&utm_source=git)** | United States-Remote, US | Remote | May 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b216186f46859891c17?utm_campaign=1050&utm_source=git)** | Covington, LA, US | On Site | May 17 |
 | ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b1b6186f46859891c06?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX, US | On Site | May 17 |
 | **[Utah Asphalt Company](http://utahasphaltcompany.com)** | **[Project Manager](https://jobright.ai/jobs/info/6a0a8ca3939a5f01db962dda?utm_campaign=1050&utm_source=git)** | Spanish Fork, UT | On Site | May 17 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0a72083b54ed42d74dff7b?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | May 17 |
-| **[Jockey International, Inc.](http://www.jockey.com)** | **[Planning Admin Intern](https://jobright.ai/jobs/info/6a0bad79538d03366dc87f34?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | May 17 |
-| **[IRIS Software Group](https://www.iris.co.uk)** | **[Program Management Intern (6-Week Summer Internship)](https://jobright.ai/jobs/info/6a0a46973b54ed42d74df6dd?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | May 17 |
-| **[Carrum Health](https://www.carrumhealth.com)** | **[Emerging Services Internship](https://jobright.ai/jobs/info/6a0a3f753b54ed42d74df3d4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 17 |
-| **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0a28056186f4685988f9af?utm_campaign=1050&utm_source=git)** | Seattle, Washington, United States of America | On Site | May 17 |
-| **[Carrum Health](https://www.carrumhealth.com)** | **[Emerging Services Internship](https://jobright.ai/jobs/info/6a0a2700403fc339507f5680?utm_campaign=1050&utm_source=git)** | United States | Remote | May 17 |
-| ↳ | **[Cancer Care Growth Strategy Internship](https://jobright.ai/jobs/info/6a0a26fc403fc339507f567f?utm_campaign=1050&utm_source=git)** | United States | Remote | May 17 |
-| **[Collier Construction, LLC](http://www.collierconstruction.com)** | **[Assistant Project Coordinator Regular Position or Internship](https://jobright.ai/jobs/info/6a0a1e698f3e371eb618718c?utm_campaign=1050&utm_source=git)** | Brenham, TX | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
