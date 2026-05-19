@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janicki](http://www.janicki.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0c0a9a538d03366dc8a383?utm_campaign=1050&utm_source=git)** | Hamilton, WA | On Site | May 19 |
 | **[Karman Space & Defense](https://karman-sd.com/)** | **[Material Teams Support Intern](https://jobright.ai/jobs/info/6a0bfb58963f7a67d95d42f0?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA, US | On Site | May 18 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Junior Supply Chain Associate - S&OP (12 Month Intern)](https://jobright.ai/jobs/info/6a0bf7a84d932036368753bc?utm_campaign=1050&utm_source=git)** | Clark, NJ | Hybrid | May 18 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b86?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b87?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 18 |
 | **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/6a0be4480411d7417a1b4d07?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | May 18 |
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/6a0be1344d93203636874b54?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | May 18 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
@@ -147,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Athletic Facilities and Operations Intern](https://jobright.ai/jobs/info/6a0b18d44d9320363686d3e3?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | May 18 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0b1078a235d749afa812ec?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | May 18 |
 | **[Valley Health](https://www.valleyhealthlink.com/)** | **[Intern, Administration](https://jobright.ai/jobs/info/6a0b0db54d9320363686cb69?utm_campaign=1050&utm_source=git)** | Winchester, VA, US | On Site | May 18 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44f290f7450ea3d79?utm_campaign=1050&utm_source=git)** | US-GA-Macon | On Site | May 18 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44f290f7450ea3d79?utm_campaign=1050&utm_source=git)** | US-GA-Macon | On Site | May 18 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | May 18 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca7403fc339507ec60d?utm_campaign=1050&utm_source=git)** | Columbia, SC, US | On Site | May 18 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4f400923a0090b191?utm_campaign=1050&utm_source=git)** | US-SC-Columbia | On Site | May 18 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0ad7d4a203b1052e44f34a?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | May 18 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0ad7b2c5a0c050a9c5f006?utm_campaign=1050&utm_source=git)** | Covington, LA | On Site | May 18 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0ad0d36186f468598929c0?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
+| **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0aa9853b54ed42d74e1198?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
