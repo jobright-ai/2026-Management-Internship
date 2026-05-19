@@ -57,13 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Karman Space & Defense](https://karman-sd.com/)** | **[Material Teams Support Intern](https://jobright.ai/jobs/info/6a0bfb58963f7a67d95d42f0?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA, US | On Site | May 18 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Junior Supply Chain Associate - S&OP (12 Month Intern)](https://jobright.ai/jobs/info/6a0bf7a84d932036368753bc?utm_campaign=1050&utm_source=git)** | Clark, NJ | Hybrid | May 18 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bec090411d7417a1b511b?utm_campaign=1050&utm_source=git)** | INDEPENDENCE, MO | On Site | May 18 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b86?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b87?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b89?utm_campaign=1050&utm_source=git)** | JEFFERSONVILLE, IN | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b88?utm_campaign=1050&utm_source=git)** | POPLAR BLUFF, MO | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec05538d03366dc89b86?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bec0522d0d34036c909b8?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 18 |
 | **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/6a0be4480411d7417a1b4d07?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | May 18 |
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/6a0be1344d93203636874b54?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | May 18 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
@@ -110,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0b719c22d0d34036c8c4a2?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 18 |
 | **[Gannon University](http://www.gannon.edu/)** | **[Summer Operation Specialist (Intern)](https://jobright.ai/jobs/info/6a0b6de3538d03366dc8534e?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | May 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Capital Markets Summer Internship](https://jobright.ai/jobs/info/6a0b65de4d93203636870997?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 18 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707b9?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707bb?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | May 18 |
+| **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707bb?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | May 18 |
+| ↳ | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707b9?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 18 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0b646322d0d34036c8bb0f?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | May 18 |
 | **[Manulife](http://www.manulife.com/)** | **[Fall 2026 Operations Excellence Intern (Canada)](https://jobright.ai/jobs/info/6a0b6460a235d749afa84d57?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, CA | Hybrid | May 18 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dede38dbee7915cf7408?utm_campaign=1050&utm_source=git)** | Crowley, LA, US | On Site | May 18 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d37d3d891d7b11cfcf15a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 18 |
 | **[KB Signaling](https://www.linkedin.com/company/104418543)** | **[Intern, Material/Production Planner and Scheduler (Supply Chain)](https://jobright.ai/jobs/info/6a0af01d22d0d34036c87474?utm_campaign=1050&utm_source=git)** | Warrensburg, MO | On Site | May 18 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0ad7d4a203b1052e44f34a?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | May 18 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0ad7b2c5a0c050a9c5f006?utm_campaign=1050&utm_source=git)** | Covington, LA | On Site | May 18 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0ad0d36186f468598929c0?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
