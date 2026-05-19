@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0c24830411d7417a1b6395?utm_campaign=1050&utm_source=git)** | WEST BEND, WI | On Site | May 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Advertising - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f03634b27fee43e8cd2b76?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 19 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6a0c4720963f7a67d95d5c2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
+| ↳ | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
+| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | May 19 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0c410b0411d7417a1b6c91?utm_campaign=1050&utm_source=git)** | US-TX-Laredo | On Site | May 19 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0c41090411d7417a1b6c90?utm_campaign=1050&utm_source=git)** | Laredo, TX, US | On Site | May 19 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0c40940411d7417a1b6c69?utm_campaign=1050&utm_source=git)** | INDEPENDENCE, MO | On Site | May 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c248322d0d34036c91c39?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c2483538d03366dc8ade0?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c248322d0d34036c91c3a?utm_campaign=1050&utm_source=git)** | SAINT ANN, MO | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c2483538d03366dc8addf?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c248322d0d34036c91c39?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c24830411d7417a1b6395?utm_campaign=1050&utm_source=git)** | WEST BEND, WI | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c248322d0d34036c91c3b?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c2483538d03366dc8addd?utm_campaign=1050&utm_source=git)** | JEFFERSONVILLE, IN | On Site | May 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c2483538d03366dc8ade0?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 19 |
 | **[Janicki](http://www.janicki.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0c0a9a538d03366dc8a383?utm_campaign=1050&utm_source=git)** | Hamilton, WA | On Site | May 19 |
 | **[Karman Space & Defense](https://karman-sd.com/)** | **[Material Teams Support Intern](https://jobright.ai/jobs/info/6a0bfb58963f7a67d95d42f0?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA, US | On Site | May 18 |
 | **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Junior Supply Chain Associate - S&OP (12 Month Intern)](https://jobright.ai/jobs/info/6a0bf7a84d932036368753bc?utm_campaign=1050&utm_source=git)** | Clark, NJ | Hybrid | May 18 |
@@ -97,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[JCB North America](http://jcbna.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0b8422a235d749afa863a7?utm_campaign=1050&utm_source=git)** | Bamford Blvd, Pooler, GA, USA | On Site | May 18 |
 | **[PowerGrid Services](https://www.powergridservices.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0b7ee04d93203636871af2?utm_campaign=1050&utm_source=git)** | Irondale, AL 35210, USA | On Site | May 18 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b7caf963f7a67d95d06ef?utm_campaign=1050&utm_source=git)** | Richmond, British Columbia, Canada | On Site | May 18 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 SFP Network and Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178e?utm_campaign=1050&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 SFP Network and Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178d?utm_campaign=1050&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 SFP Network and Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178d?utm_campaign=1050&utm_source=git)** | United States-Remote, US | Remote | May 18 |
+| ↳ | **[Fall 2026 SFP Network and Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6a0b7b770411d7417a1b178e?utm_campaign=1050&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
 | **[Atlas Real Estate](http://www.RealAtlas.com)** | **[Summer Intern — Property Operations & Leasing Support](https://jobright.ai/jobs/info/6a0b7b03963f7a67d95d05c3?utm_campaign=1050&utm_source=git)** | Denver,CO,US | Hybrid | May 18 |
 | **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0b7a80538d03366dc85e55?utm_campaign=1050&utm_source=git)** | Chicago, IL, 60654, US | Hybrid | May 18 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Operations Internship, 26/27 School Year](https://jobright.ai/jobs/info/6a0b78f70411d7417a1b151e?utm_campaign=1050&utm_source=git)** | Operations - Neosho, Missouri | On Site | May 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Customers Bank](https://www.customersbank.com/)** | **[Model Risk Management Intern](https://jobright.ai/jobs/info/6a0b20750411d7417a1ad5f9?utm_campaign=1050&utm_source=git)** | Malvern, PA, US | On Site | May 18 |
 | ↳ | **[Model Risk Management Intern](https://jobright.ai/jobs/info/6a0b20710411d7417a1ad5f4?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0b19e5963f7a67d95cc0c9?utm_campaign=1050&utm_source=git)** | Phoenixville, PA | On Site | May 18 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Athletic Facilities and Operations Intern](https://jobright.ai/jobs/info/6a0b18d44d9320363686d3e3?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | May 18 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0b1078a235d749afa812ec?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | May 18 |
-| **[Valley Health](https://www.valleyhealthlink.com/)** | **[Intern, Administration](https://jobright.ai/jobs/info/6a0b0db54d9320363686cb69?utm_campaign=1050&utm_source=git)** | Winchester, VA, US | On Site | May 18 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44f290f7450ea3d79?utm_campaign=1050&utm_source=git)** | US-GA-Macon | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca7403fc339507ec60d?utm_campaign=1050&utm_source=git)** | Columbia, SC, US | On Site | May 18 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4f400923a0090b191?utm_campaign=1050&utm_source=git)** | US-SC-Columbia | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
