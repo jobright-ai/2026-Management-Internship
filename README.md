@@ -57,26 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern - Atrium Health Lake Norman](https://jobright.ai/jobs/info/6a0c8fbb0411d7417a1b9ee1?utm_campaign=1050&utm_source=git)** | Atrium Health Lake Norman - 1130 Tree of Life, Cornelius, NC, US | On Site | May 19 |
+| **[Amcor](http://www.amcor.com/)** | **[Summer Procurement Intern](https://jobright.ai/jobs/info/6a0c8f7a538d03366dc8e9d8?utm_campaign=1050&utm_source=git)** | AF Deerfield IL Corporate, US | On Site | May 19 |
 | **[Charlotte Area Transit System](http://ridetransit.org)** | **[Summer Intern 4 Yr Undergrad Intern I (Field Operations)](https://jobright.ai/jobs/info/6a0c80bca235d749afa8d5cd?utm_campaign=1050&utm_source=git)** | CLTW Zone 4, US | On Site | May 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0c7f3b22d0d34036c94f02?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | May 19 |
 | **[FreeFlight Systems](http://freeflightsystems.com)** | **[Engineering Program Management Intern – Process Development](https://jobright.ai/jobs/info/6a0c7f31963f7a67d95d85ea?utm_campaign=1050&utm_source=git)** | Irving, Texas, United States | On Site | May 19 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a03038e7c753c287f6e2a2c?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0c791022d0d34036c94aa6?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c790b538d03366dc8dbee?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 19 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0c790b538d03366dc8dbee?utm_campaign=1050&utm_source=git)** | PADUCAH, KY | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c7909538d03366dc8dbe2?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c7904a235d749afa8d1e0?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c78ff963f7a67d95d8234?utm_campaign=1050&utm_source=git)** | SPRINGFIELD, IL (NORTH) | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c78f10411d7417a1b8f78?utm_campaign=1050&utm_source=git)** | INDEPENDENCE, MO | On Site | May 19 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c78ec22d0d34036c94a5b?utm_campaign=1050&utm_source=git)** | SAINT ANN, MO | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c78ec22d0d34036c94a5c?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 19 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0c78ec22d0d34036c94a5b?utm_campaign=1050&utm_source=git)** | SAINT ANN, MO | On Site | May 19 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College](https://jobright.ai/jobs/info/6a0c72b80411d7417a1b8a88?utm_campaign=1050&utm_source=git)** | Cleveland Clinic Main Campus, US | On Site | May 19 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef7d8e58811370cb146859?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 19 |
 | **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/69c8be6683ea553769feb8b6?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | May 19 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Internship (Supply Chain)](https://jobright.ai/jobs/info/69efe7af58811370cb14985e?utm_campaign=1050&utm_source=git)** | Red Lion, PA | On Site | May 19 |
 | **[SWBC](https://www.swbc.com)** | **[Intern - Supply Chain and Contracts](https://jobright.ai/jobs/info/6a0c6043538d03366dc8c6c8?utm_campaign=1050&utm_source=git)** | San Antonio, TX, US | On Site | May 19 |
 | **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/6a0c5d79a235d749afa8c0fb?utm_campaign=1050&utm_source=git)** | Lincoln,NE,US | On Site | May 19 |
 | **[VieMed Healthcare](https://www.viemed.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69f0374aa4aa3545d8a5d9e1?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0c5ca90411d7417a1b7b1c?utm_campaign=1050&utm_source=git)** | WEST BEND, WI | On Site | May 19 |
 | **[Karman Space & Defense](https://karman-sd.com/)** | **[Material Teams Support Intern](https://jobright.ai/jobs/info/6a0c4eb6a235d749afa8b880?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA | On Site | May 19 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Advertising - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f03634b27fee43e8cd2b76?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 19 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/6a0be1344d93203636874b54?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | May 18 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6a0c21a622d0d34036c91a7d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | May 18 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Pricing and Legal Project Management)](https://jobright.ai/jobs/info/6a0bc3cf4d93203636873df7?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 18 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Operations Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a0bc349a235d749afa8857a?utm_campaign=1050&utm_source=git)** | Pasadena, CA, United States | On Site | May 18 |
 | **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0bbd7d22d0d34036c8f5f3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a0bb63fa235d749afa8826e?utm_campaign=1050&utm_source=git)** | Bakersfield | On Site | May 18 |
