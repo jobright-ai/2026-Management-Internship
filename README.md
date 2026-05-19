@@ -57,14 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/6a0be4480411d7417a1b4d07?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | May 18 |
+| **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/6a0be1344d93203636874b54?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | May 18 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc6?utm_campaign=1050&utm_source=git)** | SAINT ANN, MO | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc7?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0bcfe522d0d34036c8fcc5?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | May 18 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Pricing and Legal Project Management)](https://jobright.ai/jobs/info/6a0bc3cf4d93203636873df7?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 18 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Operations Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a0bc349a235d749afa8857a?utm_campaign=1050&utm_source=git)** | Pasadena, CA, United States | On Site | May 18 |
 | **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0bbd7d22d0d34036c8f5f3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
-| **[Mac Properties](http://macapartments.com)** | **[Warehouse & Operations Intern](https://jobright.ai/jobs/info/6a0bd6ff22d0d34036c8ffd2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a0bb63fa235d749afa8826e?utm_campaign=1050&utm_source=git)** | Bakersfield | On Site | May 18 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a0bb5c10411d7417a1b3b70?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a0bb532538d03366dc8848f?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 18 |
@@ -105,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Morgan Properties](http://www.morgan-properties.com)** | **[Office - Intern](https://jobright.ai/jobs/info/6a0b719c22d0d34036c8c4a2?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 18 |
 | **[Gannon University](http://www.gannon.edu/)** | **[Summer Operation Specialist (Intern)](https://jobright.ai/jobs/info/6a0b6de3538d03366dc8534e?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | May 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Capital Markets Summer Internship](https://jobright.ai/jobs/info/6a0b65de4d93203636870997?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 18 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707b9?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 18 |
-| ↳ | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707bb?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | May 18 |
+| **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707bb?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | May 18 |
+| ↳ | **[2026 Fall Project Management Facilities Intern/Co-op](https://jobright.ai/jobs/info/6a0b646b4d932036368707b9?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 18 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0b646322d0d34036c8bb0f?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | May 18 |
 | **[Manulife](http://www.manulife.com/)** | **[Fall 2026 Operations Excellence Intern (Canada)](https://jobright.ai/jobs/info/6a0b6460a235d749afa84d57?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, CA | Hybrid | May 18 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0b5ffb963f7a67d95cf249?utm_campaign=1050&utm_source=git)** | US-LA-Crowley | On Site | May 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Business Systems Support](https://jobright.ai/jobs/info/6a0ad0d36186f468598929c0?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
 | **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0aa9853b54ed42d74e1198?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b2b6186f46859891c27?utm_campaign=1050&utm_source=git)** | US-LA-Covington | On Site | May 17 |
+| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b246186f46859891c1d?utm_campaign=1050&utm_source=git)** | US-TX-Corpus Christi | On Site | May 17 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0a9b216186f46859891c17?utm_campaign=1050&utm_source=git)** | Covington, LA, US | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
