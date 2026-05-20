@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e34d2c152ac7824484910?utm_campaign=1050&utm_source=git)** | Rockville, MD | Hybrid | May 20 |
+| **[Contoro Robotics](https://www.contoro.com)** | **[GTM Strategy Intern](https://jobright.ai/jobs/info/6a0e33d347fea1610bca809c?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 20 |
+| **[Mille Lacs Corporate Ventures](https://mlcv.com)** | **[Circle Sage Summer Internship](https://jobright.ai/jobs/info/6a0e2f5883d7144289816aee?utm_campaign=1050&utm_source=git)** | Red Willow Estates, US | On Site | May 20 |
+| **[Strata Clean Energy](https://www.stratacleanenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0e2e9109ecfd704b3e6a48?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0e263f80bf0430c762a018?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | May 20 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0e24c4c152ac7824483bfc?utm_campaign=1050&utm_source=git)** | Port St Lucie, FL | On Site | May 20 |
 | **[TRIUMPH](https://www.triumphgroup.com/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a0e248009ecfd704b3e6641?utm_campaign=1050&utm_source=git)** | North Wales, PA | Hybrid | May 20 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Agency Leasing Summer Internship](https://jobright.ai/jobs/info/6a0e0a0abeb4d73cb622e557?utm_campaign=1050&utm_source=git)** | San Francisco, California, USA, US | On Site | May 20 |
 | **[Textron Aviation](http://txtav.com)** | **[Stage automne 2026 - Chargé de projet en stratégie et gouvernance / 2026 été Internship - Project Manager in Strategy and Governance (Mirabel, QC)](https://jobright.ai/jobs/info/6a0e073883d7144289814dae?utm_campaign=1050&utm_source=git)** | CA-Quebec-Mirabel | On Site | May 20 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Building Operations, Fall 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a0e070883d7144289814d9e?utm_campaign=1050&utm_source=git)** | Vancouver, CA | On Site | May 20 |
-| **[Five Star Sheets](https://www.fivestarsheets.com)** | **[Summer Transportation and Logistics Internship](https://jobright.ai/jobs/info/6a0e047c80bf0430c7628824?utm_campaign=1050&utm_source=git)** | New Carlisle, 46552 | On Site | May 20 |
 | **[Ravago](https://www.ravago.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0e0413c152ac7824482413?utm_campaign=1050&utm_source=git)** | 1665 Enterprise Pkwy, Twinsburg, OH 44087, USA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Technical Operations Intern 4 or 8 months – Fall 2026](https://jobright.ai/jobs/info/6a0dff7d09ecfd704b3e4ce2?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 20 |
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern Architect / Project Manager](https://jobright.ai/jobs/info/6a0dfe9583d714428981489e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 20 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Unpaid Internship with Charleston CFO](https://jobright.ai/jobs/info/6a0df9d0c152ac7824481afa?utm_campaign=1050&utm_source=git)** | Charleston, US | On Site | May 20 |
 | **[Tutor Perini Corporation](http://www.tutorperini.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0df7afbeb4d73cb622d7b0?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | May 20 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Jackson ADD's Office](https://jobright.ai/jobs/info/6a0df62bbeb4d73cb622d693?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | May 20 |
+| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d183f963f7a67d95de67b?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[Bell Flight](https://bellflight.com)** | **[Stage automne 2026 - Chargé de projet en stratégie et gouvernance / 2026 été Internship - Project Manager in Strategy and Governance (Mirabel, QC)](https://jobright.ai/jobs/info/6a0e1f0280bf0430c7629bc0?utm_campaign=1050&utm_source=git)** | Mirabel, Quebec, Canada | On Site | May 20 |
 | **[Quikrete](https://www.quikrete.com)** | **[Intern](https://jobright.ai/jobs/info/6a0df061c152ac78244817a2?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | May 20 |
 | **[MCN Build](http://mcnbuild.com)** | **[Real Estate & Property Management Intern - Washington D.C.](https://jobright.ai/jobs/info/6a0df05abeb4d73cb622d4a2?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 20 |
@@ -142,19 +146,15 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d023f0411d7417a1beaa7?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0d0103a235d749afa92af7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Materials Management Intern](https://jobright.ai/jobs/info/6a0d004ba235d749afa92a32?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cf3484d9320363687dc04?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | May 19 |
 | **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0ced75538d03366dc92bd7?utm_campaign=1050&utm_source=git)** | Campbell, CA | Remote | May 19 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
-| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Operations Intern - NISSC II](https://jobright.ai/jobs/info/6a0ce76922d0d34036c99f06?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | May 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0ce6bb0411d7417a1bdade?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdb4ba235d749afa912c1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 19 |
-| **[AECOM](http://www.aecom.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0cdb264d9320363687cc11?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | May 19 |
-| **[Global Impact](https://www.charity.org)** | **[Project Support Intern, Partner Solutions Team](https://jobright.ai/jobs/info/6a0d649f538d03366dc9637c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 19 |
-| **[YAI](http://www.yai.org/)** | **[Property and Design Intern](https://jobright.ai/jobs/info/6a0d3193963f7a67d95df417?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
