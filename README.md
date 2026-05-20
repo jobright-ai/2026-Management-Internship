@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gardens of Babylon Landscapes](https://gardensofbabylon.com)** | **[Landscape Project Manager Intern](https://jobright.ai/jobs/info/6a0dc90280bf0430c7626173?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | May 20 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0dc4f5c152ac782447faff?utm_campaign=1050&utm_source=git)** | Rockville, MD | Hybrid | May 20 |
+| **[Austin Powder](https://www.austinpowder.com)** | **[Operations Internship](https://jobright.ai/jobs/info/6a0dc4cb83d7144289812507?utm_campaign=1050&utm_source=git)** | Cleveland,OH,US | Hybrid | May 20 |
+| **[The Shade Store](https://www.theshadestore.com/)** | **[Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/69d55bc5cdb525785fbd0133?utm_campaign=1050&utm_source=git)** | Pompano Beach, FL | Hybrid | May 20 |
+| **[RBC](https://www.rbc.com)** | **[Branch Manager Intern- EN](https://jobright.ai/jobs/info/69b870e556973837413dc808?utm_campaign=1050&utm_source=git)** | La Sarre, Quebec, Canada | On Site | May 20 |
+| **[Pansophic Learning](https://pansophiclearning.com/)** | **[Intern, Corporate Strategy](https://jobright.ai/jobs/info/6a0dc03180bf0430c7625a69?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86bee758f2e4ac3ff2488?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 20 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Strategic Planning Summer 2026 Internship](https://jobright.ai/jobs/info/6a0daccd83d71442898116bc?utm_campaign=1050&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | On Site | May 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69f20030f154d768fbaa4bbc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 20 |
@@ -86,15 +92,15 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d023f0411d7417a1beaa7?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0d0103a235d749afa92af7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Materials Management Intern](https://jobright.ai/jobs/info/6a0d004ba235d749afa92a32?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cf3484d9320363687dc04?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | May 19 |
 | **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0ced75538d03366dc92bd7?utm_campaign=1050&utm_source=git)** | Campbell, CA | Remote | May 19 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
 | ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Operations Intern - NISSC II](https://jobright.ai/jobs/info/6a0ce76922d0d34036c99f06?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | May 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0ce6bb0411d7417a1bdade?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdb4ba235d749afa912c1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6a0c4720963f7a67d95d5c2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | ↳ | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
-| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | May 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0c410b0411d7417a1b6c91?utm_campaign=1050&utm_source=git)** | US-TX-Laredo | On Site | May 19 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0c41090411d7417a1b6c90?utm_campaign=1050&utm_source=git)** | Laredo, TX, US | On Site | May 19 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0c640c4d93203636877e85?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 19 |
-| **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Administrative Intern - Research Institute](https://jobright.ai/jobs/info/6a0d8126538d03366dc96f8e?utm_campaign=1050&utm_source=git)** | Cooperstown, NY | On Site | May 19 |
-| **[Janicki](http://www.janicki.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0c0a9a538d03366dc8a383?utm_campaign=1050&utm_source=git)** | Hamilton, WA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
