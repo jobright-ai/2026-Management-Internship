@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HomeServe USA](http://www.homeserveusa.com)** | **[Progressive Pathway Intern](https://jobright.ai/jobs/info/69f50f20db88714bcdfb1c4e?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | May 20 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Savings and Membership)](https://jobright.ai/jobs/info/6a0e1b8b83d7144289815e0f?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | May 20 |
+| **[BMO](http://www.bmo.com)** | **[Change and Process Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a0e18f983d7144289815b66?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 20 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e18cdc152ac7824483241?utm_campaign=1050&utm_source=git)** | Rockville, MD | Hybrid | May 20 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Savings and Membership)](https://jobright.ai/jobs/info/6a0e146dbeb4d73cb622e95b?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | May 20 |
+| **[Rosendin](https://www.rosendin.com)** | **[Intern-Construction Project Management](https://jobright.ai/jobs/info/6a0e145b80bf0430c7629094?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 20 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Administrative Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e101009ecfd704b3e5611?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US, 94105 | On Site | May 20 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a0e0daf80bf0430c7628e37?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 20 |
 | **[Kentucky Performing Arts](https://www.kentuckyperformingarts.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a0e0afd80bf0430c7628cd9?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | May 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Agency Leasing Summer Internship](https://jobright.ai/jobs/info/6a0e0a0abeb4d73cb622e557?utm_campaign=1050&utm_source=git)** | San Francisco, California, USA, US | On Site | May 20 |
@@ -89,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c8f39bf9c6ff7aedf154e9?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | May 20 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Supply Chain Operations](https://jobright.ai/jobs/info/69bc70665b89c002acf22898?utm_campaign=1050&utm_source=git)** | Augusta, KS | On Site | May 20 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0dd8d280bf0430c7626776?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 20 |
-| **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/6a0dd8b6c152ac7824480380?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68cd2297e23def7af55b5f0f?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | May 20 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688bb1f61808534a89cb5222?utm_campaign=1050&utm_source=git)** | Louisville, TN | On Site | May 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Downtown Miami](https://jobright.ai/jobs/info/6a0dcd4c80bf0430c7626412?utm_campaign=1050&utm_source=git)** | Miami, FL, US | On Site | May 20 |
@@ -131,10 +137,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cf3484d9320363687dc04?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | May 19 |
 | **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0ced75538d03366dc92bd7?utm_campaign=1050&utm_source=git)** | Campbell, CA | Remote | May 19 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
-| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Operations Intern - NISSC II](https://jobright.ai/jobs/info/6a0ce76922d0d34036c99f06?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | May 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0ce6bb0411d7417a1bdade?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdb4ba235d749afa912c1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Health Disaster Preparedness Administrative Professional (Unpaid Intern)](https://jobright.ai/jobs/info/6a0cba77a235d749afa8fd9e?utm_campaign=1050&utm_source=git)** | Orange County | On Site | May 19 |
 | **[AFL](http://www.AFLglobal.com)** | **[Business Operations Intern- Summer 2026](https://jobright.ai/jobs/info/69d4392754f00230c6d2f6e2?utm_campaign=1050&utm_source=git)** | Duncan, SC | Hybrid | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cb5f4a235d749afa8f7fa?utm_campaign=1050&utm_source=git)** | 855 Main St, Bridgeport, CT 06604, USA | On Site | May 19 |
-| **[SAP](https://www.sap.com)** | **[SAP Spend Management and Finance iXp Intern](https://jobright.ai/jobs/info/69f0371da4aa3545d8a5d8c4?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | May 19 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0cb0bd22d0d34036c972d8?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | May 19 |
-| **[YES USA](http://www.yesusa.com)** | **[Administrative Intern for Summer Camp](https://jobright.ai/jobs/info/6a0cb05b22d0d34036c97266?utm_campaign=1050&utm_source=git)** | Hallandale Beach, Florida, United States | On Site | May 19 |
-| **[Makers Air](https://makersair.com)** | **[Administrative & Operations Summer Intern](https://jobright.ai/jobs/info/6a0caf1aa235d749afa8f300?utm_campaign=1050&utm_source=git)** | Fort Lauderdale,FL,US | On Site | May 19 |
-| **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0cac95538d03366dc8fc88?utm_campaign=1050&utm_source=git)** | Campbell, CA | On Site | May 19 |
-| **[Protect Environmental](https://www.protectenvironmental.com/)** | **[Project Administration Intern](https://jobright.ai/jobs/info/6a0cac2c963f7a67d95da53d?utm_campaign=1050&utm_source=git)** | Flanders, NJ | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
