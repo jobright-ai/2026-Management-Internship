@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Savings and Membership)](https://jobright.ai/jobs/info/6a0dfcf483d7144289814788?utm_campaign=1050&utm_source=git)** | Pensacola, FL, United States | On Site | May 20 |
+| **[Meeting Street Schools](https://meetingstreetschools.org/)** | **[Burns - Operations Intern](https://jobright.ai/jobs/info/6a0dfcae09ecfd704b3e4a9d?utm_campaign=1050&utm_source=git)** | North Charleston - Burns, US | On Site | May 20 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0dfca1c152ac7824481e9e?utm_campaign=1050&utm_source=git)** | Rockville, MD | Hybrid | May 20 |
+| **[Medical University of South Carolina](http://www.musc.edu)** | **[Unpaid Internship with Charleston CFO](https://jobright.ai/jobs/info/6a0df9d0c152ac7824481afa?utm_campaign=1050&utm_source=git)** | Charleston, US | On Site | May 20 |
+| **[Tutor Perini Corporation](http://www.tutorperini.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a0df7afbeb4d73cb622d7b0?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | May 20 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Jackson ADD's Office](https://jobright.ai/jobs/info/6a0df62bbeb4d73cb622d693?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | May 20 |
+| **[Quikrete](https://www.quikrete.com)** | **[Intern](https://jobright.ai/jobs/info/6a0df061c152ac78244817a2?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | May 20 |
+| **[MCN Build](http://mcnbuild.com)** | **[Real Estate & Property Management Intern - Washington D.C.](https://jobright.ai/jobs/info/6a0df05abeb4d73cb622d4a2?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Supply Chain (Materials Replenishment) Intern](https://jobright.ai/jobs/info/69f110678feca91f1491e6c2?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | May 20 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a0dec1883d7144289813e2c?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ, US | On Site | May 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Beef and Pork Production Planning Year-Round Intern](https://jobright.ai/jobs/info/6a0de92c83d7144289813c38?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | May 20 |
@@ -109,15 +117,15 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d023f0411d7417a1beaa7?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0d0103a235d749afa92af7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Materials Management Intern](https://jobright.ai/jobs/info/6a0d004ba235d749afa92a32?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cf3484d9320363687dc04?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | May 19 |
 | **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0ced75538d03366dc92bd7?utm_campaign=1050&utm_source=git)** | Campbell, CA | Remote | May 19 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
-| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
+| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Operations Intern - NISSC II](https://jobright.ai/jobs/info/6a0ce76922d0d34036c99f06?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | May 19 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0ce6bb0411d7417a1bdade?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cdb4ba235d749afa912c1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a0c97b7a235d749afa8e522?utm_campaign=1050&utm_source=git)** | Tomball | On Site | May 19 |
 | **[Central States Water Resources](https://www.centralstateswaterresources.com/)** | **[Summer Intern - Administrative Support](https://jobright.ai/jobs/info/6a0c978d0411d7417a1ba524?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 19 |
 | **[Warren Henry Auto Group](http://warrenhenryauto.com)** | **[Corporate Administration Internship](https://jobright.ai/jobs/info/6a0c975222d0d34036c963e2?utm_campaign=1050&utm_source=git)** | North Miami, FL, US | On Site | May 19 |
-| ↳ | **[Corporate Administration Internship](https://jobright.ai/jobs/info/6a0c975222d0d34036c963e1?utm_campaign=1050&utm_source=git)** | US-FL-North Miami | On Site | May 19 |
-| **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/6a0c972722d0d34036c963bc?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | May 19 |
-| **[WASKEY](http://www.waskey.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a0c9607a235d749afa8e49f?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA 70814-8204, USA | On Site | May 19 |
-| **[EngineeRD](https://engineerd.com)** | **[Internship - Business Administration](https://jobright.ai/jobs/info/6a0c9492a235d749afa8e2a6?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | May 19 |
-| **[Ocean State Job Lot](http://oceanstatejoblot.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0c9369538d03366dc8ec6a?utm_campaign=1050&utm_source=git)** | North Kingstown, Rhode Island, United States | Hybrid | May 19 |
-| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Business Operations & Development Intern](https://jobright.ai/jobs/info/6a0cdd594d9320363687cd1a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 19 |
-| **[Amcor](http://www.amcor.com/)** | **[Summer Procurement Intern](https://jobright.ai/jobs/info/6a0c8f7a538d03366dc8e9d8?utm_campaign=1050&utm_source=git)** | AF Deerfield IL Corporate, US | On Site | May 19 |
-| **[FreeFlight Systems](http://freeflightsystems.com)** | **[Engineering Program Management Intern – Process Development](https://jobright.ai/jobs/info/6a0c7f31963f7a67d95d85ea?utm_campaign=1050&utm_source=git)** | Irving, Texas, United States | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
