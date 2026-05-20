@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0d70a6963f7a67d95e0e1c?utm_campaign=1050&utm_source=git)** | Rockville, MD | Hybrid | May 20 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Hotel Operations Intern (based in Santa Monica, CA)](https://jobright.ai/jobs/info/6a0d5c6f963f7a67d95e071d?utm_campaign=1050&utm_source=git)** | US-CA-Los Angeles | On Site | May 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0d59b5538d03366dc95eed?utm_campaign=1050&utm_source=git)** | TRIADELPHIA, WV | On Site | May 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0d59b522d0d34036c9d5dc?utm_campaign=1050&utm_source=git)** | BLAINE, MN | On Site | May 19 |
@@ -79,12 +81,12 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0d0103a235d749afa92af7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Materials Management Intern](https://jobright.ai/jobs/info/6a0d004ba235d749afa92a32?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | May 19 |
 | **[Etched](https://www.etched.com)** | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[Core Ops Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b8?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Core Ops Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f6?utm_campaign=1050&utm_source=git)** | San Jose | On Site | May 19 |
 | **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a0cf3484d9320363687dc04?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | May 19 |
 | **[ServiceUp](https://serviceup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0ced75538d03366dc92bd7?utm_campaign=1050&utm_source=git)** | Campbell, CA | Remote | May 19 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
-| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b33?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 19 |
+| ↳ | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0ced12538d03366dc92b34?utm_campaign=1050&utm_source=git)** | CA-ON-Ottawa | On Site | May 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d2831198?utm_campaign=1050&utm_source=git)** | US-MO-Independence | On Site | May 19 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | May 19 |
 | **[Amentum](https://www.amentum.com/)** | **[Business Operations Intern - NISSC II](https://jobright.ai/jobs/info/6a0ce76922d0d34036c99f06?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | May 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/6a0be1344d93203636874b54?utm_campaign=1050&utm_source=git)** | Bay Area | On Site | May 18 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a0bd0b54d93203636874477?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | May 18 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/6a0c21a622d0d34036c91a7d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | May 18 |
-| **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Operations Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a0bc349a235d749afa8857a?utm_campaign=1050&utm_source=git)** | Pasadena, CA, United States | On Site | May 18 |
-| **[Hispanic Housing Development Corporation](https://www.hispanichousingdevelopment.com)** | **[Asset Management & Property Operations Intern](https://jobright.ai/jobs/info/6a0bbd7d22d0d34036c8f5f3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
