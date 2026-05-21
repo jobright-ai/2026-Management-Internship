@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0eab9d619335383fb26cf3?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0eab9c12f8b43cf3979005?utm_campaign=1050&utm_source=git)** | CHEYENNE, WY | On Site | May 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0eab99619335383fb26cef?utm_campaign=1050&utm_source=git)** | QUINCY, IL | On Site | May 20 |
 | **[Nova Sky Stories](https://novaskystories.com)** | **[MBA Internship - Strategic Initiatives & Global Growth](https://jobright.ai/jobs/info/6a0ea74f9f654b3359ce0375?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | May 20 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 20 |
 | **[Oracle](https://www.oracle.com/)** | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e2f47fea1610bcab572?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Strategic Planning Summer 2026 Internship](https://jobright.ai/jobs/info/6a0daccd83d71442898116bc?utm_campaign=1050&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | On Site | May 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69f20030f154d768fbaa4bbc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Strategy and Research Intern (Global Business Solutions-MSO-SMB) - 2026 Fall (MBA)](https://jobright.ai/jobs/info/69f0df70825a315d7ca34ba0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 20 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- UNPAID (1677)](https://jobright.ai/jobs/info/69f10383825a315d7ca357a6?utm_campaign=1050&utm_source=git)** | Pearland, TX | Remote | May 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69be4a704828227293010eb6?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| **[Defense Information Systems Agency](https://disa.mil)** | **[Student Trainee (Management Analysis) - CES Intern](https://jobright.ai/jobs/info/6a0d9101c152ac782447de73?utm_campaign=1050&utm_source=git)** | Fort George G. Meade, MD | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
