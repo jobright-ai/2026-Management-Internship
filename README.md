@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Logistics & Transportation (Jun-Aug 2026)](https://jobright.ai/jobs/info/6a0e5bcdc152ac782448624c?utm_campaign=1050&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | May 20 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC 2026 Agency Leasing Summer Internship](https://jobright.ai/jobs/info/6a0e5ae547fea1610bca9b00?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 20 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0e579447fea1610bca99a9?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 20 |
+| **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Project Management Intern (PART TIME)](https://jobright.ai/jobs/info/6a0e561cc152ac7824485f4a?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | May 20 |
+| **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[Project Coordinator - Intern](https://jobright.ai/jobs/info/6a0e5505c152ac7824485eac?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 20 |
 | **[Ravago Manufacturing Americas](https://rma.ravagomanufacturing.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0e4b0147fea1610bca8d22?utm_campaign=1050&utm_source=git)** | Twinsburg, OH | On Site | May 20 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/6a0e4988beb4d73cb6230e7c?utm_campaign=1050&utm_source=git)** | Miramar, FL | On Site | May 20 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/6a0e48f883d7144289817a28?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Operations Co-op/Intern](https://jobright.ai/jobs/info/6a0d159b963f7a67d95de53f?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | May 19 |
 | **[Etched](https://www.etched.com)** | **[Core Ops Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d158ba235d749afa932e0?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation Intern - Innovation and Strategic Initiatives](https://jobright.ai/jobs/info/6a0d14d34d9320363687eb7c?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL, US, 33409 | On Site | May 19 |
-| **[AARP](http://www.aarp.org)** | **[Enterprise Performance Measurement Intern](https://jobright.ai/jobs/info/69c6f75ae565c26a7002491f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 19 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a0d2c50538d03366dc94b50?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d023f0411d7417a1beaa7?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 19 |
-| **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0d0103a235d749afa92af7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
-| **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Materials Management Intern](https://jobright.ai/jobs/info/6a0d004ba235d749afa92a32?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
