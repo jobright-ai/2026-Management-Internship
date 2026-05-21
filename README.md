@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0e732912f8b43cf39779fb?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0e732247fea1610bcaa5b7?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 20 |
+| **[Gemini](https://gemini.com)** | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c3538d03366dc841ef?utm_campaign=1050&utm_source=git)** | Gemini North America | On Site | May 20 |
+| ↳ | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c1538d03366dc841ee?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | May 20 |
 | **[Contoro Robotics](https://www.contoro.com)** | **[GTM Strategy Intern](https://jobright.ai/jobs/info/6a0e72fe09ecfd704b3e91e1?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[High School Chapter President](https://jobright.ai/jobs/info/6a0e720d09ecfd704b3e917d?utm_campaign=1050&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | May 20 |
 | **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0e71d783d7144289819110?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | May 20 |
