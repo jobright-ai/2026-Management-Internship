@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NCR Voyix](https://www.ncrvoyix.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0eccb509ecfd704b3eb51e?utm_campaign=1050&utm_source=git)** | ATLANTA, GA, USA, US | On Site | May 21 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0ec763619335383fb275d1?utm_campaign=1050&utm_source=git)** | QUINCY, IL | On Site | May 21 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0ec75d9f654b3359ce0f2d?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 21 |
 | **[ALG Senior](http://www.algsenior.com)** | **[Intern](https://jobright.ai/jobs/info/6a0ec37109ecfd704b3eb0ea?utm_campaign=1050&utm_source=git)** | 400 2nd Ave NW, Hickory, NC 28601, USA | On Site | May 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0eab9d619335383fb26cf3?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0eab9c12f8b43cf3979005?utm_campaign=1050&utm_source=git)** | CHEYENNE, WY | On Site | May 20 |
 | **[Nova Sky Stories](https://novaskystories.com)** | **[MBA Internship - Strategic Initiatives & Global Growth](https://jobright.ai/jobs/info/6a0ea74f9f654b3359ce0375?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | May 20 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 20 |
 | **[Oracle](https://www.oracle.com/)** | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e2f47fea1610bcab572?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[M&D Operations Planning Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a4083d714428981a26f?utm_campaign=1050&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26b?utm_campaign=1050&utm_source=git)** | United States | Remote | May 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0e8f6f12f8b43cf3978655?utm_campaign=1050&utm_source=git)** | SPRINGFIELD, IL (SOUTH) | On Site | May 20 |
-| **[Gemini](https://gemini.com)** | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c3538d03366dc841ef?utm_campaign=1050&utm_source=git)** | Gemini North America | On Site | May 20 |
-| ↳ | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c1538d03366dc841ee?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | May 20 |
+| **[Gemini](https://gemini.com)** | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c1538d03366dc841ee?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | May 20 |
+| ↳ | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c3538d03366dc841ef?utm_campaign=1050&utm_source=git)** | Gemini North America | On Site | May 20 |
 | **[Grand Casino Mille Lacs & Hinckley](https://grandcasinomn.com/)** | **[Circle Sage Summer Internship](https://jobright.ai/jobs/info/6a0ea71709ecfd704b3ea7f5?utm_campaign=1050&utm_source=git)** | Red Willow, Alberta, Canada | On Site | May 20 |
 | **[Contoro Robotics](https://www.contoro.com)** | **[GTM Strategy Intern](https://jobright.ai/jobs/info/6a0e72fe09ecfd704b3e91e1?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[High School Chapter President](https://jobright.ai/jobs/info/6a0e720d09ecfd704b3e917d?utm_campaign=1050&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Shade Store](https://www.theshadestore.com/)** | **[Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/69d55bc5cdb525785fbd0133?utm_campaign=1050&utm_source=git)** | Pompano Beach, FL | Hybrid | May 20 |
 | **[RBC](https://www.rbc.com)** | **[Branch Manager Intern- EN](https://jobright.ai/jobs/info/69b870e556973837413dc808?utm_campaign=1050&utm_source=git)** | La Sarre, Quebec, Canada | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86bee758f2e4ac3ff2488?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 20 |
-| **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Housing Strategic Planning Summer 2026 Internship](https://jobright.ai/jobs/info/6a0daccd83d71442898116bc?utm_campaign=1050&utm_source=git)** | Mun Ctr Bldg 18A-Adm Housing Pgms, Virginia, 23456, US | On Site | May 20 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Reservations (Fall 2026)](https://jobright.ai/jobs/info/69f20030f154d768fbaa4bbc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
