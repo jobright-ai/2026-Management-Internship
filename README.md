@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0e732912f8b43cf39779fb?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0e732247fea1610bcaa5b7?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 20 |
+| **[Contoro Robotics](https://www.contoro.com)** | **[GTM Strategy Intern](https://jobright.ai/jobs/info/6a0e72fe09ecfd704b3e91e1?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[High School Chapter President](https://jobright.ai/jobs/info/6a0e720d09ecfd704b3e917d?utm_campaign=1050&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | May 20 |
 | **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0e71d783d7144289819110?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | May 20 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[MissionOps Strategy Intern](https://jobright.ai/jobs/info/6a0e6dd480bf0430c762cb47?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | On Site | May 20 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Savings and Membership)](https://jobright.ai/jobs/info/6a0e1b8b83d7144289815e0f?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | May 20 |
 | **[BMO](http://www.bmo.com)** | **[Change and Process Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a0e18f983d7144289815b66?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Savings and Membership)](https://jobright.ai/jobs/info/6a0e146dbeb4d73cb622e95b?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | May 20 |
-| **[Rosendin](https://www.rosendin.com)** | **[Intern-Construction Project Management](https://jobright.ai/jobs/info/6a0e145b80bf0430c7629094?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[Textron](http://textron.com)** | **[Stage automne 2026 - Chargé de projet en stratégie et gouvernance / 2026 été Internship - Project Manager in Strategy and Governance (Mirabel, QC)](https://jobright.ai/jobs/info/6a0e48ebc152ac782448538f?utm_campaign=1050&utm_source=git)** | Mirabel, Quebec, Canada | On Site | May 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Administrative Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e101009ecfd704b3e5611?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US, 94105 | On Site | May 20 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a0e0daf80bf0430c7628e37?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0d2f91a235d749afa940a3?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d2e5ca235d749afa94097?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Jr. Project Coordinator Co-op (8-12 months) - Fall 2026](https://jobright.ai/jobs/info/6a0d1edb4d9320363687f1bb?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | May 19 |
-| ↳ | **[Jr. Project Coordinator Co-op (8-12 months) - Fall 2026](https://jobright.ai/jobs/info/6a0d1ed94d9320363687f1b6?utm_campaign=1050&utm_source=git)** | Clarington, Ontario, Canada | On Site | May 19 |
-| **[Plunkett's Pest Control](https://plunketts.net/)** | **[Fleet Intern (Part-Time)](https://jobright.ai/jobs/info/6a0e6f59beb4d73cb6232471?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
