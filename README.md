@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM Global](http://www.asmglobal.com)** | **[PMO Enterprise Technology Intern](https://jobright.ai/jobs/info/6a0f793a72b52f7225f3e4a3?utm_campaign=1050&utm_source=git)** | Frisco, TX, US | On Site | May 21 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0f76b672b52f7225f3e2bc?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[UCF Front Office Internship](https://jobright.ai/jobs/info/6a0f76369f654b3359ce6027?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 21 |
+| **[Switch](https://switch.us/)** | **[Intern](https://jobright.ai/jobs/info/6a0f70c372b52f7225f3deeb?utm_campaign=1050&utm_source=git)** | St Louis, MO 63139, USA | On Site | May 21 |
+| **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Intern, Houston](https://jobright.ai/jobs/info/6a0f6ecc72b52f7225f3de2e?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | May 21 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0f6aeb80bf0430c7633945?utm_campaign=1050&utm_source=git)** | Los Osos, CA | On Site | May 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6a0f6a8d83d714428981fe9f?utm_campaign=1050&utm_source=git)** | Puyallup, WA | On Site | May 21 |
 | **[Corporate Chefs](http://www.corporatechefs.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/6a0f6a6a619335383fb2c321?utm_campaign=1050&utm_source=git)** | Bar Harbor, ME | On Site | May 21 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/69f3030f8feca91f149293b3?utm_campaign=1050&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 21 |
 | **[Boyne Mountain Resort](http://boynemountain.com)** | **[Food and Beverage Internship- Level One](https://jobright.ai/jobs/info/69f25c508feca91f149246d6?utm_campaign=1050&utm_source=git)** | Boyne Falls, MI | On Site | May 21 |
 | **[Standard Solar](http://www.standardsolar.com/)** | **[O&M Intern](https://jobright.ai/jobs/info/69f2c4a8825a315d7ca3f941?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | May 21 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | May 21 |
 | **[Charlotte Community Health Clinic](https://charlottecommunityhealth.org)** | **[Administrative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/6a0f075d72b52f7225f3a8f9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 21 |
 | **[Soucy](http://www.soucy-group.com)** | **[Intern - Project Manager - CKX Helmet Development (Summer 2026)](https://jobright.ai/jobs/info/6a0f06f772b52f7225f3a83d?utm_campaign=1050&utm_source=git)** | Drummondville, Quebec, Canada | On Site | May 21 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Summer Intern - Service BDR](https://jobright.ai/jobs/info/6a0f05e080bf0430c763064a?utm_campaign=1050&utm_source=git)** | Business Development Center - HIC, US | On Site | May 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Student Analyst, Supply Planning](https://jobright.ai/jobs/info/6a0e21bf09ecfd704b3e64b5?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 20 |
 | **[Petauri](https://petauri.com)** | **[Digital Operations and Innovation Intern](https://jobright.ai/jobs/info/6a0e1f7b47fea1610bca75d7?utm_campaign=1050&utm_source=git)** | Nashville, TN 37206, USA | Remote | May 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0e1f36beb4d73cb622f523?utm_campaign=1050&utm_source=git)** | Baytown, TX, US | On Site | May 20 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0e1f35beb4d73cb622f522?utm_campaign=1050&utm_source=git)** | US-TX-Baytown | On Site | May 20 |
-| **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/6a0e1f1b47fea1610bca7542?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | May 20 |
-| **[Continental Aerospace Technologies™](http://continental.aero)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a0e1dcd80bf0430c7629a24?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | May 20 |
-| **[HomeServe USA](http://www.homeserveusa.com)** | **[Progressive Pathway Intern](https://jobright.ai/jobs/info/69f50f20db88714bcdfb1c4e?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
