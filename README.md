@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gemini](https://gemini.com)** | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c3538d03366dc841ef?utm_campaign=1050&utm_source=git)** | Gemini North America | On Site | May 20 |
-| ↳ | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c1538d03366dc841ee?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | May 20 |
+| **[First Student](http://www.firststudentinc.com)** | **[Fleet Intern](https://jobright.ai/jobs/info/6a0e9a5f09ecfd704b3ea3ce?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Operations Planning Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a4083d714428981a26f?utm_campaign=1050&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a3d83d714428981a26b?utm_campaign=1050&utm_source=git)** | United States | Remote | May 20 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0e8f8c12f8b43cf3978669?utm_campaign=1050&utm_source=git)** | SEDALIA, MO | On Site | May 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0e8f7047fea1610bcab02e?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | May 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0e8f6f12f8b43cf3978655?utm_campaign=1050&utm_source=git)** | SPRINGFIELD, IL (SOUTH) | On Site | May 20 |
+| **[Gemini](https://gemini.com)** | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c1538d03366dc841ee?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | May 20 |
+| ↳ | **[Office Services Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b55c3538d03366dc841ef?utm_campaign=1050&utm_source=git)** | Gemini North America | On Site | May 20 |
 | **[Contoro Robotics](https://www.contoro.com)** | **[GTM Strategy Intern](https://jobright.ai/jobs/info/6a0e72fe09ecfd704b3e91e1?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[High School Chapter President](https://jobright.ai/jobs/info/6a0e720d09ecfd704b3e917d?utm_campaign=1050&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | May 20 |
 | **[Tague Lumber Inc.](https://www.taguelumber.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0e71d783d7144289819110?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | May 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[One Year Management Placement / Internship – Bangor / Holyhead](https://jobright.ai/jobs/info/6a0d766c0411d7417a1c22df?utm_campaign=1050&utm_source=git)** | Bangor | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
-| **[Jet Aviation](http://www.jetaviation.com/)** | **[Business Aviation Intern - Innovation and Strategic Initiatives](https://jobright.ai/jobs/info/6a0d482d4d932036368803a4?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | May 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0d3e11963f7a67d95df951?utm_campaign=1050&utm_source=git)** | US-TX-El Paso | On Site | May 19 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a0d3e10963f7a67d95df950?utm_campaign=1050&utm_source=git)** | El Paso, TX, US | On Site | May 19 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Program Operations Intern](https://jobright.ai/jobs/info/6a0d2f91a235d749afa940a3?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | May 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d2e5ca235d749afa94097?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 19 |
-| **[Kiewit](http://www.kiewit.com)** | **[Jr. Project Coordinator Co-op (8-12 months) - Fall 2026](https://jobright.ai/jobs/info/6a0d1edb4d9320363687f1bb?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
