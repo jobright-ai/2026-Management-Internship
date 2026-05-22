@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a108a1c83d7144289826e73?utm_campaign=1050&utm_source=git)** | FOREST LAKE, MN | On Site | May 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a108a199f654b3359cec80c?utm_campaign=1050&utm_source=git)** | HOMER GLEN, IL | On Site | May 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a108a14619335383fb33357?utm_campaign=1050&utm_source=git)** | OLATHE,KS | On Site | May 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a108a13619335383fb33356?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a108a13619335383fb33355?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 22 |
+| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/6a1089459fdbf21f36caf310?utm_campaign=1050&utm_source=git)** | North Charleston, South Carolina, United States | On Site | May 22 |
+| **[Ikigai Cases](www.ikigaicases.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1087ca12f8b43cf3985be8?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 22 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Facilities Event Coordinator Intern](https://jobright.ai/jobs/info/6a1082d69fdbf21f36caf053?utm_campaign=1050&utm_source=git)** | Saint Louis, Missouri, USA, US | On Site | May 22 |
+| **[GS Power Partners](https://gspowerpartners.com/)** | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3c9?utm_campaign=1050&utm_source=git)** | New York - NY | On Site | May 22 |
+| ↳ | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3ca?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Student Intern - Strategy Team](https://jobright.ai/jobs/info/6a107ea39fdbf21f36caecb9?utm_campaign=1050&utm_source=git)** | Richmond, VA, US | On Site | May 22 |
 | **[S.H.O.W. ATL](https://www.show-atl.com)** | **[Executive Assistant Intern (Summer Internship)](https://jobright.ai/jobs/info/6a107c3a9fdbf21f36caec49?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 22 |
 | **[99 Yards](https://99yards.app)** | **[Business Administration Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a107a8283d7144289826767?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | May 22 |
@@ -69,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/6a106f8d9fdbf21f36cae7cb?utm_campaign=1050&utm_source=git)** | Fayetteville, GA, US | On Site | May 22 |
 | **[Community Savings](https://www.mycommunitysavings.com/)** | **[Bank Administrative Intern](https://jobright.ai/jobs/info/6a106f3512f8b43cf39851b0?utm_campaign=1050&utm_source=git)** | Caldwell,OH,US | On Site | May 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a106e5b83d714428982627e?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a106e55619335383fb3278d?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 22 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/69f4903612f2811ab5a5ec32?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d9a71f90bd6ae23d1f52?utm_campaign=1050&utm_source=git)** | Warrendale, PA | On Site | May 22 |
 | **[Mobile Communications America](http://callmc.com)** | **[Intern](https://jobright.ai/jobs/info/6a10611469bd827926aedde8?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | May 22 |
@@ -85,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1035a769bd827926aecc54?utm_campaign=1050&utm_source=git)** | Brusly, LA, US | On Site | May 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a10351312f8b43cf398379d?utm_campaign=1050&utm_source=git)** | SCOTTSBLUFF, NE | On Site | May 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a10351283d71442898249de?utm_campaign=1050&utm_source=git)** | EFFINGHAM, IL | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1035109f654b3359cea26f?utm_campaign=1050&utm_source=git)** | HUTCHINSON, MN | On Site | May 22 |
 | **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/69d7e4ee869c7e25d8592159?utm_campaign=1050&utm_source=git)** | United States | Remote | May 22 |
 | **[Sila Services](https://silaservices.com )** | **[Operations Management Trainee Intern](https://jobright.ai/jobs/info/69d80badb67cec4f9b09a3c9?utm_campaign=1050&utm_source=git)** | Norwalk, CT | On Site | May 22 |
 | **[Opaa! Food Management](http://opaafood.com)** | **[Home Office Intern](https://jobright.ai/jobs/info/6a101d8883d7144289824312?utm_campaign=1050&utm_source=git)** | Home, KS | On Site | May 22 |
@@ -124,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[RelaDyne LLC](http://www.reladyne.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a0f5c8780bf0430c7632fb7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Prospect Medical Holdings, Inc.](http://www.pmh.com/careers)** | **[Intern, Supply Chain Analyst](https://jobright.ai/jobs/info/6a0f56ba12f8b43cf397d93c?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | May 21 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
-| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
+| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
 | ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509580bf0430c7632924?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 21 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-1](https://jobright.ai/jobs/info/6a0f4baf80bf0430c76326a7?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ, US | On Site | May 21 |
 | **[Schneider Electric](https://www.se.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0f481180bf0430c763239d?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | May 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68a86a9fd627244576e327e3?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | May 21 |
 | **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Transformation Intern](https://jobright.ai/jobs/info/6a0946e28f3e371eb6183cc0?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | May 21 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69f23b4af154d768fbaa5d22?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | May 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ce1fc4cfdc6132f9424e19?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | May 21 |
-| **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/69f3030f8feca91f149293b3?utm_campaign=1050&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 21 |
-| **[Boyne Mountain Resort](http://boynemountain.com)** | **[Food and Beverage Internship- Level One](https://jobright.ai/jobs/info/69f25c508feca91f149246d6?utm_campaign=1050&utm_source=git)** | Boyne Falls, MI | On Site | May 21 |
-| **[Standard Solar](http://www.standardsolar.com/)** | **[O&M Intern](https://jobright.ai/jobs/info/69f2c4a8825a315d7ca3f941?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | May 21 |
-| **[Charlotte Community Health Clinic](https://charlottecommunityhealth.org)** | **[Administrative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/6a0f075d72b52f7225f3a8f9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 21 |
-| **[Soucy](http://www.soucy-group.com)** | **[Intern - Project Manager - CKX Helmet Development (Summer 2026)](https://jobright.ai/jobs/info/6a0f06f772b52f7225f3a83d?utm_campaign=1050&utm_source=git)** | Drummondville, Quebec, Canada | On Site | May 21 |
-| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Summer Intern - Service BDR](https://jobright.ai/jobs/info/6a0f05e080bf0430c763064a?utm_campaign=1050&utm_source=git)** | Business Development Center - HIC, US | On Site | May 21 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a0f054112f8b43cf397b3b1?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
