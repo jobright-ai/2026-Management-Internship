@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruston Paving](http://rustonpaving.com)** | **[Construction Project Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6a104e4f69bd827926aed654?utm_campaign=1050&utm_source=git)** | Greensboro/Winston-Salem | On Site | May 22 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern- Summer Term](https://jobright.ai/jobs/info/6a104c3e12f8b43cf398404f?utm_campaign=1050&utm_source=git)** | Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC, US | On Site | May 22 |
+| ↳ | **[Student Intern- Summer Term](https://jobright.ai/jobs/info/6a104c3d12f8b43cf398404e?utm_campaign=1050&utm_source=git)** | Atrium Health Mercy - 2001 Vail Ave, Charlotte, NC, US | On Site | May 22 |
 | **[Tripalink](https://www.tripalink.com)** | **[Property Management Summer Internship - USC Region](https://jobright.ai/jobs/info/6a10486983d71442898253db?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69670aa86f782b4e8d52ba33?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 22 |
 | ↳ | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692f926fef4b48533d146ead?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon Systems Solutions, Inc.](http://www.epsilonsystems.com)** | **[Business Admin Intern](https://jobright.ai/jobs/info/6a101123619335383fb304a3?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | May 21 |
 | **[Nova Sky Stories](https://novaskystories.com)** | **[MBA Internship - Strategic Initiatives & Global Growth](https://jobright.ai/jobs/info/6a0ea74f9f654b3359ce0375?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | May 20 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 20 |
-| **[Oracle](https://www.oracle.com/)** | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e2f47fea1610bcab572?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| **[First Student](http://www.firststudentinc.com)** | **[Fleet Intern](https://jobright.ai/jobs/info/6a0e9db3c152ac7824487b83?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 20 |
-| ↳ | **[Fleet Intern](https://jobright.ai/jobs/info/6a0e9a5f09ecfd704b3ea3ce?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
