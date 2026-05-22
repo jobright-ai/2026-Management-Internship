@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/69ea8fa54b0fa35a70774f60?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | May 22 |
+| **[Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a105e9c619335383fb320dc?utm_campaign=1050&utm_source=git)** | Johns Hopkins Hospital | Remote | May 22 |
 | **[Ruston Paving](http://rustonpaving.com)** | **[Construction Project Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6a104e4f69bd827926aed654?utm_campaign=1050&utm_source=git)** | Greensboro/Winston-Salem | On Site | May 22 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern- Summer Term](https://jobright.ai/jobs/info/6a104c3e12f8b43cf398404f?utm_campaign=1050&utm_source=git)** | Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC, US | On Site | May 22 |
 | ↳ | **[Student Intern- Summer Term](https://jobright.ai/jobs/info/6a104c3d12f8b43cf398404e?utm_campaign=1050&utm_source=git)** | Atrium Health Mercy - 2001 Vail Ave, Charlotte, NC, US | On Site | May 22 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[RelaDyne LLC](http://www.reladyne.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a0f5c8780bf0430c7632fb7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Prospect Medical Holdings, Inc.](http://www.pmh.com/careers)** | **[Intern, Supply Chain Analyst](https://jobright.ai/jobs/info/6a0f56ba12f8b43cf397d93c?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | May 21 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
-| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
+| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
 | ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509580bf0430c7632924?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 21 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-1](https://jobright.ai/jobs/info/6a0f4baf80bf0430c76326a7?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ, US | On Site | May 21 |
 | **[Schneider Electric](https://www.se.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0f481180bf0430c763239d?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0eccb509ecfd704b3eb51e?utm_campaign=1050&utm_source=git)** | ATLANTA, GA, USA, US | On Site | May 21 |
 | **[ALG Senior](http://www.algsenior.com)** | **[Intern](https://jobright.ai/jobs/info/6a0ec37109ecfd704b3eb0ea?utm_campaign=1050&utm_source=git)** | 400 2nd Ave NW, Hickory, NC 28601, USA | On Site | May 21 |
 | **[Epsilon Systems Solutions, Inc.](http://www.epsilonsystems.com)** | **[Business Admin Intern](https://jobright.ai/jobs/info/6a101123619335383fb304a3?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | May 21 |
-| **[Nova Sky Stories](https://novaskystories.com)** | **[MBA Internship - Strategic Initiatives & Global Growth](https://jobright.ai/jobs/info/6a0ea74f9f654b3359ce0375?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | May 20 |
-| **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
