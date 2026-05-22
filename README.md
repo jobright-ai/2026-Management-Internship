@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanford Medicine Children's Health](http://stanfordchildrens.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a0fb07d12f8b43cf3981169?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
+| **[Herzog](https://www.herzog.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0fafe080bf0430c7635db1?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | May 21 |
 | **[Fenwick & West](http://fenwick.com)** | **[Facilities Intern (Seattle)](https://jobright.ai/jobs/info/6a0fab0483d714428982201e?utm_campaign=1050&utm_source=git)** | Seattle, US | On Site | May 21 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0fa89c9f654b3359ce774d?utm_campaign=1050&utm_source=git)** | HUTCHINSON, MN | On Site | May 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0fa88b619335383fb2e63e?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 21 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Oversight Portfolio & Project Mgmt. - RBOPS](https://jobright.ai/jobs/info/6a0fa74f72b52f7225f3f839?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 21 |
 | **[Feline Apparel](www.felineapparel.com)** | **[Assistant Intern (CEO Support) — Nashville, TN](https://jobright.ai/jobs/info/6a0fa71f619335383fb2e595?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | May 21 |
 | **[Pivotal](https://pivotal.aero)** | **[Internship, Supply Chain Analyst](https://jobright.ai/jobs/info/6a0fa3ba12f8b43cf3980bbc?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[PMO Enterprise Technology Intern](https://jobright.ai/jobs/info/6a0f793a72b52f7225f3e4a3?utm_campaign=1050&utm_source=git)** | Frisco, TX, US | On Site | May 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0f76b672b52f7225f3e2bc?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[UCF Front Office Internship](https://jobright.ai/jobs/info/6a0f76369f654b3359ce6027?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 21 |
+| **[GlobalFoundries](https://gf.com/)** | **[Strategic Finance and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0fb45480bf0430c7635f20?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 21 |
 | **[Switch](https://switch.us/)** | **[Intern](https://jobright.ai/jobs/info/6a0f70c372b52f7225f3deeb?utm_campaign=1050&utm_source=git)** | St Louis, MO 63139, USA | On Site | May 21 |
 | **[Baker Botts](http://www.bakerbotts.com)** | **[Summer Intern, Houston](https://jobright.ai/jobs/info/6a0f6ecc72b52f7225f3de2e?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | May 21 |
 | **[Rantec Power Systems Inc.](https://rantec.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a0f6aeb80bf0430c7633945?utm_campaign=1050&utm_source=git)** | Los Osos, CA | On Site | May 21 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Legal PMO – Project Analyst, Full-time 6 months internship (July 2026 - Dec 2026)](https://jobright.ai/jobs/info/6a03c6bef3d6cc51d6379c4c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 21 |
 | **[ByteDance](http://bytedance.com)** | **[Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0ed1b609ecfd704b3eb774?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Technical Program Management Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcafcae6a0d9792584b27f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 21 |
-| ↳ | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | ↳ | **[Program Operations Content Programs Project Intern (TikTok-Operations-Entertainment-Global Programs) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330d458b23a2329da3297?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
+| ↳ | **[Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3309e6942c746fa690246?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698172847f40342e15da7dce?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 21 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0edc5972b52f7225f392a4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 21 |
 | **[Generac](https://www.generac.com)** | **[Intern Sourcing](https://jobright.ai/jobs/info/6a0e1b2a47fea1610bca7084?utm_campaign=1050&utm_source=git)** | South Burlington, VT | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/6a0e48f883d7144289817a28?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 20 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Unpaid Internship with Charleston CFO](https://jobright.ai/jobs/info/6a0e439880bf0430c762b4d3?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Technical Operations Intern 4 or 8 months – Fall 2026](https://jobright.ai/jobs/info/6a0e42df09ecfd704b3e781b?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 20 |
-| **[Cody Vermette Group - Commercial Builders](https://codybrock.com)** | **[Field Intern](https://jobright.ai/jobs/info/6a0e3e34beb4d73cb6230a8d?utm_campaign=1050&utm_source=git)** | Belmont, California, United States | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
