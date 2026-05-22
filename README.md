@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tripalink](https://www.tripalink.com)** | **[Property Management Summer Internship - USC Region](https://jobright.ai/jobs/info/6a10486983d71442898253db?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69670aa86f782b4e8d52ba33?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 22 |
+| ↳ | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692f926fef4b48533d146ead?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 22 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1035aa69bd827926aecc55?utm_campaign=1050&utm_source=git)** | US-LA-Brusly | On Site | May 22 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1035a769bd827926aecc54?utm_campaign=1050&utm_source=git)** | Brusly, LA, US | On Site | May 22 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a10351683d71442898249e4?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a10351312f8b43cf398379d?utm_campaign=1050&utm_source=git)** | SCOTTSBLUFF, NE | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a10351369bd827926aecc22?utm_campaign=1050&utm_source=git)** | NEW PHILADELPHIA, OH | On Site | May 22 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a10351312f8b43cf398379d?utm_campaign=1050&utm_source=git)** | SCOTTSBLUFF, NE | On Site | May 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a10351283d71442898249de?utm_campaign=1050&utm_source=git)** | EFFINGHAM, IL | On Site | May 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1035109f654b3359cea26f?utm_campaign=1050&utm_source=git)** | HUTCHINSON, MN | On Site | May 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a103500619335383fb310a8?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 22 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[TransCore](http://www.transcore.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0f8d4912f8b43cf3980252?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | May 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern (Kansas City)](https://jobright.ai/jobs/info/6a0f877372b52f7225f3ec98?utm_campaign=1050&utm_source=git)** | Kansas City, MO, US | On Site | May 21 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead (REVISED)](https://jobright.ai/jobs/info/6a0f806380bf0430c763486e?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | May 21 |
-| **[Girls of Excellence, Inc. ](http://www.girlsofexcellenceinc.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f7cb683d7144289820e0a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
+| **[Girls of Excellence, Inc.](http://www.girlsofexcellenceinc.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f7cb683d7144289820e0a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
 | **[ASM Global](http://www.asmglobal.com)** | **[PMO Enterprise Technology Intern](https://jobright.ai/jobs/info/6a0f793a72b52f7225f3e4a3?utm_campaign=1050&utm_source=git)** | Frisco, TX, US | On Site | May 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0f76b672b52f7225f3e2bc?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[UCF Front Office Internship](https://jobright.ai/jobs/info/6a0f76369f654b3359ce6027?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | May 21 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[RelaDyne LLC](http://www.reladyne.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a0f5c8780bf0430c7632fb7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 21 |
 | **[Prospect Medical Holdings, Inc.](http://www.pmh.com/careers)** | **[Intern, Supply Chain Analyst](https://jobright.ai/jobs/info/6a0f56ba12f8b43cf397d93c?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | May 21 |
 | **[AARP](http://www.aarp.org)** | **[Project Analyst Intern (Fall)](https://jobright.ai/jobs/info/69baff8b06c1ba00c54d4ee8?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | May 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
-| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632926?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 21 |
+| ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509680bf0430c7632927?utm_campaign=1050&utm_source=git)** | 1 Mercedes-Drive | On Site | May 21 |
 | ↳ | **[Internship in Supply Chain Management - Project Management Specialist (International Student)](https://jobright.ai/jobs/info/6a0f509580bf0430c7632924?utm_campaign=1050&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 21 |
 | **[Integrity](https://www.integrity.com)** | **[Operations Intern-1](https://jobright.ai/jobs/info/6a0f4baf80bf0430c76326a7?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ, US | On Site | May 21 |
 | **[Schneider Electric](https://www.se.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0f481180bf0430c763239d?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[SCA Project Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e2f47fea1610bcab572?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | **[First Student](http://www.firststudentinc.com)** | **[Fleet Intern](https://jobright.ai/jobs/info/6a0e9db3c152ac7824487b83?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 20 |
 | ↳ | **[Fleet Intern](https://jobright.ai/jobs/info/6a0e9a5f09ecfd704b3ea3ce?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 20 |
-| **[Oracle](https://www.oracle.com/)** | **[M&D Operations Planning Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a4083d714428981a26f?utm_campaign=1050&utm_source=git)** | United States | Remote | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
