@@ -57,9 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0fc4f19f654b3359ce8358?utm_campaign=1050&utm_source=git)** | HUTCHINSON, MN | On Site | May 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0fc4b0619335383fb2f1d3?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a0fc4b0619335383fb2f1d2?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 21 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a0fc4b0619335383fb2f1d3?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern (Kansas City)](https://jobright.ai/jobs/info/6a0fc1ec12f8b43cf39817e6?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | May 21 |
 | **[Stanford Medicine Children's Health](http://stanfordchildrens.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a0fb07d12f8b43cf3981169?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Herzog](https://www.herzog.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0fafe080bf0430c7635db1?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | May 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Prospect Medical Holdings, Inc.](http://www.pmh.com/careers)** | **[Intern, Supply Chain Analyst](https://jobright.ai/jobs/info/6a0f8f949f654b3359ce6ead?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | May 20 |
 | **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Project Management Intern (PART TIME)](https://jobright.ai/jobs/info/6a0e561cc152ac7824485f4a?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | May 20 |
 | **[Watson Companies](http://www.lifesuccess.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6a0fa74683d7144289821eef?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | May 20 |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/6a0e4988beb4d73cb6230e7c?utm_campaign=1050&utm_source=git)** | Miramar, FL | On Site | May 20 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/6a0e48f883d7144289817a28?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
