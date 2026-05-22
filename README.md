@@ -57,34 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Morro Bay](https://www.morrobayca.gov)** | **[City Administration Intern](https://jobright.ai/jobs/info/6a10d4e969bd827926af0a87?utm_campaign=1050&utm_source=git)** | Morro Bay, CA | On Site | May 22 |
+| ↳ | **[City Administration Intern](https://jobright.ai/jobs/info/6a10d4e869bd827926af0a85?utm_campaign=1050&utm_source=git)** | City of Morro Bay | On Site | May 22 |
+| **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/6a10d49b9f654b3359cee265?utm_campaign=1050&utm_source=git)** | New York | On Site | May 22 |
+| **[Coldwell Banker](http://www.coldwellbanker.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a10cb4469bd827926af0843?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | May 22 |
+| **[Columbia Safety and Supply](https://www.colsafety.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a10cbcd69bd827926af0870?utm_campaign=1050&utm_source=git)** | Saugerties, NY | On Site | May 22 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Business Operations Team Intern - Information Technology Division](https://jobright.ai/jobs/info/6a10c54383d7144289828498?utm_campaign=1050&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Columbus](https://jobright.ai/jobs/info/6a10c3fb619335383fb34926?utm_campaign=1050&utm_source=git)** | Hilliard, OH, US | On Site | May 22 |
 | ↳ | **[Project Manager Intern - Columbus](https://jobright.ai/jobs/info/6a10c3f3619335383fb34921?utm_campaign=1050&utm_source=git)** | US-OH-Hilliard | On Site | May 22 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a10c1f79fdbf21f36cb07ba?utm_campaign=1050&utm_source=git)** | SIOUX CITY, IA | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a10c1f583d71442898283ca?utm_campaign=1050&utm_source=git)** | EFFINGHAM, IL | On Site | May 22 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a10c1f583d71442898283ca?utm_campaign=1050&utm_source=git)** | EFFINGHAM, IL | On Site | May 22 |
 | **[Positive Investments, Inc.](https://www.positiveinvestments.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a10c0f983d7144289828381?utm_campaign=1050&utm_source=git)** | 610 North Santa Anita Avenue, Arcadia, CA, USA | On Site | May 22 |
-| **[Herbivore Botanicals](https://www.herbivorebotanicals.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a10bece619335383fb347ba?utm_campaign=1050&utm_source=git)** | United States | Remote | May 22 |
 | **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Nursing Administration Intern](https://jobright.ai/jobs/info/6a10b6c59fdbf21f36cb02eb?utm_campaign=1050&utm_source=git)** | Middlebury, VT, US | On Site | May 22 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a10adbe83d7144289827dbd?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | May 22 |
 | **[Revvity](https://www.revvity.com/)** | **[Enterprise Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a10a9cf83d7144289827c05?utm_campaign=1050&utm_source=git)** | Waltham, US | On Site | May 22 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a10a7c69f654b3359ced407?utm_campaign=1050&utm_source=git)** | US-PA-Reading | On Site | May 22 |
-| ↳ | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a10a7c69f654b3359ced408?utm_campaign=1050&utm_source=git)** | Reading, PA, US | On Site | May 22 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a10a7c69f654b3359ced408?utm_campaign=1050&utm_source=git)** | Reading, PA, US | On Site | May 22 |
+| ↳ | **[Project Manager Intern - Reading](https://jobright.ai/jobs/info/6a10a7c69f654b3359ced407?utm_campaign=1050&utm_source=git)** | US-PA-Reading | On Site | May 22 |
 | **[GEDA USA, LLC](https://www.gedausa.com)** | **[Summer Intern- Project Management/Admin](https://jobright.ai/jobs/info/6a10a6af619335383fb33fcd?utm_campaign=1050&utm_source=git)** | League City, TX | On Site | May 22 |
 | **[Five Stones Research Corporation](http://5sr-hsv.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a10a42312f8b43cf3986873?utm_campaign=1050&utm_source=git)** | Huntsville, Alabama, United States | On Site | May 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Procurement and Global Supply Chain Intern](https://jobright.ai/jobs/info/6a109ffb9f654b3359ced19c?utm_campaign=1050&utm_source=git)** | McLean, VA, US | On Site | May 22 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Automotive Intern](https://jobright.ai/jobs/info/6a109da583d71442898277ea?utm_campaign=1050&utm_source=git)** | Hendrick Chevrolet (Columbia), US | On Site | May 22 |
-| **[Eulerity](https://www.eulerity.com)** | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a109ccf9fdbf21f36cafba4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 22 |
-| ↳ | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a109ccf9fdbf21f36cafba5?utm_campaign=1050&utm_source=git)** | New York | Hybrid | May 22 |
+| **[Eulerity](https://www.eulerity.com)** | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a109ccf9fdbf21f36cafba5?utm_campaign=1050&utm_source=git)** | New York | Hybrid | May 22 |
+| ↳ | **[Technical Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a109ccf9fdbf21f36cafba4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 22 |
 | **[Fellow](http://fellowproducts.com/)** | **[Operations & Finance Intern](https://jobright.ai/jobs/info/6a109ccb12f8b43cf39865e2?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 22 |
 | **[Vast](https://www.vastspace.com)** | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/6a109a899fdbf21f36cafa16?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | May 22 |
 | ↳ | **[2026 Summer Internship - Business & Supply Chain](https://jobright.ai/jobs/info/6a109a769fdbf21f36cafa0b?utm_campaign=1050&utm_source=git)** | Long Beach, California, United States | On Site | May 22 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a108a13619335383fb33355?utm_campaign=1050&utm_source=git)** | MUSCATINE, IA | On Site | May 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a108a13619335383fb33356?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 22 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a108a13619335383fb33356?utm_campaign=1050&utm_source=git)** | SALINA, KS | On Site | May 22 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/6a1089459fdbf21f36caf310?utm_campaign=1050&utm_source=git)** | North Charleston, South Carolina, United States | On Site | May 22 |
 | **[Ikigai Cases](www.ikigaicases.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1087ca12f8b43cf3985be8?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | May 22 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Facilities Event Coordinator Intern](https://jobright.ai/jobs/info/6a1082d69fdbf21f36caf053?utm_campaign=1050&utm_source=git)** | Saint Louis, Missouri, USA, US | On Site | May 22 |
-| **[GS Power Partners](https://gspowerpartners.com/)** | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3ca?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 22 |
-| ↳ | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3c9?utm_campaign=1050&utm_source=git)** | New York - NY | On Site | May 22 |
+| **[GS Power Partners](https://gspowerpartners.com/)** | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3c9?utm_campaign=1050&utm_source=git)** | New York - NY | On Site | May 22 |
+| ↳ | **[Corporate Strategy Summer Intern](https://jobright.ai/jobs/info/6a1081329f654b3359cec3ca?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Student Intern - Strategy Team](https://jobright.ai/jobs/info/6a107ea39fdbf21f36caecb9?utm_campaign=1050&utm_source=git)** | Richmond, VA, US | On Site | May 22 |
 | **[Everllence](https://www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | May 22 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Fleet Operations, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f456af1f90bd6ae23d4515?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 22 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/6a106f8f9fdbf21f36cae7cc?utm_campaign=1050&utm_source=git)** | US-GA-Fayetteville | On Site | May 22 |
 | ↳ | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/6a106f8d9fdbf21f36cae7cb?utm_campaign=1050&utm_source=git)** | Fayetteville, GA, US | On Site | May 22 |
 | **[Community Savings](https://www.mycommunitysavings.com/)** | **[Bank Administrative Intern](https://jobright.ai/jobs/info/6a106f3512f8b43cf39851b0?utm_campaign=1050&utm_source=git)** | Caldwell,OH,US | On Site | May 22 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a106e5b83d714428982627e?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 22 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/69f4903612f2811ab5a5ec32?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 22 |
 | **[Fullsight](https://fullsight.wd12.myworkdayjobs.com/fullsight)** | **[Intern, Industry Managed Programs](https://jobright.ai/jobs/info/69f3d9a71f90bd6ae23d1f52?utm_campaign=1050&utm_source=git)** | Warrendale, PA | On Site | May 22 |
 | **[Mobile Communications America](http://callmc.com)** | **[Intern](https://jobright.ai/jobs/info/6a10611469bd827926aedde8?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ridgeline International, LLC](http://www.ridgelineintl.com)** | **[Technical Project Management Internship](https://jobright.ai/jobs/info/6a0f44f583d714428981e26c?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | May 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/69ccd93f891d7b11cfcb4850?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | May 21 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/6a0f403412f8b43cf397cea0?utm_campaign=1050&utm_source=git)** | Brookings, SD (East), US | On Site | May 21 |
-| **[JCB North America](http://jcbna.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0b8422a235d749afa863a7?utm_campaign=1050&utm_source=git)** | Bamford Blvd, Pooler, GA, USA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
