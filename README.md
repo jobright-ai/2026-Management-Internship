@@ -57,16 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Latin America](https://www.lla.com/)** | **[Intern PMO](https://jobright.ai/jobs/info/6a147dfdc48b503aeffbf0f5?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 25 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern - San Francisco](https://jobright.ai/jobs/info/6a14746a554b0e12c057f23b?utm_campaign=1050&utm_source=git)** | Seattle Depot | On Site | May 25 |
 | **[Rich Products Corporation](https://rich.com)** | **[Intern - Supply Planning Optimization](https://jobright.ai/jobs/info/69bdf000b106024562834e82?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | May 25 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Mission Management - Fall 2026](https://jobright.ai/jobs/info/6a146648c48b503aeffbed72?utm_campaign=1050&utm_source=git)** | Cedar Park, TX | On Site | May 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/6a13b3419f654b3359cf6b3e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1461ea128680351d95d815?utm_campaign=1050&utm_source=git)** | PEWAUKEE, WI | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1461c7554b0e12c057eeff?utm_campaign=1050&utm_source=git)** | BLOOMINGTON, IN | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1461c5738a270c8bfa791c?utm_campaign=1050&utm_source=git)** | GOSHEN, IN | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1461c4554b0e12c057eefd?utm_campaign=1050&utm_source=git)** | COLUMBUS, NE | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1461c1128680351d95d810?utm_campaign=1050&utm_source=git)** | SIOUX CITY, IA | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1461bf738a270c8bfa791b?utm_campaign=1050&utm_source=git)** | LAKE OZARK, MO | On Site | May 25 |
-| **[New York Habitat](https://www.nyhabitat.com/)** | **[Real Estate Management Internship](https://jobright.ai/jobs/info/6a145e2dbc9bff375af00fcb?utm_campaign=1050&utm_source=git)** | United States | Remote | May 25 |
 | **[Tecta America Commercial Roofing](http://www.tectaamerica.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a145a9f128680351d95d711?utm_campaign=1050&utm_source=git)** | Mankato, Minnesota | On Site | May 25 |
 | **[Etaily](https://etaily.com)** | **[Demand and Supply Planning Intern (Hybrid)](https://jobright.ai/jobs/info/6a144206128680351d95d23e?utm_campaign=1050&utm_source=git)** | United States | Hybrid | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 25 |
@@ -78,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d6?utm_campaign=1050&utm_source=git)** | US-TX-Brownsville | On Site | May 24 |
 | ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d5?utm_campaign=1050&utm_source=git)** | Brownsville, TX, US | On Site | May 24 |
 | **[Powerex Inc.](http://www.pwrx.com)** | **[Internship](https://jobright.ai/jobs/info/6a139c4f69bd827926af8809?utm_campaign=1050&utm_source=git)** | Powerex - Youngwood, PA 15697 | On Site | May 24 |
-| **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f5?utm_campaign=1050&utm_source=git)** | Murrieta | On Site | May 24 |
-| ↳ | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f4?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 24 |
+| **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f4?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 24 |
+| ↳ | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f5?utm_campaign=1050&utm_source=git)** | Murrieta | On Site | May 24 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a135b5969bd827926af80b6?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 24 |
 | ↳ | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a135b5769bd827926af80b4?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 24 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/69be11c2482822729300c4ed?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 24 |
@@ -150,11 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Business Operations Team Intern - Information Technology Division](https://jobright.ai/jobs/info/6a111e1683d714428982a9a4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[Community Savings](https://www.mycommunitysavings.com/)** | **[Bank Administrative Intern](https://jobright.ai/jobs/info/6a111d8e12f8b43cf398972c?utm_campaign=1050&utm_source=git)** | Caldwell, OH | On Site | May 22 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111956619335383fb36b66?utm_campaign=1050&utm_source=git)** | 174 SH 21 EAST, Bastrop 78602 | On Site | May 22 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b62?utm_campaign=1050&utm_source=git)** | 1001 EAST PARMER LANE, STE B, Austin 78753 | On Site | May 22 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 22 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 22 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 22 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 22 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 22 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 22 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 22 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b62?utm_campaign=1050&utm_source=git)** | 1001 EAST PARMER LANE, STE B, Austin 78753 | On Site | May 22 |
 | **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/6a0e1f1b47fea1610bca7542?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | May 22 |
 | **[City of Morro Bay](https://www.morrobayca.gov)** | **[City Administration Intern](https://jobright.ai/jobs/info/6a13ffc29fdbf21f36cbb6cf?utm_campaign=1050&utm_source=git)** | Morro Bay, CA | On Site | May 22 |
+| **[Shield AI](http://www.shield.ai)** | **[2026 Summer Intern - Strategy & Operations (R5065)](https://jobright.ai/jobs/info/6a110cf783d714428982a1c2?utm_campaign=1050&utm_source=git)** | San Francisco, California | On Site | May 22 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Program Manager, Network Engineering](https://jobright.ai/jobs/info/6a10ffec83d7144289829c92?utm_campaign=1050&utm_source=git)** | United States of America, Texas, Austin, US | Hybrid | May 22 |
+| ↳ | **[Intern - Program Manager, Network Engineering](https://jobright.ai/jobs/info/6a10ffe783d7144289829c8e?utm_campaign=1050&utm_source=git)** | United States of America, California, San Jose, US | Hybrid | May 22 |
+| **[UVM Health - Porter Medical Center](http://www.portermedical.org)** | **[Nursing Administration Intern](https://jobright.ai/jobs/info/6a111c1a69bd827926af2875?utm_campaign=1050&utm_source=git)** | Middlebury, VT | On Site | May 22 |
+| **[Revvity](https://www.revvity.com/)** | **[Enterprise Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a111bbb83d714428982a88a?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
