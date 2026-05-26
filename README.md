@@ -57,17 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a156378128680351d960d31?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | May 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a155f6d438198796a26b8d7?utm_campaign=1050&utm_source=git)** | RICE LAKE, WI | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f5cdc845f4be5bd545f?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f541935fa61b3c67853?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f4e738a270c8bfaad0a?utm_campaign=1050&utm_source=git)** | WARREN, OH | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f4b128680351d960c31?utm_campaign=1050&utm_source=git)** | HANOVER PARK, IL | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f491935fa61b3c6783c?utm_campaign=1050&utm_source=git)** | CAMBRIDGE, MN | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f3d554b0e12c0582218?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | May 26 |
+| **[VIVA Railings LLC](https://vivarailings.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a155da21935fa61b3c6776e?utm_campaign=1050&utm_source=git)** | Lewisville, TX 75057 | On Site | May 26 |
+| **[nVenia, A Duravant Company](https://www.nvenia.com)** | **[Operations Management  Intern](https://jobright.ai/jobs/info/6a155d5f438198796a26b757?utm_campaign=1050&utm_source=git)** | nVenia - Wood Dale, IL 60191 | On Site | May 26 |
+| **[Epworth Children & Family Services](https://www.epworth.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a155d421935fa61b3c676db?utm_campaign=1050&utm_source=git)** | Epworth - Webster - St. Louis, MO 63119 | On Site | May 26 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556261935fa61b3c671ce?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 26 |
 | ↳ | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556251935fa61b3c671cd?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina | On Site | May 26 |
 | **[Kiva](http://kiva.org)** | **[Review and Translation Program Project Manager Intern](https://jobright.ai/jobs/info/6a1555a9438198796a26b1f6?utm_campaign=1050&utm_source=git)** | U.S. Remote | Remote | May 26 |
 | ↳ | **[Review and Translation Program Project Manager Intern](https://jobright.ai/jobs/info/6a15559c438198796a26b1f0?utm_campaign=1050&utm_source=git)** | U.S Remote | Remote | May 26 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6a1545511935fa61b3c66fde?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | May 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b2?utm_campaign=1050&utm_source=git)** | ONTARIO, OH | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b1?utm_campaign=1050&utm_source=git)** | PEWAUKEE, WI | On Site | May 25 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b1?utm_campaign=1050&utm_source=git)** | PEWAUKEE, WI | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b2?utm_campaign=1050&utm_source=git)** | ONTARIO, OH | On Site | May 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b7dc845f4be5bd4b43?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b7dc845f4be5bd4b42?utm_campaign=1050&utm_source=git)** | PLOVER, WI | On Site | May 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b5554b0e12c058193d?utm_campaign=1050&utm_source=git)** | MORRIS, IL | On Site | May 25 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b51935fa61b3c66fa2?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 25 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/6a153868554b0e12c05815ea?utm_campaign=1050&utm_source=git)** | United States | Remote | May 25 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Student, Facilities Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a152a46bc9bff375af0368d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, CA | On Site | May 25 |
 | **[TEAMINN](http://myteaminn.com/)** | **[TEAMINN Summer Intern](https://jobright.ai/jobs/info/6a151c43554b0e12c0580d24?utm_campaign=1050&utm_source=git)** | United States | Remote | May 25 |
@@ -121,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Intern (5707)](https://jobright.ai/jobs/info/6a129e969f654b3359cf4232?utm_campaign=1050&utm_source=git)** | RWTS JFK - Rockville Centre, NY 11570 | On Site | May 23 |
 | **[PD Instore](https://pdinstore.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a129e8669bd827926af649a?utm_campaign=1050&utm_source=git)** | Tempo - Minneapolis, MN 55427 | On Site | May 23 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Procurement (1682)](https://jobright.ai/jobs/info/6a129e4f83d714428982eb05?utm_campaign=1050&utm_source=git)** | Miramar, FL 33025 | On Site | May 23 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 23 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 23 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 23 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c6d0b36ff0354752505?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a12145f9fdbf21f36cb5647?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | May 23 |
 | **[Meridian Waste](http://www.MeridianWaste.com)** | **[Intern](https://jobright.ai/jobs/info/6a13ccd3619335383fb3e33b?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | May 23 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | May 23 |
 | **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0f7243619335383fb2c720?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 23 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix,](https://jobright.ai/jobs/info/698415918da7a612045e0321?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | May 23 |
-| **[Miller Manufacturing](http://miller-mfg.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1181b369bd827926af3a21?utm_campaign=1050&utm_source=git)** | 1450 W 13th Street, Glencoe, MN55336 | On Site | May 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6984184c348f733a5c37e54e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Team Operations Intern](https://jobright.ai/jobs/info/6a117d5483d714428982b8da?utm_campaign=1050&utm_source=git)** | Mercy Health Training Center, Milford, Ohio | On Site | May 23 |
-| ↳ | **[Team Operations Intern](https://jobright.ai/jobs/info/6a117d4383d714428982b8d3?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | May 23 |
-| **[AAK](http://www.aak.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a094775939a5f01db95d83f?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | May 23 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Development) (1779)](https://jobright.ai/jobs/info/69f5003343a25828a8d16281?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | May 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c670b36ff03547524f9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 23 |
-| **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern, PRN](https://jobright.ai/jobs/info/6a13f97e83d7144289833013?utm_campaign=1050&utm_source=git)** | Fayetteville, GA | On Site | May 23 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69c7ba4eaa3c2c1995e1a682?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | May 22 |
-| **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship: Education Startup, NYC](https://jobright.ai/jobs/info/6a13c8b49f654b3359cf7149?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
