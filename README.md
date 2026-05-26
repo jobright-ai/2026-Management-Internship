@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 26 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c058275d?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 26 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6a111bbc69bd827926af27b1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship - Erasmus +](https://jobright.ai/jobs/info/6a157147554b0e12c0582685?utm_campaign=1050&utm_source=git)** | Berlin Depot | On Site | May 26 |
+| **[GitPart](https://www.gitpart.com)** | **[Summer Intern 2](https://jobright.ai/jobs/info/6a15710d738a270c8bfab018?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | May 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 26 |
+| ↳ | **[TikTok Shop Partner Manager Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d3526963f7a67d95df532?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
+| **[Crux Subsurface, Inc.](https://www.cruxsub.com/)** | **[Technical Administrative Assistant Internship](https://jobright.ai/jobs/info/69fae94b87a4820e6da83526?utm_campaign=1050&utm_source=git)** | Spokane Valley, WA | On Site | May 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Innovation - Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69faf5d9e1560008411552bd?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 26 |
+| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0a16ee3b54ed42d74de9a7?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 26 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a156378128680351d960d31?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | May 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a155f6d438198796a26b8d7?utm_campaign=1050&utm_source=git)** | RICE LAKE, WI | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f5cdc845f4be5bd545f?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a155f5cdc845f4be5bd545f?utm_campaign=1050&utm_source=git)** | HOLLAND, OH | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f541935fa61b3c67853?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f4e738a270c8bfaad0a?utm_campaign=1050&utm_source=git)** | WARREN, OH | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f4b128680351d960c31?utm_campaign=1050&utm_source=git)** | HANOVER PARK, IL | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f491935fa61b3c6783c?utm_campaign=1050&utm_source=git)** | CAMBRIDGE, MN | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a155f3d554b0e12c0582218?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | May 26 |
 | **[VIVA Railings LLC](https://vivarailings.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a155da21935fa61b3c6776e?utm_campaign=1050&utm_source=git)** | Lewisville, TX 75057 | On Site | May 26 |
@@ -131,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Intern (5707)](https://jobright.ai/jobs/info/6a129e969f654b3359cf4232?utm_campaign=1050&utm_source=git)** | RWTS JFK - Rockville Centre, NY 11570 | On Site | May 23 |
 | **[PD Instore](https://pdinstore.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a129e8669bd827926af649a?utm_campaign=1050&utm_source=git)** | Tempo - Minneapolis, MN 55427 | On Site | May 23 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Procurement (1682)](https://jobright.ai/jobs/info/6a129e4f83d714428982eb05?utm_campaign=1050&utm_source=git)** | Miramar, FL 33025 | On Site | May 23 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 23 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 23 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 23 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c6d0b36ff0354752505?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a12145f9fdbf21f36cb5647?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | May 23 |
 | **[Meridian Waste](http://www.MeridianWaste.com)** | **[Intern](https://jobright.ai/jobs/info/6a13ccd3619335383fb3e33b?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | May 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69979e5781476f6176afb981?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | May 23 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a11a33112f8b43cf398aed8?utm_campaign=1050&utm_source=git)** | US-AL-Trussville | On Site | May 23 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a11a32612f8b43cf398aed4?utm_campaign=1050&utm_source=git)** | Trussville, AL, US | On Site | May 23 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Administrative Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a092db88714bcdfb43ce?utm_campaign=1050&utm_source=git)** | Queens, NY | On Site | May 23 |
-| **[Share Our Strength](http://www.nokidhungry.org)** | **[Summer 2026 International Strategy Intern](https://jobright.ai/jobs/info/69f4f06181706a5bd2163e71?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | On Site | May 23 |
-| **[ATI](https://www.forging.com)** | **[Supply Chain / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6a13f2579f654b3359cf7e04?utm_campaign=1050&utm_source=git)** | Albany, OR | On Site | May 23 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Executive Assistant Intern - Summer 2026](https://jobright.ai/jobs/info/69f58c4681706a5bd2166a1c?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | May 23 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/6998a38ee0bddb6acac79cf3?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | May 23 |
-| **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0f7243619335383fb2c720?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix,](https://jobright.ai/jobs/info/698415918da7a612045e0321?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
