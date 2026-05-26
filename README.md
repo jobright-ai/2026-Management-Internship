@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69faf71738179b6f1ae74345?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | May 26 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a15cbf4554b0e12c058610b?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | May 26 |
+| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a15cbeb0073182bd92aceff?utm_campaign=1050&utm_source=git)** | Succasunna, NJ | On Site | May 26 |
+| **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[DEVELOPMENT ASSOCIATE INTERNSHIP AT KST](https://jobright.ai/jobs/info/6a15cb8a554b0e12c05860e7?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
+| **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Internship, Technical Program Manager, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a15cb4f1935fa61b3c6b7d3?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 26 |
 | **[Samsara](http://www.samsara.com)** | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a15c515a429fd279da91bb1?utm_campaign=1050&utm_source=git)** | Remote - CA | Remote | May 26 |
 | ↳ | **[Supply Chain - Summer Intern](https://jobright.ai/jobs/info/6a15c512a429fd279da91bb0?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | May 26 |
 | **[Dauch](http://www.Dauch.com)** | **[Procurement College Co-op](https://jobright.ai/jobs/info/6a15c434554b0e12c0585801?utm_campaign=1050&utm_source=git)** | Detroit, MI, US | On Site | May 26 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d6?utm_campaign=1050&utm_source=git)** | US-TX-Brownsville | On Site | May 24 |
 | **[Powerex Inc.](http://www.pwrx.com)** | **[Internship](https://jobright.ai/jobs/info/6a139c4f69bd827926af8809?utm_campaign=1050&utm_source=git)** | Powerex - Youngwood, PA 15697 | On Site | May 24 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6a0a8c6d939a5f01db962d85?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 24 |
-| **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f5?utm_campaign=1050&utm_source=git)** | Murrieta | On Site | May 24 |
-| ↳ | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f4?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 24 |
+| **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f4?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 24 |
+| ↳ | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f5?utm_campaign=1050&utm_source=git)** | Murrieta | On Site | May 24 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69bea291393a1008f7448423?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | May 24 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a135b5969bd827926af80b6?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 24 |
 | ↳ | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a135b5769bd827926af80b4?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c6d0b36ff0354752505?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a12145f9fdbf21f36cb5647?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | May 23 |
 | **[Meridian Waste](http://www.MeridianWaste.com)** | **[Intern](https://jobright.ai/jobs/info/6a13ccd3619335383fb3e33b?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | May 23 |
-| **[Radiant Logistics](https://www.linkedin.com/company/70405664)** | **[Intern (5707)](https://jobright.ai/jobs/info/6a13cd499f654b3359cf75cd?utm_campaign=1050&utm_source=git)** | Rockville Centre, NY | On Site | May 23 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Corporate Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f6156c582f810f9c8c852c?utm_campaign=1050&utm_source=git)** | Columbus, OH | Remote | May 23 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Scheduler Intern](https://jobright.ai/jobs/info/69d95a83738f2f099e8a14b2?utm_campaign=1050&utm_source=git)** | Whitestone, NY | On Site | May 23 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a13cf1758ee291d8052d873?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | May 23 |
-| **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
