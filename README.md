@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6a1545511935fa61b3c66fde?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | May 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1542d1128680351d9603bd?utm_campaign=1050&utm_source=git)** | HANOVER PARK, IL | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b1?utm_campaign=1050&utm_source=git)** | PEWAUKEE, WI | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542bb128680351d9603b2?utm_campaign=1050&utm_source=git)** | ONTARIO, OH | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b7dc845f4be5bd4b43?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b7dc845f4be5bd4b42?utm_campaign=1050&utm_source=git)** | PLOVER, WI | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b51935fa61b3c66fa2?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | May 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1542b5554b0e12c058193d?utm_campaign=1050&utm_source=git)** | MORRIS, IL | On Site | May 25 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/6a153868554b0e12c05815ea?utm_campaign=1050&utm_source=git)** | United States | Remote | May 25 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Student, Facilities Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a152a46bc9bff375af0368d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, CA | On Site | May 25 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a152699738a270c8bfa9e8c?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | May 25 |
 | **[TEAMINN](http://myteaminn.com/)** | **[TEAMINN Summer Intern](https://jobright.ai/jobs/info/6a151c43554b0e12c0580d24?utm_campaign=1050&utm_source=git)** | United States | Remote | May 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a14f672554b0e12c058071a?utm_campaign=1050&utm_source=git)** | Carpentersville, IL | On Site | May 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a14f665bc9bff375af02920?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | May 25 |
@@ -82,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a14102835df33047ace14fe?utm_campaign=1050&utm_source=git)** | Huntsville | On Site | May 25 |
 | **[GEO-Instruments](https://www.geo-instruments.com)** | **[Intern](https://jobright.ai/jobs/info/6a139f569fdbf21f36cb947c?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | May 24 |
 | **[Odee Sports Incorporated](https://www.odeesports.com)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/6a152bb2738a270c8bfa9f8e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 24 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d6?utm_campaign=1050&utm_source=git)** | US-TX-Brownsville | On Site | May 24 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d5?utm_campaign=1050&utm_source=git)** | Brownsville, TX, US | On Site | May 24 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d5?utm_campaign=1050&utm_source=git)** | Brownsville, TX, US | On Site | May 24 |
+| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a139d5a619335383fb3d2d6?utm_campaign=1050&utm_source=git)** | US-TX-Brownsville | On Site | May 24 |
 | **[Powerex Inc.](http://www.pwrx.com)** | **[Internship](https://jobright.ai/jobs/info/6a139c4f69bd827926af8809?utm_campaign=1050&utm_source=git)** | Powerex - Youngwood, PA 15697 | On Site | May 24 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6a0a8c6d939a5f01db962d85?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 24 |
 | **[AEVEX](https://www.aevex.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a1379609f654b3359cf60f4?utm_campaign=1050&utm_source=git)** | Murrieta, California, United States | On Site | May 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/6a11450f12f8b43cf3989e57?utm_campaign=1050&utm_source=git)** | Chicago | On Site | May 22 |
 | **[Shield AI](http://www.shield.ai)** | **[2026 Summer Intern - Strategy & Operations (R5065)](https://jobright.ai/jobs/info/6a13fe0858ee291d8052e80e?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 22 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69fcca036b788e7e7a5c28e0?utm_campaign=1050&utm_source=git)** | US-AZ-Surprise | On Site | May 22 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1135fd9fdbf21f36cb3480?utm_campaign=1050&utm_source=git)** | Surprise, AZ, US | On Site | May 22 |
-| **[GME Supply](https://www.gmesupply.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a13f7bc9fdbf21f36cbb29f?utm_campaign=1050&utm_source=git)** | Saugerties, NY | On Site | May 22 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a13f82e12f8b43cf3991576?utm_campaign=1050&utm_source=git)** | Saugerties, NY | On Site | May 22 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/6a1127d512f8b43cf39898f4?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 22 |
-| ↳ | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/6a1127d212f8b43cf39898f3?utm_campaign=1050&utm_source=git)** | Columbia, SC United States | On Site | May 22 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Business Operations Team Intern - Information Technology Division](https://jobright.ai/jobs/info/6a111e1683d714428982a9a4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 22 |
-| **[Community Savings](https://www.mycommunitysavings.com/)** | **[Bank Administrative Intern](https://jobright.ai/jobs/info/6a111d8e12f8b43cf398972c?utm_campaign=1050&utm_source=git)** | Caldwell, OH | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
