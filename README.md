@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1647b6a429fd279da9744c?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16476b1935fa61b3c7059b?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1647600073182bd92b1d70?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a164760128680351d969775?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | May 26 |
+| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a164184554b0e12c058ac54?utm_campaign=1050&utm_source=git)** | Ambler | On Site | May 26 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a16417b554b0e12c058ac52?utm_campaign=1050&utm_source=git)** | US-AK-Ambler | On Site | May 26 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a164179554b0e12c058ac51?utm_campaign=1050&utm_source=git)** | Ambler , AK, US | On Site | May 26 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Research & Technology: EcoJet Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a16415a554b0e12c058ac47?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a16406a128680351d969523?utm_campaign=1050&utm_source=git)** | US-LA-Denham Springs | On Site | May 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1640060073182bd92b1ad8?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a164001dc845f4be5bddee7?utm_campaign=1050&utm_source=git)** | ELKHORN, NE | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a163ffb0073182bd92b1ad2?utm_campaign=1050&utm_source=git)** | ST. PAUL, MN (MIDWAY) | On Site | May 26 |
 | **[Revvity](https://www.revvity.com/)** | **[Enterprise Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1637c4a429fd279da96bba?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Strategic Sourcing Intern (Year-Round)](https://jobright.ai/jobs/info/6a163411554b0e12c058a0c5?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | May 26 |
 | **[Custom Air Products & Services, Inc.](http://customairproducts.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a162ed8dc845f4be5bdd2f4?utm_campaign=1050&utm_source=git)** | Houston, TX, US | On Site | May 26 |
@@ -108,11 +120,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29e1935fa61b3c6c35f?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29a1935fa61b3c6c340?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2991935fa61b3c6c33a?utm_campaign=1050&utm_source=git)** | Panama City Beach | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c335?utm_campaign=1050&utm_source=git)** | St. Louis | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2971935fa61b3c6c333?utm_campaign=1050&utm_source=git)** | Erlanger | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32c?utm_campaign=1050&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32a?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32c?utm_campaign=1050&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32d?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2951935fa61b3c6c326?utm_campaign=1050&utm_source=git)** | Dayton | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2691935fa61b3c6c2b5?utm_campaign=1050&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferrari](https://www.ferrari.com/)** | **[Wholesale processes & Orders Management Internship (Englewood Cliffs, USA) 1](https://jobright.ai/jobs/info/6a15b1b2a429fd279da9132a?utm_campaign=1050&utm_source=git)** | Englewood Cliffs, New Jersey, US | On Site | May 26 |
 | **[DSPolitical](https://www.dspolitical.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a15b10c554b0e12c0585009?utm_campaign=1050&utm_source=git)** | United States | Remote | May 26 |
 | **[WM](https://www.wm.com/)** | **[Intern - SBS- Administrative Office](https://jobright.ai/jobs/info/6a159a681935fa61b3c6967d?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | May 26 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | May 26 |
-| **[Monogram Health](https://www.monogramhealth.com)** | **[Operations Internship](https://jobright.ai/jobs/info/69fadc1e86d5cd46527d057b?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | May 26 |
-| **[Arup](http://www.arup.com)** | **[Project Management Intern (August - December 2026)](https://jobright.ai/jobs/info/6a15c210554b0e12c058571a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 26 |
-| **[ZOLTEK](http://zoltek.com)** | **[Intern Opportunity - Strategic Planning Analyst](https://jobright.ai/jobs/info/6a1579c0554b0e12c0582fa1?utm_campaign=1050&utm_source=git)** | St. Louis, MO | On Site | May 26 |
-| **[Sendola](https://www.sendola.io)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a1574621935fa61b3c67f0c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | May 26 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c058275d?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 26 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6a111bbc69bd827926af27b1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship - Erasmus +](https://jobright.ai/jobs/info/6a157147554b0e12c0582685?utm_campaign=1050&utm_source=git)** | Berlin Depot | On Site | May 26 |
-| **[GitPart](https://www.gitpart.com)** | **[Summer Intern 2](https://jobright.ai/jobs/info/6a15710d738a270c8bfab018?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | May 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 26 |
-| ↳ | **[TikTok Shop Partner Manager Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d3526963f7a67d95df532?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
