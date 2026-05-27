@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a16fcc0f45c6530ce9a7a53?utm_campaign=1050&utm_source=git)** | West Columbia, SC, US | On Site | May 27 |
+| **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Front Office Intern](https://jobright.ai/jobs/info/6a16fbd35b0a497d52106fae?utm_campaign=1050&utm_source=git)** | Roseville, MI, US | On Site | May 27 |
+| **[Continental](https://www.continental.com)** | **[Supply Chain Intern - Onsite in Auburn, IN](https://jobright.ai/jobs/info/6a16f8c19005d858e94f464e?utm_campaign=1050&utm_source=git)** | Auburn, IN | On Site | May 27 |
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecb41430333075ccb84d?utm_campaign=1050&utm_source=git)** | King of Prussia, PA, US | On Site | May 27 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ef73e258811370cb146697?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69fb56d718b94b2515be1853?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | May 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/69ea8db73aa0c479643b081c?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 27 |
+| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a16fc96b091c7417c4f984b?utm_campaign=1050&utm_source=git)** | Calverton, NY | On Site | May 27 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern](https://jobright.ai/jobs/info/6a16caf45b0a497d52105ffd?utm_campaign=1050&utm_source=git)** | Elkin, NC | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa56381f59c56275e33005?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb2abbe156000841157417?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a51935fa61b3c6c380?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a51935fa61b3c6c382?utm_campaign=1050&utm_source=git)** | Louisville | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a21935fa61b3c6c373?utm_campaign=1050&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a11935fa61b3c6c36e?utm_campaign=1050&utm_source=git)** | Florida | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29e1935fa61b3c6c35f?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29a1935fa61b3c6c340?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2991935fa61b3c6c33a?utm_campaign=1050&utm_source=git)** | Panama City Beach | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
