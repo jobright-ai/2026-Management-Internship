@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a167853a429fd279da98df6?utm_campaign=1050&utm_source=git)** | RICHMOND, KY | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a167852128680351d96b26a?utm_campaign=1050&utm_source=git)** | MADISON, WI (WEST) | On Site | May 26 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a16689e1935fa61b3c71464?utm_campaign=1050&utm_source=git)** | Elkin, NC | On Site | May 26 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/6a165e70202ae849ed8d2be8?utm_campaign=1050&utm_source=git)** | Highland Heights, OH, US | On Site | May 26 |
 | ↳ | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/6a165e56202ae849ed8d2be2?utm_campaign=1050&utm_source=git)** | US-OH-Highland Heights | On Site | May 26 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Chief Industries, Inc.](http://chiefind.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a161fe0dc845f4be5bdcd38?utm_campaign=1050&utm_source=git)** | Grand Island, Nebraska, United States | On Site | May 26 |
 | **[Refresco](https://www.refresco.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a161dd8a429fd279da95f2a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Operations Experience Intern](https://jobright.ai/jobs/info/6a161b040073182bd92b025c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
+| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a167a311b2f6918b0e32526?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | On Site | May 26 |
 | **[SHEIN](https://www.shein.com)** | **[Warehouse Operation Intern - Weekend Shift](https://jobright.ai/jobs/info/6a16178ea429fd279da95695?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 26 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1610831935fa61b3c6e586?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | May 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a160e11a429fd279da95328?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 26 |
@@ -139,9 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c335?utm_campaign=1050&utm_source=git)** | St. Louis | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2971935fa61b3c6c333?utm_campaign=1050&utm_source=git)** | Erlanger | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32a?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32c?utm_campaign=1050&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32d?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32a?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2951935fa61b3c6c326?utm_campaign=1050&utm_source=git)** | Dayton | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2691935fa61b3c6c2b5?utm_campaign=1050&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[SCS Intern](https://jobright.ai/jobs/info/6a15e013dc845f4be5bd988b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Internship, Technical Program Manager, Cell Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/6a15fbad1935fa61b3c6d400?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69faf71738179b6f1ae74345?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | May 26 |
 | **[HUB Sports Boston](https://hubsportsboston.com/)** | **[Sports Management & Operations Internship (FALL 2026)](https://jobright.ai/jobs/info/6a15eb7a0073182bd92ae2ba?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | May 26 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a15cbf4554b0e12c058610b?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | May 26 |
-| **[Aerotech, Inc.](http://www.aerotech.com/Default.aspx)** | **[DEVELOPMENT ASSOCIATE INTERNSHIP AT KST](https://jobright.ai/jobs/info/6a15cb8a554b0e12c05860e7?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
-| **[Hardware FYI](https://www.hardwarefyi.com/)** | **[Internship, Technical Program Manager, Cell Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a15cb4f1935fa61b3c6b7d3?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
