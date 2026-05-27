@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecb41430333075ccb84d?utm_campaign=1050&utm_source=git)** | King of Prussia, PA, US | On Site | May 27 |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ef73e258811370cb146697?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 27 |
+| **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69fb56d718b94b2515be1853?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | May 27 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/69ea8db73aa0c479643b081c?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | May 27 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern](https://jobright.ai/jobs/info/6a16caf45b0a497d52105ffd?utm_campaign=1050&utm_source=git)** | Elkin, NC | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa56381f59c56275e33005?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb2abbe156000841157417?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 27 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Strategic Sourcing Intern (Year-Round)](https://jobright.ai/jobs/info/6a15fc6f128680351d96651a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH (USA), US | On Site | May 26 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a15f7f9a429fd279da94144?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supplier Management (Fall 2026)](https://jobright.ai/jobs/info/6a15f5a3128680351d9662f1?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
-| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Automotive Intern](https://jobright.ai/jobs/info/6a15f1de128680351d96606b?utm_campaign=1050&utm_source=git)** | Hendrick Chevrolet (Columbia), US | On Site | May 26 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a15ef8a554b0e12c05876a0?utm_campaign=1050&utm_source=git)** | Riedman Campus, US | On Site | May 26 |
 | **[Refresco](https://www.refresco.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a15ed1ddc845f4be5bda677?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | May 26 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15ec16a429fd279da93897?utm_campaign=1050&utm_source=git)** | US-SC-Greenwood | On Site | May 26 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2bd1935fa61b3c6c3d7?utm_campaign=1050&utm_source=git)** | Atlanta | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2bb1935fa61b3c6c3d0?utm_campaign=1050&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2ab1935fa61b3c6c393?utm_campaign=1050&utm_source=git)** | Columbus | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a51935fa61b3c6c382?utm_campaign=1050&utm_source=git)** | Louisville | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a51935fa61b3c6c380?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a51935fa61b3c6c382?utm_campaign=1050&utm_source=git)** | Louisville | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a21935fa61b3c6c373?utm_campaign=1050&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2a11935fa61b3c6c36e?utm_campaign=1050&utm_source=git)** | Florida | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29e1935fa61b3c6c35f?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29a1935fa61b3c6c340?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2991935fa61b3c6c33a?utm_campaign=1050&utm_source=git)** | Panama City Beach | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c335?utm_campaign=1050&utm_source=git)** | St. Louis | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2971935fa61b3c6c333?utm_campaign=1050&utm_source=git)** | Erlanger | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
