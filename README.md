@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1623b20073182bd92b0a53?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1623b10073182bd92b0a51?utm_campaign=1050&utm_source=git)** | ST. PAUL, MN (MIDWAY) | On Site | May 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1623aedc845f4be5bdcef5?utm_campaign=1050&utm_source=git)** | ELKHORN, NE | On Site | May 26 |
+| **[Corvant](corvantsolutions.com)** | **[Commercial Construction Project Management Intern](https://jobright.ai/jobs/info/6a16220fdc845f4be5bdce05?utm_campaign=1050&utm_source=git)** | Douglasville, GA | On Site | May 26 |
+| **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | May 26 |
+| **[Chief Industries, Inc.](http://chiefind.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a161fe0dc845f4be5bdcd38?utm_campaign=1050&utm_source=git)** | Grand Island, Nebraska, United States | On Site | May 26 |
 | **[Refresco](https://www.refresco.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a161dd8a429fd279da95f2a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Operations Experience Intern](https://jobright.ai/jobs/info/6a161b040073182bd92b025c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 26 |
 | **[SHEIN](https://www.shein.com)** | **[Warehouse Operation Intern - Weekend Shift](https://jobright.ai/jobs/info/6a16178ea429fd279da95695?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 26 |
@@ -100,12 +106,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29e1935fa61b3c6c35f?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e29a1935fa61b3c6c340?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2991935fa61b3c6c33a?utm_campaign=1050&utm_source=git)** | Panama City Beach | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c335?utm_campaign=1050&utm_source=git)** | St. Louis | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2981935fa61b3c6c336?utm_campaign=1050&utm_source=git)** | Louisville, Kentucky, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2971935fa61b3c6c333?utm_campaign=1050&utm_source=git)** | Erlanger | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32d?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
-| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32a?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32c?utm_campaign=1050&utm_source=git)** | Dayton, Ohio, United States | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32a?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | May 26 |
+| ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2961935fa61b3c6c32d?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2951935fa61b3c6c326?utm_campaign=1050&utm_source=git)** | Dayton | On Site | May 26 |
 | ↳ | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a15e2691935fa61b3c6c2b5?utm_campaign=1050&utm_source=git)** | Florida Gulf Coast East Division | On Site | May 26 |
 | **[DXP Enterprises, Inc.](http://www.dxpe.com)** | **[SCS Intern](https://jobright.ai/jobs/info/6a15e013dc845f4be5bd988b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TikTok Shop Partner Manager Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0d3526963f7a67d95df532?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
 | ↳ | **[Product Manager Project Intern (Brand Innovation - Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69faf5d9e1560008411552bd?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0a16ee3b54ed42d74de9a7?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 26 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6a156378128680351d960d31?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | May 26 |
-| **[VIVA Railings LLC](https://vivarailings.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a155da21935fa61b3c6776e?utm_campaign=1050&utm_source=git)** | Lewisville, TX 75057 | On Site | May 26 |
-| **[nVenia, A Duravant Company](https://www.nvenia.com)** | **[Operations Management  Intern](https://jobright.ai/jobs/info/6a155d5f438198796a26b757?utm_campaign=1050&utm_source=git)** | nVenia - Wood Dale, IL 60191 | On Site | May 26 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556261935fa61b3c671ce?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina, United States | On Site | May 26 |
-| ↳ | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556251935fa61b3c671cd?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina | On Site | May 26 |
-| **[Kiva](http://kiva.org)** | **[Review and Translation Program Project Manager Intern](https://jobright.ai/jobs/info/6a1555a9438198796a26b1f6?utm_campaign=1050&utm_source=git)** | U.S. Remote | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
