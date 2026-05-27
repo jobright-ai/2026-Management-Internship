@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a172c46d6a04f21602e3b71?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 27 |
+| **[Burkert USA Corp](http://www.burkert-usa.com/en)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a172a12f45c6530ce9a9877?utm_campaign=1050&utm_source=git)** | Huntersville, US | On Site | May 27 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
+| **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
+| **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1723505b0a497d52108bfb?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 27 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 | **[TR Miller Heating Cooling Plumbing & Electrical](https://www.trmillerheatingandcooling.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a17234af45c6530ce9a9453?utm_campaign=1050&utm_source=git)** | Bolingbrook,IL,US | On Site | May 27 |
@@ -90,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Internship in Logistics and Digital Supply Chain (d/f/m)](https://jobright.ai/jobs/info/6a16b9ea128680351d96ca16?utm_campaign=1050&utm_source=git)** | Hamburg Area, DE | On Site | May 27 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69c3c1c56f4f855eeda5df67?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Strategy Student Experience](https://jobright.ai/jobs/info/6a09edc8939a5f01db960603?utm_campaign=1050&utm_source=git)** | Buford, GA | On Site | May 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0f682b12f8b43cf397ec52?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 27 |
 | **[Mac Properties](http://macapartments.com)** | **[Warehouse & Operations Intern](https://jobright.ai/jobs/info/6a16a5b41b2f6918b0e33114?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | May 27 |
 | **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a168bc1554b0e12c058cd35?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MDB Capital Partners LLC](https://www.mdbcapitalpartners.com/#Leadership%20Preview)** | **[Unpaid Administrative Assistant Intern](https://jobright.ai/jobs/info/6a1604910073182bd92af5ca?utm_campaign=1050&utm_source=git)** | Providence, RI | Remote | May 26 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160286128680351d966f47?utm_campaign=1050&utm_source=git)** | Hugh Chatham Memorial Hospital - 180 Parkwood Dr, US | On Site | May 26 |
 | **[BENCHMADE](https://www.benchmade.com)** | **[Global Value Chain Strategy Analyst - Intern](https://jobright.ai/jobs/info/6a16023fa429fd279da94cae?utm_campaign=1050&utm_source=git)** | Oregon City, OR | Hybrid | May 26 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Strategic Sourcing Intern (Year-Round)](https://jobright.ai/jobs/info/6a15fc6f128680351d96651a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH (USA), US | On Site | May 26 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a15f7f9a429fd279da94144?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | May 26 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supplier Management (Fall 2026)](https://jobright.ai/jobs/info/6a15f5a3128680351d9662f1?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a15ef8a554b0e12c05876a0?utm_campaign=1050&utm_source=git)** | Riedman Campus, US | On Site | May 26 |
-| **[Refresco](https://www.refresco.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a15ed1ddc845f4be5bda677?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | May 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15ec16a429fd279da93897?utm_campaign=1050&utm_source=git)** | US-SC-Greenwood | On Site | May 26 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15ec14a429fd279da93895?utm_campaign=1050&utm_source=git)** | Greenwood, SC, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
