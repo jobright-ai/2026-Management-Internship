@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 28 |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6a184adbc2a87d6cd3deea65?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | May 28 |
+| ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/6a184ad8c2a87d6cd3deea63?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | May 28 |
+| ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/6a184ad5c2a87d6cd3deea61?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | May 28 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Technology Adoption & Operations Intern - Fall 2026](https://jobright.ai/jobs/info/69fb637fffa73664aeaff504?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | May 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/6a0f7a6d83d7144289820c01?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | May 28 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a1840606243320e8d161c8d?utm_campaign=1050&utm_source=git)** | Toronto, CA | Hybrid | May 28 |
 | **[Summit Polymers](http://www.summitpolymers.com)** | **[Materials Administrative Intern](https://jobright.ai/jobs/info/6a183b8ac2a87d6cd3dee681?utm_campaign=1050&utm_source=git)** | P18 - Pavilion, 5858 E N Ave, Kalamazoo, Michigan, United States of America | On Site | May 28 |
 | **[Highlands College](https://www.highlandscollege.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a183aa6abc8f63abac75f1d?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | May 28 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fc0d7a3802c7621fd8f538?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 28 |
@@ -79,19 +86,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805f581f8da15dc7d51cc?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Beazer Homes](http://beazer.com)** | **[JBER Administrative Intern](https://jobright.ai/jobs/info/6a1802c881f8da15dc7d50c0?utm_campaign=1050&utm_source=git)** | Greater Anchorage Area | On Site | May 28 |
-| **[Ezee Fiber](https://ezeefiber.com/)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a180236ba12bb0249bb62f5?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
-| **[Atara Biotherapeutics](http://atarabio.com)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a17fb92ba12bb0249bb60b4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
 | **[Verbal Beginnings](https://www.verbalbeginnings.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a1833a06243320e8d161963?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/6a17f88c54962c1bb4b05dc9?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Executive Internship 2026](https://jobright.ai/jobs/info/6a17f56081f8da15dc7d4612?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
-| **[Quiddity](https://quiddity.com)** | **[Planner Intern](https://jobright.ai/jobs/info/6a17ee2ddf682a293a146735?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | May 28 |
 | **[Initio Capital](https://initiostudios.io)** | **[Investment Banking VP – Deal Execution](https://jobright.ai/jobs/info/6a17ed57df682a293a14670f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | May 28 |
-| **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a17cd3d5b0a497d5210f746?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 27 |
-| **[Curtis Lumber Co, Inc.](https://curtislumber.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a17cc7e5b0a497d5210f6fc?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 27 |
-| **[Kentro](http://www.kentro.us)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cc7d81fe455c705abeb4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 27 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a17cc6ef45c6530ce9afc3f?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | May 27 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Business Administration Apprentice, CANCER RESEARCH UK](https://jobright.ai/jobs/info/6a18038bac2d34081458ad64?utm_campaign=1050&utm_source=git)** | Stratford, Ontario, Canada | Hybrid | May 27 |
-| **[Great Dane](https://greatdane.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a17ca17b091c7417c50186b?utm_campaign=1050&utm_source=git)** | Savannah, GA, US | On Site | May 27 |
 | **[Performance Engineered Products](https://pepincplastics.com)** | **[Project Manager / Engineering Intern](https://jobright.ai/jobs/info/6a17c20281fe455c705ab917?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[Executive Program Support and Communications Intern](https://jobright.ai/jobs/info/6a17c1abb091c7417c5013e2?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | May 27 |
 | **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Almac Group](https://www.almacgroup.com)** | **[Project Support Administrative Assistant- Intern](https://jobright.ai/jobs/info/6a172ed45b0a497d5210931e?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 27 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a0d6813538d03366dc963d7?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | May 27 |
 | **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a172c46d6a04f21602e3b71?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 27 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
-| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
 | ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
 | **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
 | **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1723505b0a497d52108bfb?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 27 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
