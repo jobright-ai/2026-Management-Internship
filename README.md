@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a188268dbc80963f93448bc?utm_campaign=1050&utm_source=git)** | Eatontown, NJ, United States | On Site | May 28 |
+| **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - PMQI (Performance Management/Quality Improvement)](https://jobright.ai/jobs/info/6a1881bf54a441713ae8521e?utm_campaign=1050&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | May 28 |
+| **[Kuehne+Nagel](https://home.kuehne-nagel.com/)** | **[Road Logistics Summer Internship](https://jobright.ai/jobs/info/6a18816dc2a87d6cd3df1bf1?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | May 28 |
+| **[Greystar](http://greystar.com)** | **[Onsite Property Management Intern- 1225 Old Town](https://jobright.ai/jobs/info/6a1880f0dbc80963f934482f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 28 |
+| **[Docusign](http://www.docusign.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69efd9e64b0fa35a7078c21b?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, North America Service Program & Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a187e3cdbc80963f9344738?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
+| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/69a65e02e567421f42576681?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Sales & Delivery (Fall 2026)](https://jobright.ai/jobs/info/6a187d0517492d3a389b6a78?utm_campaign=1050&utm_source=git)** | Nesconset, NY | On Site | May 28 |
+| ↳ | **[Internship, Program Manager, Service (Fall 2026)](https://jobright.ai/jobs/info/6a187d046243320e8d164df6?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 28 |
 | **[Acosta](https://www.acosta.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/6a187c26dbc80963f9344666?utm_campaign=1050&utm_source=git)** | Lewisville, TX, United States | Hybrid | May 28 |
 | **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Strategic PMO Intern](https://jobright.ai/jobs/info/6a187b9317492d3a389b6a00?utm_campaign=1050&utm_source=git)** | IL Elmhurst - 114106, US | Hybrid | May 28 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Parts Distribution Center (PDC) Operations Intern](https://jobright.ai/jobs/info/6a1878d66243320e8d164c53?utm_campaign=1050&utm_source=git)** | Georgia - Norcross, US | On Site | May 28 |
@@ -68,14 +77,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1872dc6243320e8d164870?utm_campaign=1050&utm_source=git)** | US-AZ-Surprise | On Site | May 28 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1872db6243320e8d16486d?utm_campaign=1050&utm_source=git)** | Surprise, AZ, US | On Site | May 28 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Supply Chain Intern](https://jobright.ai/jobs/info/6a1870b317492d3a389b63aa?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | May 28 |
-| **[OdysseyRe](http://www.odysseyre.com/)** | **[Real Estate & Facilities Summer Intern](https://jobright.ai/jobs/info/6a186ecdc2a87d6cd3df126b?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | May 28 |
 | **[Creator Deck](http://www.creatordeck.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a186d9254a441713ae847b3?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
 | **[Phamily](https://phamily.com/)** | **[MBA Intern - Project Manager](https://jobright.ai/jobs/info/6a186b6e54a441713ae844c1?utm_campaign=1050&utm_source=git)** | New York City | On Site | May 28 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6a186a7d54a441713ae8434d?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 28 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a1869d3c2a87d6cd3df0bc2?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY, US | On Site | May 28 |
 | **[Community Mainstreaming](https://communitymainstreaming.org)** | **[Summer Intern -Project Management](https://jobright.ai/jobs/info/6a18653a54a441713ae83d50?utm_campaign=1050&utm_source=git)** | Westbury, NY, US | On Site | May 28 |
-| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
-| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a185c3eabc8f63abac77882?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
 | ↳ | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c196243320e8d16356b?utm_campaign=1050&utm_source=git)** | US-TN-Memphis | On Site | May 28 |
@@ -121,8 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, Media Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a1825b754a441713ae81310?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69c26eaa2c312363dcd61933?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ded8a1433ac8430e0dcc9e?utm_campaign=1050&utm_source=git)** | Manteno, IL | On Site | May 28 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, North America Service Program & Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a180dfe6be92a6820d15345?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
-| **[Ezee Fiber](https://ezeefiber.com/)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a1861b8abc8f63abac77d72?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805f581f8da15dc7d51cc?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Atara Biotherapeutics](http://atarabio.com)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a1861bbabc8f63abac77d74?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Sourcing / Corporate and Engineering Services (Fall 2026)](https://jobright.ai/jobs/info/6a18108fac2d34081458b0f0?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Production](https://jobright.ai/jobs/info/6a1790b51430333075cd2715?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | May 27 |
 | **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a178e14b091c7417c4ffd03?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | May 27 |
-| **[Colliers](http://www.colliers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a178b53f45c6530ce9add17?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | May 27 |
-| **[mundane](mundane.co)** | **[chief of staff (6 months intern)](https://jobright.ai/jobs/info/6a179ad0b091c7417c5000fd?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177accf45c6530ce9ad1bd?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 27 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177a6ab091c7417c4ff0ac?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | May 27 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779aa1430333075cd1950?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | May 27 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779a69005d858e94fa581?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
