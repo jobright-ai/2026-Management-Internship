@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great Dane](https://greatdane.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a1856a5abc8f63abac76dd4?utm_campaign=1050&utm_source=git)** | Savannah, GA, US | On Site | May 28 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | May 28 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6a184adbc2a87d6cd3deea65?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | May 28 |
 | ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/6a184ad8c2a87d6cd3deea63?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | May 28 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805f581f8da15dc7d51cc?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Beazer Homes](http://beazer.com)** | **[JBER Administrative Intern](https://jobright.ai/jobs/info/6a1802c881f8da15dc7d50c0?utm_campaign=1050&utm_source=git)** | Greater Anchorage Area | On Site | May 28 |
-| **[Verbal Beginnings](https://www.verbalbeginnings.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a1833a06243320e8d161963?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/6a17f88c54962c1bb4b05dc9?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Executive Internship 2026](https://jobright.ai/jobs/info/6a17f56081f8da15dc7d4612?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Initio Capital](https://initiostudios.io)** | **[Investment Banking VP – Deal Execution](https://jobright.ai/jobs/info/6a17ed57df682a293a14670f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | May 28 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
 | **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
 | **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1723505b0a497d52108bfb?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 27 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
+| **[TR Miller Heating Cooling Plumbing & Electrical](https://www.trmillerheatingandcooling.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a17234af45c6530ce9a9453?utm_campaign=1050&utm_source=git)** | Bolingbrook,IL,US | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
