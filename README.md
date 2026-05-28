@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b054f45c6530ce9aee28?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/6a17ae7db7e0a45039a9ce61?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 27 |
+| **[Schwickert's Tecta America](http://schwickerts.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a17aa2db091c7417c50092d?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Optimus (Summer 2026)](https://jobright.ai/jobs/info/6a17a849b091c7417c50074c?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a17a7479005d858e94fbbdf?utm_campaign=1050&utm_source=git)** | Laredo, TX | On Site | May 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Houston](https://jobright.ai/jobs/info/6a17a2375b0a497d5210dfb6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Production](https://jobright.ai/jobs/info/6a1790b51430333075cd2715?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | May 27 |
 | **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a178e14b091c7417c4ffd03?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | May 27 |
@@ -102,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a0d6813538d03366dc963d7?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | May 27 |
 | **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a172c46d6a04f21602e3b71?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 27 |
 | **[Burkert USA Corp](http://www.burkert-usa.com/en)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a172a12f45c6530ce9a9877?utm_campaign=1050&utm_source=git)** | Huntersville, US | On Site | May 27 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
-| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
 | ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
 | **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
 | **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Internship in Logistics and Digital Supply Chain (d/f/m)](https://jobright.ai/jobs/info/6a16b9ea128680351d96ca16?utm_campaign=1050&utm_source=git)** | Hamburg Area, DE | On Site | May 27 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69c3c1c56f4f855eeda5df67?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Strategy Student Experience](https://jobright.ai/jobs/info/6a09edc8939a5f01db960603?utm_campaign=1050&utm_source=git)** | Buford, GA | On Site | May 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0f682b12f8b43cf397ec52?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 27 |
 | **[Mac Properties](http://macapartments.com)** | **[Warehouse & Operations Intern](https://jobright.ai/jobs/info/6a16a5b41b2f6918b0e33114?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | May 27 |
 | **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a168bc1554b0e12c058cd35?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a165caaa429fd279da9809c?utm_campaign=1050&utm_source=git)** | Meridian, MS, US | On Site | May 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a165c6e0073182bd92b2a03?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a165c5b0073182bd92b29fd?utm_campaign=1050&utm_source=git)** | ST. PAUL, MN (MIDWAY) | On Site | May 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a16544b554b0e12c058b59b?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 26 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a165444554b0e12c058b594?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | May 26 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1654421935fa61b3c70c65?utm_campaign=1050&utm_source=git)** | Weatherford, TX | On Site | May 26 |
-| **[New York State Public High School Athletic Association (NYSPHSAA)](http://www.nysphsaa.org)** | **[Sport Management/Operations Intern](https://jobright.ai/jobs/info/6a164fa4dc845f4be5bde3a3?utm_campaign=1050&utm_source=git)** | Latham, NY | On Site | May 26 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Fall 2026](https://jobright.ai/jobs/info/6a0ad1016186f468598929cb?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
