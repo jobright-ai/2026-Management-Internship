@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://www.northwell.edu/)** | **[VIVO Health Pharmacy Corporate Internship](https://jobright.ai/jobs/info/6a189a09abc8f63abac7a521?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | May 28 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a1896e0c2a87d6cd3df2d83?utm_campaign=1050&utm_source=git)** | Bingham Farms, MI | On Site | May 28 |
+| **[PHINIA](https://phinia.com)** | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a1896dd17492d3a389b7ca7?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | May 28 |
+| **[Corpay](https://payments.corpay.com)** | **[Business Strategy Intern](https://jobright.ai/jobs/info/6a1895ee6243320e8d166072?utm_campaign=1050&utm_source=git)** | Buckhead, Atlanta, GA, USA | On Site | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Process Analyst, Marketing Fleet Operations (Fall 2026)](https://jobright.ai/jobs/info/6a1892c0dbc80963f93456a1?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | May 28 |
+| ↳ | **[Internship, Project Manager, Media Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a188f1417492d3a389b77c3?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | May 28 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a188f08dbc80963f9345497?utm_campaign=1050&utm_source=git)** | Bossier City, LA, US | On Site | May 28 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a188f04dbc80963f9345495?utm_campaign=1050&utm_source=git)** | US-LA-Bossier City | On Site | May 28 |
 | **[Caltech](http://www.caltech.edu)** | **[Office Administrative & Events Intern](https://jobright.ai/jobs/info/6a188dfb54a441713ae85e2a?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, Sales & Delivery Operations (Fall 2026)](https://jobright.ai/jobs/info/6a188c396243320e8d165a99?utm_campaign=1050&utm_source=git)** | Miami Gardens, FL | On Site | May 28 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a188c21dbc80963f9345362?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 28 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6a188a57dbc80963f9345296?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 28 |
 | **[Wilcox Industries](http://wilcoxind.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a188634dbc80963f9344d8d?utm_campaign=1050&utm_source=git)** | Newington, NH | On Site | May 28 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a188268dbc80963f93448bc?utm_campaign=1050&utm_source=git)** | Eatontown, NJ, United States | On Site | May 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - PMQI (Performance Management/Quality Improvement)](https://jobright.ai/jobs/info/6a1881bf54a441713ae8521e?utm_campaign=1050&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | May 28 |
@@ -105,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a4babc8f63abac77368?utm_campaign=1050&utm_source=git)** | New London, CT, US | On Site | May 28 |
 | ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a47abc8f63abac77362?utm_campaign=1050&utm_source=git)** | US-CT-New London | On Site | May 28 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a23dbc80963f9342888?utm_campaign=1050&utm_source=git)** | Calverton, NY, US | On Site | May 28 |
-| ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a22dbc80963f9342886?utm_campaign=1050&utm_source=git)** | New York | On Site | May 28 |
 | ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a22dbc80963f9342885?utm_campaign=1050&utm_source=git)** | US-NY-Calverton | On Site | May 28 |
+| ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a22dbc80963f9342886?utm_campaign=1050&utm_source=git)** | New York | On Site | May 28 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Office Service Intern](https://jobright.ai/jobs/info/6a18597c17492d3a389b49c0?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, US | On Site | May 28 |
 | ↳ | **[Office Service Intern](https://jobright.ai/jobs/info/6a18597a17492d3a389b49b0?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | May 28 |
 | **[Phamily](https://phamily.com/)** | **[MBA Intern - Project Manager](https://jobright.ai/jobs/info/6a1858db54a441713ae82d1a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Immanuel](https://www.immanuel.com)** | **[Planner Intern](https://jobright.ai/jobs/info/6a17b583f45c6530ce9aefa7?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b054f45c6530ce9aee28?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/6a17ae7db7e0a45039a9ce61?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 27 |
-| **[Schwickert's Tecta America](http://schwickerts.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a17aa2db091c7417c50092d?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | May 27 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Optimus (Summer 2026)](https://jobright.ai/jobs/info/6a17a849b091c7417c50074c?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a17a7479005d858e94fbbdf?utm_campaign=1050&utm_source=git)** | Laredo, TX | On Site | May 27 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Cell Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/6a17bf005b0a497d5210edce?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 27 |
-| ↳ | **[Internship, Executive Assistant, Infrastructure Team (Fall 2026)](https://jobright.ai/jobs/info/6a17bee51430333075cd39c4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 27 |
-| ↳ | **[Internship, Technical Program Manager, Optimus (Fall 2026)](https://jobright.ai/jobs/info/6a17bec8b091c7417c5010fd?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Houston](https://jobright.ai/jobs/info/6a17a2375b0a497d5210dfb6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
