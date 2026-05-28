@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Engineered Products](https://pepincplastics.com)** | **[Project Manager / Engineering Intern](https://jobright.ai/jobs/info/6a17c20281fe455c705ab917?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Executive Program Support and Communications Intern](https://jobright.ai/jobs/info/6a17c1abb091c7417c5013e2?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | May 27 |
+| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 27 |
+| **[GoMaterials](https://www.gomaterials.com/)** | **[Supply Chain Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a17bf4e5b0a497d5210edf3?utm_campaign=1050&utm_source=git)** | Canada | Remote | May 27 |
+| ↳ | **[Supply Chain Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a17bf4a5b0a497d5210edf0?utm_campaign=1050&utm_source=git)** | Montreal, QC | Hybrid | May 27 |
+| **[Immanuel](https://www.immanuel.com)** | **[Planner Intern](https://jobright.ai/jobs/info/6a17b583f45c6530ce9aefa7?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b054f45c6530ce9aee28?utm_campaign=1050&utm_source=git)** | Seattle | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/6a17ae7db7e0a45039a9ce61?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | **[Schwickert's Tecta America](http://schwickerts.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a17aa2db091c7417c50092d?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Optimus (Summer 2026)](https://jobright.ai/jobs/info/6a17a849b091c7417c50074c?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a17a7479005d858e94fbbdf?utm_campaign=1050&utm_source=git)** | Laredo, TX | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Cell Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/6a17bf005b0a497d5210edce?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | May 27 |
+| ↳ | **[Internship, Executive Assistant, Infrastructure Team (Fall 2026)](https://jobright.ai/jobs/info/6a17bee51430333075cd39c4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 27 |
+| ↳ | **[Internship, Technical Program Manager, Optimus (Fall 2026)](https://jobright.ai/jobs/info/6a17bec8b091c7417c5010fd?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Houston](https://jobright.ai/jobs/info/6a17a2375b0a497d5210dfb6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Production](https://jobright.ai/jobs/info/6a1790b51430333075cd2715?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | May 27 |
 | **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a178e14b091c7417c4ffd03?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | May 27 |
@@ -83,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6a175cdfd6a04f21602e62a9?utm_campaign=1050&utm_source=git)** | Cape Girardeau | On Site | May 27 |
 | **[Larry H. Miller Real Estate](www.lhmre.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6a175c8b1430333075cd0726?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | May 27 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[AgCorps YCC Intern Lead](https://jobright.ai/jobs/info/6a175a88d6a04f21602e615d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 27 |
-| **[Great Dane](https://greatdane.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a175992d6a04f21602e60eb?utm_campaign=1050&utm_source=git)** | Savannah, GA, US | On Site | May 27 |
 | **[The Larry H. Miller Company](https://www.lhm.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6a1758491430333075cd04fd?utm_campaign=1050&utm_source=git)** | Sandy, Utah, United States | On Site | May 27 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[AgCorps YCC Intern](https://jobright.ai/jobs/info/6a17576a9005d858e94f904d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 27 |
 | **[Red Tail Residential](https://www.rtresi.com)** | **[Leasing Internship](https://jobright.ai/jobs/info/6a1756c65b0a497d5210b68c?utm_campaign=1050&utm_source=git)** | St Charles, IL | On Site | May 27 |
@@ -140,21 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Internship in Logistics and Digital Supply Chain (d/f/m)](https://jobright.ai/jobs/info/6a16b9ea128680351d96ca16?utm_campaign=1050&utm_source=git)** | Hamburg Area, DE | On Site | May 27 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69c3c1c56f4f855eeda5df67?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Strategy Student Experience](https://jobright.ai/jobs/info/6a09edc8939a5f01db960603?utm_campaign=1050&utm_source=git)** | Buford, GA | On Site | May 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33879?utm_campaign=1050&utm_source=git)** | MATTESON, IL | On Site | May 27 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a16b06f1b2f6918b0e33878?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | May 27 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a0f682b12f8b43cf397ec52?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 27 |
 | **[Mac Properties](http://macapartments.com)** | **[Warehouse & Operations Intern](https://jobright.ai/jobs/info/6a16a5b41b2f6918b0e33114?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | May 27 |
 | **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a168bc1554b0e12c058cd35?utm_campaign=1050&utm_source=git)** | Lee's Summit, Missouri | On Site | May 26 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a168bbd554b0e12c058cd23?utm_campaign=1050&utm_source=git)** | Intrinsic Development (Lee's Summit) | On Site | May 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a167853a429fd279da98df6?utm_campaign=1050&utm_source=git)** | RICHMOND, KY | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a167852128680351d96b26a?utm_campaign=1050&utm_source=git)** | MADISON, WI (WEST) | On Site | May 26 |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/6a16689e1935fa61b3c71464?utm_campaign=1050&utm_source=git)** | Elkin, NC | On Site | May 26 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/6a165e70202ae849ed8d2be8?utm_campaign=1050&utm_source=git)** | Highland Heights, OH, US | On Site | May 26 |
-| ↳ | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/6a165e56202ae849ed8d2be2?utm_campaign=1050&utm_source=git)** | US-OH-Highland Heights | On Site | May 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a165d54128680351d96a474?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a165d45554b0e12c058bb3b?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a165d40128680351d96a462?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | May 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a165caaa429fd279da9809c?utm_campaign=1050&utm_source=git)** | Meridian, MS, US | On Site | May 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a165c6e0073182bd92b2a03?utm_campaign=1050&utm_source=git)** | SIOUX FALLS, SD (WEST) | On Site | May 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a165c5b0073182bd92b29fd?utm_campaign=1050&utm_source=git)** | ST. PAUL, MN (MIDWAY) | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
