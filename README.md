@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177a6ab091c7417c4ff0ac?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | May 27 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177accf45c6530ce9ad1bd?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 27 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177a6ab091c7417c4ff0ac?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | May 27 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779aa1430333075cd1950?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | May 27 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779a69005d858e94fa581?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | May 27 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775e5f45c6530ce9acfed?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 27 |
@@ -91,13 +92,12 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[Management Assistant Intern](https://jobright.ai/jobs/info/6a173f60d6a04f21602e4c42?utm_campaign=1050&utm_source=git)** | Johannesburg, CA | On Site | May 27 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Production](https://jobright.ai/jobs/info/6a173d76d6a04f21602e4b1f?utm_campaign=1050&utm_source=git)** | Sanford Office, 750 Monroe Road, Sanford, Florida, United States of America | On Site | May 27 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- UNPAID (1677)](https://jobright.ai/jobs/info/69f10383825a315d7ca357a6?utm_campaign=1050&utm_source=git)** | Pearland, TX | Remote | May 27 |
-| **[Firestorm](https://www.launchfirestorm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1733a4b091c7417c4fbb2a?utm_campaign=1050&utm_source=git)** | San Diego | On Site | May 27 |
 | **[Almac Group](https://www.almacgroup.com)** | **[Project Support Administrative Assistant- Intern](https://jobright.ai/jobs/info/6a172ed45b0a497d5210931e?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 27 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a0d6813538d03366dc963d7?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | May 27 |
 | **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a172c46d6a04f21602e3b71?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 27 |
 | **[Burkert USA Corp](http://www.burkert-usa.com/en)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a172a12f45c6530ce9a9877?utm_campaign=1050&utm_source=git)** | Huntersville, US | On Site | May 27 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
-| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
 | ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
 | **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
 | **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
