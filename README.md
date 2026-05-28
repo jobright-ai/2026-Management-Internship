@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a177a6ab091c7417c4ff0ac?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | May 27 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779aa1430333075cd1950?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | May 27 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6a1779a69005d858e94fa581?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | May 27 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775e5f45c6530ce9acfed?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 27 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 27 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775c681fe455c705a93b5?utm_campaign=1050&utm_source=git)** | Laredo, TX, US | On Site | May 27 |
+| **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Executive Internship 2026](https://jobright.ai/jobs/info/6a17723e9005d858e94fa27c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a177206b091c7417c4fed18?utm_campaign=1050&utm_source=git)** | United States | Remote | May 27 |
+| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1769e2b091c7417c4fe3de?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 27 |
 | **[Staci Americas](https://www.staciamericas.com)** | **[Intern-Supply Chain & Operations](https://jobright.ai/jobs/info/6a1763e45b0a497d5210bd3b?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | May 27 |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[REACH Summer Intern](https://jobright.ai/jobs/info/6a17631f1430333075cd0a43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 27 |
 | **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/6a176294b091c7417c4fe16e?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6a175cdfd6a04f21602e62a9?utm_campaign=1050&utm_source=git)** | Cape Girardeau | On Site | May 27 |
 | **[Larry H. Miller Real Estate](www.lhmre.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6a175c8b1430333075cd0726?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | May 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a1647600073182bd92b1d70?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | May 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a164760128680351d969775?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | May 26 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a164184554b0e12c058ac54?utm_campaign=1050&utm_source=git)** | Ambler | On Site | May 26 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a16417b554b0e12c058ac52?utm_campaign=1050&utm_source=git)** | US-AK-Ambler | On Site | May 26 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Ambler, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a164179554b0e12c058ac51?utm_campaign=1050&utm_source=git)** | Ambler , AK, US | On Site | May 26 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Research & Technology: EcoJet Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a16415a554b0e12c058ac47?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a16406a128680351d969523?utm_campaign=1050&utm_source=git)** | US-LA-Denham Springs | On Site | May 26 |
-| **[Revvity](https://www.revvity.com/)** | **[Enterprise Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1637c4a429fd279da96bba?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | May 26 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Strategic Sourcing Intern (Year-Round)](https://jobright.ai/jobs/info/6a163411554b0e12c058a0c5?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | May 26 |
-| **[Custom Air Products & Services, Inc.](http://customairproducts.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6a162ed8dc845f4be5bdd2f4?utm_campaign=1050&utm_source=git)** | Houston, TX, US | On Site | May 26 |
-| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03c6ccbc4184089f235a44?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
