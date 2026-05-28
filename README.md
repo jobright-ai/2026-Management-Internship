@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805f581f8da15dc7d51cc?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 28 |
+| **[Beazer Homes](http://beazer.com)** | **[JBER Administrative Intern](https://jobright.ai/jobs/info/6a1802c881f8da15dc7d50c0?utm_campaign=1050&utm_source=git)** | Greater Anchorage Area | On Site | May 28 |
+| **[Ezee Fiber](https://ezeefiber.com/)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a180236ba12bb0249bb62f5?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
+| **[Atara Biotherapeutics](http://atarabio.com)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a17fb92ba12bb0249bb60b4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
+| **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/6a17f88c54962c1bb4b05dc9?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Executive Internship 2026](https://jobright.ai/jobs/info/6a17f56081f8da15dc7d4612?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Quiddity](https://quiddity.com)** | **[Planner Intern](https://jobright.ai/jobs/info/6a17ee2ddf682a293a146735?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | May 28 |
 | **[Initio Capital](https://initiostudios.io)** | **[Investment Banking VP – Deal Execution](https://jobright.ai/jobs/info/6a17ed57df682a293a14670f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | May 28 |
@@ -64,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Curtis Lumber Co, Inc.](https://curtislumber.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a17cc7e5b0a497d5210f6fc?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 27 |
 | **[Kentro](http://www.kentro.us)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cc7d81fe455c705abeb4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 27 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a17cc6ef45c6530ce9afc3f?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | May 27 |
+| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Business Administration Apprentice, CANCER RESEARCH UK](https://jobright.ai/jobs/info/6a18038bac2d34081458ad64?utm_campaign=1050&utm_source=git)** | Stratford, Ontario, Canada | Hybrid | May 27 |
 | **[Great Dane](https://greatdane.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a17ca17b091c7417c50186b?utm_campaign=1050&utm_source=git)** | Savannah, GA, US | On Site | May 27 |
 | **[Performance Engineered Products](https://pepincplastics.com)** | **[Project Manager / Engineering Intern](https://jobright.ai/jobs/info/6a17c20281fe455c705ab917?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[Executive Program Support and Communications Intern](https://jobright.ai/jobs/info/6a17c1abb091c7417c5013e2?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | May 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a16fc96b091c7417c4f984b?utm_campaign=1050&utm_source=git)** | Calverton, NY | On Site | May 27 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern](https://jobright.ai/jobs/info/6a16caf45b0a497d52105ffd?utm_campaign=1050&utm_source=git)** | Elkin, NC | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa56381f59c56275e33005?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
-| ↳ | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb2abbe156000841157417?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 27 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/6a0ba0e4963f7a67d95d1d68?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c26ff5635a1e49d1c2dc29?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 27 |
-| **[Airbus](https://us.airbus.com)** | **[Internship in Logistics and Digital Supply Chain (d/f/m)](https://jobright.ai/jobs/info/6a16b9ea128680351d96ca16?utm_campaign=1050&utm_source=git)** | Hamburg Area, DE | On Site | May 27 |
-| **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69c3c1c56f4f855eeda5df67?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | May 27 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2026 Strategy Student Experience](https://jobright.ai/jobs/info/6a09edc8939a5f01db960603?utm_campaign=1050&utm_source=git)** | Buford, GA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
