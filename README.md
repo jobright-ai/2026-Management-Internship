@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Associate Internship](https://jobright.ai/jobs/info/6a182d5adbc80963f9340b80?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | May 28 |
+| **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/6a182b3e54a441713ae813da?utm_campaign=1050&utm_source=git)** | Manitoba | Hybrid | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Territory Operations (Fall 2026)](https://jobright.ai/jobs/info/6a182471abc8f63abac75598?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | May 28 |
+| **[First Montgomery Group](http://www.fmgnj.com)** | **[Summer Intern-Leasing Admin](https://jobright.ai/jobs/info/6a18242ac2a87d6cd3dedcdd?utm_campaign=1050&utm_source=git)** | Pointville, NJ | On Site | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, New Market Expansion (Fall 2026)](https://jobright.ai/jobs/info/6a1823fac2a87d6cd3dedcb9?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | May 28 |
 | **[Celtra](http://www.celtra.com)** | **[Office Experience Intern](https://jobright.ai/jobs/info/69fb9e1a87a4820e6da89f57?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a181e6b6243320e8d161057?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a181e6ac2a87d6cd3dedb87?utm_campaign=1050&utm_source=git)** | RAPID CITY, SD - Retail Store | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69e0b36cd612782e61144a47?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Geotab](http://www.geotab.com/)** | **[Enterprise Portfolio Project Coordinator Intern (Fall/September 2028, 8 Months)](https://jobright.ai/jobs/info/6a18144d81f8da15dc7d55f8?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 28 |
 | ↳ | **[Enterprise Portfolio Project Coordinator Intern (Fall/September 2028, 8 Months)](https://jobright.ai/jobs/info/6a18144c81f8da15dc7d55f3?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, Media Coordinator (Fall 2026)](https://jobright.ai/jobs/info/6a1825b754a441713ae81310?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69c26eaa2c312363dcd61933?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ded8a1433ac8430e0dcc9e?utm_campaign=1050&utm_source=git)** | Manteno, IL | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, North America Service Program & Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a180dfe6be92a6820d15345?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 | **[TR Miller Heating Cooling Plumbing & Electrical](https://www.trmillerheatingandcooling.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a17234af45c6530ce9a9453?utm_campaign=1050&utm_source=git)** | Bolingbrook,IL,US | On Site | May 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1721339005d858e94f6487?utm_campaign=1050&utm_source=git)** | QUINCY, IL | On Site | May 27 |
-| **[SHEIN](https://www.shein.com)** | **[Warehouse Operation Intern (Monday to Wednesday)](https://jobright.ai/jobs/info/6a171d4fd6a04f21602e327c?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | May 27 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business & Office Management Intern](https://jobright.ai/jobs/info/6a171bc35b0a497d52108844?utm_campaign=1050&utm_source=git)** | Fayetteville, NC, US | On Site | May 27 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern](https://jobright.ai/jobs/info/6a170eacb091c7417c4fa290?utm_campaign=1050&utm_source=git)** | 3194 Hickory Blvd, Hudson, NC, 28638, US | On Site | May 27 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Intern](https://jobright.ai/jobs/info/6a170b9d1430333075ccc89d?utm_campaign=1050&utm_source=git)** | USA, North Carolina, Charlotte, 28273, US | Hybrid | May 27 |
-| **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a170ac49005d858e94f5370?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | May 27 |
-| **[First Montgomery Group](http://www.fmgnj.com)** | **[Summer Intern-Leasing Admin](https://jobright.ai/jobs/info/6a1707e11430333075ccc6c0?utm_campaign=1050&utm_source=git)** | Joint Base MDL, NJ, US | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
