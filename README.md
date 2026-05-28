@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celtra](http://www.celtra.com)** | **[Office Experience Intern](https://jobright.ai/jobs/info/69fb9e1a87a4820e6da89f57?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | May 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a181e6b6243320e8d161057?utm_campaign=1050&utm_source=git)** | BRADLEY, IL | On Site | May 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a181e6ac2a87d6cd3dedb87?utm_campaign=1050&utm_source=git)** | RAPID CITY, SD - Retail Store | On Site | May 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69e0b36cd612782e61144a47?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
+| **[Geotab](http://www.geotab.com/)** | **[Enterprise Portfolio Project Coordinator Intern (Fall/September 2028, 8 Months)](https://jobright.ai/jobs/info/6a18144d81f8da15dc7d55f8?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | May 28 |
+| ↳ | **[Enterprise Portfolio Project Coordinator Intern (Fall/September 2028, 8 Months)](https://jobright.ai/jobs/info/6a18144c81f8da15dc7d55f3?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69c26eaa2c312363dcd61933?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69ded8a1433ac8430e0dcc9e?utm_campaign=1050&utm_source=git)** | Manteno, IL | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, North America Service Program & Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a180dfe6be92a6820d15345?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
@@ -126,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Bernalillo County](https://www.bernco.gov/)** | **[AgCorps YCC Intern Lead](https://jobright.ai/jobs/info/6a1746ca9005d858e94f8142?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | May 27 |
 | ↳ | **[AgCorps YCC Intern](https://jobright.ai/jobs/info/6a1746c51430333075ccf5c3?utm_campaign=1050&utm_source=git)** | Albuquerque, NM, US | On Site | May 27 |
 | **[Group One Trading](http://group1.com)** | **[Office Manager Intern](https://jobright.ai/jobs/info/6a1745a01430333075ccf573?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 27 |
-| **[Five Stones Research Corporation](http://5sr-hsv.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a1745321430333075ccf540?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | May 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Procurement (Fall 2026)](https://jobright.ai/jobs/info/6a178b6681fe455c705aa0f6?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[Marous Brothers Construction](https://www.marousbrothers.com)** | **[Project Management Summer Intern](https://jobright.ai/jobs/info/6a1743e41430333075ccf491?utm_campaign=1050&utm_source=git)** | Willoughby, OH | On Site | May 27 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a174234d6a04f21602e4e0c?utm_campaign=1050&utm_source=git)** | Los Angeles County, CA | Remote | May 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Intern](https://jobright.ai/jobs/info/6a170b9d1430333075ccc89d?utm_campaign=1050&utm_source=git)** | USA, North Carolina, Charlotte, 28273, US | Hybrid | May 27 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a170ac49005d858e94f5370?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | May 27 |
 | **[First Montgomery Group](http://www.fmgnj.com)** | **[Summer Intern-Leasing Admin](https://jobright.ai/jobs/info/6a1707e11430333075ccc6c0?utm_campaign=1050&utm_source=git)** | Joint Base MDL, NJ, US | On Site | May 27 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Projects and Governance Intern](https://jobright.ai/jobs/info/69debaf85913ad339813f82b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 27 |
-| **[City of Corona](https://www.coronaca.gov/)** | **[DoD SkillBridge Internship \- Associate Project Manager (507507)](https://jobright.ai/jobs/info/6a17056c1430333075ccc603?utm_campaign=1050&utm_source=git)** | Rancho Cordova, California, United States | On Site | May 27 |
-| **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a16fcc0f45c6530ce9a7a53?utm_campaign=1050&utm_source=git)** | West Columbia, SC, US | On Site | May 27 |
-| **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Front Office Intern](https://jobright.ai/jobs/info/6a16fbd35b0a497d52106fae?utm_campaign=1050&utm_source=git)** | Roseville, MI, US | On Site | May 27 |
-| **[Continental](https://www.continental.com)** | **[Supply Chain Intern - Onsite in Auburn, IN](https://jobright.ai/jobs/info/6a16f8c19005d858e94f464e?utm_campaign=1050&utm_source=git)** | Auburn, IN | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
