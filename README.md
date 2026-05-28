@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Polymers](http://www.summitpolymers.com)** | **[Materials Administrative Intern](https://jobright.ai/jobs/info/6a183b8ac2a87d6cd3dee681?utm_campaign=1050&utm_source=git)** | P18 - Pavilion, 5858 E N Ave, Kalamazoo, Michigan, United States of America | On Site | May 28 |
+| **[Highlands College](https://www.highlandscollege.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a183aa6abc8f63abac75f1d?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | May 28 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69fc0d7a3802c7621fd8f538?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | May 28 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1831dc17492d3a389b32c9?utm_campaign=1050&utm_source=git)** | Carson, CA | On Site | May 28 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Associate Internship](https://jobright.ai/jobs/info/6a182d5adbc80963f9340b80?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | May 28 |
 | **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Fall Intern 2026 - Real Estate & Facilities Department (Winnipeg Office)](https://jobright.ai/jobs/info/6a182b3e54a441713ae813da?utm_campaign=1050&utm_source=git)** | Manitoba | Hybrid | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Territory Operations (Fall 2026)](https://jobright.ai/jobs/info/6a182471abc8f63abac75598?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | May 28 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Beazer Homes](http://beazer.com)** | **[JBER Administrative Intern](https://jobright.ai/jobs/info/6a1802c881f8da15dc7d50c0?utm_campaign=1050&utm_source=git)** | Greater Anchorage Area | On Site | May 28 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a180236ba12bb0249bb62f5?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
 | **[Atara Biotherapeutics](http://atarabio.com)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a17fb92ba12bb0249bb60b4?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
+| **[Verbal Beginnings](https://www.verbalbeginnings.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a1833a06243320e8d161963?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | May 28 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/6a17f88c54962c1bb4b05dc9?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | May 28 |
 | **[Pacific Asian Consortium in Employment (PACE)](https://pacela.org)** | **[Executive Internship 2026](https://jobright.ai/jobs/info/6a17f56081f8da15dc7d4612?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Quiddity](https://quiddity.com)** | **[Planner Intern](https://jobright.ai/jobs/info/6a17ee2ddf682a293a146735?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | May 28 |
@@ -121,8 +126,7 @@ For a complete list, click the following sortable link below:
 | **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a177206b091c7417c4fed18?utm_campaign=1050&utm_source=git)** | United States | Remote | May 27 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1769e2b091c7417c4fe3de?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | May 27 |
 | **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/6a178ea5b091c7417c4ffd30?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | May 27 |
-| **[Staci Americas](https://www.staciamericas.com)** | **[Intern-Supply Chain & Operations](https://jobright.ai/jobs/info/6a1763e45b0a497d5210bd3b?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | Hybrid | May 27 |
-| **[MYR Group](https://myrgroup.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/6a176294b091c7417c4fe16e?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 27 |
+| ↳ | **[Intern - Operations](https://jobright.ai/jobs/info/6a176294b091c7417c4fe16e?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | May 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6a175cdfd6a04f21602e62a9?utm_campaign=1050&utm_source=git)** | Cape Girardeau | On Site | May 27 |
 | **[Larry H. Miller Real Estate](www.lhmre.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6a175c8b1430333075cd0726?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | May 27 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[AgCorps YCC Intern Lead](https://jobright.ai/jobs/info/6a175a88d6a04f21602e615d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | May 27 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Almac Group](https://www.almacgroup.com)** | **[Project Support Administrative Assistant- Intern](https://jobright.ai/jobs/info/6a172ed45b0a497d5210931e?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | May 27 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a0d6813538d03366dc963d7?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | May 27 |
 | **[Lexington Health](http://www.lexmed.com)** | **[Intern](https://jobright.ai/jobs/info/6a172c46d6a04f21602e3b71?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | May 27 |
-| **[Burkert USA Corp](http://www.burkert-usa.com/en)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a172a12f45c6530ce9a9877?utm_campaign=1050&utm_source=git)** | Huntersville, US | On Site | May 27 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
-| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA - 801 Ostrum St, US | On Site | May 27 |
+| ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a1726725b0a497d52108ed8?utm_campaign=1050&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 27 |
 | ↳ | **[Healthcare Administration Intern: Innovation (Simulation Center)](https://jobright.ai/jobs/info/6a17266c5b0a497d52108ecf?utm_campaign=1050&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 27 |
 | **[Warner Pacific Insurance Services](http://www.warnerpacific.com)** | **[Intern - Agency Services Office in Oak Brook, IL](https://jobright.ai/jobs/info/6a1725335b0a497d52108d0c?utm_campaign=1050&utm_source=git)** | Westlake Village, CA, US | On Site | May 27 |
 | **[CAMBA](https://camba.org/)** | **[Intern- CAMBA Housing Venture](https://jobright.ai/jobs/info/6a0f8fca80bf0430c763512c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 27 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1723505b0a497d52108bfb?utm_campaign=1050&utm_source=git)** | US-Remote | Remote | May 27 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a17234e5b0a497d52108bf9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
-| **[TR Miller Heating Cooling Plumbing & Electrical](https://www.trmillerheatingandcooling.com/)** | **[Office Intern](https://jobright.ai/jobs/info/6a17234af45c6530ce9a9453?utm_campaign=1050&utm_source=git)** | Bolingbrook,IL,US | On Site | May 27 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a1721339005d858e94f6487?utm_campaign=1050&utm_source=git)** | QUINCY, IL | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
