@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a19387eabc8f63abac7f95d?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 28 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Managed Services Intern](https://jobright.ai/jobs/info/6a1918e317492d3a389bc323?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 28 |
 | ↳ | **[Managed Services Intern](https://jobright.ai/jobs/info/6a18f7c2dbc80963f9348f53?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | May 28 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Fall Intern- Association Management](https://jobright.ai/jobs/info/6a18f55cabc8f63abac7d7a5?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a185b1e17492d3a389b4e10?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | May 28 |
 | ↳ | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a185b1d17492d3a389b4e06?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | May 28 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Supply Chain Intern](https://jobright.ai/jobs/info/6a185b11c2a87d6cd3defcaf?utm_campaign=1050&utm_source=git)** | Knoxville, TN, US | On Site | May 28 |
+| **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Front Office - Intern](https://jobright.ai/jobs/info/6a193bcc54a441713ae8b83f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | May 28 |
 | **[Blue Benefits Consulting, Inc.](https://bluebenefitsonline.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a185a6b17492d3a389b4c99?utm_campaign=1050&utm_source=git)** | Bingham Farms, MI, US | On Site | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a4babc8f63abac77368?utm_campaign=1050&utm_source=git)** | New London, CT, US | On Site | May 28 |
 | ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a47abc8f63abac77362?utm_campaign=1050&utm_source=git)** | US-CT-New London | On Site | May 28 |
-| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a23dbc80963f9342888?utm_campaign=1050&utm_source=git)** | Calverton, NY, US | On Site | May 28 |
-| ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a22dbc80963f9342886?utm_campaign=1050&utm_source=git)** | New York | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
