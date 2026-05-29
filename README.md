@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6a186a7d54a441713ae8434d?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 28 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a1869d3c2a87d6cd3df0bc2?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY, US | On Site | May 28 |
 | **[Community Mainstreaming](https://communitymainstreaming.org)** | **[Summer Intern -Project Management](https://jobright.ai/jobs/info/6a18653a54a441713ae83d50?utm_campaign=1050&utm_source=git)** | Westbury, NY, US | On Site | May 28 |
-| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
-| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a185c3eabc8f63abac77882?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
 | ↳ | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c196243320e8d16356b?utm_campaign=1050&utm_source=git)** | US-TN-Memphis | On Site | May 28 |
