@@ -82,14 +82,12 @@ For a complete list, click the following sortable link below:
 | **[EKI Environment & Water, Inc.](https://www.ekiconsult.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a18b470c2a87d6cd3df3f9f?utm_campaign=1050&utm_source=git)** | Wakefield, MA | On Site | May 28 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a18b2d06243320e8d1672f7?utm_campaign=1050&utm_source=git)** | Wakefield, MA, US | On Site | May 28 |
 | **[First Mid](http://firstmid.com)** | **[FMIG - Health Division Intern](https://jobright.ai/jobs/info/6a18b129abc8f63abac7b5f4?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | May 28 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a18d626c2a87d6cd3df4fe6?utm_campaign=1050&utm_source=git)** | Eatontown, NJ | On Site | May 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a18ab2717492d3a389b8adb?utm_campaign=1050&utm_source=git)** | SCHERERVILLE, IN | On Site | May 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a18ab25dbc80963f9346751?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | May 28 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6a18aa286243320e8d166f08?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a18aa1f54a441713ae87103?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a18fc71abc8f63abac7df64?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a18fbcb54a441713ae89ca9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a18a6e8dbc80963f934657a?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a18a54f17492d3a389b8873?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Project Management Intern - Fall](https://jobright.ai/jobs/info/6a18dd1ec2a87d6cd3df5837?utm_campaign=1050&utm_source=git)** | Beverly, MA | On Site | May 28 |
 | **[Maxcess](http://www.maxcessintl.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a18a263dbc80963f9346067?utm_campaign=1050&utm_source=git)** | Neenah | On Site | May 28 |
@@ -117,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, Sales & Delivery Operations (Fall 2026)](https://jobright.ai/jobs/info/6a188c396243320e8d165a99?utm_campaign=1050&utm_source=git)** | Miami Gardens, FL | On Site | May 28 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a188c21dbc80963f9345362?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 28 |
 | **[Wilcox Industries](http://wilcoxind.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a188634dbc80963f9344d8d?utm_campaign=1050&utm_source=git)** | Newington, NH | On Site | May 28 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6a188268dbc80963f93448bc?utm_campaign=1050&utm_source=git)** | Eatontown, NJ, United States | On Site | May 28 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - PMQI (Performance Management/Quality Improvement)](https://jobright.ai/jobs/info/6a1881bf54a441713ae8521e?utm_campaign=1050&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | May 28 |
 | **[Greystar](http://greystar.com)** | **[Onsite Property Management Intern- 1225 Old Town](https://jobright.ai/jobs/info/6a1880f0dbc80963f934482f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, North America Service Program & Project Management (Fall 2026)](https://jobright.ai/jobs/info/6a187e3cdbc80963f9344738?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
@@ -142,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6a186a7d54a441713ae8434d?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 28 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a1869d3c2a87d6cd3df0bc2?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY, US | On Site | May 28 |
 | **[Community Mainstreaming](https://communitymainstreaming.org)** | **[Summer Intern -Project Management](https://jobright.ai/jobs/info/6a18653a54a441713ae83d50?utm_campaign=1050&utm_source=git)** | Westbury, NY, US | On Site | May 28 |
-| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
-| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
+| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
+| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a185c3eabc8f63abac77882?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
 | ↳ | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c196243320e8d16356b?utm_campaign=1050&utm_source=git)** | US-TN-Memphis | On Site | May 28 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Supply Chain Intern](https://jobright.ai/jobs/info/6a185b11c2a87d6cd3defcaf?utm_campaign=1050&utm_source=git)** | Knoxville, TN, US | On Site | May 28 |
 | **[Blue Benefits Consulting, Inc.](https://bluebenefitsonline.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a185a6b17492d3a389b4c99?utm_campaign=1050&utm_source=git)** | Bingham Farms, MI, US | On Site | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a4babc8f63abac77368?utm_campaign=1050&utm_source=git)** | New London, CT, US | On Site | May 28 |
+| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a47abc8f63abac77362?utm_campaign=1050&utm_source=git)** | US-CT-New London | On Site | May 28 |
+| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a23dbc80963f9342888?utm_campaign=1050&utm_source=git)** | Calverton, NY, US | On Site | May 28 |
+| ↳ | **[Logistics/ Operations Intern](https://jobright.ai/jobs/info/6a185a22dbc80963f9342886?utm_campaign=1050&utm_source=git)** | New York | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
