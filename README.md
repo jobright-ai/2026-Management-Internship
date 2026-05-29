@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Managed Services Intern](https://jobright.ai/jobs/info/6a18f7c2dbc80963f9348f53?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | May 28 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Managed Services Intern](https://jobright.ai/jobs/info/6a1918e317492d3a389bc323?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 28 |
+| ↳ | **[Managed Services Intern](https://jobright.ai/jobs/info/6a18f7c2dbc80963f9348f53?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | May 28 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Fall Intern- Association Management](https://jobright.ai/jobs/info/6a18f55cabc8f63abac7d7a5?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Digital Experience Internship](https://jobright.ai/jobs/info/6a18eefadbc80963f93488db?utm_campaign=1050&utm_source=git)** | Peoria, IL | Hybrid | May 28 |
 | **[SafeLease](https://www.safelease.com/)** | **[Operations - Summer Intern](https://jobright.ai/jobs/info/6a18ebba6243320e8d168fbd?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Parts Distribution Center (PDC) Operations Intern](https://jobright.ai/jobs/info/6a1878d66243320e8d164c53?utm_campaign=1050&utm_source=git)** | Georgia - Norcross, US | On Site | May 28 |
 | **[PHINIA](https://phinia.com)** | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a18774b54a441713ae84de6?utm_campaign=1050&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | May 28 |
 | **[Texas Cultural Trust](https://txculturaltrust.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a18766f17492d3a389b675f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 28 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Operations Intern / Part-Time /UBS Arena](https://jobright.ai/jobs/info/6a1875c4dbc80963f9344344?utm_campaign=1050&utm_source=git)** | US-NY-Elmont | On Site | May 28 |
 | **[Empire State Development](https://esd.ny.gov/)** | **[Intern, EAC Data & Program Operations](https://jobright.ai/jobs/info/6a18750254a441713ae84c18?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Tube Supply](https://www.tubesupply.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1872de6243320e8d164872?utm_campaign=1050&utm_source=git)** | 11040 N. Solar Canyon Way, Surprise, AZ 85379, US | On Site | May 28 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1872dc6243320e8d164870?utm_campaign=1050&utm_source=git)** | US-AZ-Surprise | On Site | May 28 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6a186a7d54a441713ae8434d?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 28 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a1869d3c2a87d6cd3df0bc2?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY, US | On Site | May 28 |
 | **[Community Mainstreaming](https://communitymainstreaming.org)** | **[Summer Intern -Project Management](https://jobright.ai/jobs/info/6a18653a54a441713ae83d50?utm_campaign=1050&utm_source=git)** | Westbury, NY, US | On Site | May 28 |
-| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
-| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a185c3eabc8f63abac77882?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
 | ↳ | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c196243320e8d16356b?utm_campaign=1050&utm_source=git)** | US-TN-Memphis | On Site | May 28 |
