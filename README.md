@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bison®](https://www.bisongear.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1941f49111f771d1a051af?utm_campaign=1050&utm_source=git)** | Whitsett, NC | On Site | May 29 |
 | **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a19387eabc8f63abac7f95d?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 28 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Managed Services Intern](https://jobright.ai/jobs/info/6a1918e317492d3a389bc323?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | May 28 |
 | ↳ | **[Managed Services Intern](https://jobright.ai/jobs/info/6a18f7c2dbc80963f9348f53?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | May 28 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6a186a7d54a441713ae8434d?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 28 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6a1869d3c2a87d6cd3df0bc2?utm_campaign=1050&utm_source=git)** | Niagara Falls, NY, US | On Site | May 28 |
 | **[Community Mainstreaming](https://communitymainstreaming.org)** | **[Summer Intern -Project Management](https://jobright.ai/jobs/info/6a18653a54a441713ae83d50?utm_campaign=1050&utm_source=git)** | Westbury, NY, US | On Site | May 28 |
-| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
-| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| **[KCI](http://www.kci.com/)** | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae8387d?utm_campaign=1050&utm_source=git)** | US-GA-Duluth | On Site | May 28 |
+| ↳ | **[Planner Intern](https://jobright.ai/jobs/info/6a185c7254a441713ae83881?utm_campaign=1050&utm_source=git)** | Duluth, GA, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Project Coordinator](https://jobright.ai/jobs/info/6a185c3eabc8f63abac77882?utm_campaign=1050&utm_source=git)** | Ottawa, ON, CA | On Site | May 28 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | May 28 |
 | ↳ | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c196243320e8d16356b?utm_campaign=1050&utm_source=git)** | US-TN-Memphis | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Front Office - Intern](https://jobright.ai/jobs/info/6a193bcc54a441713ae8b83f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | May 28 |
 | **[Blue Benefits Consulting, Inc.](https://bluebenefitsonline.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a185a6b17492d3a389b4c99?utm_campaign=1050&utm_source=git)** | Bingham Farms, MI, US | On Site | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a4babc8f63abac77368?utm_campaign=1050&utm_source=git)** | New London, CT, US | On Site | May 28 |
-| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a185a47abc8f63abac77362?utm_campaign=1050&utm_source=git)** | US-CT-New London | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
