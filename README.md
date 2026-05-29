@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[IT Portfolio & Operations Analyst Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69dfce085913ad3398145e48?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bbccaec42b5f05329203b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | **[ByteDance](http://bytedance.com)** | **[Facilities Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d89689b861c42857c4b793?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a08920f6186f4685988934e?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Agency Acquisition Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a13cc83619335383fb3e27f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcc89ce6a0d9792584d100?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 29 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a1957aefee8f34024353b3a?utm_campaign=1050&utm_source=git)** | 174 SH 21 EAST, Bastrop 78602 | On Site | May 29 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a1957aefee8f34024353b3a?utm_campaign=1050&utm_source=git)** | 174 SH 21 EAST, Bastrop 78602 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b62?utm_campaign=1050&utm_source=git)** | 1001 EAST PARMER LANE, STE B, Austin 78753 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Strategy & Corporate Development Intern Summer 2026](https://jobright.ai/jobs/info/6a19549c54a441713ae8c07b?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca6403fc339507ec60c?utm_campaign=1050&utm_source=git)** | US-TX-Waco | On Site | May 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee5f400923a0090b195?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1872db6243320e8d16486d?utm_campaign=1050&utm_source=git)** | Surprise, AZ, US | On Site | May 28 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Supply Chain Intern](https://jobright.ai/jobs/info/6a1870b317492d3a389b63aa?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | May 28 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a188b8fc2a87d6cd3df26fb?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
-| **[Creator Deck](http://www.creatordeck.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a186d9254a441713ae847b3?utm_campaign=1050&utm_source=git)** | United States | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
