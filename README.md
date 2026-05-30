@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | May 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addbde24ef3652582dc4e?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 30 |
 | ↳ | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addb4e24ef3652582dc4b?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL,60015-04620-00001-2 | On Site | May 30 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/69fc0d143802c7621fd8f4bf?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | May 30 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17de24ef3652582d1d7?utm_campaign=1050&utm_source=git)** | US-MS-Pearl | On Site | May 30 |
+| **[Trench Group](https://trench-group.com/)** | **[Order Management Intern](https://jobright.ai/jobs/info/6a164ac20073182bd92b1e45?utm_campaign=1050&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 30 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f5701d43a25828a8d18a14?utm_campaign=1050&utm_source=git)** | Louisville,Kentucky,United States | On Site | May 30 |
 | **[Zero Homes](https://www.zerohomes.io)** | **[MBA Internship, Summer 2026](https://jobright.ai/jobs/info/6a1ab6c96b135014dbc8b58e?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | May 30 |
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/693a2a4548a8ce22990e236d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | May 30 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Project Coordinator Intern - Change Management](https://jobright.ai/jobs/info/6a19d7c8547e292ae1395314?utm_campaign=1050&utm_source=git)** | USA, TN, Nashville, US | On Site | May 29 |
 | **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a13cc979f654b3359cf7457?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Innovation Campus Facilities Intern](https://jobright.ai/jobs/info/6a1a37a79111f771d1a0b5a8?utm_campaign=1050&utm_source=git)** | Fargo-Moorhead | On Site | May 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | May 29 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Bremerton, WA](https://jobright.ai/jobs/info/6a19d32e547e292ae1394f3d?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Bremerton, WA | On Site | May 29 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a199694547e292ae1392e82?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, US, 32746 | On Site | May 29 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Project Manager, Solar PV Due Diligence](https://jobright.ai/jobs/info/69e0f34aff71e82d604b43cf?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | Hybrid | May 29 |
 | **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/69c3df7833eecf310793e0d7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 29 |
-| **[Skydio](https://www.skydio.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c1a1e92c312363dcd4c025?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States | Hybrid | May 29 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0e32a180bf0430c762a83b?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States | Hybrid | May 29 |
+| **[Skydio](https://www.skydio.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a0e32a180bf0430c762a83b?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States | Hybrid | May 29 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69c1a1e92c312363dcd4c025?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States | Hybrid | May 29 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Change Management Intern ((NCS) - BCIT](https://jobright.ai/jobs/info/69dfcdf65913ad3398145e27?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | May 29 |
 | **[Initio Capital](https://initiostudios.io)** | **[Strategy & Special Projects Lead](https://jobright.ai/jobs/info/6a1993786b135014dbc843d7?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship:  Facilities, Maintenance & Office Services (Fall & Spring)](https://jobright.ai/jobs/info/6a198eee9111f771d1a066e0?utm_campaign=1050&utm_source=git)** | Brookfield,WI,US | On Site | May 29 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a08920f6186f4685988934e?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Agency Acquisition Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a13cc83619335383fb3e27f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcc89ce6a0d9792584d100?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 29 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b62?utm_campaign=1050&utm_source=git)** | 1001 EAST PARMER LANE, STE B, Austin 78753 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a1957aefee8f34024353b3a?utm_campaign=1050&utm_source=git)** | 174 SH 21 EAST, Bastrop 78602 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Strategy & Corporate Development Intern Summer 2026](https://jobright.ai/jobs/info/6a19549c54a441713ae8c07b?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca6403fc339507ec60c?utm_campaign=1050&utm_source=git)** | US-TX-Waco | On Site | May 29 |
 | **[Harris Energy Solutions LLC](https://www.hesconnect.com)** | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a194ab3fee8f340243535b5?utm_campaign=1050&utm_source=git)** | Austin, TX area | Hybrid | May 29 |
 | ↳ | **[Operations & Technology 2026 Summer Internship](https://jobright.ai/jobs/info/6a194a97fee8f34024353592?utm_campaign=1050&utm_source=git)** | Texas | Hybrid | May 29 |
 | **[Menards](https://www.menards.com)** | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a19387eabc8f63abac7f95d?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | May 28 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a18df936243320e8d168bfa?utm_campaign=1050&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | May 28 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Outsourcing Fall Intern- Association Management](https://jobright.ai/jobs/info/6a18f55cabc8f63abac7d7a5?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
