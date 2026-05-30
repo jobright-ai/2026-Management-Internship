@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Operations Co-Op (Fall 2026)](https://jobright.ai/jobs/info/6a1a7f026b135014dbc8a723?utm_campaign=1050&utm_source=git)** | North Grafton, MA | On Site | May 29 |
 | **[DearDoc](https://www.getdeardoc.com/)** | **[Office Coordinator Intern](https://jobright.ai/jobs/info/6a19bddb2b206f3955eb047a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Tulip Interfaces](https://tulip.co)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1a0d832b206f3955eb2259?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a6d132b206f3955eb4aef?utm_campaign=1050&utm_source=git)** | Columbus, MS, US | On Site | May 29 |
@@ -87,9 +88,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a19e130547e292ae1395851?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 29 |
 | **[Lender Toolkit](https://www.lendertoolkit.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a19dc056b135014dbc86d04?utm_campaign=1050&utm_source=git)** | Remote (United States) | Remote | May 29 |
 | **[McKesson](http://www.mckesson.com)** | **[Project Coordinator Intern - Change Management](https://jobright.ai/jobs/info/6a19d7c8547e292ae1395314?utm_campaign=1050&utm_source=git)** | USA, TN, Nashville, US | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a13cc979f654b3359cf7457?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Innovation Campus Facilities Intern](https://jobright.ai/jobs/info/6a1a37a79111f771d1a0b5a8?utm_campaign=1050&utm_source=git)** | Fargo-Moorhead | On Site | May 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | May 29 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Bremerton, WA](https://jobright.ai/jobs/info/6a19d32e547e292ae1394f3d?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Bremerton, WA | On Site | May 29 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
@@ -120,12 +122,12 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a08920f6186f4685988934e?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Agency Acquisition Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a13cc83619335383fb3e27f?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcc89ce6a0d9792584d100?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | May 29 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 29 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b63?utm_campaign=1050&utm_source=git)** | 3029 SH 29 EAST, Burnet 78611 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a1957aefee8f34024353b3a?utm_campaign=1050&utm_source=git)** | 174 SH 21 EAST, Bastrop 78602 | On Site | May 29 |
-| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
 | ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b62?utm_campaign=1050&utm_source=git)** | 1001 EAST PARMER LANE, STE B, Austin 78753 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b65?utm_campaign=1050&utm_source=git)** | 9725 SOUTH IH 35, Austin 78744 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b64?utm_campaign=1050&utm_source=git)** | 7901 NORTH IH 35, Austin 78753 | On Site | May 29 |
+| ↳ | **[2026 Administrative Intern: Austin District](https://jobright.ai/jobs/info/6a111955619335383fb36b61?utm_campaign=1050&utm_source=git)** | 2727 SOUTH AUSTIN AVE, Georgetown 78627 | On Site | May 29 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Strategy & Corporate Development Intern Summer 2026](https://jobright.ai/jobs/info/6a19549c54a441713ae8c07b?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a084ca6403fc339507ec60c?utm_campaign=1050&utm_source=git)** | US-TX-Waco | On Site | May 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee5f400923a0090b195?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Caltech](http://www.caltech.edu)** | **[Office Administrative & Events Intern](https://jobright.ai/jobs/info/6a188dfb54a441713ae85e2a?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | May 28 |
 | **[EKI Environment & Water, Inc.](https://www.ekiconsult.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a18b470c2a87d6cd3df3f9f?utm_campaign=1050&utm_source=git)** | Wakefield, MA | On Site | May 28 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a18b2d06243320e8d1672f7?utm_campaign=1050&utm_source=git)** | Wakefield, MA, US | On Site | May 28 |
-| **[First Mid](http://firstmid.com)** | **[FMIG - Health Division Intern](https://jobright.ai/jobs/info/6a18b129abc8f63abac7b5f4?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | May 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a18ab2717492d3a389b8adb?utm_campaign=1050&utm_source=git)** | SCHERERVILLE, IN | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
