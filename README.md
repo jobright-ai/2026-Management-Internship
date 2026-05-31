@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a02bb9b6c07461fe16fce33?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | May 30 |
 | **[General Dynamics](https://www.gd.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6a1ac7552b206f3955eb6577?utm_campaign=1050&utm_source=git)** | US-MN-Bloomington | On Site | May 30 |
 | ↳ | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6a1ac74c2b206f3955eb6576?utm_campaign=1050&utm_source=git)** | Bloomington, MN, US | On Site | May 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
