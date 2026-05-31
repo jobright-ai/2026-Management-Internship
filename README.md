@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Cleveland)](https://jobright.ai/jobs/info/6a02b72b22395b6dc6d8d5f3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 31 |
 | **[Marten Transport](http://marten.com/)** | **[Supply Chain and Ops Intern](https://jobright.ai/jobs/info/6a1c292cc2a87d6cd3e07100?utm_campaign=1050&utm_source=git)** | Desoto, TX | On Site | May 31 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | May 31 |
-| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
-| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a084e843b54ed42d74d631c?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | May 31 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a1bedacc2a87d6cd3e061e9?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 31 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Supply Chain Management](https://jobright.ai/jobs/info/6a1bdb84547e292ae139f341?utm_campaign=1050&utm_source=git)** | Petoskey, MI | On Site | May 30 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/69feb42ccdb965044a8641c7?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[eClerx](https://eclerx.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/69a7719f2672cb0acb4be80b?utm_campaign=1050&utm_source=git)** | 235 N McPherson Church Rd, Fayetteville, NC, 28303, US | On Site | May 30 |
 | **[Acima](https://www.acima.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69f3d8ed343eef4fb0a9e70a?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | May 30 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
-| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
+| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 30 |
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | May 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addbde24ef3652582dc4e?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 30 |
