@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1c8a512b206f3955ebd506?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 31 |
+| **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Recreation Services](https://jobright.ai/jobs/info/6a0e360347fea1610bca8330?utm_campaign=1050&utm_source=git)** | 1100 West 42nd Street, Odessa, TX, United States | On Site | May 31 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1c6032c2a87d6cd3e07bd2?utm_campaign=1050&utm_source=git)** | Santa Monica, CA, USA, US | Hybrid | May 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1c5f796b135014dbc925c7?utm_campaign=1050&utm_source=git)** | San Francisco | On Site | May 31 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern-Portland, OR](https://jobright.ai/jobs/info/6a1b346be24ef3652582f66f?utm_campaign=1050&utm_source=git)** | Portland, OR, US | On Site | May 30 |
 | ↳ | **[Management Trainee Intern-Portland, OR](https://jobright.ai/jobs/info/6a1b346ae24ef3652582f66e?utm_campaign=1050&utm_source=git)** | Portland-Gateway | On Site | May 30 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68ad6719d627244576e4daae?utm_campaign=1050&utm_source=git)** | Palm Beach, FL | On Site | May 30 |
-| **[Woke Chicago](https://www.wokechicago.org/)** | **[Community Operations & Events Intern](https://jobright.ai/jobs/info/6a1b20e8547e292ae139c2c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 30 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Recent Grad Admin Intern](https://jobright.ai/jobs/info/69fe6163f363bc4dc339e40a?utm_campaign=1050&utm_source=git)** | University, MS, US | On Site | May 30 |
 | **[McKesson](http://www.mckesson.com)** | **[Project Coordinator Intern - Change Management](https://jobright.ai/jobs/info/6a19d7c8547e292ae1395314?utm_campaign=1050&utm_source=git)** | USA, TN, Nashville, US | On Site | May 30 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Operations Intern (Penn State Sports Enterprises)](https://jobright.ai/jobs/info/6a1b0cbd547e292ae139bd9e?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | May 30 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17de24ef3652582d1d7?utm_campaign=1050&utm_source=git)** | US-MS-Pearl | On Site | May 30 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f5701d43a25828a8d18a14?utm_campaign=1050&utm_source=git)** | Louisville,Kentucky,United States | On Site | May 30 |
 | **[Zero Homes](https://www.zerohomes.io)** | **[MBA Internship, Summer 2026](https://jobright.ai/jobs/info/6a1ab6c96b135014dbc8b58e?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | May 30 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Lender Toolkit](https://www.lendertoolkit.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a19dc056b135014dbc86d04?utm_campaign=1050&utm_source=git)** | Remote (United States) | Remote | May 29 |
 | **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a13cc979f654b3359cf7457?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Innovation Campus Facilities Intern](https://jobright.ai/jobs/info/6a1a37a79111f771d1a0b5a8?utm_campaign=1050&utm_source=git)** | Fargo-Moorhead | On Site | May 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | May 29 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Bremerton, WA](https://jobright.ai/jobs/info/6a19d32e547e292ae1394f3d?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Bremerton, WA | On Site | May 29 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
-| **[Primoris Services Corporation](http://prim.com)** | **[Assistant Operations Analyst - Intern](https://jobright.ai/jobs/info/6a19a6ac6b135014dbc84ea7?utm_campaign=1050&utm_source=git)** | Denton, Texas, United States | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
