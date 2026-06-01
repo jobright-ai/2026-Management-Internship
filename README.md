@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a1d12b56b135014dbc94eec?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | May 31 |
+| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a1d12b36b135014dbc94eeb?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | May 31 |
+| **[PPL Electric Utilities](https://pplelectric.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a340?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | May 31 |
+| ↳ | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a33f?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | May 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – Corporate & Investment Banking - Chief Operating Office (COO)](https://jobright.ai/jobs/info/6a1d03f89111f771d1a170a5?utm_campaign=1050&utm_source=git)** | CHARLOTTE, NC, US | On Site | May 31 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Supply Chain Intern (Summer 2026 - Spring 2027)](https://jobright.ai/jobs/info/6a1cf4769111f771d1a16e6f?utm_campaign=1050&utm_source=git)** | Brecksville, OH | Hybrid | May 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1c8a512b206f3955ebd506?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 31 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Recreation Services](https://jobright.ai/jobs/info/6a0e360347fea1610bca8330?utm_campaign=1050&utm_source=git)** | 1100 West 42nd Street, Odessa, TX, United States | On Site | May 31 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/69feb42ccdb965044a8641c7?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[eClerx](https://eclerx.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/69a7719f2672cb0acb4be80b?utm_campaign=1050&utm_source=git)** | 235 N McPherson Church Rd, Fayetteville, NC, 28303, US | On Site | May 30 |
 | **[Acima](https://www.acima.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69f3d8ed343eef4fb0a9e70a?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | May 30 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
-| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 30 |
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | May 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addbde24ef3652582dc4e?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 30 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Summit Polymers](http://www.summitpolymers.com)** | **[Materials Administrative Intern](https://jobright.ai/jobs/info/6a183b8ac2a87d6cd3dee681?utm_campaign=1050&utm_source=git)** | P18 - Pavilion, 5858 E N Ave, Kalamazoo, Michigan, United States of America | On Site | May 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1a319ce24ef3652582a622?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | May 29 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/6a1a2e79c2a87d6cd3dfe391?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | May 29 |
-| **[Simpson Housing LLLP / Simpson Property Group LLC](https://www.simpsonhousing.com)** | **[Assistant Community Manager -The Addison](https://jobright.ai/jobs/info/6a1a746d547e292ae1398e44?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 29 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Front Office Runner Intern](https://jobright.ai/jobs/info/6a1a1f62e24ef36525829d5f?utm_campaign=1050&utm_source=git)** | 505 Water St, Tampa, FL, 33602, US | On Site | May 29 |
 | **[Simpson Housing LLLP / Simpson Property Group LLC](https://www.simpsonhousing.com)** | **[Assistant Community Manager -The Addison](https://jobright.ai/jobs/info/6a1a1c58547e292ae1396f9f?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | May 29 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a177206b091c7417c4fed18?utm_campaign=1050&utm_source=git)** | United States | Remote | May 29 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lender Toolkit](https://www.lendertoolkit.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a19dc056b135014dbc86d04?utm_campaign=1050&utm_source=git)** | Remote (United States) | Remote | May 29 |
 | **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a13cc979f654b3359cf7457?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Innovation Campus Facilities Intern](https://jobright.ai/jobs/info/6a1a37a79111f771d1a0b5a8?utm_campaign=1050&utm_source=git)** | Fargo-Moorhead | On Site | May 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
