@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medical University of South Carolina](http://www.musc.edu)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1db0003e538a28c204b0c8?utm_campaign=1050&utm_source=git)** | Charleston, US | On Site | Jun 01 |
+| **[Red River Commodities Inc](https://redriv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1dad19e24ef36525838edc?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Jun 01 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Operations Intern- Supply Chain](https://jobright.ai/jobs/info/6a1da900b524ae49285a76ab?utm_campaign=1050&utm_source=git)** | 650 E Carson St, Carson, CA, 90745, US | On Site | Jun 01 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring 2027](https://jobright.ai/jobs/info/6a1da8483e538a28c204ad81?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Jun 01 |
 | **[BBB Industries, LLC](https://www.terrepower.com)** | **[Program Manager-Intern](https://jobright.ai/jobs/info/6a1da1149111f771d1a19b97?utm_campaign=1050&utm_source=git)** | 15120 North Commerce Drive, Dearborn, MI, 48120, US | On Site | Jun 01 |
 | **[Simpson Housing LLLP / Simpson Property Group LLC](https://www.simpsonhousing.com)** | **[Assistant Community Manager -The Addison](https://jobright.ai/jobs/info/6a1d9fc99111f771d1a19ab1?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Jun 01 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Strategy - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a1d9c946b135014dbc97197?utm_campaign=1050&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 01 |
@@ -73,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0caaed963f7a67d95da40c?utm_campaign=1050&utm_source=git)** | Ottawa, CA | On Site | Jun 01 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[PMO INTERN](https://jobright.ai/jobs/info/6a0f12fd619335383fb28f20?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Jun 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – Corporate & Investment Banking - Chief Operating Office (COO)](https://jobright.ai/jobs/info/6a1d03f89111f771d1a170a5?utm_campaign=1050&utm_source=git)** | CHARLOTTE, NC, US | On Site | Jun 01 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c8603bb773006330b7ee6b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Jun 01 |
+| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a0eca5080bf0430c762ee3e?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Jun 01 |
 | **[Positive Investments, Inc.](https://www.positiveinvestments.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a1953a2c2a87d6cd3df89a6?utm_campaign=1050&utm_source=git)** | 610 North Santa Anita Avenue, Arcadia, CA, USA | On Site | May 31 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a1d21f6c2a87d6cd3e0a71c?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 31 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a1d12b56b135014dbc94eec?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | May 31 |
@@ -113,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/69feb42ccdb965044a8641c7?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[eClerx](https://eclerx.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/69a7719f2672cb0acb4be80b?utm_campaign=1050&utm_source=git)** | 235 N McPherson Church Rd, Fayetteville, NC, 28303, US | On Site | May 30 |
 | **[Acima](https://www.acima.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69f3d8ed343eef4fb0a9e70a?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | May 30 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
-| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 30 |
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | May 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addbde24ef3652582dc4e?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 30 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17de24ef3652582d1d7?utm_campaign=1050&utm_source=git)** | US-MS-Pearl | On Site | May 30 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f5701d43a25828a8d18a14?utm_campaign=1050&utm_source=git)** | Louisville,Kentucky,United States | On Site | May 30 |
 | **[Zero Homes](https://www.zerohomes.io)** | **[MBA Internship, Summer 2026](https://jobright.ai/jobs/info/6a1ab6c96b135014dbc8b58e?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | May 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Summit Polymers](http://www.summitpolymers.com)** | **[Materials Administrative Intern](https://jobright.ai/jobs/info/6a183b8ac2a87d6cd3dee681?utm_campaign=1050&utm_source=git)** | P18 - Pavilion, 5858 E N Ave, Kalamazoo, Michigan, United States of America | On Site | May 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1a319ce24ef3652582a622?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | May 29 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/6a1a2e79c2a87d6cd3dfe391?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | May 29 |
-| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Front Office Runner Intern](https://jobright.ai/jobs/info/6a1a1f62e24ef36525829d5f?utm_campaign=1050&utm_source=git)** | 505 Water St, Tampa, FL, 33602, US | On Site | May 29 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a177206b091c7417c4fed18?utm_campaign=1050&utm_source=git)** | United States | Remote | May 29 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a18cde24ef36525829b0c?utm_campaign=1050&utm_source=git)** | Alabaster, AL, US | On Site | May 29 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a18c7e24ef36525829b09?utm_campaign=1050&utm_source=git)** | US-AL-Alabaster | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
