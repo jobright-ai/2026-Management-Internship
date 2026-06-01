@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a1dbbcac2a87d6cd3e0d428?utm_campaign=1050&utm_source=git)** | Ketchum, ID, US | On Site | Jun 01 |
+| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a1dbbcac2a87d6cd3e0d429?utm_campaign=1050&utm_source=git)** | US-ID-Ketchum | On Site | Jun 01 |
+| **[TERREPOWER (formerly BBB Industries)](https://www.terrepower.com)** | **[Program Manager-Intern](https://jobright.ai/jobs/info/6a1db8bee24ef36525839616?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | Jun 01 |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Strategy & Operations (Solutions & Services Group)  Intern - Sumer 2026](https://jobright.ai/jobs/info/6a1db7833e538a28c204b5a7?utm_campaign=1050&utm_source=git)** | Morrisville, North Carolina | On Site | Jun 01 |
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1db0003e538a28c204b0c8?utm_campaign=1050&utm_source=git)** | Charleston, US | On Site | Jun 01 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1dad19e24ef36525838edc?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Jun 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Operations Intern- Supply Chain](https://jobright.ai/jobs/info/6a1da900b524ae49285a76ab?utm_campaign=1050&utm_source=git)** | 650 E Carson St, Carson, CA, 90745, US | On Site | Jun 01 |
@@ -67,8 +71,9 @@ For a complete list, click the following sortable link below:
 | **[FICUS HEALTH](https://www.ficus-health.de/)** | **[Founder’s Associate Intern – Operations & Strategy (m/w/d)](https://jobright.ai/jobs/info/6a1d98e7c2a87d6cd3e0c4ca?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Merantix Capital](http://merantix-capital.com)** | **[Founder’s Associate Intern – Operations & Strategy (m/w/d)](https://jobright.ai/jobs/info/6a1d95e0e24ef365258386af?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a1d95c69111f771d1a196db?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jun 01 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/6a1d8680c2a87d6cd3e0bd84?utm_campaign=1050&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Jun 01 |
-| ↳ | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef6737e624fe645d530cc4?utm_campaign=1050&utm_source=git)** | West Des Moines, IA - Westown Parkway, US | On Site | Jun 01 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Life Cycle Support Intern (Fall 2026, 4-8months)](https://jobright.ai/jobs/info/6a02c39f22395b6dc6d8e2ea?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Intern](https://jobright.ai/jobs/info/69ef6737e624fe645d530cc4?utm_campaign=1050&utm_source=git)** | West Des Moines, IA - Westown Parkway, US | On Site | Jun 01 |
+| ↳ | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/6a1d8680c2a87d6cd3e0bd84?utm_campaign=1050&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Jun 01 |
 | **[Dragon Seats](https://dragonseats.com)** | **[Sports Management, Business Operations Intern](https://jobright.ai/jobs/info/6a1d7f359111f771d1a18ea4?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jun 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1d77f23e538a28c2049bf8?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Jun 01 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/6a153868554b0e12c05815ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 01 |
@@ -91,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Cleveland)](https://jobright.ai/jobs/info/6a02b72b22395b6dc6d8d5f3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 31 |
 | **[Marten Transport](http://marten.com/)** | **[Supply Chain and Ops Intern](https://jobright.ai/jobs/info/6a1c292cc2a87d6cd3e07100?utm_campaign=1050&utm_source=git)** | Desoto, TX | On Site | May 31 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | May 31 |
-| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
-| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
+| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
+| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a0f4ec983d714428981e801?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | May 31 |
 | ↳ | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a084e843b54ed42d74d631c?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | May 31 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Supply Chain Management](https://jobright.ai/jobs/info/6a1bdb84547e292ae139f341?utm_campaign=1050&utm_source=git)** | Petoskey, MI | On Site | May 30 |
@@ -129,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a02bb9b6c07461fe16fce33?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | May 30 |
 | **[General Dynamics](https://www.gd.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6a1ac7552b206f3955eb6577?utm_campaign=1050&utm_source=git)** | US-MN-Bloomington | On Site | May 30 |
 | ↳ | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6a1ac74c2b206f3955eb6576?utm_campaign=1050&utm_source=git)** | Bloomington, MN, US | On Site | May 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Program Manager Project Intern - BI Advertising Experience - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/698e95aa78b4502f12a56f32?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | May 30 |
 | **[Visteon Corporation](http://www.visteon.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e153ecacc736112f5c319e?utm_campaign=1050&utm_source=git)** | Van Buren, MI | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a1aa99bc2a87d6cd3e007cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
-| **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/6a19e2e7e24ef365258284fe?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | May 30 |
-| ↳ | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/6a19e2e3e24ef365258284f0?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 30 |
+| **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/6a19e2e3e24ef365258284f0?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 30 |
+| ↳ | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/6a19e2e7e24ef365258284fe?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | May 30 |
 | **[Primetals Technologies](https://primetals.com)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a1d2c689111f771d1a17d52?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | May 29 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Co-Op (Fall 2026)](https://jobright.ai/jobs/info/6a1a7f026b135014dbc8a723?utm_campaign=1050&utm_source=git)** | North Grafton, MA | On Site | May 29 |
 | **[DearDoc](https://www.getdeardoc.com/)** | **[Office Coordinator Intern](https://jobright.ai/jobs/info/6a19bddb2b206f3955eb047a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a6d132b206f3955eb4aef?utm_campaign=1050&utm_source=git)** | Columbus, MS, US | On Site | May 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a6d112b206f3955eb4aee?utm_campaign=1050&utm_source=git)** | US-MS-Columbus | On Site | May 29 |
 | **[Leidos](https://www.leidos.com)** | **[Business Area Intern (Airborne & Mission Solutions)](https://jobright.ai/jobs/info/6a19ae299111f771d1a0765a?utm_campaign=1050&utm_source=git)** | Reston, VA, US | Hybrid | May 29 |
-| **[ATC](http://atcdrivetrain.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1a4cfc2b206f3955eb413f?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, US | On Site | May 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics Parts Presentation (Fall 2026)](https://jobright.ai/jobs/info/6a1a421e2b206f3955eb3a0b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 29 |
-| **[Summit Polymers](http://www.summitpolymers.com)** | **[Materials Administrative Intern](https://jobright.ai/jobs/info/6a183b8ac2a87d6cd3dee681?utm_campaign=1050&utm_source=git)** | P18 - Pavilion, 5858 E N Ave, Kalamazoo, Michigan, United States of America | On Site | May 29 |
-| **[ATC](http://atcdrivetrain.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1a319ce24ef3652582a622?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | May 29 |
-| **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/6a1a2e79c2a87d6cd3dfe391?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
