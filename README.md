@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roller Rabbit](http://rollerrabbit.com)** | **[Supply Chain and Logistics Summer Intern](https://jobright.ai/jobs/info/6a1dc368c2a87d6cd3e0d7e6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 01 |
+| **[Red River Commodities](https://redriverasia.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1dbe116b135014dbc9818f?utm_campaign=1050&utm_source=git)** | Corporate Office Fargo, Fargo, ND, US | On Site | Jun 01 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a1dbbcac2a87d6cd3e0d428?utm_campaign=1050&utm_source=git)** | Ketchum, ID, US | On Site | Jun 01 |
 | ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a1dbbcac2a87d6cd3e0d429?utm_campaign=1050&utm_source=git)** | US-ID-Ketchum | On Site | Jun 01 |
 | **[TERREPOWER (formerly BBB Industries)](https://www.terrepower.com)** | **[Program Manager-Intern](https://jobright.ai/jobs/info/6a1db8bee24ef36525839616?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | Jun 01 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Cleveland)](https://jobright.ai/jobs/info/6a02b72b22395b6dc6d8d5f3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 31 |
 | **[Marten Transport](http://marten.com/)** | **[Supply Chain and Ops Intern](https://jobright.ai/jobs/info/6a1c292cc2a87d6cd3e07100?utm_campaign=1050&utm_source=git)** | Desoto, TX | On Site | May 31 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | May 31 |
-| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
-| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a0f4ec983d714428981e801?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | May 31 |
 | ↳ | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a084e843b54ed42d74d631c?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | May 31 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Supply Chain Management](https://jobright.ai/jobs/info/6a1bdb84547e292ae139f341?utm_campaign=1050&utm_source=git)** | Petoskey, MI | On Site | May 30 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17de24ef3652582d1d7?utm_campaign=1050&utm_source=git)** | US-MS-Pearl | On Site | May 30 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f5701d43a25828a8d18a14?utm_campaign=1050&utm_source=git)** | Louisville,Kentucky,United States | On Site | May 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DearDoc](https://www.getdeardoc.com/)** | **[Office Coordinator Intern](https://jobright.ai/jobs/info/6a19bddb2b206f3955eb047a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Tulip Interfaces](https://tulip.co)** | **[Operations Intern](https://jobright.ai/jobs/info/6a1a0d832b206f3955eb2259?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a6d132b206f3955eb4aef?utm_campaign=1050&utm_source=git)** | Columbus, MS, US | On Site | May 29 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a6d112b206f3955eb4aee?utm_campaign=1050&utm_source=git)** | US-MS-Columbus | On Site | May 29 |
-| **[Leidos](https://www.leidos.com)** | **[Business Area Intern (Airborne & Mission Solutions)](https://jobright.ai/jobs/info/6a19ae299111f771d1a0765a?utm_campaign=1050&utm_source=git)** | Reston, VA, US | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
