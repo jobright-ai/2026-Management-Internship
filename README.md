@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – Corporate & Investment Banking - Chief Operating Office (COO)](https://jobright.ai/jobs/info/6a1d03f89111f771d1a170a5?utm_campaign=1050&utm_source=git)** | CHARLOTTE, NC, US | On Site | May 31 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Supply Chain Intern (Summer 2026 - Spring 2027)](https://jobright.ai/jobs/info/6a1cf4769111f771d1a16e6f?utm_campaign=1050&utm_source=git)** | Brecksville, OH | Hybrid | May 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1c8a512b206f3955ebd506?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 31 |
 | **[City of Odessa, Texas](https://www.odessa-tx.gov)** | **[Internship- Recreation Services](https://jobright.ai/jobs/info/6a0e360347fea1610bca8330?utm_campaign=1050&utm_source=git)** | 1100 West 42nd Street, Odessa, TX, United States | On Site | May 31 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Global Supply Chain and MRO Shops (Summer 2026)](https://jobright.ai/jobs/info/6a1bda729111f771d1a12ed0?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Arlington Heights - Corporate Support Center (AHSC) | On Site | May 30 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Kent, WA](https://jobright.ai/jobs/info/6a1bae6f2b206f3955eba2ce?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | May 30 |
 | ↳ | **[Building Supplies Office Intern - Bremerton, WA](https://jobright.ai/jobs/info/6a1bae6bc2a87d6cd3e05113?utm_campaign=1050&utm_source=git)** | Bremerton, WA | On Site | May 30 |
+| **[Trench Group](https://trench-group.com/)** | **[Order Management Intern](https://jobright.ai/jobs/info/6a1cff87c2a87d6cd3e09d22?utm_campaign=1050&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 30 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Doral](https://jobright.ai/jobs/info/6a1ba4acc2a87d6cd3e04fe4?utm_campaign=1050&utm_source=git)** | Doral, FL, US | On Site | May 30 |
 | **[Protect Environmental](https://www.protectenvironmental.com/)** | **[Project Administration Intern](https://jobright.ai/jobs/info/6a1b62a2e24ef365258301c0?utm_campaign=1050&utm_source=git)** | Flanders, NJ | On Site | May 30 |
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/6a1b4d8c6b135014dbc8e749?utm_campaign=1050&utm_source=git)** | Gainesville, FL, US | On Site | May 30 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Lender Toolkit](https://www.lendertoolkit.com/)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6a19dc056b135014dbc86d04?utm_campaign=1050&utm_source=git)** | Remote (United States) | Remote | May 29 |
 | **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a13cc979f654b3359cf7457?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Emerging Prairie](http://www.emergingprairie.com/)** | **[Innovation Campus Facilities Intern](https://jobright.ai/jobs/info/6a1a37a79111f771d1a0b5a8?utm_campaign=1050&utm_source=git)** | Fargo-Moorhead | On Site | May 29 |
-| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69f2157b8d8d624381a9f103?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
+| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a0db60a83d7144289811c6e?utm_campaign=1050&utm_source=git)** | US, CA, San Jose, Rio Robles, US | On Site | May 29 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ | On Site | May 29 |
-| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Bremerton, WA](https://jobright.ai/jobs/info/6a19d32e547e292ae1394f3d?utm_campaign=1050&utm_source=git)** | Pioneer Builders - Bremerton, WA | On Site | May 29 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/69a8bf1f7ac93962b7088903?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
