@@ -57,18 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship](https://jobright.ai/jobs/info/6a1d8680c2a87d6cd3e0bd84?utm_campaign=1050&utm_source=git)** | Lowell, AR - JB Hunt Corporate B & C, US | On Site | Jun 01 |
+| **[Dragon Seats](https://dragonseats.com)** | **[Sports Management, Business Operations Intern](https://jobright.ai/jobs/info/6a1d7f359111f771d1a18ea4?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jun 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1d77f23e538a28c2049bf8?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Jun 01 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/6a153868554b0e12c05815ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Business Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74a43e538a28c2049af4?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | Jun 01 |
 | ↳ | **[Business Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74a13e538a28c2049aee?utm_campaign=1050&utm_source=git)** | New York | On Site | Jun 01 |
+| **[Ciena](http://www.ciena.com)** | **[Junior PMO / Business Operations Associate Intern](https://jobright.ai/jobs/info/6a0caaed963f7a67d95da40c?utm_campaign=1050&utm_source=git)** | Ottawa, CA | On Site | Jun 01 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[PMO INTERN](https://jobright.ai/jobs/info/6a0f12fd619335383fb28f20?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Jun 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – Corporate & Investment Banking - Chief Operating Office (COO)](https://jobright.ai/jobs/info/6a1d03f89111f771d1a170a5?utm_campaign=1050&utm_source=git)** | CHARLOTTE, NC, US | On Site | Jun 01 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a0eca5080bf0430c762ee3e?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Jun 01 |
+| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/69c8603bb773006330b7ee6b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Jun 01 |
 | **[Positive Investments, Inc.](https://www.positiveinvestments.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a1953a2c2a87d6cd3df89a6?utm_campaign=1050&utm_source=git)** | 610 North Santa Anita Avenue, Arcadia, CA, USA | On Site | May 31 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a1d21f6c2a87d6cd3e0a71c?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | May 31 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a1d12b56b135014dbc94eec?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | May 31 |
 | ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a1d12b36b135014dbc94eeb?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | May 31 |
-| **[PPL Electric Utilities](https://pplelectric.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a33f?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | May 31 |
-| ↳ | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a340?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | May 31 |
+| **[PPL Electric Utilities](https://pplelectric.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a340?utm_campaign=1050&utm_source=git)** | Louisville, KY, US | On Site | May 31 |
+| ↳ | **[Intern - Project Management](https://jobright.ai/jobs/info/6a1d100bc2a87d6cd3e0a33f?utm_campaign=1050&utm_source=git)** | US-KY-Louisville | On Site | May 31 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/699959aece78e77b4fde2899?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Project Management & Strategy Intern, Fall 2026](https://jobright.ai/jobs/info/6a1c6032c2a87d6cd3e07bd2?utm_campaign=1050&utm_source=git)** | Santa Monica, CA, USA, US | Hybrid | May 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1c5f796b135014dbc925c7?utm_campaign=1050&utm_source=git)** | San Francisco | On Site | May 31 |
@@ -76,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Fall 2026 (Cleveland)](https://jobright.ai/jobs/info/6a02b72b22395b6dc6d8d5f3?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | May 31 |
 | **[Marten Transport](http://marten.com/)** | **[Supply Chain and Ops Intern](https://jobright.ai/jobs/info/6a1c292cc2a87d6cd3e07100?utm_campaign=1050&utm_source=git)** | Desoto, TX | On Site | May 31 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | May 31 |
-| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
-| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| **[SpaceX](https://www.spacex.com)** | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17c001da08264614c8fead?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | May 31 |
+| ↳ | **[Fall 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6a17bff1da08264614c8fe9d?utm_campaign=1050&utm_source=git)** | Vandenberg, CA | On Site | May 31 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a0f4ec983d714428981e801?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | May 31 |
 | ↳ | **[IT PMO AI Intern](https://jobright.ai/jobs/info/6a084e843b54ed42d74d631c?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | May 31 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Supply Chain Management](https://jobright.ai/jobs/info/6a1bdb84547e292ae139f341?utm_campaign=1050&utm_source=git)** | Petoskey, MI | On Site | May 30 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Protect Environmental](https://www.protectenvironmental.com/)** | **[Project Administration Intern](https://jobright.ai/jobs/info/6a1b62a2e24ef365258301c0?utm_campaign=1050&utm_source=git)** | Flanders, NJ | On Site | May 30 |
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/6a1b4d8c6b135014dbc8e749?utm_campaign=1050&utm_source=git)** | Gainesville, FL, US | On Site | May 30 |
 | **[Archway Marketing Services](http://www.archway.com)** | **[Internship](https://jobright.ai/jobs/info/6a1b4fc5c2a87d6cd3e03c7d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 30 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern- Summer Term](https://jobright.ai/jobs/info/6a1b48769111f771d1a10c03?utm_campaign=1050&utm_source=git)** | Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC, US | On Site | May 30 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Business Intern - PebbleTec](https://jobright.ai/jobs/info/6a1b3898547e292ae139c9b8?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | May 30 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern-Portland, OR](https://jobright.ai/jobs/info/6a1b346be24ef3652582f66f?utm_campaign=1050&utm_source=git)** | Portland, OR, US | On Site | May 30 |
 | ↳ | **[Management Trainee Intern-Portland, OR](https://jobright.ai/jobs/info/6a1b346ae24ef3652582f66e?utm_campaign=1050&utm_source=git)** | Portland-Gateway | On Site | May 30 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/69feb42ccdb965044a8641c7?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[eClerx](https://eclerx.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/69a7719f2672cb0acb4be80b?utm_campaign=1050&utm_source=git)** | 235 N McPherson Church Rd, Fayetteville, NC, 28303, US | On Site | May 30 |
 | **[Acima](https://www.acima.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/69f3d8ed343eef4fb0a9e70a?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | May 30 |
-| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
-| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
+| **[MetOx International](http://www.metoxtech.com)** | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb99c2a87d6cd3dfae1b?utm_campaign=1050&utm_source=git)** | Houston (11331 Tanner Rd) | On Site | May 30 |
+| ↳ | **[Engineering Project Management Intern](https://jobright.ai/jobs/info/6a19bb93c2a87d6cd3dfae10?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 30 |
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | May 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Chicago Field Study Intern](https://jobright.ai/jobs/info/6a1addbde24ef3652582dc4e?utm_campaign=1050&utm_source=git)** | 200 WILMOT RD,DEERFIELD,IL 60015 | On Site | May 30 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac1849111f771d1a0e112?utm_campaign=1050&utm_source=git)** | Waco, TX, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1775d6f45c6530ce9acfe6?utm_campaign=1050&utm_source=git)** | US-VA-Charlottesville | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac183547e292ae139a47e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, US | On Site | May 30 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47b?utm_campaign=1050&utm_source=git)** | Cleveland, TN, US | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17e547e292ae139a47a?utm_campaign=1050&utm_source=git)** | US-TN-Cleveland | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17ee24ef3652582d1d8?utm_campaign=1050&utm_source=git)** | Pearl, MS, US | On Site | May 30 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1ac17de24ef3652582d1d7?utm_campaign=1050&utm_source=git)** | US-MS-Pearl | On Site | May 30 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69f5701d43a25828a8d18a14?utm_campaign=1050&utm_source=git)** | Louisville,Kentucky,United States | On Site | May 30 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Economical Insurance](https://www.economical.com/)** | **[RPC Underwriting Assistant - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a1aed566b135014dbc8cada?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 30 |
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/693a2a4548a8ce22990e236d?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Program Manager Project Intern - BI Advertising Experience - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/698e95aa78b4502f12a56f32?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | May 30 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Food & Beverage Project Management Intern, Kohler](https://jobright.ai/jobs/info/69efe30f4b0fa35a7078c567?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | May 30 |
 | **[Visteon Corporation](http://www.visteon.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69e153ecacc736112f5c319e?utm_campaign=1050&utm_source=git)** | Van Buren, MI | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a1aa99bc2a87d6cd3e007cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
 | **[Piedmont](http://www.piedmont.org)** | **[Administrative Intern-SPRN](https://jobright.ai/jobs/info/6a19e2e3e24ef365258284f0?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US | On Site | May 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milis Flatwork](http://www.milisflatwork.com)** | **[Concrete Project Management Intern](https://jobright.ai/jobs/info/6a1a009b547e292ae13961ad?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | May 29 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works) - Chicago Roadmap](https://jobright.ai/jobs/info/6a1a2bed9111f771d1a0b052?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Operations Management Support (Fall 2026)](https://jobright.ai/jobs/info/6a1aa0d99111f771d1a0d709?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 29 |
-| **[Porter](https://porter.in)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a19e3679111f771d1a09362?utm_campaign=1050&utm_source=git)** | US-WA-Seattle | On Site | May 29 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6a19e3609111f771d1a0935f?utm_campaign=1050&utm_source=git)** | Seattle, WA, US | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
