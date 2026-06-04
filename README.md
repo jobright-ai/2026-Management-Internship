@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[REVELxp](https://revelxp.com)** | **[REVELxp - Operations Game Day Intern, University of Cincinnati](https://jobright.ai/jobs/info/6a2124297c30cc2cc5167eec?utm_campaign=1050&utm_source=git)** | Cincinnati,OH,US | On Site | Jun 04 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a211fbe902d19201c7b6414?utm_campaign=1050&utm_source=git)** | OMAHA, NE (120TH & DODGE) | On Site | Jun 03 |
 | ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a211fbaca8f0b365d7a5038?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Jun 03 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a211fba902d19201c7b6411?utm_campaign=1050&utm_source=git)** | COLUMBUS, OH | On Site | Jun 03 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a210ad0902d19201c7b5e9a?utm_campaign=1050&utm_source=git)** | Torrance, CA, US | On Site | Jun 03 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | Jun 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43b9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
@@ -90,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
 | **[Henkels & McCoy West](https://www.henkelswest.com)** | **[Intern](https://jobright.ai/jobs/info/6a20b2b1c00e701fe836b446?utm_campaign=1050&utm_source=git)** | US-CA-Pomona | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a20b2b0c00e701fe836b445?utm_campaign=1050&utm_source=git)** | Pomona, CA, US | On Site | Jun 03 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
-| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
+| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
 | **[United Nations](https://www.un.org/)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20ac9b338c01230511aedd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/6a205f50ca8f0b365d7a0abf?utm_campaign=1050&utm_source=git)** | MO-SSM Health Mission Hill, US | On Site | Jun 03 |
 | **[NPR](http://www.npr.org)** | **[Content Services and Content Production Technology Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a208953338c012305119bcc?utm_campaign=1050&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern 2](https://jobright.ai/jobs/info/6a1ffa8b338c01230511698f?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Jun 03 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/6a08529ea203b1052e443eaa?utm_campaign=1050&utm_source=git)** | Essex Junction, VT, US | On Site | Jun 03 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6a0852823b54ed42d74d6f17?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US, 30339 | On Site | Jun 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
