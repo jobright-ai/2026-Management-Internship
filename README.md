@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REVELxp](https://revelxp.com)** | **[REVELxp - Operations Game Day Intern, University of Cincinnati](https://jobright.ai/jobs/info/6a2124297c30cc2cc5167eec?utm_campaign=1050&utm_source=git)** | Cincinnati,OH,US | On Site | Jun 04 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a211fbe902d19201c7b6414?utm_campaign=1050&utm_source=git)** | OMAHA, NE (120TH & DODGE) | On Site | Jun 03 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a211fbaca8f0b365d7a5038?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Jun 03 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a211fba902d19201c7b6411?utm_campaign=1050&utm_source=git)** | COLUMBUS, OH | On Site | Jun 03 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a210ad0902d19201c7b5e9a?utm_campaign=1050&utm_source=git)** | Torrance, CA, US | On Site | Jun 03 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | Jun 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43b9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
 | **[Henkels & McCoy West](https://www.henkelswest.com)** | **[Intern](https://jobright.ai/jobs/info/6a20b2b1c00e701fe836b446?utm_campaign=1050&utm_source=git)** | US-CA-Pomona | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a20b2b0c00e701fe836b445?utm_campaign=1050&utm_source=git)** | Pomona, CA, US | On Site | Jun 03 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
-| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
+| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
 | **[United Nations](https://www.un.org/)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20ac9b338c01230511aedd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/6a205f50ca8f0b365d7a0abf?utm_campaign=1050&utm_source=git)** | MO-SSM Health Mission Hill, US | On Site | Jun 03 |
 | **[NPR](http://www.npr.org)** | **[Content Services and Content Production Technology Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a208953338c012305119bcc?utm_campaign=1050&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 03 |
@@ -125,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Digi Security Systems](https://www.digiss.com)** | **[Warehouse/Inventory Coordinator Summer Intern](https://jobright.ai/jobs/info/6a206e32338c0123051190ba?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jun 03 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a206d8cc00e701fe836943a?utm_campaign=1050&utm_source=git)** | Oakville | Hybrid | Jun 03 |
 | ↳ | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a206d8ac00e701fe8369438?utm_campaign=1050&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 03 |
-| **[New York Peace Institute](http://www.nypeace.org)** | **[Operations Intern](https://jobright.ai/jobs/info/6a206b233a5f0145f4c144de?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/69af6b09749500645093dff4?utm_campaign=1050&utm_source=git)** | Lost Hills, CA | On Site | Jun 03 |
 | **[Bexorg, Inc.](https://bexorg.com)** | **[Fall Intern/Operations](https://jobright.ai/jobs/info/6a20615dc00e701fe836901b?utm_campaign=1050&utm_source=git)** | New Haven, CT | On Site | Jun 03 |
 | **[Roche](http://www.roche.com)** | **[2026 Technology Transfer Associate Intern](https://jobright.ai/jobs/info/6a20600c338c012305118af4?utm_campaign=1050&utm_source=git)** | Mississauga, CA | Hybrid | Jun 03 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[CL Construction, LLC](https://www.clnebraska.com)** | **[Operations Assistant Internship](https://jobright.ai/jobs/info/6a204948ca8f0b365d7a0143?utm_campaign=1050&utm_source=git)** | Lincoln, NE 68504, USA | On Site | Jun 03 |
 | **[Newmark](https://www.nmrk.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a20474fc00e701fe8368457?utm_campaign=1050&utm_source=git)** | NY, United States | On Site | Jun 03 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Administrative Assistant for Internship Program Support](https://jobright.ai/jobs/info/6a20440d4bdf8a5a96bcf822?utm_campaign=1050&utm_source=git)** | New York, NY, US | Hybrid | Jun 03 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 03 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 03 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 03 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 03 |
 | **[European Energy Exchange AG](https://www.eex.com/en)** | **[Intern (f/m/d) Project Management (6-12 months limited, part-/full-time)](https://jobright.ai/jobs/info/6a2042b7c00e701fe8368251?utm_campaign=1050&utm_source=git)** | Energy, IL | Hybrid | Jun 03 |
 | **[George Washington's Mount Vernon](https://www.mountvernon.org/)** | **[Intern](https://jobright.ai/jobs/info/6a203feb338c012305117d29?utm_campaign=1050&utm_source=git)** | Mount Vernon, VA | On Site | Jun 03 |
 | **[Meridian OneCap Credit Corp.](https://www.meridianonecap.ca)** | **[Operations Administrative Support Intern](https://jobright.ai/jobs/info/6a203c35338c012305117ba2?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Jun 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern 2](https://jobright.ai/jobs/info/6a1ffa8b338c01230511698f?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Jun 03 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/6a08529ea203b1052e443eaa?utm_campaign=1050&utm_source=git)** | Essex Junction, VT, US | On Site | Jun 03 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6a0852823b54ed42d74d6f17?utm_campaign=1050&utm_source=git)** | Atlanta, GA, US, 30339 | On Site | Jun 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
-| ↳ | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1fefbbca8f0b365d79e935?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 03 |
-| **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc417492d3a389b9700?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
