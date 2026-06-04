@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[REVELxp](https://revelxp.com)** | **[REVELxp - Operations Game Day Intern, University of Cincinnati](https://jobright.ai/jobs/info/6a20dcff338c01230511bdf9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a20e770c00e701fe836c475?utm_campaign=1050&utm_source=git)** | OMAHA, NE (120TH & DODGE) | On Site | Jun 03 |
+| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a20e76fca8f0b365d7a4099?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Jun 03 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a20e76f4bdf8a5a96bd3a9a?utm_campaign=1050&utm_source=git)** | COLUMBUS, OH | On Site | Jun 03 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a20e76f3a5f0145f4c17808?utm_campaign=1050&utm_source=git)** | IOWA CITY, IA | On Site | Jun 03 |
+| **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2d8ca8f0b365d7a3f75?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
+| **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2c5338c01230511c037?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20dabfc00e701fe836c031?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a20d7c2c00e701fe836be9a?utm_campaign=1050&utm_source=git)** | Calgary,Alberta,Canada | On Site | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Internship - City Manager's Office](https://jobright.ai/jobs/info/6a20d54b902d19201c7b4d83?utm_campaign=1050&utm_source=git)** | City Hall - 1600 Huntington Drive, Duarte, CA | On Site | Jun 03 |
@@ -74,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[MasTec](http://mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20c3053a5f0145f4c16bdd?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/6a20c2a0338c01230511b4e2?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Remote | Jun 03 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[REVELxp - Operations Game Day Intern, University of Cincinnati](https://jobright.ai/jobs/info/6a20ddc1902d19201c7b5057?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
-| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
+| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/6a20e45c338c01230511c0bb?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
+| ↳ | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
 | **[Henkels & McCoy West](https://www.henkelswest.com)** | **[Intern](https://jobright.ai/jobs/info/6a20b2b1c00e701fe836b446?utm_campaign=1050&utm_source=git)** | US-CA-Pomona | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a20b2b0c00e701fe836b445?utm_campaign=1050&utm_source=git)** | Pomona, CA, US | On Site | Jun 03 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
@@ -127,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[CL Construction, LLC](https://www.clnebraska.com)** | **[Operations Assistant Internship](https://jobright.ai/jobs/info/6a204948ca8f0b365d7a0143?utm_campaign=1050&utm_source=git)** | Lincoln, NE 68504, USA | On Site | Jun 03 |
 | **[Newmark](https://www.nmrk.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a20474fc00e701fe8368457?utm_campaign=1050&utm_source=git)** | NY, United States | On Site | Jun 03 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Administrative Assistant for Internship Program Support](https://jobright.ai/jobs/info/6a20440d4bdf8a5a96bcf822?utm_campaign=1050&utm_source=git)** | New York, NY, US | Hybrid | Jun 03 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 03 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 03 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 03 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 03 |
 | **[European Energy Exchange AG](https://www.eex.com/en)** | **[Intern (f/m/d) Project Management (6-12 months limited, part-/full-time)](https://jobright.ai/jobs/info/6a2042b7c00e701fe8368251?utm_campaign=1050&utm_source=git)** | Energy, IL | Hybrid | Jun 03 |
 | **[George Washington's Mount Vernon](https://www.mountvernon.org/)** | **[Intern](https://jobright.ai/jobs/info/6a203feb338c012305117d29?utm_campaign=1050&utm_source=git)** | Mount Vernon, VA | On Site | Jun 03 |
 | **[Meridian OneCap Credit Corp.](https://www.meridianonecap.ca)** | **[Operations Administrative Support Intern](https://jobright.ai/jobs/info/6a203c35338c012305117ba2?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Jun 03 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1fefbbca8f0b365d79e935?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 03 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc417492d3a389b9700?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 02 |
 | ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc117492d3a389b96f9?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 02 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee8f400923a0090b19d?utm_campaign=1050&utm_source=git)** | US-LA-Gonzales | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7c?utm_campaign=1050&utm_source=git)** | Rockmart, GA, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee638dbee7915cf740f?utm_campaign=1050&utm_source=git)** | Columbus, MS, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15ec13128680351d965d33?utm_campaign=1050&utm_source=git)** | US-TN-Columbia | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee5f400923a0090b199?utm_campaign=1050&utm_source=git)** | Douglasville, GA, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee4b897ee41d28311a0?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee738dbee7915cf7413?utm_campaign=1050&utm_source=git)** | US-TX-San Antonio | On Site | Jun 02 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
