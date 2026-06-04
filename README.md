@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Supply Chain Intern](https://jobright.ai/jobs/info/6a219b094bdf8a5a96bd6983?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a219673902d19201c7b83ac?utm_campaign=1050&utm_source=git)** | Capital Area Accessory Distributors, US | On Site | Jun 04 |
 | **[ALKEGEN](https://alkegen.com/)** | **[Operations Intern-2](https://jobright.ai/jobs/info/6a219620ca8f0b365d7a71ad?utm_campaign=1050&utm_source=git)** | Hoosick Falls, NY | On Site | Jun 04 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6a2195c8338c01230511ed61?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Jun 04 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Management Solutions](https://managementsolutionsllc.com)** | **[Intern (Summer)](https://jobright.ai/jobs/info/6a21904cc00e701fe836eef2?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a21903ec00e701fe836eeec?utm_campaign=1050&utm_source=git)** | INDIANAPOLIS, IN (EAST) | On Site | Jun 04 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a21903d902d19201c7b804a?utm_campaign=1050&utm_source=git)** | COLUMBUS, OH | On Site | Jun 04 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a21903d902d19201c7b8049?utm_campaign=1050&utm_source=git)** | OMAHA, NE (120TH & DODGE) | On Site | Jun 04 |
 | **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[R26-0010 - Supply Chain Intern](https://jobright.ai/jobs/info/69e9642a0a6e09555303b995?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jun 04 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Procurement Intern](https://jobright.ai/jobs/info/6a2187357c30cc2cc51694ba?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, CMC Project Management](https://jobright.ai/jobs/info/69cc3b8bcfdc6132f940b17f?utm_campaign=1050&utm_source=git)** | Tustin, California | On Site | Jun 04 |
@@ -86,16 +86,16 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a216afa7c30cc2cc5168d9c?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6a2168b37c30cc2cc5168c8d?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jun 04 |
 | **[Jobster](https://www.jobster.com)** | **[F&A Intern, Omnichannel - Studentjob.ch](https://jobright.ai/jobs/info/6a2164ec7c30cc2cc5168c4a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556251935fa61b3c671cd?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina | On Site | Jun 04 |
-| ↳ | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1f1df18049156781166e5c?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina, United States | On Site | Jun 04 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/68358848fa8a32692d93e4d9?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina, United States | On Site | Jun 04 |
+| ↳ | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/6a1556251935fa61b3c671cd?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina | On Site | Jun 04 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a05f9e2f3d6cc51d638d7e7?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e76a60e0cd471b2f12b7d6?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 04 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a05a68d6c07461fe171776d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a21414e902d19201c7b6c35?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a084f9a6186f4685988765f?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | Jun 04 |
-| ↳ | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a185b1d17492d3a389b4e06?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | Jun 04 |
 | ↳ | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/6a04cbdcf3d6cc51d6382e00?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | Jun 04 |
+| ↳ | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a185b1d17492d3a389b4e06?utm_campaign=1050&utm_source=git)** | San Diego, CA, US | On Site | Jun 04 |
 | ↳ | **[DoD SkillBridge Intern – (Project Administrator II) (Active Duty Service Members)](https://jobright.ai/jobs/info/6a185b1e17492d3a389b4e10?utm_campaign=1050&utm_source=git)** | US-CA-San Diego | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a213db9ca8f0b365d7a5834?utm_campaign=1050&utm_source=git)** | Seattle | On Site | Jun 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Programme Management Job ID : 278598](https://jobright.ai/jobs/info/6a2131f7c00e701fe836d86f?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 04 |
@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2101323a5f0145f4c17ed2?utm_campaign=1050&utm_source=git)** | Minneapolis,MN,US | On Site | Jun 03 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Technical Project Manager, Intern](https://jobright.ai/jobs/info/6a20fcc13a5f0145f4c17d45?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Jun 03 |
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2d8ca8f0b365d7a3f75?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
-| **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2c5338c01230511c037?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20dabfc00e701fe836c031?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy & Business Development (Fall 2026)](https://jobright.ai/jobs/info/6a210016ca8f0b365d7a4738?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Internship - City Manager's Office](https://jobright.ai/jobs/info/6a20d54b902d19201c7b4d83?utm_campaign=1050&utm_source=git)** | City Hall - 1600 Huntington Drive, Duarte, CA | On Site | Jun 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finished Vehicle Logistics Intern ( Fall 2026)](https://jobright.ai/jobs/info/6a20a8f3c00e701fe836b0d1?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Jun 03 |
 | **[Four Hands](https://fourhands.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a208a25ca8f0b365d7a1cc6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Intern - Operations Management (DNCR)](https://jobright.ai/jobs/info/6a208a0aca8f0b365d7a1c98?utm_campaign=1050&utm_source=git)** | 3700 Wake Forest Road Wake, US | Hybrid | Jun 03 |
+| **[The Community Group](https://www.thecommunitygroupinc.org)** | **[Summer Administrative Intern](https://jobright.ai/jobs/info/6a2088cc902d19201c7b2d12?utm_campaign=1050&utm_source=git)** | Essex County, MA | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
