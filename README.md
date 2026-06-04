@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a210ad0902d19201c7b5e9a?utm_campaign=1050&utm_source=git)** | Torrance, CA, US | On Site | Jun 03 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, Arena Operations](https://jobright.ai/jobs/info/6a185c1b6243320e8d16357d?utm_campaign=1050&utm_source=git)** | Memphis, TN, US | On Site | Jun 03 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43b9?utm_campaign=1050&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Supply Chain)](https://jobright.ai/jobs/info/6a2106ec902d19201c7b5d3c?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Jun 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations)  - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a2104cb338c01230511c930?utm_campaign=1050&utm_source=git)** | Los Angeles | On Site | Jun 03 |
+| **[Electric Machinery Company - WEG Group](http://www.electricmachinery.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2101323a5f0145f4c17ed2?utm_campaign=1050&utm_source=git)** | Minneapolis,MN,US | On Site | Jun 03 |
+| **[Machina Labs](https://machinalabs.ai)** | **[Technical Project Manager, Intern](https://jobright.ai/jobs/info/6a20fcc13a5f0145f4c17d45?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Jun 03 |
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2d8ca8f0b365d7a3f75?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2c5338c01230511c037?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20dabfc00e701fe836c031?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
-| **[Schneider Electric](https://www.se.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a20d7c2c00e701fe836be9a?utm_campaign=1050&utm_source=git)** | Calgary,Alberta,Canada | On Site | Jun 03 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Strategy & Business Development (Fall 2026)](https://jobright.ai/jobs/info/6a210016ca8f0b365d7a4738?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Internship - City Manager's Office](https://jobright.ai/jobs/info/6a20d54b902d19201c7b4d83?utm_campaign=1050&utm_source=git)** | City Hall - 1600 Huntington Drive, Duarte, CA | On Site | Jun 03 |
 | **[Ragnar Benson Construction, LLC, a MasTec Company](http://ragnarbenson.com)** | **[Intern](https://jobright.ai/jobs/info/6a20d2a5ca8f0b365d7a3956?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Intern](https://jobright.ai/jobs/info/6a20d27dca8f0b365d7a3954?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
@@ -74,13 +81,13 @@ For a complete list, click the following sortable link below:
 | **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Field Services Project Manager Intern](https://jobright.ai/jobs/info/6a20c3c3902d19201c7b469f?utm_campaign=1050&utm_source=git)** | London, ON, Canada | On Site | Jun 03 |
 | **[MasTec](http://mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20c3053a5f0145f4c16bdd?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/6a20c2a0338c01230511b4e2?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Remote | Jun 03 |
-| **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[REVELxp - Operations Game Day Intern, University of Cincinnati](https://jobright.ai/jobs/info/6a20ddc1902d19201c7b5057?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Guest Experience](https://jobright.ai/jobs/info/6a20e45c338c01230511c0bb?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
-| ↳ | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
+| **[Schneider Electric](https://www.se.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a20ff2b902d19201c7b5ac5?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jun 03 |
+| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Stadium Operations Intern - Event Operations](https://jobright.ai/jobs/info/6a20cefc338c01230511b99f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 03 |
 | **[Henkels & McCoy West](https://www.henkelswest.com)** | **[Intern](https://jobright.ai/jobs/info/6a20b2b1c00e701fe836b446?utm_campaign=1050&utm_source=git)** | US-CA-Pomona | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a20b2b0c00e701fe836b445?utm_campaign=1050&utm_source=git)** | Pomona, CA, US | On Site | Jun 03 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
-| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b400?utm_campaign=1050&utm_source=git)** | Purchase, NY, US | On Site | Jun 03 |
+| ↳ | **[2027 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/6a20b17dc00e701fe836b401?utm_campaign=1050&utm_source=git)** | US-NY-Purchase | On Site | Jun 03 |
 | **[United Nations](https://www.un.org/)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20ac9b338c01230511aedd?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/6a205f50ca8f0b365d7a0abf?utm_campaign=1050&utm_source=git)** | MO-SSM Health Mission Hill, US | On Site | Jun 03 |
 | **[NPR](http://www.npr.org)** | **[Content Services and Content Production Technology Development Internship - Fall 2026](https://jobright.ai/jobs/info/6a208953338c012305119bcc?utm_campaign=1050&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 03 |
@@ -142,7 +149,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a202808c00e701fe8367796?utm_campaign=1050&utm_source=git)** | Newport Beach, CA, US | On Site | Jun 03 |
 | **[Berluti](http://www.berluti.com/)** | **[Berluti Internship - Retail Excellence Assistant](https://jobright.ai/jobs/info/6a03ac4522395b6dc6d971a9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a2016724bdf8a5a96bce8d4?utm_campaign=1050&utm_source=git)** | White, GA | On Site | Jun 03 |
-| **[www.stakeholdingadvisor.com www.kevinlorenjacksonauthor.com www.redcomet.org](https://www.linkedin.com/company/302552)** | **[Student Intern Administrative Assistant](https://jobright.ai/jobs/info/6a20050e3a5f0145f4c123f2?utm_campaign=1050&utm_source=git)** | Colorado Springs,CO,US | On Site | Jun 03 |
 | **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a033699bc4184089f22ff48?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 03 |
 | **[Parfums Christian Dior](https://www.dior.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6a03a8de8ecfd93cd9c109cb?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | **[GitPart](https://www.gitpart.com)** | **[Summer Intern 2](https://jobright.ai/jobs/info/6a1ffa8b338c01230511698f?utm_campaign=1050&utm_source=git)** | Greater Fond du Lac Area | On Site | Jun 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1fefbbca8f0b365d79e935?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 03 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc417492d3a389b9700?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 02 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc117492d3a389b96f9?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 02 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44b07a862778778b1?utm_campaign=1050&utm_source=git)** | Tucson, AZ, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1f7b81804915678116a800?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee5f400923a0090b196?utm_campaign=1050&utm_source=git)** | US-SC-Florence | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0512664373b07358a39bf9?utm_campaign=1050&utm_source=git)** | Rowlett,Texas,United States | On Site | Jun 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1e29fe3e538a28c204e8d3?utm_campaign=1050&utm_source=git)** | Hattiesburg, MS, US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
