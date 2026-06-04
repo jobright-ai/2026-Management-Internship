@@ -57,10 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a20e770c00e701fe836c475?utm_campaign=1050&utm_source=git)** | OMAHA, NE (120TH & DODGE) | On Site | Jun 03 |
-| ↳ | **[Distribution Center Internship](https://jobright.ai/jobs/info/6a20e76fca8f0b365d7a4099?utm_campaign=1050&utm_source=git)** | PLANO, IL - Distribution/Manufacturing/Fleet | On Site | Jun 03 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a20e76f4bdf8a5a96bd3a9a?utm_campaign=1050&utm_source=git)** | COLUMBUS, OH | On Site | Jun 03 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a20e76f3a5f0145f4c17808?utm_campaign=1050&utm_source=git)** | IOWA CITY, IA | On Site | Jun 03 |
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2d8ca8f0b365d7a3f75?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[Intern](https://jobright.ai/jobs/info/6a20e2c5338c01230511c037?utm_campaign=1050&utm_source=git)** | Pomona,California,United States | On Site | Jun 03 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/6a20dabfc00e701fe836c031?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
@@ -156,5 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1fefbbca8f0b365d79e935?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 03 |
 | **[CPI Security](https://cpisecurity.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc417492d3a389b9700?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 02 |
 | ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a18bfc117492d3a389b96f9?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 02 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee54f290f7450ea3d7d?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | Jun 02 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee44b07a862778778b1?utm_campaign=1050&utm_source=git)** | Tucson, AZ, US | On Site | Jun 02 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1f7b81804915678116a800?utm_campaign=1050&utm_source=git)** | Macon, GA, US | On Site | Jun 02 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee5f400923a0090b196?utm_campaign=1050&utm_source=git)** | US-SC-Florence | On Site | Jun 02 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a0512664373b07358a39bf9?utm_campaign=1050&utm_source=git)** | Rowlett,Texas,United States | On Site | Jun 02 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1e29fe3e538a28c204e8d3?utm_campaign=1050&utm_source=git)** | Hattiesburg, MS, US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
