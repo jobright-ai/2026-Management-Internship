@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0799c3a203b1052e43cf06?utm_campaign=1050&utm_source=git)** | Irving, TX, US | Hybrid | Jun 06 |
 | **[SquareTrade](https://www.squaretrade.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/6a0794ef3b54ed42d74d00ec?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jun 06 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Harrisburg](https://jobright.ai/jobs/info/6a209683338c01230511a2fa?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 06 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0e6624e500cad0d003?utm_campaign=1050&utm_source=git)** | Morgan City, LA, US | On Site | Jun 06 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a23e218dedf78312c7ad6d5?utm_campaign=1050&utm_source=git)** | Jupiter, FL, US | On Site | Jun 06 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Planning Intern: Supply Planning Fresh Replenishment Meat- Supply Chain](https://jobright.ai/jobs/info/6a208c88338c012305119ee5?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | ↳ | **[Fall 2026 Planning Intern:  Fresh Replenishment Produce-Supply Chain](https://jobright.ai/jobs/info/6a208ca3902d19201c7b312f?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
-| ↳ | **[Fall 2026 Planning Intern: CTR Store Replenishment-Supply Chain](https://jobright.ai/jobs/info/6a208ca5338c012305119f00?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | ↳ | **[Fall 2026 Planning Intern: Demand Planning-Supply Chain](https://jobright.ai/jobs/info/6a208ca3c00e701fe836a332?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
+| ↳ | **[Fall 2026 Planning Intern: CTR Store Replenishment-Supply Chain](https://jobright.ai/jobs/info/6a208ca5338c012305119f00?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a23b9734239a4353887ef8c?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 05 |
 | **[NorthBay Health](https://www.northbay.org/)** | **[Intern](https://jobright.ai/jobs/info/6a23a631757ade085b6aeb94?utm_campaign=1050&utm_source=git)** | Fairfield, CA | On Site | Jun 05 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Project Strategy & Planning Intern](https://jobright.ai/jobs/info/6a1c8b416b135014dbc92d53?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 05 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Idea Peddler](https://ideapeddler.com)** | **[Fall 2026 Creative Project Management Intern](https://jobright.ai/jobs/info/6a22e0a56624e500cad0a997?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Jun 05 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 Administrative & Facilities Intern](https://jobright.ai/jobs/info/6a22df2a4239a4353887d13b?utm_campaign=1050&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | Jun 05 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea91e60a6e095553041def?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jun 05 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 05 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 05 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 05 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06f8d99f57175bd581b2b1?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 05 |
 | **[Stratolaunch](https://www.stratolaunch.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a06210a7c753c287f6ff8ec?utm_campaign=1050&utm_source=git)** | Mojave, CA | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a06534cf3d6cc51d6392706?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jun 05 |
 | ↳ | **[2026 Summer Supply Chain Internship (Parker Hannifin HAFD - Triad Dr.)](https://jobright.ai/jobs/info/6a0652bca88ea73abf7fab2d?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jun 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Festo](https://www.festo.com/us/en)** | **[Intern - Logistics](https://jobright.ai/jobs/info/6a21ed35902d19201c7bb0d0?utm_campaign=1050&utm_source=git)** | Mason, IL, US | On Site | Jun 04 |
 | **[RAVN Aerospace](https://www.ravnaero.com)** | **[Intern (2026)-1](https://jobright.ai/jobs/info/6a21eb8f4bdf8a5a96bd93e8?utm_campaign=1050&utm_source=git)** | Houston, TX, US | On Site | Jun 04 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[3rd Shift Warehouse Operations Internship](https://jobright.ai/jobs/info/6a21b342338c01230511fcbc?utm_campaign=1050&utm_source=git)** | 5550 W 74th St, Indianapolis, IN 46268, USA | On Site | Jun 04 |
-| **[Optum](https://www.optum.com/)** | **[2026-27 UHG Leadership Experience (ULE) Internship - Remote](https://jobright.ai/jobs/info/6a21e6d87c30cc2cc516c32c?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Remote | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
