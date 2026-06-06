@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a24334f757ade085b6afe55?utm_campaign=1050&utm_source=git)** | MASON CITY, IA | On Site | Jun 06 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a078c913b54ed42d74cf4dd?utm_campaign=1050&utm_source=git)** | Ironton, MO, US | On Site | Jun 06 |
 | **[Pilomation](https://www.pilomation.com/)** | **[General Manager Intern](https://jobright.ai/jobs/info/6a241e506624e500cad0d47e?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 06 |
 | **[AIR Control Concepts](www.aircontrolconcepts.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a2415e914de9460dc846108?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c058275d?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Property Management Internship - Multifamily Housing Summer 2026](https://jobright.ai/jobs/info/6a24121d6624e500cad0d35b?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jun 06 |
 | ↳ | **[Property Management Internship (Little Rock, AR) Summer 2026](https://jobright.ai/jobs/info/6a241216757ade085b6afb0a?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jun 06 |
 | **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f88a620b36ff03547599fb?utm_campaign=1050&utm_source=git)** | 4004 Fruitville Rd, Sarasota, FL 34232, USA | On Site | Jun 06 |
@@ -72,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Harrisburg](https://jobright.ai/jobs/info/6a209683338c01230511a2fa?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, US | On Site | Jun 06 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0e6624e500cad0d003?utm_campaign=1050&utm_source=git)** | Morgan City, LA, US | On Site | Jun 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0414de9460dc845d55?utm_campaign=1050&utm_source=git)** | Rockmart, GA, US | On Site | Jun 06 |
+| **[MedSpeed](http://www.medspeed.com)** | **[Business Operations Summer Intern](https://jobright.ai/jobs/info/6a2441fc757ade085b6affad?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae04a1423772304eac54a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 06 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Property Management Intern (Waukegan, IL) Summer 2026](https://jobright.ai/jobs/info/6a23f97914de9460dc845cf1?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jun 06 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/6a23f8f7dedf78312c7ada69?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Jun 06 |
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a23e218dedf78312c7ad6d5?utm_campaign=1050&utm_source=git)** | Jupiter, FL, US | On Site | Jun 06 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Planning Intern: Supply Planning Fresh Replenishment Meat- Supply Chain](https://jobright.ai/jobs/info/6a208c88338c012305119ee5?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | ↳ | **[Fall 2026 Planning Intern:  Fresh Replenishment Produce-Supply Chain](https://jobright.ai/jobs/info/6a208ca3902d19201c7b312f?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
-| ↳ | **[Fall 2026 Planning Intern: Demand Planning-Supply Chain](https://jobright.ai/jobs/info/6a208ca3c00e701fe836a332?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | ↳ | **[Fall 2026 Planning Intern: CTR Store Replenishment-Supply Chain](https://jobright.ai/jobs/info/6a208ca5338c012305119f00?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
+| ↳ | **[Fall 2026 Planning Intern: Demand Planning-Supply Chain](https://jobright.ai/jobs/info/6a208ca3c00e701fe836a332?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 06 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a23b9734239a4353887ef8c?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 05 |
 | **[NorthBay Health](https://www.northbay.org/)** | **[Intern](https://jobright.ai/jobs/info/6a23a631757ade085b6aeb94?utm_campaign=1050&utm_source=git)** | Fairfield, CA | On Site | Jun 05 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[IT Project Strategy & Planning Intern](https://jobright.ai/jobs/info/6a1c8b416b135014dbc92d53?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 05 |
