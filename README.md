@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a25b3454239a43538882518?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 07 |
-| **[Kitsap County](https://www.kitsapgov.com)** | **[INTERNSHIP - Operations Management ($500 Stipend)](https://jobright.ai/jobs/info/6a259ddc14de9460dc848495?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Jun 07 |
+| **[Kitsap County](https://www.kitsapgov.com)** | **[INTERNSHIP - Operations Management ($500 Stipend)](https://jobright.ai/jobs/info/6a259ddcdedf78312c7b060c?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Jun 07 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a25d36dd46c0f7996088db6?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jun 07 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Inventory Planning Intern (Semester 2) – Generation H](https://jobright.ai/jobs/info/69d042c90b098b7a67077e65?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Jun 07 |
@@ -75,13 +75,12 @@ For a complete list, click the following sortable link below:
 | **[Horizon Hotels, Ltd.](https://www.horizonhotels.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a247cf914de9460dc846c08?utm_campaign=1050&utm_source=git)** | Wilmington, US | Remote | Jun 06 |
 | **[FIRST ONSITE, LLC](http://www.firstonsite.ca/)** | **[Intern](https://jobright.ai/jobs/info/6a247488d46c0f799608705a?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Jun 06 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6a24455314de9460dc846597?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 06 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ae?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, Florida | Hybrid | Jun 06 |
 | **[Shambaugh & Son, L.P.](http://shambaugh.com)** | **[Intern](https://jobright.ai/jobs/info/6a244b99dedf78312c7ae4bf?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jun 06 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a2446fadedf78312c7ae3e0?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Jun 06 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a078c913b54ed42d74cf4dd?utm_campaign=1050&utm_source=git)** | Ironton, MO, US | On Site | Jun 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea9477dc35f7132c4ab0a3?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jun 06 |
 | **[AIR Control Concepts](www.aircontrolconcepts.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a2415e914de9460dc846108?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06f8e19f57175bd581b2d2?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
 | ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c058275d?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jun 06 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a78?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Jun 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fad95187a4820e6da8252e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 | ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb529c7820c036924f2e06?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jun 05 |
 | **[Generac](https://www.generac.com)** | **[Supply Chain Assistant Intern](https://jobright.ai/jobs/info/6a21b338c00e701fe837010f?utm_campaign=1050&utm_source=git)** | Santa Monica, CA  - USA, US | On Site | Jun 05 |
+| **[Ampliwork](https://www.ampliwork.com)** | **[Operations & Strategy Intern](https://jobright.ai/jobs/info/6a0599fa320bff2205ea2f66?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
