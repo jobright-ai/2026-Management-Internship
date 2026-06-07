@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a254c6cdedf78312c7aff26?utm_campaign=1050&utm_source=git)** | MUSKEGON, MI | On Site | Jun 07 |
 | **[Flinn](http://flinnsci.com)** | **[Internship Procurement - Summer 2026 (2775)](https://jobright.ai/jobs/info/6a254bb3757ade085b6b187f?utm_campaign=1050&utm_source=git)** | BATAVIA, IL 60510 | On Site | Jun 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 07 |
 | ↳ | **[Client Solutions Manager Project Intern (GBS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69cede8a366bb95ba551059b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jun 07 |
@@ -70,15 +69,13 @@ For a complete list, click the following sortable link below:
 | **[FIRST ONSITE, LLC](http://www.firstonsite.ca/)** | **[Intern](https://jobright.ai/jobs/info/6a247488d46c0f799608705a?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Jun 06 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6a24455314de9460dc846597?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 06 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ae?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, Florida | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ad?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | Hybrid | Jun 06 |
 | **[Shambaugh & Son, L.P.](http://shambaugh.com)** | **[Intern](https://jobright.ai/jobs/info/6a244b99dedf78312c7ae4bf?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jun 06 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a2446fadedf78312c7ae3e0?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Jun 06 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a078c913b54ed42d74cf4dd?utm_campaign=1050&utm_source=git)** | Ironton, MO, US | On Site | Jun 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea9477dc35f7132c4ab0a3?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jun 06 |
 | **[AIR Control Concepts](www.aircontrolconcepts.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a2415e914de9460dc846108?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06f8d99f57175bd581b2b1?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
-| **[Sevita](https://sevitahealth.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/69f88a620b36ff03547599fb?utm_campaign=1050&utm_source=git)** | 4004 Fruitville Rd, Sarasota, FL 34232, USA | On Site | Jun 06 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eb3?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jun 06 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a78?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Jun 06 |
 | ↳ | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0799c3a203b1052e43cf06?utm_campaign=1050&utm_source=git)** | Irving, TX, US | Hybrid | Jun 06 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Ally Behavior Centers](https://www.allybehavior.com)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a224d147c30cc2cc516e375?utm_campaign=1050&utm_source=git)** | McLean, Virginia, USA | On Site | Jun 04 |
 | ↳ | **[Corporate Operations Intern](https://jobright.ai/jobs/info/6a224d127c30cc2cc516e373?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jun 04 |
 | **[State Street](https://www.statestreet.com/)** | **[PIC Internship - 2026](https://jobright.ai/jobs/info/6a24ede514de9460dc847639?utm_campaign=1050&utm_source=git)** | Boston, Massachusetts, US | On Site | Jun 04 |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Intern](https://jobright.ai/jobs/info/6a223d4cca8f0b365d7ab7a2?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Jun 04 |
+| **[MasTec Communications Group](https://masteccommunicationsgroup.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6a2239afc00e701fe8373636?utm_campaign=1050&utm_source=git)** | Fargo,North Dakota,United States | On Site | Jun 04 |
+| **[Cash Construction Company, Inc., a MasTec Company](https://www.cashconstruction.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6a2239527c30cc2cc516de3e?utm_campaign=1050&utm_source=git)** | Fargo,North Dakota,United States | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
