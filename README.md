@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobster](https://www.jobster.com)** | **[Supply Chain Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a59d6ac09248d722e856?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| **[Jobster](https://www.jobster.com)** | **[Upstream Supply Chain Project Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26aeb14ec8d737d6dfb6a1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| ↳ | **[F&A Intern, Omnichannel - Studentjob.ch](https://jobright.ai/jobs/info/6a26ab2dc138bf654822ef09?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| ↳ | **[Supply Chain Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a59d6ac09248d722e856?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | ↳ | **[Supply Chain Performance Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a3e56ac09248d722e7b9?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976fc48fdeb8243a279dbfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a26948eda383237c5215cf4?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Ship Completions Planning (8 months)](https://jobright.ai/jobs/info/6a268ac3da383237c5215b06?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| ↳ | **[Intern, Supply Chain (4 months)](https://jobright.ai/jobs/info/6a26a6d8fe3b84269c50e43f?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Program Services (8 months)](https://jobright.ai/jobs/info/6a268a9c70318860e50c6a3c?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Detail Planning (8 months)](https://jobright.ai/jobs/info/6a268a98b3e2012412ee4219?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Program Services (8 months)](https://jobright.ai/jobs/info/6a267e6cd631bd162276957e?utm_campaign=1050&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
@@ -70,10 +73,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Detail Planning (8 months)](https://jobright.ai/jobs/info/6a267e6a6d665572632df9e7?utm_campaign=1050&utm_source=git)** | 50 Pemberton Avenue, Operations Centre, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Ship Completions Planning (8 months)](https://jobright.ai/jobs/info/6a267e666d665572632df9e5?utm_campaign=1050&utm_source=git)** | 50 Pemberton Avenue, Operations Centre, North Vancouver, BC, V7P 2R2, CA | On Site | Jun 08 |
 | **[Davidson Kempner Capital Management](https://www.davidsonkempner.com)** | **[Chief of Staff - Intern](https://jobright.ai/jobs/info/6a21c1307c30cc2cc516b100?utm_campaign=1050&utm_source=git)** | New York | On Site | Jun 08 |
-| **[Alphia](https://www.alphia.com/)** | **[Intern](https://jobright.ai/jobs/info/6a266644d46c0f799608a02a?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[ITS Project Coordinator Intern](https://jobright.ai/jobs/info/6a2607be14de9460dc848dca?utm_campaign=1050&utm_source=git)** | US - CA, Irvine, US | On Site | Jun 07 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Operations Development Intern Fall 2026](https://jobright.ai/jobs/info/6a26235ed46c0f7996089576?utm_campaign=1050&utm_source=git)** | Toronto, CAN | On Site | Jun 07 |
-| **[Kitsap County](https://www.kitsapgov.com)** | **[INTERNSHIP - Operations Management ($500 Stipend)](https://jobright.ai/jobs/info/6a259ddc14de9460dc848495?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Jun 07 |
+| **[Kitsap County](https://www.kitsapgov.com)** | **[INTERNSHIP - Operations Management ($500 Stipend)](https://jobright.ai/jobs/info/6a259ddcdedf78312c7b060c?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Jun 07 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a25d36dd46c0f7996088db6?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jun 07 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Inventory Planning Intern (Semester 2) – Generation H](https://jobright.ai/jobs/info/69d042c90b098b7a67077e65?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Strategic Sourcing Intern - Fall 2026](https://jobright.ai/jobs/info/69969f0981476f6176ae8740?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Jun 07 |
@@ -97,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea9477dc35f7132c4ab0a3?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jun 06 |
 | **[AIR Control Concepts](www.aircontrolconcepts.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a2415e914de9460dc846108?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c058275d?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jun 06 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a78?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Jun 06 |
 | ↳ | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0799c3a203b1052e43cf06?utm_campaign=1050&utm_source=git)** | Irving, TX, US | Hybrid | Jun 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2027](https://jobright.ai/jobs/info/6a21d04b4bdf8a5a96bd85a8?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 05 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Supervisor (Intern)](https://jobright.ai/jobs/info/6a064dc16c07461fe171f064?utm_campaign=1050&utm_source=git)** | Bluffton, SC | On Site | Jun 05 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a22cc0b4239a4353887cb0d?utm_campaign=1050&utm_source=git)** | West Lafayette, IN, US | On Site | Jun 05 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co Op 25-26](https://jobright.ai/jobs/info/6a0f74e9619335383fb2c852?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 05 |
-| **[Cook Medical](http://www.cookmedical.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a22c27ed46c0f79960835f0?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
