@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Operations Development Intern Fall 2026](https://jobright.ai/jobs/info/6a26235ed46c0f7996089576?utm_campaign=1050&utm_source=git)** | Toronto, CAN | On Site | Jun 07 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[ITS Project Coordinator Intern](https://jobright.ai/jobs/info/6a2607be14de9460dc848dca?utm_campaign=1050&utm_source=git)** | US - CA, Irvine, US | On Site | Jun 07 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a25b3454239a43538882518?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 07 |
 | **[Kitsap County](https://www.kitsapgov.com)** | **[INTERNSHIP - Operations Management ($500 Stipend)](https://jobright.ai/jobs/info/6a259ddc14de9460dc848495?utm_campaign=1050&utm_source=git)** | East Port Orchard, WA | On Site | Jun 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[2026-27 UHG Leadership Experience (ULE) Internship - Remote](https://jobright.ai/jobs/info/6a22bb526624e500cad09ed0?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Remote | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697a363da5b9804527dffb38?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | Jun 05 |
 | ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fad95187a4820e6da8252e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
-| ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb529c7820c036924f2e06?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
