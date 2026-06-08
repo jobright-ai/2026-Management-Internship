@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobster](https://www.jobster.com)** | **[Supply Chain Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a59d6ac09248d722e856?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| ↳ | **[Supply Chain Performance Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a3e56ac09248d722e7b9?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcb18045e08b3dc1f973d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
+| ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976fc48fdeb8243a279dbfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Project Controls Intern (Entry-Level)](https://jobright.ai/jobs/info/6a26948eda383237c5215cf4?utm_campaign=1050&utm_source=git)** | Chattanooga,TN | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Ship Completions Planning (8 months)](https://jobright.ai/jobs/info/6a268ac3da383237c5215b06?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Program Services (8 months)](https://jobright.ai/jobs/info/6a268a9c70318860e50c6a3c?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Detail Planning (8 months)](https://jobright.ai/jobs/info/6a268a98b3e2012412ee4219?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
@@ -77,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Flinn](http://flinnsci.com)** | **[Internship Procurement - Summer 2026 (2775)](https://jobright.ai/jobs/info/6a254bb3757ade085b6b187f?utm_campaign=1050&utm_source=git)** | BATAVIA, IL 60510 | On Site | Jun 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976e97652f3c27ec642da91?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 07 |
 | ↳ | **[Client Solutions Manager Project Intern (GBS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69cede8a366bb95ba551059b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jun 07 |
+| **[Better Buzz Coffee](https://betterbuzzcoffee.com)** | **[Shift Supervisor - Earn up to $21.00/hr!*](https://jobright.ai/jobs/info/699659b681476f6176ae25cb?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Jun 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Planning Intern:  Fresh Replenishment Produce-Supply Chain](https://jobright.ai/jobs/info/6a208ca3902d19201c7b312f?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 07 |
 | ↳ | **[Fall 2026 Planning Intern: Supply Planning Fresh Replenishment Meat- Supply Chain](https://jobright.ai/jobs/info/6a208c88338c012305119ee5?utm_campaign=1050&utm_source=git)** | 11300 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 07 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/6a25182214de9460dc847ada?utm_campaign=1050&utm_source=git)** | Ft Lauderdale | On Site | Jun 07 |
@@ -90,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a078c913b54ed42d74cf4dd?utm_campaign=1050&utm_source=git)** | Ironton, MO, US | On Site | Jun 06 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69ea9477dc35f7132c4ab0a3?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jun 06 |
 | **[AIR Control Concepts](www.aircontrolconcepts.com)** | **[Estimating Intern](https://jobright.ai/jobs/info/6a2415e914de9460dc846108?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 06 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06f8d99f57175bd581b2b1?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
-| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06f8e19f57175bd581b2d2?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a1571c9554b0e12c0582760?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 06 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a06fa14078fec52738a2eab?utm_campaign=1050&utm_source=git)** | Columbia, MO (Corporate) | On Site | Jun 06 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jun 06 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0805b6939a5f01db955a78?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Jun 06 |
 | ↳ | **[Summer Intern, Strategic Operations](https://jobright.ai/jobs/info/6a0799c3a203b1052e43cf06?utm_campaign=1050&utm_source=git)** | Irving, TX, US | Hybrid | Jun 06 |
@@ -132,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Administrative Intern (Year-Round)](https://jobright.ai/jobs/info/6a0636a5a88ea73abf7f9373?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Jun 05 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69ce77b2cfdc6132f94286f4?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jun 05 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/69a65e02e567421f42576681?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Jun 05 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 05 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 05 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 05 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 05 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Operations & Quoting Intern - Fall 2026](https://jobright.ai/jobs/info/6a22f425dedf78312c7ab76e?utm_campaign=1050&utm_source=git)** | Montreal, QC | Remote | Jun 05 |
 | **[Austal USA](http://austalusa.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6a063dc0bc4184089f24d59c?utm_campaign=1050&utm_source=git)** | Mobile, AL, US | On Site | Jun 05 |
 | **[CR Meyer](http://crmeyer.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a22eba34239a4353887d525?utm_campaign=1050&utm_source=git)** | Coleraine, MN | On Site | Jun 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a22cc0b4239a4353887cb0d?utm_campaign=1050&utm_source=git)** | West Lafayette, IN, US | On Site | Jun 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co Op 25-26](https://jobright.ai/jobs/info/6a0f74e9619335383fb2c852?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 05 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a22c27ed46c0f79960835f0?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Jun 05 |
-| **[Marten Transport](http://marten.com/)** | **[Logistics Coordinator- Intern](https://jobright.ai/jobs/info/6a22c0c36624e500cad09fe5?utm_campaign=1050&utm_source=git)** | Mondovi, WI | On Site | Jun 05 |
-| **[Jobster](https://www.jobster.com)** | **[Upstream Supply Chain Project Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a22bb24757ade085b6aca56?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 05 |
-| ↳ | **[Supply Chain Performance Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a237012d46c0f7996084d73?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jun 05 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain (Global Sourcing) Intern](https://jobright.ai/jobs/info/6a22b6fcd46c0f7996083422?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Jun 05 |
-| **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Hospital Operations Intern](https://jobright.ai/jobs/info/6a069bbe320bff2205eadccc?utm_campaign=1050&utm_source=git)** | Admin Services Bldg. (ASB), US | On Site | Jun 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69cd3bce891d7b11cfcb6dfc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
