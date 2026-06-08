@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Horizon Hotels, Ltd.](https://www.horizonhotels.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a247cf914de9460dc846c08?utm_campaign=1050&utm_source=git)** | Wilmington, US | Remote | Jun 06 |
 | **[FIRST ONSITE, LLC](http://www.firstonsite.ca/)** | **[Intern](https://jobright.ai/jobs/info/6a247488d46c0f799608705a?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Jun 06 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6a24455314de9460dc846597?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 06 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ad?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | Hybrid | Jun 06 |
 | **[Shambaugh & Son, L.P.](http://shambaugh.com)** | **[Intern](https://jobright.ai/jobs/info/6a244b99dedf78312c7ae4bf?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jun 06 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a2446fadedf78312c7ae3e0?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Jun 06 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a078c913b54ed42d74cf4dd?utm_campaign=1050&utm_source=git)** | Ironton, MO, US | On Site | Jun 06 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Administrative Intern (Year-Round)](https://jobright.ai/jobs/info/6a0636a5a88ea73abf7f9373?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Jun 05 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69ce77b2cfdc6132f94286f4?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jun 05 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Production (Product Planning)](https://jobright.ai/jobs/info/69a65e02e567421f42576681?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Jun 05 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 05 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 05 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c958049156781167655?utm_campaign=1050&utm_source=git)** | US-NJ-Pennsauken | On Site | Jun 05 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a1f2c988049156781167657?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ, US | On Site | Jun 05 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Operations & Quoting Intern - Fall 2026](https://jobright.ai/jobs/info/6a22f425dedf78312c7ab76e?utm_campaign=1050&utm_source=git)** | Montreal, QC | Remote | Jun 05 |
 | **[Austal USA](http://austalusa.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6a063dc0bc4184089f24d59c?utm_campaign=1050&utm_source=git)** | Mobile, AL, US | On Site | Jun 05 |
 | **[CR Meyer](http://crmeyer.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a22eba34239a4353887d525?utm_campaign=1050&utm_source=git)** | Coleraine, MN | On Site | Jun 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[2026-27 UHG Leadership Experience (ULE) Internship - Remote](https://jobright.ai/jobs/info/6a22bb526624e500cad09ed0?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Remote | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697a363da5b9804527dffb38?utm_campaign=1050&utm_source=git)** | Austin, CO | On Site | Jun 05 |
 | ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fad95187a4820e6da8252e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
+| ↳ | **[Emerging Verticals Creator Programs Operations Project Intern (TikTok-Operations-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69eb529c7820c036924f2e06?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
