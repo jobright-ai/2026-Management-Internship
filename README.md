@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC Housing Finance Agency](https://www.dchfa.org/)** | **[Office of Executive Director Intern](https://jobright.ai/jobs/info/6a339504910b7349107158a2?utm_campaign=1050&utm_source=git)** | Washington,DC,US | On Site | Jun 17 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a2b15cb0ad4053b108caa85?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jun 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3386abce501060b5ced9a9?utm_campaign=1050&utm_source=git)** | Saraland, AL, US | On Site | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a337c207f3fdd180d4c6e30?utm_campaign=1050&utm_source=git)** | New York | On Site | Jun 17 |
@@ -72,41 +73,41 @@ For a complete list, click the following sortable link below:
 | **[Spacebourne](https://spacebourne.com)** | **[Delta-V Scholar Program / Mission Operations Intern / CEO's Office](https://jobright.ai/jobs/info/6a33524d649fdf16292f1a46?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 17 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Supply Chain Intern - UNPAID](https://jobright.ai/jobs/info/6a3351dcce501060b5ced09a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jun 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a334f88649fdf16292f195f?utm_campaign=1050&utm_source=git)** | Douglasville, GA, US | On Site | Jun 17 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d932cde2824469bbabc?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d90d3ec8317fe13d800?utm_campaign=1050&utm_source=git)** | MORRIS, IL | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295dce495d985b99422f84?utm_campaign=1050&utm_source=git)** | WATERLOO, IA | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d981de59e0682a7eb01?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da2d3ec8317fe13d82c?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d99d3ec8317fe13d817?utm_campaign=1050&utm_source=git)** | FREEPORT, IL | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9a9a922b14560484c8?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d941de59e0682a7eafb?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | Jun 17 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d9f0c4972328e7e2ee5?utm_campaign=1050&utm_source=git)** | MASSILLON, OH | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9a9a922b14560484cd?utm_campaign=1050&utm_source=git)** | KIRKSVILLE, MO | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f0c4972328e7e2ebc?utm_campaign=1050&utm_source=git)** | NORFOLK, NE | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d99495d985b99422f4d?utm_campaign=1050&utm_source=git)** | KALAMAZOO, MI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9e1de59e0682a7eb0e?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d94d3ec8317fe13d805?utm_campaign=1050&utm_source=git)** | ROLLA,MO | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da69a922b14560484de?utm_campaign=1050&utm_source=git)** | SIOUX CITY, IA | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9b495d985b99422f52?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d999a922b14560484c4?utm_campaign=1050&utm_source=git)** | GRAND FORKS, ND | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da0d3ec8317fe13d827?utm_campaign=1050&utm_source=git)** | WICHITA, KS (WEST) | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d95495d985b99422f49?utm_campaign=1050&utm_source=git)** | MARION, OH | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d982cde2824469bbac3?utm_campaign=1050&utm_source=git)** | FARGO, ND | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d94d3ec8317fe13d805?utm_campaign=1050&utm_source=git)** | ROLLA,MO | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d999a922b14560484c4?utm_campaign=1050&utm_source=git)** | GRAND FORKS, ND | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9a9a922b14560484c8?utm_campaign=1050&utm_source=git)** | EVENDALE, OH | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d932cde2824469bbabc?utm_campaign=1050&utm_source=git)** | LAKE ORION, MI | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a302cf4afabbe533fb89806?utm_campaign=1050&utm_source=git)** | LINCOLN, NE (NORTH) | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9b495d985b99422f52?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da2d3ec8317fe13d82c?utm_campaign=1050&utm_source=git)** | TINLEY PARK, IL | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2b03001de59e0682a8772b?utm_campaign=1050&utm_source=git)** | HOLLAND, MI | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d891de59e0682a7eaef?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2b5745c07d4b6ae1c4a5e5?utm_campaign=1050&utm_source=git)** | SUPERIOR, WI | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d972cde2824469bbac2?utm_campaign=1050&utm_source=git)** | RALSTON (OMAHA 72ND & L) | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d81d3ec8317fe13d7f0?utm_campaign=1050&utm_source=git)** | SPRINGFIELD, IL (NORTH) | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8b2cde2824469bbaad?utm_campaign=1050&utm_source=git)** | JOHNSON CREEK, WI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2b5745c07d4b6ae1c4a5e5?utm_campaign=1050&utm_source=git)** | SUPERIOR, WI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2b03001de59e0682a8772b?utm_campaign=1050&utm_source=git)** | HOLLAND, MI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9f0c4972328e7e2ee5?utm_campaign=1050&utm_source=git)** | MASSILLON, OH | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d941de59e0682a7eafb?utm_campaign=1050&utm_source=git)** | HOLLISTER, MO | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295dce495d985b99422f84?utm_campaign=1050&utm_source=git)** | WATERLOO, IA | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d99d3ec8317fe13d817?utm_campaign=1050&utm_source=git)** | FREEPORT, IL | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da69a922b14560484de?utm_campaign=1050&utm_source=git)** | SIOUX CITY, IA | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d99495d985b99422f4d?utm_campaign=1050&utm_source=git)** | KALAMAZOO, MI | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f495d985b99422f44?utm_campaign=1050&utm_source=git)** | RAPID CITY, SD - Manufacturing | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d891de59e0682a7eaef?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d972cde2824469bbac2?utm_campaign=1050&utm_source=git)** | RALSTON (OMAHA 72ND & L) | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9a9a922b14560484cd?utm_campaign=1050&utm_source=git)** | KIRKSVILLE, MO | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9e495d985b99422f54?utm_campaign=1050&utm_source=git)** | FOREST LAKE, MN | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8a0c4972328e7e2eb2?utm_campaign=1050&utm_source=git)** | DES MOINES, IA | On Site | Jun 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d899a922b14560484b1?utm_campaign=1050&utm_source=git)** | WICHITA, KS (EAST) | On Site | Jun 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a302cf4afabbe533fb89806?utm_campaign=1050&utm_source=git)** | LINCOLN, NE (NORTH) | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d90d3ec8317fe13d800?utm_campaign=1050&utm_source=git)** | MORRIS, IL | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295da0d3ec8317fe13d827?utm_campaign=1050&utm_source=git)** | WICHITA, KS (WEST) | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9e1de59e0682a7eb0e?utm_campaign=1050&utm_source=git)** | MITCHELL, SD | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d982cde2824469bbac3?utm_campaign=1050&utm_source=git)** | FARGO, ND | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8a0c4972328e7e2eb2?utm_campaign=1050&utm_source=git)** | DES MOINES, IA | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d9e495d985b99422f54?utm_campaign=1050&utm_source=git)** | FOREST LAKE, MN | On Site | Jun 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d981de59e0682a7eb01?utm_campaign=1050&utm_source=git)** | FISHERS, IN | On Site | Jun 17 |
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a330738649fdf16292f06ed?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jun 17 |
 | ↳ | **[Logistics Intern CS](https://jobright.ai/jobs/info/6a3306dcf6b55d12c791763a?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN, US, 37127 | On Site | Jun 17 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Orange County, NY](https://jobright.ai/jobs/info/6a33449b29c90c607e4dae55?utm_campaign=1050&utm_source=git)** | Hudson Valley - Newburgh, Vails Gate | On Site | Jun 17 |
-| ↳ | **[Fall 2026 Management Trainee Intern- Orange County, NY](https://jobright.ai/jobs/info/6a33449b29c90c607e4dae54?utm_campaign=1050&utm_source=git)** | Newburgh, NY, US | On Site | Jun 17 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Orange County, NY](https://jobright.ai/jobs/info/6a33449b29c90c607e4dae54?utm_campaign=1050&utm_source=git)** | Newburgh, NY, US | On Site | Jun 17 |
+| ↳ | **[Fall 2026 Management Trainee Intern- Orange County, NY](https://jobright.ai/jobs/info/6a33449b29c90c607e4dae55?utm_campaign=1050&utm_source=git)** | Hudson Valley - Newburgh, Vails Gate | On Site | Jun 17 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a330aa2f6b55d12c79177d9?utm_campaign=1050&utm_source=git)** | Plymouth, Michigan, United States | On Site | Jun 17 |
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Intern CS](https://jobright.ai/jobs/info/6a3335e929c90c607e4daad6?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Jun 17 |
 | **[ABB](https://global.abb/group/en)** | **[IS Intern - Fall 2026](https://jobright.ai/jobs/info/6a32f976ce501060b5ceb6cf?utm_campaign=1050&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jun 17 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a0a16ee3b54ed42d74de9a7?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jun 17 |
 | **[Dauch](https://www.dauch.com)** | **[Procurement College Co-op](https://jobright.ai/jobs/info/6a15c434554b0e12c0585801?utm_campaign=1050&utm_source=git)** | Detroit, MI, US | On Site | Jun 17 |
 | **[Ossium Health](https://www.ossiumhealth.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/6a325592c477a5075f491116?utm_campaign=1050&utm_source=git)** | San Francisco, California, United States | Hybrid | Jun 17 |
-| **[Northern News Services](https://www.nnsl.com/)** | **[Digital Skills & Arts Admin Intern](https://jobright.ai/jobs/info/6a328b98649fdf16292eda5d?utm_campaign=1050&utm_source=git)** | Iqaluit, Nunavut, Canada | On Site | Jun 16 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern (Fall 2026 Co-op) - Construction (Columbus)](https://jobright.ai/jobs/info/6a3240d9c477a5075f490f4c?utm_campaign=1050&utm_source=git)** | US-OH-Columbus | On Site | Jun 16 |
 | **[Hilltop Supply and Hardwood](www.hilltopky.com)** | **[Office Assistant Intern](https://jobright.ai/jobs/info/6a32104535e80310003aa9a2?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Jun 16 |
 | **[Atlas Healthcare Partners](https://www.atlashp.com/)** | **[Graduate Intern](https://jobright.ai/jobs/info/6a28bc05fd37e62bb47aad18?utm_campaign=1050&utm_source=git)** | 2355 E Camelback Rd, Phoenix, AZ 85016, USA | On Site | Jun 16 |
