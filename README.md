@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/69b940d006c1ba00c54b53e2?utm_campaign=1050&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Jul 11 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a5240dfe726ec56126a2468?utm_campaign=1050&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Jul 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a523bc18576ec69c014b066?utm_campaign=1050&utm_source=git)** | WATERLOO, IA, United States | On Site | Jul 11 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Jul 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Jul 11 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Jul 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Jul 11 |
 | **[PerformLine](http://www.performline.com)** | **[Operations Internship](https://jobright.ai/jobs/info/6a3ae69d649fdf1629306461?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | Hybrid | Jul 11 |
 | **[Sila Services](https://silaservices.com )** | **[Operations Management Trainee Intern](https://jobright.ai/jobs/info/6a52313a9fbdab22fe13a6d2?utm_campaign=1050&utm_source=git)** | Norwalk, CT, United States | On Site | Jul 11 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2027 Internship - Operations](https://jobright.ai/jobs/info/6a522f98e726ec56126a1e89?utm_campaign=1050&utm_source=git)** | Kent, WA, United States | On Site | Jul 11 |
@@ -146,15 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Phoenix Mecano North America](https://www.phoenixmecano.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a51270a78e364789ca595ed?utm_campaign=1050&utm_source=git)** | Chino, CA, United States | On Site | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations)  - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a51c9ee57513b72e0c67e27?utm_campaign=1050&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a51ef59bf63b66c7997ed29?utm_campaign=1050&utm_source=git)** | Rutland, VT, United States | On Site | Jul 10 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3c402c8bfad862bc999ceb?utm_campaign=1050&utm_source=git)** | Batesville, MS, United States | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee8f400923a0090b19c?utm_campaign=1050&utm_source=git)** | US-MS-Batesville | On Site | Jul 10 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a39bbda214ae004c7a205fe?utm_campaign=1050&utm_source=git)** | South Fulton,Georgia,United States | On Site | Jul 10 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3d3b0978237a036d5e04dd?utm_campaign=1050&utm_source=git)** | Shreveport, LA, US | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4be6236189f64e437f0489?utm_campaign=1050&utm_source=git)** | Lafayette,Louisiana,United States | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee8f400923a0090b19c?utm_campaign=1050&utm_source=git)** | US-MS-Batesville | On Site | Jul 10 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a31e11ec477a5075f48fad8?utm_campaign=1050&utm_source=git)** | Covington,Louisiana,United States | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4bd42d6189f64e437eff3c?utm_campaign=1050&utm_source=git)** | Arlington, TX, US | On Site | Jul 10 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a15ec16a429fd279da93897?utm_campaign=1050&utm_source=git)** | US-SC-Greenwood | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a26d74c30042e75390853d8?utm_campaign=1050&utm_source=git)** | Independence, MO, US | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4bd431c2d11a6a46678d86?utm_campaign=1050&utm_source=git)** | South Fulton, GA, US | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3a62f11232144fb156e78a?utm_campaign=1050&utm_source=git)** | Gardendale,Alabama,United States | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3971f4f6b55d12c7928136?utm_campaign=1050&utm_source=git)** | Port St. Lucie, FL, United States | On Site | Jul 10 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4c796f3122a76a8fd52f69?utm_campaign=1050&utm_source=git)** | Saraland, AL, United States | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a26f35b4ec8d737d6dfcdd0?utm_campaign=1050&utm_source=git)** | League City, TX, US | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a393e7b06a4fd4b1fab8ead?utm_campaign=1050&utm_source=git)** | Evansville, IN, US | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3169550ff23769fdb1dd64?utm_campaign=1050&utm_source=git)** | Pearland, TX, US | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0e6624e500cad0d003?utm_campaign=1050&utm_source=git)** | Morgan City, LA, US | On Site | Jul 10 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a31e118e7b7d514a3bd6082?utm_campaign=1050&utm_source=git)** | Crowley,Texas,United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
