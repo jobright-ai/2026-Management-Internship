@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a545231d007ee02d95fe6d0?utm_campaign=1050&utm_source=git)** | Ionia, MI, United States | On Site | Jul 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operatons) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a54319be726ec56126a96cb?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 12 |
 | **[Menards](https://www.menards.com)** | **[DC Management Intern - Valley, NE](https://jobright.ai/jobs/info/6a5419bc8576ec69c0152135?utm_campaign=1050&utm_source=git)** | Valley, NE, United States | On Site | Jul 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a4463c857ffc220294073ce?utm_campaign=1050&utm_source=git)** | KENT, OH, United States | On Site | Jul 12 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 12 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a539138e726ec56126a7447?utm_campaign=1050&utm_source=git)** | Pittston, PA, United States | On Site | Jul 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a538d08d007ee02d95fbc1e?utm_campaign=1050&utm_source=git)** | ALTOONA, IA, United States | On Site | Jul 12 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a199694547e292ae1392e82?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, US, 32746 | On Site | Jul 12 |
-| ↳ | **[Supply Chain Strategic Sourcing & Cost Management - Intern Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6a50c6ad2e2ceb72963b5bb4?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 12 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6a50c6ad2e2ceb72963b5bb4?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 12 |
+| ↳ | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a199694547e292ae1392e82?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, US, 32746 | On Site | Jul 12 |
 | **[Shinkei](https://www.shinkei.systems)** | **[Operations Intern](https://jobright.ai/jobs/info/6a2ea087a1d15e3c552ffd99?utm_campaign=1050&utm_source=git)** | El Segundo, California, United States | On Site | Jul 12 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a53813de726ec56126a703a?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Gulf Wind Technology](https://gulfwindtechnology.com)** | **[Intern - Junior Project Leader](https://jobright.ai/jobs/info/6a537d0f9fbdab22fe13f8ae?utm_campaign=1050&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 12 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a521db39fbdab22fe13a274?utm_campaign=1050&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30c544afabbe533fb8c546?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 11 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
-| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
-| ↳ | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
+| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
+| ↳ | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a520346ae4052672fe9d313?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Jul 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Event Logistics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51fad057513b72e0c69f2b?utm_campaign=1050&utm_source=git)** | Somerville, MA, United States | On Site | Jul 11 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a51eff6ae4052672fe9cd96?utm_campaign=1050&utm_source=git)** | Webster, TX, United States | On Site | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VisionPoint Marketing](https://www.visionpointmarketing.com)** | **[Agency Administration Intern](https://jobright.ai/jobs/info/6a51bde2ae4052672fe9a0d7?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 10 |
 | **[Ikigai Cases](www.ikigaicases.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a432fb64461bf091787a7cc?utm_campaign=1050&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Jul 10 |
 | **[Phoenix Mecano North America](https://www.phoenixmecano.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a51270a78e364789ca595ed?utm_campaign=1050&utm_source=git)** | Chino, CA, United States | On Site | Jul 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations)  - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a51c9ee57513b72e0c67e27?utm_campaign=1050&utm_source=git)** | Los Angeles, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
