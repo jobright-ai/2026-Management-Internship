@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a54c2bbf7e23d26a08feaeb?utm_campaign=1050&utm_source=git)** | MUNCIE, IN, United States | On Site | Jul 13 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a54c115235a034d05ee6e1e?utm_campaign=1050&utm_source=git)** | West Chase, TX, United States | On Site | Jul 13 |
 | **[Infinite Management Solutions, LLC](https://teamims.net)** | **[SkillBridge: Program Manager](https://jobright.ai/jobs/info/6a54b98e8215bf1b856b6c6a?utm_campaign=1050&utm_source=git)** | Dayton, OH, United States | On Site | Jul 13 |
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a54a97f8215bf1b856b68f6?utm_campaign=1050&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 13 |
 | **[Ruston Paving](http://rustonpaving.com)** | **[Construction Project Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6a549eb8d007ee02d95ff567?utm_campaign=1050&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 13 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6a521db39fbdab22fe13a274?utm_campaign=1050&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30c544afabbe533fb8c546?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 11 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69aa6ced9ca4e908ec65bcc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
-| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
-| ↳ | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
+| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
+| ↳ | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Jul 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a520346ae4052672fe9d313?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Jul 11 |
-| **[Formlabs](http://www.formlabs.com)** | **[Event Logistics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51fad057513b72e0c69f2b?utm_campaign=1050&utm_source=git)** | Somerville, MA, United States | On Site | Jul 11 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a51eff6ae4052672fe9cd96?utm_campaign=1050&utm_source=git)** | Webster, TX, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
