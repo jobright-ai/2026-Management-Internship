@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cahoot](https://www.cahoot.ai)** | **[MBA Business Strategy & Finance Intern](https://jobright.ai/jobs/info/6a54906fc8eb0843027b0542?utm_campaign=1050&utm_source=git)** | Bridgeport, CT, United States | On Site | Jul 13 |
 | **[Direct Line Communications Inc](https://www.dlci.net/)** | **[Intern](https://jobright.ai/jobs/info/6a401caa1afc66714d3c9b12?utm_campaign=1050&utm_source=git)** | Mishawaka, IN, United States | On Site | Jul 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a548a5a8576ec69c0153822?utm_campaign=1050&utm_source=git)** | DAVENPORT, IA, United States | On Site | Jul 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a548a598a74e077472fc270?utm_campaign=1050&utm_source=git)** | Peru, IL, United States | On Site | Jul 12 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Marten Transport](http://marten.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a5374d9e726ec56126a6e25?utm_campaign=1050&utm_source=git)** | Tucker, GA, United States | On Site | Jul 12 |
 | **[SAP Americas](www.sap.com)** | **[SAP iXp Intern - SAP Americas Business AI Platform - Project Management](https://jobright.ai/jobs/info/6a5370ec8576ec69c014fc35?utm_campaign=1050&utm_source=git)** | Reston, VA, United States | Hybrid | Jul 12 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6a02bb9b6c07461fe16fce33?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Jul 12 |
-| **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/6a2a7d0ed3ec8317fe143ef0?utm_campaign=1050&utm_source=git)** | Omaha (E&amp;K) | On Site | Jul 12 |
-| ↳ | **[Intern Job Details / CDM](https://jobright.ai/jobs/info/6a485966c2d11a6a466746ce?utm_campaign=1050&utm_source=git)** | Omaha, NEBRASKA, US, 68137 | On Site | Jul 12 |
+| **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern Job Details / CDM](https://jobright.ai/jobs/info/6a485966c2d11a6a466746ce?utm_campaign=1050&utm_source=git)** | Omaha, NEBRASKA, US, 68137 | On Site | Jul 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a2a7d0ed3ec8317fe143ef0?utm_campaign=1050&utm_source=git)** | Omaha (E&amp;K) | On Site | Jul 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a1aa99bc2a87d6cd3e007cc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
 | **[Definity](https://www.definityfinancial.com/)** | **[RPC Underwriting Assistant - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a1fab9709442629a685c118?utm_campaign=1050&utm_source=git)** | Montreal, QUE, Canada | Hybrid | Jul 12 |
 | **[Economical Insurance](https://www.economical.com/)** | **[RPC Underwriting Assistant - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a1aed566b135014dbc8cada?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a51eff6ae4052672fe9cd96?utm_campaign=1050&utm_source=git)** | Webster, TX, United States | On Site | Jul 11 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51eebc57513b72e0c69c71?utm_campaign=1050&utm_source=git)** | Erlanger, KY, United States | On Site | Jul 11 |
 | **[Electric Plus](http://electricplus.com)** | **[PowerUP Summer Intern](https://jobright.ai/jobs/info/6a51ea308d7d3e6cf1cc4a22?utm_campaign=1050&utm_source=git)** | Avon, IN 46123, USA | On Site | Jul 11 |
-| **[Glee Church](http://www.gleechurch.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6a51e8bdae4052672fe9cb31?utm_campaign=1050&utm_source=git)** | Bowie, MD, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
