@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/6a5475368ef95364ead95a5e?utm_campaign=1050&utm_source=git)** | Homestead, FL, United States | On Site | Jul 12 |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6a546da6c8eb0843027afe73?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6a51b2edae4052672fe992e1?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 12 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Strategic Assistant to the Executive Director (Unpaid Remote Intern)](https://jobright.ai/jobs/info/6a545bc98ef95364ead95519?utm_campaign=1050&utm_source=git)** | Gloucester, MA, United States | Remote | Jul 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a545231d007ee02d95fe6d0?utm_campaign=1050&utm_source=git)** | Ionia, MI, United States | On Site | Jul 12 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/6a11026312f8b43cf3988afa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 12 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a539138e726ec56126a7447?utm_campaign=1050&utm_source=git)** | Pittston, PA, United States | On Site | Jul 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a538d08d007ee02d95fbc1e?utm_campaign=1050&utm_source=git)** | ALTOONA, IA, United States | On Site | Jul 12 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a199694547e292ae1392e82?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, US, 32746 | On Site | Jul 12 |
-| ↳ | **[Supply Chain Strategic Sourcing & Cost Management - Intern Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6a50c6ad2e2ceb72963b5bb4?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 12 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Supply Chain Strategic Sourcing & Cost Management - Intern Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6a50c6ad2e2ceb72963b5bb4?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 12 |
+| ↳ | **[Supply Chain Strategic Sourcing & Cost Management - Intern](https://jobright.ai/jobs/info/6a199694547e292ae1392e82?utm_campaign=1050&utm_source=git)** | Lake Mary, FL, US, 32746 | On Site | Jul 12 |
 | **[Shinkei](https://www.shinkei.systems)** | **[Operations Intern](https://jobright.ai/jobs/info/6a2ea087a1d15e3c552ffd99?utm_campaign=1050&utm_source=git)** | El Segundo, California, United States | On Site | Jul 12 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a53813de726ec56126a703a?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Gulf Wind Technology](https://gulfwindtechnology.com)** | **[Intern - Junior Project Leader](https://jobright.ai/jobs/info/6a537d0f9fbdab22fe13f8ae?utm_campaign=1050&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADL Ventures](http://adlventures.com/)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a51cec602522b5b722ebd04?utm_campaign=1050&utm_source=git)** | Boston, MA, United States | Remote | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Business Operations Intern - Fall 2026](https://jobright.ai/jobs/info/6a51cdb502522b5b722ebc79?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[GSM Intern (Year-Round)](https://jobright.ai/jobs/info/6a3e8d438bfad862bc99ff73?utm_campaign=1050&utm_source=git)** | Auburn Hills PTC - USA, United States of America | On Site | Jul 10 |
-| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Fall 2026](https://jobright.ai/jobs/info/6a51e94b57513b72e0c69b17?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[VisionPoint Marketing](https://www.visionpointmarketing.com)** | **[Agency Administration Intern](https://jobright.ai/jobs/info/6a51bde2ae4052672fe9a0d7?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
