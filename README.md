@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Global Product Operations Manager Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5567c74119652ff386588b?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| **[The Messina Group](http://themessinagroup.com/)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/6a3c92638bfad862bc99ac08?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
+| **[MWH](https://mwhconstructors.com)** | **[CMS Intern - Construction](https://jobright.ai/jobs/info/6a55644af2c46727285f1ee6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 13 |
+| ↳ | **[CMS Intern - Construction](https://jobright.ai/jobs/info/6a55643b377f983ce8a99df1?utm_campaign=1050&utm_source=git)** | Corona, CA, United States | On Site | Jul 13 |
+| ↳ | **[CMS Intern - Construction](https://jobright.ai/jobs/info/6a556428ae07d60a8d01107e?utm_campaign=1050&utm_source=git)** | Corona, CA, United States | On Site | Jul 13 |
+| **[Optum](https://frontiertherapies.optum.com)** | **[2026-27 UHG Leadership Experience (ULE) Internship - Remote](https://jobright.ai/jobs/info/6a555fdfae07d60a8d010eca?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN, United States | Remote | Jul 13 |
 | **[Dashiell Corporation](http://www.dashiell.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a551839268af95237be935d?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 13 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a555973f2c46727285f1a6e?utm_campaign=1050&utm_source=git)** | Austin, United States | On Site | Jul 13 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Enterprise Operations Intern- Fall 2026](https://jobright.ai/jobs/info/6a55594b2084cd792b477f74?utm_campaign=1050&utm_source=git)** | AL, United States | Remote | Jul 13 |
@@ -64,24 +70,24 @@ For a complete list, click the following sortable link below:
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Office Intern - Production Control](https://jobright.ai/jobs/info/6a554e9e268af95237beac75?utm_campaign=1050&utm_source=git)** | Rock Spring, GA, United States | On Site | Jul 13 |
 | **[Base-2 Solutions](https://www.base-2solutions.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a554de6268af95237beab89?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Resident Supervisor Intern – [Marietta, OH] (Unpaid, Fall 2026)](https://jobright.ai/jobs/info/6a54e04a8b24713fc151b594?utm_campaign=1050&utm_source=git)** | Marietta, OH, United States | On Site | Jul 13 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3169550ff23769fdb1dd64?utm_campaign=1050&utm_source=git)** | Pearland, TX, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a18c7e24ef36525829b09?utm_campaign=1050&utm_source=git)** | US-AL-Alabaster | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a39bbda214ae004c7a205fe?utm_campaign=1050&utm_source=git)** | South Fulton,Georgia,United States | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3a62f11232144fb156e78a?utm_campaign=1050&utm_source=git)** | Gardendale,Alabama,United States | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4bd431c2d11a6a46678d86?utm_campaign=1050&utm_source=git)** | South Fulton, GA, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a32a991910b734910710f6e?utm_campaign=1050&utm_source=git)** | Florence, AL, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4c796f3122a76a8fd52f69?utm_campaign=1050&utm_source=git)** | Saraland, AL, United States | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a26f35b4ec8d737d6dfcdd0?utm_campaign=1050&utm_source=git)** | League City, TX, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee8f400923a0090b19c?utm_campaign=1050&utm_source=git)** | US-MS-Batesville | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3c402c8bfad862bc999ceb?utm_campaign=1050&utm_source=git)** | Batesville, MS, United States | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0e6624e500cad0d003?utm_campaign=1050&utm_source=git)** | Morgan City, LA, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4be6236189f64e437f0489?utm_campaign=1050&utm_source=git)** | Lafayette,Louisiana,United States | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a31e11ec477a5075f48fad8?utm_campaign=1050&utm_source=git)** | Covington,Louisiana,United States | On Site | Jul 13 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a26f35b4ec8d737d6dfcdd0?utm_campaign=1050&utm_source=git)** | League City, TX, US | On Site | Jul 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a393e7b06a4fd4b1fab8ead?utm_campaign=1050&utm_source=git)** | Evansville, IN, US | On Site | Jul 13 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3d3b0978237a036d5e04dd?utm_campaign=1050&utm_source=git)** | Shreveport, LA, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a31e11ec477a5075f48fad8?utm_campaign=1050&utm_source=git)** | Covington,Louisiana,United States | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a23fc0e6624e500cad0d003?utm_campaign=1050&utm_source=git)** | Morgan City, LA, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a1a18c7e24ef36525829b09?utm_campaign=1050&utm_source=git)** | US-AL-Alabaster | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a06dee8f400923a0090b19c?utm_campaign=1050&utm_source=git)** | US-MS-Batesville | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a32a991910b734910710f6e?utm_campaign=1050&utm_source=git)** | Florence, AL, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3169550ff23769fdb1dd64?utm_campaign=1050&utm_source=git)** | Pearland, TX, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4be6236189f64e437f0489?utm_campaign=1050&utm_source=git)** | Lafayette,Louisiana,United States | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3c402c8bfad862bc999ceb?utm_campaign=1050&utm_source=git)** | Batesville, MS, United States | On Site | Jul 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a480e9c3dbab558e29abe31?utm_campaign=1050&utm_source=git)** | Houma, LA, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3d3b0978237a036d5e04dd?utm_campaign=1050&utm_source=git)** | Shreveport, LA, US | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4bd431c2d11a6a46678d86?utm_campaign=1050&utm_source=git)** | South Fulton, GA, US | On Site | Jul 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3971f4f6b55d12c7928136?utm_campaign=1050&utm_source=git)** | Port St. Lucie, FL, United States | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a39bbda214ae004c7a205fe?utm_campaign=1050&utm_source=git)** | South Fulton,Georgia,United States | On Site | Jul 13 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a42ab2c6faf75606096783b?utm_campaign=1050&utm_source=git)** | Olive Branch, MS, United States | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a3a62f11232144fb156e78a?utm_campaign=1050&utm_source=git)** | Gardendale,Alabama,United States | On Site | Jul 13 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a4c796f3122a76a8fd52f69?utm_campaign=1050&utm_source=git)** | Saraland, AL, United States | On Site | Jul 13 |
 | **[Experience Fayetteville, AR](https://www.experiencefayetteville.com)** | **[Intern](https://jobright.ai/jobs/info/6a55469b377f983ce8a98f71?utm_campaign=1050&utm_source=git)** | Fayetteville, AR, United States | On Site | Jul 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a51e0648d7d3e6cf1cc43ff?utm_campaign=1050&utm_source=git)** | Port Arthur,Texas,United States | On Site | Jul 13 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Resident Supervisor Intern – [Tiffin, OH] (Unpaid, Fall 2026)](https://jobright.ai/jobs/info/6a5542e5f2c46727285f0e1a?utm_campaign=1050&utm_source=git)** | Tiffin, OH, United States | On Site | Jul 13 |
@@ -116,10 +122,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a39a9411232144fb156cb96?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6a550a3e268af95237be8cf7?utm_campaign=1050&utm_source=git)** | Crowley,Texas,United States | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2a4d762cde2824469c1422?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcdee7e6a0d979258507a8?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[SMB Operations Specialist Project Intern (Product Led Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4f40c115b4965afd585aec?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69bcdee7e6a0d979258507a8?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
+| ↳ | **[Global Agency Acquisition Project Intern (Scaled Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302265afabbe533fb8926e?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d241524fd5657fe124b1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | ↳ | **[Client Solutions Manager Project Intern (GBS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c8d0524fd5657fe12247?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | On Site | Jul 13 |
+| ↳ | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805f581f8da15dc7d51cc?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30c544afabbe533fb8c546?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | ↳ | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d584eace377055eb7cfd?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69327d4df131d96e4845cab4?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cdf6093df201d07b2b2c?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f3ace7cce40b3423508?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | **[ByteDance](http://bytedance.com)** | **[Facilities Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4a6d25f9cbb100d1ab4a8e?utm_campaign=1050&utm_source=git)** | San Jose, California, United States of America | On Site | Jul 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Manager Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d1c7eace377055eb7c20?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d20643732c05812e3d22?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 13 |
-| ↳ | **[Strategy Analysis Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c0978d261407de97fc079?utm_campaign=1050&utm_source=git)** | Los Angeles | On Site | Jul 13 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a53fa0ec8eb0843027ae597?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6a314a922ee3ac1b4beedfce?utm_campaign=1050&utm_source=git)** | Seattle | On Site | Jul 13 |
-| ↳ | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30ce3cafabbe533fb8c6ec?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 13 |
-| ↳ | **[Product Manager Project Intern (Brand Innovation - Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6a2ff202afabbe533fb884c5?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| ↳ | **[Seller LIVE Operations Manager Project Intern (TikTok Shop - Operations) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6a4c48e24f64ba41dcb5f1b4?utm_campaign=1050&utm_source=git)** | Los Angeles, California, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
