@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SecureRx Technologies Inc.](secure-rx.ca)** | **[Business Operations Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5d3197686b4755d1e1d21c?utm_campaign=1050&utm_source=git)** | Ontario, Canada | Remote | Jul 19 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1dad4da96a42cfd99661?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SKILLBRIDGE, DISTRIBUTION OPS SUPP MGR](https://jobright.ai/jobs/info/6a36612ece501060b5cf6e5a?utm_campaign=1050&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Jul 19 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Administrative Internship - Strategy & Business Development](https://jobright.ai/jobs/info/6a5ce470686b4755d1e1caa0?utm_campaign=1050&utm_source=git)** | Texas Medical Center-Houston, Texas, United States | On Site | Jul 19 |
 | **[Grace Church](http://www.grace.church)** | **[Project Management Internship](https://jobright.ai/jobs/info/6a5533462084cd792b476e9c?utm_campaign=1050&utm_source=git)** | Eden Prairie Campus - EDEN PRAIRIE, MN 55347 | On Site | Jul 19 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a2446fadedf78312c7ae3e0?utm_campaign=1050&utm_source=git)** | Ashburn, VA, United States | On Site | Jul 19 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/68cf02e7dbd9fb154ede44c2?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jul 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a218c684bdf8a5a96bd641f?utm_campaign=1050&utm_source=git)** | USA RAVENNA OH PARFLEX | On Site | Jul 19 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/6a394b9e649fdf16293000ae?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Intern (Non-Exempt) - Lincoln Center - FT - Day](https://jobright.ai/jobs/info/6a52cd5fe726ec56126a49d0?utm_campaign=1050&utm_source=git)** | Topeka, KS, United States | On Site | Jul 19 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern #457 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7615856af468ab00cec2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #862 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b76143ac7627fe900866f?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #1022 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760f856af468ab00cec0?utm_campaign=1050&utm_source=git)** | Blaine, MN, United States | On Site | Jul 18 |
-| ↳ | **[Retail Management Intern #1168 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760663a8f619507cb4c2?utm_campaign=1050&utm_source=git)** | Hudson, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #453 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7606856af468ab00cebb?utm_campaign=1050&utm_source=git)** | River Falls, WI, United States | On Site | Jul 18 |
+| ↳ | **[Retail Management Intern #1168 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760663a8f619507cb4c2?utm_campaign=1050&utm_source=git)** | Hudson, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #275 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760563a8f619507cb4c0?utm_campaign=1050&utm_source=git)** | Mankato, MN, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #490 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7600856af468ab00ceb7?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #330 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75fa856af468ab00ceb0?utm_campaign=1050&utm_source=git)** | Belle Plaine, MN, United States | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5b057a63a8f619507c9b4a?utm_campaign=1050&utm_source=git)** | SAGINAW, MI - Retail Store | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b021e63a8f619507c9a76?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 17 |
 | **[Nature First Landscaping](www.naturefirstlandscaping.com)** | **[Summer Business Operations Internship](https://jobright.ai/jobs/info/6a5b00523ac7627fe9006bf9?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 17 |
-| **[BattleAxe Digital](https://battleaxedigital.com)** | **[Summer Research and Team Intern](https://jobright.ai/jobs/info/6a5ae0474da96a42cfd97c80?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 17 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295dce495d985b99422f84?utm_campaign=1050&utm_source=git)** | WATERLOO, IA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
