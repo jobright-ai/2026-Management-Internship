@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Jul 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1dad4da96a42cfd99661?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[SKILLBRIDGE, DISTRIBUTION OPS SUPP MGR](https://jobright.ai/jobs/info/6a36612ece501060b5cf6e5a?utm_campaign=1050&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Jul 19 |
 | **[Marsden Services](https://www.marsden.com/)** | **[Intern - Stadiums Operations](https://jobright.ai/jobs/info/6a5d1edec8e3a473cb8b3847?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 19 |
 | **[Stonehill Communities](https://www.stonehilldbq.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/6a5d1ddd856af468ab010418?utm_campaign=1050&utm_source=git)** | Dubuque, IA 52001, USA | On Site | Jul 19 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern #457 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7615856af468ab00cec2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #862 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b76143ac7627fe900866f?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #1022 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760f856af468ab00cec0?utm_campaign=1050&utm_source=git)** | Blaine, MN, United States | On Site | Jul 18 |
-| ↳ | **[Retail Management Intern #453 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7606856af468ab00cebb?utm_campaign=1050&utm_source=git)** | River Falls, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #1168 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760663a8f619507cb4c2?utm_campaign=1050&utm_source=git)** | Hudson, WI, United States | On Site | Jul 18 |
+| ↳ | **[Retail Management Intern #453 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7606856af468ab00cebb?utm_campaign=1050&utm_source=git)** | River Falls, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #275 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760563a8f619507cb4c0?utm_campaign=1050&utm_source=git)** | Mankato, MN, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #490 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7600856af468ab00ceb7?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #330 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75fa856af468ab00ceb0?utm_campaign=1050&utm_source=git)** | Belle Plaine, MN, United States | On Site | Jul 18 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6a5b4936c8e3a473cb8af9e6?utm_campaign=1050&utm_source=git)** | Newport News, VA, United States | On Site | Jul 18 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Strategic Sourcing / Value Creation (SCM) Job Details / Celestica International LP](https://jobright.ai/jobs/info/6a5b408b856af468ab00c5a0?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 18 |
 | **[Mind You](https://www.mindyou.com.ph)** | **[Administrative Intern (Remote)](https://jobright.ai/jobs/info/6a5b2343686b4755d1e18c1d?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1dad4da96a42cfd99661?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 17 |
 | **[Ampliwork](https://www.ampliwork.com)** | **[Operations & Strategy Intern](https://jobright.ai/jobs/info/6a5b1d63686b4755d1e18aa8?utm_campaign=1050&utm_source=git)** | Montréal, Canada | On Site | Jul 17 |
 | **[Vista Compliance Laboratories](https://www.vista-compliance.com)** | **[Administrative Intern (Internship)](https://jobright.ai/jobs/info/6a5b1a73c8e3a473cb8af1b7?utm_campaign=1050&utm_source=git)** | San Clemente, CA, United States | On Site | Jul 17 |
 | **[CBIZ](https://kaconsults.cbiz.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a5b124e856af468ab00b6b8?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Jul 17 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b021e63a8f619507c9a76?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 17 |
 | **[Nature First Landscaping](www.naturefirstlandscaping.com)** | **[Summer Business Operations Internship](https://jobright.ai/jobs/info/6a5b00523ac7627fe9006bf9?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 17 |
 | **[BattleAxe Digital](https://battleaxedigital.com)** | **[Summer Research and Team Intern](https://jobright.ai/jobs/info/6a5ae0474da96a42cfd97c80?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 17 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d9b495d985b99422f52?utm_campaign=1050&utm_source=git)** | MT VERNON, IL | On Site | Jul 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d90d3ec8317fe13d800?utm_campaign=1050&utm_source=git)** | MORRIS, IL | On Site | Jul 17 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295dce495d985b99422f84?utm_campaign=1050&utm_source=git)** | WATERLOO, IA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
