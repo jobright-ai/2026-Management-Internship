@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5bfe3d686b4755d1e1abf6?utm_campaign=1050&utm_source=git)** | San Jose | Hybrid | Jul 19 |
 | **[SecureRx Technologies Inc.](secure-rx.ca)** | **[Business Operations Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5d3197686b4755d1e1d21c?utm_campaign=1050&utm_source=git)** | Ontario, Canada | Remote | Jul 19 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Operations Project Intern, Content Operations (TikTok-Operations-Operations Efficiency) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5b1dad4da96a42cfd99661?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Project Management Project Intern (Real Estate & Facilities - AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55f777efb06a45240d2646?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Jul 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall 2026 Internship](https://jobright.ai/jobs/info/6a5c084863a8f619507cc79d?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Jul 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5c02c5686b4755d1e1ad3f?utm_campaign=1050&utm_source=git)** | ST. PAUL, MN (MIDWAY), United States | On Site | Jul 18 |
-| **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5bfe3d686b4755d1e1abf6?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | Hybrid | Jul 18 |
 | **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Supply Chain Intern](https://jobright.ai/jobs/info/6a5bdd2cc8e3a473cb8b0fc5?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jul 18 |
 | **[Americans 4 Equality](https://www.americans4equality.org)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a5bd9294da96a42cfd9b3a3?utm_campaign=1050&utm_source=git)** | Bellevue, WA, United States | On Site | Jul 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a51eff6ae4052672fe9cd96?utm_campaign=1050&utm_source=git)** | Webster, TX, United States | On Site | Jul 18 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern #457 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7615856af468ab00cec2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #862 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b76143ac7627fe900866f?utm_campaign=1050&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #1022 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760f856af468ab00cec0?utm_campaign=1050&utm_source=git)** | Blaine, MN, United States | On Site | Jul 18 |
-| ↳ | **[Retail Management Intern #453 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7606856af468ab00cebb?utm_campaign=1050&utm_source=git)** | River Falls, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #1168 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760663a8f619507cb4c2?utm_campaign=1050&utm_source=git)** | Hudson, WI, United States | On Site | Jul 18 |
+| ↳ | **[Retail Management Intern #453 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7606856af468ab00cebb?utm_campaign=1050&utm_source=git)** | River Falls, WI, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #275 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b760563a8f619507cb4c0?utm_campaign=1050&utm_source=git)** | Mankato, MN, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #490 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b7600856af468ab00ceb7?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA, United States | On Site | Jul 18 |
 | ↳ | **[Retail Management Intern #330 Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a5b75fa856af468ab00ceb0?utm_campaign=1050&utm_source=git)** | Belle Plaine, MN, United States | On Site | Jul 18 |
