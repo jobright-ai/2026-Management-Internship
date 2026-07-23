@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Equipment Operations](https://jobright.ai/jobs/info/6a6175da7196365a6f00b028?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 22 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a53813de726ec56126a703a?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
+| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Mission Manager](https://jobright.ai/jobs/info/6a4e91d59469c0662034bd24?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Aramark UK](aramark.co.uk)** | **[Catering Services Supervisor Intern - University of Nebraska - Premium](https://jobright.ai/jobs/info/6a6167b111edf44d79160a8c?utm_campaign=1050&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 22 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6160e311edf44d79160843?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 22 |
 | **[FH Construction Group](https://www.fhconstructiongroup.com)** | **[Field Operations Intern](https://jobright.ai/jobs/info/6a61601cab14335fc0f17dfb?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | On Site | Jul 22 |
@@ -99,19 +103,18 @@ For a complete list, click the following sortable link below:
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6a60f272ab14335fc0f162bd?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[CARE](http://www.care.org/)** | **[INTERN, STRATEGY AND TRANSFORMATION](https://jobright.ai/jobs/info/6a60f2647196365a6f008c91?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 22 |
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - College](https://jobright.ai/jobs/info/6a444a5b57ffc22029406ff2?utm_campaign=1050&utm_source=git)** | San Antonio, United States | On Site | Jul 22 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a272a914ec8d737d6dfe514?utm_campaign=1050&utm_source=git)** | Irvine, CA, US | Remote | Jul 22 |
-| ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/6a5da332856af468ab01169b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a5da332856af468ab01169b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/6a272a914ec8d737d6dfe514?utm_campaign=1050&utm_source=git)** | Irvine, CA, US | Remote | Jul 22 |
 | **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III - Admin](https://jobright.ai/jobs/info/6a60c2b797c51d628eb3a391?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Jul 22 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a0b3ca8a235d749afa82f7c?utm_campaign=1050&utm_source=git)** | Aliquippa, PA, United States | On Site | Jul 22 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a60df73d51f6101c8fb9155?utm_campaign=1050&utm_source=git)** | Omaha, NE, United States | On Site | Jul 22 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Fall 2026 Program Management Intern](https://jobright.ai/jobs/info/6a60e5fa11edf44d7915e71d?utm_campaign=1050&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 22 |
-| **[Mercedes-Benz North America Corporation](https://group.mercedes-benz.com/northamerica/)** | **[AI Program Manager Intern](https://jobright.ai/jobs/info/6a60e420eaa37f43e758624c?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 22 |
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a60e3dc11edf44d7915e666?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 22 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Internship](https://jobright.ai/jobs/info/6a60e013ab9bd46763248d01?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
 | **[Prayers From Maria Children's Cancer Foundation](http://prayersfrommaria.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6a6150a47196365a6f00a56b?utm_campaign=1050&utm_source=git)** | Rocky River, OH, United States | On Site | Jul 22 |
-| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
+| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a58dddbc8e3a473cb8a3844?utm_campaign=1050&utm_source=git)** | Shawano, WI, United States | On Site | Jul 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Venue Management Intern / Part-Time / BOK Center & Arvest Convention Center](https://jobright.ai/jobs/info/6a60db9a11edf44d7915e26c?utm_campaign=1050&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a553385ae07d60a8d00fb78?utm_campaign=1050&utm_source=git)** | Evendale, OH, United States | On Site | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a551bef4119652ff386363c?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 | **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/6a5b4f87686b4755d1e1928f?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Jul 21 |
 | **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Stadium Operations Intern](https://jobright.ai/jobs/info/6a5a954ec8e3a473cb8ac987?utm_campaign=1050&utm_source=git)** | Frederick, MD, United States | On Site | Jul 21 |
-| **[WildChina 碧山](https://wildchina.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a60240d33ef5c58b4001e2c?utm_campaign=1050&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 21 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Operations Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd26c8c7fd835513bb3f5?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Jul 21 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Graduate Assistant Intern- Methodist Germantown Hospital](https://jobright.ai/jobs/info/6a5fddfcf68dd368023e9448?utm_campaign=1050&utm_source=git)** | Germantown, TN, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
