@@ -113,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a60e3dc11edf44d7915e666?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 22 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Internship](https://jobright.ai/jobs/info/6a60e013ab9bd46763248d01?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
 | **[Prayers From Maria Children's Cancer Foundation](http://prayersfrommaria.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6a6150a47196365a6f00a56b?utm_campaign=1050&utm_source=git)** | Rocky River, OH, United States | On Site | Jul 22 |
-| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
+| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a58dddbc8e3a473cb8a3844?utm_campaign=1050&utm_source=git)** | Shawano, WI, United States | On Site | Jul 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Venue Management Intern / Part-Time / BOK Center & Arvest Convention Center](https://jobright.ai/jobs/info/6a60db9a11edf44d7915e26c?utm_campaign=1050&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a553385ae07d60a8d00fb78?utm_campaign=1050&utm_source=git)** | Evendale, OH, United States | On Site | Jul 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60d845c752926c2268280b?utm_campaign=1050&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 22 |
@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60bc2ee3f5ff347d7c5612?utm_campaign=1050&utm_source=git)** | Naperville, IL, United States | On Site | Jul 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a564c4aefb06a45240d4eae?utm_campaign=1050&utm_source=git)** | Yorkville, IL, United States | On Site | Jul 22 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6a60b80ea4c799127e993cc9?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
-| **[Gilroy Kernan & Gilroy](http://gkgrisk.com)** | **[Intern](https://jobright.ai/jobs/info/6a2123687c30cc2cc5167e6f?utm_campaign=1050&utm_source=git)** | New Hartford,NY,US | Hybrid | Jul 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a58d9634da96a42cfd8d7f0?utm_campaign=1050&utm_source=git)** | New Hartford, NY, United States | Remote | Jul 22 |
+| **[Gilroy Kernan & Gilroy](http://gkgrisk.com)** | **[Intern](https://jobright.ai/jobs/info/6a58d9634da96a42cfd8d7f0?utm_campaign=1050&utm_source=git)** | New Hartford, NY, United States | Remote | Jul 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a2123687c30cc2cc5167e6f?utm_campaign=1050&utm_source=git)** | New Hartford,NY,US | Hybrid | Jul 22 |
 | **[IIRR](http://www.iirr.org)** | **[Operations Officer - Intern](https://jobright.ai/jobs/info/6a55f0a721f64463ad350d41?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51eebc57513b72e0c69c71?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Jul 22 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/6a60a0f62a30b85637874c74?utm_campaign=1050&utm_source=git)** | Lost Hills, CA, United States | On Site | Jul 22 |
