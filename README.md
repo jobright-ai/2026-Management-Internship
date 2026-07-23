@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Director's Office Intern](https://jobright.ai/jobs/info/6a507635397d8d353c28eb5f?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop-Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6160e311edf44d79160843?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Jul 22 |
+| **[FH Construction Group](https://www.fhconstructiongroup.com)** | **[Field Operations Intern](https://jobright.ai/jobs/info/6a61601cab14335fc0f17dfb?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | On Site | Jul 22 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a52e74b8576ec69c014def3?utm_campaign=1050&utm_source=git)** | Manteno, IL, United States | On Site | Jul 22 |
+| **[Red Bull](https://www.redbull.com/br-pt/amz-tipiti)** | **[2026 Internship, Fall - Equipment Operations](https://jobright.ai/jobs/info/6a615cf9ab9bd4676324b047?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 22 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[HCP Engagement Operations Intern Fall 2026](https://jobright.ai/jobs/info/6a614db9ab9bd4676324acfe?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jul 22 |
 | **[City of Elmhurst](https://elmhurst.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a6148b17196365a6f00a1bb?utm_campaign=1050&utm_source=git)** | Elmhurst, IL, United States | On Site | Jul 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a54dea58b24713fc151b4f7?utm_campaign=1050&utm_source=git)** | Racine, WI, United States | On Site | Jul 22 |
@@ -75,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[City of College Station](http://www.cstx.gov)** | **[Tourism Intern](https://jobright.ai/jobs/info/6a613be3d51f6101c8fba74c?utm_campaign=1050&utm_source=git)** | College Station-Bryan Area, Texas, United States | On Site | Jul 22 |
 | **[ZeroDrift](https://zerodrift.ai/)** | **[Operations & Workplace Intern](https://jobright.ai/jobs/info/6a60ea7cd51f6101c8fb952c?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jul 22 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Project Management)](https://jobright.ai/jobs/info/6a60f094ab14335fc0f16187?utm_campaign=1050&utm_source=git)** | Abilene, TX, United States | On Site | Jul 22 |
+| **[National Research Group](http://nrgmr.com)** | **[NFL VoF Project Assistant (Internship – Current/Recent Students)](https://jobright.ai/jobs/info/6a58642368d16a30e2412ec4?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/6a424b6d6a9c2774b3fa5c68?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a42ab2c6faf75606096783b?utm_campaign=1050&utm_source=git)** | Olive Branch, MS, United States | On Site | Jul 22 |
 | **[Nous Group](https://nousgroup.com/)** | **[Expression of interest - Intern](https://jobright.ai/jobs/info/6a508b20fb1cdf60f4ccd6a7?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 22 |
@@ -88,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a60f48cab9bd467632495e1?utm_campaign=1050&utm_source=git)** | Richfield, MN, United States | On Site | Jul 22 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1048](https://jobright.ai/jobs/info/6a60f454ab14335fc0f163ce?utm_campaign=1050&utm_source=git)** | West Salem, WI, United States | On Site | Jul 22 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern III, Strategic Planning (Hourly)](https://jobright.ai/jobs/info/6a60c86aa0dbef49469b8eff?utm_campaign=1050&utm_source=git)** | Rio Grande, United States | On Site | Jul 22 |
-| **[Stifel Financial Corp.](https://www.thefleckgroup.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a58e8ab4da96a42cfd8dd79?utm_campaign=1050&utm_source=git)** | Stockton, CA, United States | On Site | Jul 22 |
-| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a33fb13649fdf16292f350a?utm_campaign=1050&utm_source=git)** | Stockton, CA, US | On Site | Jul 22 |
+| **[Stifel Financial Corp.](https://www.thefleckgroup.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6a33fb13649fdf16292f350a?utm_campaign=1050&utm_source=git)** | Stockton, CA, US | On Site | Jul 22 |
+| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/6a58e8ab4da96a42cfd8dd79?utm_campaign=1050&utm_source=git)** | Stockton, CA, United States | On Site | Jul 22 |
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6a60f272ab14335fc0f162bd?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[CARE](http://www.care.org/)** | **[INTERN, STRATEGY AND TRANSFORMATION](https://jobright.ai/jobs/info/6a60f2647196365a6f008c91?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 22 |
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - College](https://jobright.ai/jobs/info/6a444a5b57ffc22029406ff2?utm_campaign=1050&utm_source=git)** | San Antonio, United States | On Site | Jul 22 |
@@ -104,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Internship](https://jobright.ai/jobs/info/6a60e013ab9bd46763248d01?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
 | **[Prayers From Maria Children's Cancer Foundation](http://prayersfrommaria.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6a6150a47196365a6f00a56b?utm_campaign=1050&utm_source=git)** | Rocky River, OH, United States | On Site | Jul 22 |
 | **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a58dddbc8e3a473cb8a3844?utm_campaign=1050&utm_source=git)** | Shawano, WI, United States | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Venue Management Intern / Part-Time / BOK Center & Arvest Convention Center](https://jobright.ai/jobs/info/6a60db9a11edf44d7915e26c?utm_campaign=1050&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a553385ae07d60a8d00fb78?utm_campaign=1050&utm_source=git)** | Evendale, OH, United States | On Site | Jul 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60d845c752926c2268280b?utm_campaign=1050&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WildChina 碧山](https://wildchina.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a60240d33ef5c58b4001e2c?utm_campaign=1050&utm_source=git)** | Shanghai, VA, United States | On Site | Jul 21 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Operations Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd26c8c7fd835513bb3f5?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Jul 21 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Graduate Assistant Intern- Methodist Germantown Hospital](https://jobright.ai/jobs/info/6a5fddfcf68dd368023e9448?utm_campaign=1050&utm_source=git)** | Germantown, TN, United States | On Site | Jul 21 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Intern (Full-Time, Limited Term)](https://jobright.ai/jobs/info/6a601d496e0c3c7c7d3dac8c?utm_campaign=1050&utm_source=git)** | South Pasadena, CA, United States | On Site | Jul 21 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5de3f3f29acc1a11744584?utm_campaign=1050&utm_source=git)** | ROCHESTER, MN (SOUTH) | On Site | Jul 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5c3af73ac7627fe900a091?utm_campaign=1050&utm_source=git)** | FOREST LAKE, MN, United States | On Site | Jul 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a528fe48576ec69c014c865?utm_campaign=1050&utm_source=git)** | FORT DODGE, IA | On Site | Jul 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a55cfe3ef22935f2e3f777e?utm_campaign=1050&utm_source=git)** | Marion, OH, United States | On Site | Jul 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a56095910c4d945d8647128?utm_campaign=1050&utm_source=git)** | West Chicago, IL, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
