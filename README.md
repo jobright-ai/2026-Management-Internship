@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Procurement Internship Program](https://jobright.ai/jobs/info/6a6194f5ab9bd4676324bdef?utm_campaign=1050&utm_source=git)** | Owings Mills, MD, United States | Hybrid | Jul 22 |
+| **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a60e3dc11edf44d7915e666?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 22 |
 | **[Textron](http://textron.com)** | **[Stage automne 2026 - Chargé de projet en stratégie et gouvernance / 2026 été Internship - Project Manager in Strategy and Governance (Mirabel, QC)](https://jobright.ai/jobs/info/6a617c3b11edf44d7916108c?utm_campaign=1050&utm_source=git)** | Mirabel, QC, Canada | On Site | Jul 22 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Equipment Operations](https://jobright.ai/jobs/info/6a6175da7196365a6f00b028?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | On Site | Jul 22 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a53813de726ec56126a703a?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
@@ -104,19 +106,18 @@ For a complete list, click the following sortable link below:
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6a60f272ab14335fc0f162bd?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[CARE](http://www.care.org/)** | **[INTERN, STRATEGY AND TRANSFORMATION](https://jobright.ai/jobs/info/6a60f2647196365a6f008c91?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 22 |
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - College](https://jobright.ai/jobs/info/6a444a5b57ffc22029406ff2?utm_campaign=1050&utm_source=git)** | San Antonio, United States | On Site | Jul 22 |
-| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a272a914ec8d737d6dfe514?utm_campaign=1050&utm_source=git)** | Irvine, CA, US | Remote | Jul 22 |
-| ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/6a5da332856af468ab01169b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Red Tail Acquisitions](https://www.rtacq.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a5da332856af468ab01169b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/6a272a914ec8d737d6dfe514?utm_campaign=1050&utm_source=git)** | Irvine, CA, US | Remote | Jul 22 |
 | **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III - Admin](https://jobright.ai/jobs/info/6a60c2b797c51d628eb3a391?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Jul 22 |
 | **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/6a0b3ca8a235d749afa82f7c?utm_campaign=1050&utm_source=git)** | Aliquippa, PA, United States | On Site | Jul 22 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a60df73d51f6101c8fb9155?utm_campaign=1050&utm_source=git)** | Omaha, NE, United States | On Site | Jul 22 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Fall 2026 Program Management Intern](https://jobright.ai/jobs/info/6a60e5fa11edf44d7915e71d?utm_campaign=1050&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 22 |
-| **[Johnson Controls](http://www.johnsoncontrols.com/ventures)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a60e3dc11edf44d7915e666?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 22 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Internship](https://jobright.ai/jobs/info/6a60e013ab9bd46763248d01?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
 | **[Prayers From Maria Children's Cancer Foundation](http://prayersfrommaria.org)** | **[Fall Intern](https://jobright.ai/jobs/info/6a6150a47196365a6f00a56b?utm_campaign=1050&utm_source=git)** | Rocky River, OH, United States | On Site | Jul 22 |
-| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
+| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a4658880dd56c76cc2f820e?utm_campaign=1050&utm_source=git)** | Appleton,WI,US | On Site | Jul 22 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a58dddbc8e3a473cb8a3844?utm_campaign=1050&utm_source=git)** | Shawano, WI, United States | On Site | Jul 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a465889971cd25b06f8d6c9?utm_campaign=1050&utm_source=git)** | Green Bay,WI,US | On Site | Jul 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6a561745f7517b519ad53bcf?utm_campaign=1050&utm_source=git)** | Marquette, MI, United States | On Site | Jul 22 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Venue Management Intern / Part-Time / BOK Center & Arvest Convention Center](https://jobright.ai/jobs/info/6a60db9a11edf44d7915e26c?utm_campaign=1050&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a553385ae07d60a8d00fb78?utm_campaign=1050&utm_source=git)** | Evendale, OH, United States | On Site | Jul 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60d845c752926c2268280b?utm_campaign=1050&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 22 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60bc2ee3f5ff347d7c5612?utm_campaign=1050&utm_source=git)** | Naperville, IL, United States | On Site | Jul 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a564c4aefb06a45240d4eae?utm_campaign=1050&utm_source=git)** | Yorkville, IL, United States | On Site | Jul 22 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6a60b80ea4c799127e993cc9?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
-| **[Gilroy Kernan & Gilroy](http://gkgrisk.com)** | **[Intern](https://jobright.ai/jobs/info/6a58d9634da96a42cfd8d7f0?utm_campaign=1050&utm_source=git)** | New Hartford, NY, United States | Remote | Jul 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a2123687c30cc2cc5167e6f?utm_campaign=1050&utm_source=git)** | New Hartford,NY,US | Hybrid | Jul 22 |
+| **[Gilroy Kernan & Gilroy](http://gkgrisk.com)** | **[Intern](https://jobright.ai/jobs/info/6a2123687c30cc2cc5167e6f?utm_campaign=1050&utm_source=git)** | New Hartford,NY,US | Hybrid | Jul 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a58d9634da96a42cfd8d7f0?utm_campaign=1050&utm_source=git)** | New Hartford, NY, United States | Remote | Jul 22 |
 | **[IIRR](http://www.iirr.org)** | **[Operations Officer - Intern](https://jobright.ai/jobs/info/6a55f0a721f64463ad350d41?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6a51eebc57513b72e0c69c71?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, United States | On Site | Jul 22 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/6a60a0f62a30b85637874c74?utm_campaign=1050&utm_source=git)** | Lost Hills, CA, United States | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Going Beyond Business](https://goingbeyondbusiness.com)** | **[Executive Startup Intern – Operations Support](https://jobright.ai/jobs/info/6a60496da4b66100689cabbd?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Technical Project Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45c77fc2d11a6a4666a14c?utm_campaign=1050&utm_source=git)** | San Francisco | On Site | Jul 21 |
 | **[Four Hands](https://fourhands.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6a551bef4119652ff386363c?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
-| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/6a5b4f87686b4755d1e1928f?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
