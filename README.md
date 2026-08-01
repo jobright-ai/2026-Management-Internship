@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pink Caviar LLC](https://www.pinkcaviarspa.com/)** | **[Spa Operations & Management Intern](https://jobright.ai/jobs/info/6a6d57f466158d7ef887d3cd?utm_campaign=1050&utm_source=git)** | McDonough, GA, United States | On Site | Jul 31 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOW Skillbridge Internship](https://jobright.ai/jobs/info/6a6d568fca1f933846603559?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 31 |
+| **[Jabil](https://www.jabil.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6d54335c54bc4752cf1f77?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 31 |
+| **[GITAI](http://gitai.tech)** | **[Startup Operator Apprentice, Fall 2026 Intern / Co-op](https://jobright.ai/jobs/info/6a6d4fd1acb0a61f9dbc9b5c?utm_campaign=1050&utm_source=git)** | Torrance, CA, United States | On Site | Jul 31 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6d41ec5c54bc4752cf1d86?utm_campaign=1050&utm_source=git)** | Pearland, TX, United States | On Site | Jul 31 |
 | **[Schneider Electric](https://www.se.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6cf676ba7efe79c2f67ab5?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Jul 31 |
 | **[Priority Health](http://www.priorityhealth.com/)** | **[Intern Administrative](https://jobright.ai/jobs/info/6a6d2956ca1f933846602e7a?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026/Spring 2027 Executive Intern](https://jobright.ai/jobs/info/6a6d1aa3ba7efe79c2f6878e?utm_campaign=1050&utm_source=git)** | Washington, D.C., United States | Hybrid | Jul 31 |
@@ -84,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2027 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/6a6bb60eacb0a61f9dbc2716?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 31 |
 | ↳ | **[Operations Management Intern, Summer 2027 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/6a6bb5eb32f9300c3a3e0749?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 31 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Administrative Assistant Intern/Volunteer](https://jobright.ai/jobs/info/6a58b7774da96a42cfd8c676?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Commercial Construction](https://jobright.ai/jobs/info/6a5f185c470d4126fdeace84?utm_campaign=1050&utm_source=git)** | Dublin, OH, United States | On Site | Jul 31 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Commercial Construction](https://jobright.ai/jobs/info/6a671c112bf1fb2b719242a6?utm_campaign=1050&utm_source=git)** | Dublin, OH, United States | On Site | Jul 31 |
 | **[Android Industries](http://www.android-ind.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a6cd7a857120971bf3ad87e?utm_campaign=1050&utm_source=git)** | Lansing, MI, United States | On Site | Jul 31 |
 | **[IKO North America](https://www.iko.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a6cbbf6ba7efe79c2f663ee?utm_campaign=1050&utm_source=git)** | Ironton, MO, United States | On Site | Jul 31 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Sustainability Fall Semester 2026 Intern](https://jobright.ai/jobs/info/6a6cce03ba7efe79c2f66a49?utm_campaign=1050&utm_source=git)** | Oak Brook, IL, United States | On Site | Jul 31 |
@@ -99,10 +104,10 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Category Management Purchasing Intern](https://jobright.ai/jobs/info/6a6cb4a5ca1f9338466001e5?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 31 |
 | **[Capstone Partners Financial and Insurance Services](http://capstonepartnersco.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a6cb46fba7efe79c2f660b2?utm_campaign=1050&utm_source=git)** | Lehi, UT, United States | On Site | Jul 31 |
 | **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Stadium Operations Intern](https://jobright.ai/jobs/info/6a5a942d3ac7627fe9004e20?utm_campaign=1050&utm_source=git)** | Frederick, MD, United States | On Site | Jul 31 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a61449311edf44d7915fe65?utm_campaign=1050&utm_source=git)** | Mineral Wells, TX, United States | On Site | Jul 31 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a62b219c28982326de980c6?utm_campaign=1050&utm_source=git)** | Lexington, KY, United States | On Site | Jul 31 |
-| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a5f2e7e42a5e636626614ac?utm_campaign=1050&utm_source=git)** | Ravenna, OH, United States | On Site | Jul 31 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a5f2e7e42a5e636626614ac?utm_campaign=1050&utm_source=git)** | Ravenna, OH, United States | On Site | Jul 31 |
 | ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a218c684bdf8a5a96bd641f?utm_campaign=1050&utm_source=git)** | USA RAVENNA OH PARFLEX | On Site | Jul 31 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a61449311edf44d7915fe65?utm_campaign=1050&utm_source=git)** | Mineral Wells, TX, United States | On Site | Jul 31 |
+| ↳ | **[Intern Supply Chain](https://jobright.ai/jobs/info/6a62b219c28982326de980c6?utm_campaign=1050&utm_source=git)** | Lexington, KY, United States | On Site | Jul 31 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6ca627ca1f9338465ffd15?utm_campaign=1050&utm_source=git)** | Douglasville, GA, United States | On Site | Jul 31 |
 | **[Arcadis](http://www.arcadis.com)** | **[Real Estate & Development Intern](https://jobright.ai/jobs/info/6a6bc092acb0a61f9dbc2b6b?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 31 |
 | **[Delaware Valley Regional Planning Commission](https://www.dvrpc.org/)** | **[Planning Intern](https://jobright.ai/jobs/info/6a5a0cc4856af468ab006ae4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 31 |
@@ -122,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6c545e32f9300c3a3e35d6?utm_campaign=1050&utm_source=git)** | Chattanooga, TN, United States | On Site | Jul 31 |
 | **[FreshDirect](http://freshdirect.com)** | **[Supply Chain Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a6c47c757120971bf3aaf70?utm_campaign=1050&utm_source=git)** | Bronx, NY, United States | On Site | Jul 30 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6c3d535c54bc4752cecf33?utm_campaign=1050&utm_source=git)** | Wilmington, NC, United States | On Site | Jul 30 |
-| **[Rocket](https://www.rocketcompanies.com)** | **[Project Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c0b5dca1f9338465fda4a?utm_campaign=1050&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
+| **[Rocket](https://www.rocketcompanies.com)** | **[Project Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c0b6432f9300c3a3e2204?utm_campaign=1050&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a6c295a32f9300c3a3e29b8?utm_campaign=1050&utm_source=git)** | Spring, TX, United States | On Site | Jul 30 |
 | **[NSTXL (National Security Technology Accelerator)](https://nstxl.org/)** | **[Program Analyst - Skillbridge Internship](https://jobright.ai/jobs/info/6a6c2429acb0a61f9dbc46f9?utm_campaign=1050&utm_source=git)** | Alabama, United States | Remote | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/6a6c14ffacb0a61f9dbc43ca?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
@@ -131,30 +136,25 @@ For a complete list, click the following sortable link below:
 | **[Bosch Building Technologies North America](https://www.boschbuildingtechnologies.com/na/en/)** | **[Office Intern (One Month Part Time)](https://jobright.ai/jobs/info/6a6c092d57120971bf3aa14e?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy & Operations Project Intern (Monetization AI) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a6c087a57120971bf3aa100?utm_campaign=1050&utm_source=git)** | New York City, NY, United States | Hybrid | Jul 30 |
 | **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Operations](https://jobright.ai/jobs/info/6a6b78525c54bc4752ce91ce?utm_campaign=1050&utm_source=git)** | Conover, NC, United States | On Site | Jul 30 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a58d3544da96a42cfd8d42a?utm_campaign=1050&utm_source=git)** | NORFOLK, NE, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a538d08d007ee02d95fbc1e?utm_campaign=1050&utm_source=git)** | Altoona, IA, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a56046fe9b77f668bd60910?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60d845c752926c2268280b?utm_campaign=1050&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a6a4cf78693c23e7fb79ea3?utm_campaign=1050&utm_source=git)** | Platteville, WI, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f495d985b99422f44?utm_campaign=1050&utm_source=git)** | Rapid City, SD, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d972cde2824469bbac2?utm_campaign=1050&utm_source=git)** | RALSTON (OMAHA 72ND & L) | On Site | Jul 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a55cf4405c65f7c8f4c7eef?utm_campaign=1050&utm_source=git)** | Warsaw, IN, United States | On Site | Jul 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a676fc95d2a117fb9ceb646?utm_campaign=1050&utm_source=git)** | Fremont, NE, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a56859b10c4d945d864a36d?utm_campaign=1050&utm_source=git)** | South Haven, MI, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a56ae3210c4d945d864b47e?utm_campaign=1050&utm_source=git)** | Lancaster, OH, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a55cfaa05c65f7c8f4c7f7e?utm_campaign=1050&utm_source=git)** | Kokomo, IN, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a4463c857ffc220294073ce?utm_campaign=1050&utm_source=git)** | Kent, OH, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d95495d985b99422f49?utm_campaign=1050&utm_source=git)** | MARION, OH | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a60bc2ee3f5ff347d7c5612?utm_campaign=1050&utm_source=git)** | Naperville, IL, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a513e8078e364789ca5a1e7?utm_campaign=1050&utm_source=git)** | TAYLOR, MI | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a68f9a836d36c1ff29975ee?utm_campaign=1050&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a55cf2c05c65f7c8f4c7ed4?utm_campaign=1050&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a295d891de59e0682a7eaef?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a50ee9878e364789ca575df?utm_campaign=1050&utm_source=git)** | Columbus, OH, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5ec1f927bf767ea68f89a0?utm_campaign=1050&utm_source=git)** | WEST ALLIS, WI, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a528fe48576ec69c014c865?utm_campaign=1050&utm_source=git)** | FORT DODGE, IA | On Site | Jul 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5767cbf7517b519ad5a39a?utm_campaign=1050&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d704d856af468ab010fa4?utm_campaign=1050&utm_source=git)** | LIVONIA, MI - Retail Store | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a59279a3ac7627fe9ffda50?utm_campaign=1050&utm_source=git)** | MITCHELL, SD, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5a79b5686b4755d1e156d9?utm_campaign=1050&utm_source=git)** | Janesville, WI, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a675385d0fb4c3df393c649?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5e3597f3674a0545d2797c?utm_campaign=1050&utm_source=git)** | Hanover Park, IL, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f3251d5c3a14fb34ec616?utm_campaign=1050&utm_source=git)** | Richmond, KY, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a54c2bbf7e23d26a08feaeb?utm_campaign=1050&utm_source=git)** | Muncie, IN, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d1c454da96a42cfd9db5a?utm_campaign=1050&utm_source=git)** | Salina, KS, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a678bdc2bf1fb2b71925ab6?utm_campaign=1050&utm_source=git)** | Lake Orion, MI, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5de3f3f29acc1a11744584?utm_campaign=1050&utm_source=git)** | ROCHESTER, MN (SOUTH) | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a68dd7fb22f1b56a602939d?utm_campaign=1050&utm_source=git)** | Germantown, WI, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a69e6cb19d76667a2abcabd?utm_campaign=1050&utm_source=git)** | South Bend, IN, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5dc4b1c8e3a473cb8b58a1?utm_campaign=1050&utm_source=git)** | Mishawaka, IN, United States | On Site | Jul 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a42da091cc9cc2b12fed1bd?utm_campaign=1050&utm_source=git)** | Franklin, WI, United States | On Site | Jul 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a55199ff2c46727285efbe6?utm_campaign=1050&utm_source=git)** | Lincoln, NE, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a64e8c7e8d8d22e3292d9c6?utm_campaign=1050&utm_source=git)** | Jackson, MI, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a564c5153b3962b910af4dd?utm_campaign=1050&utm_source=git)** | Grimes, IA, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5f870333ef5c58b4ffe751?utm_campaign=1050&utm_source=git)** | Warren, OH, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a56095910c4d945d8647128?utm_campaign=1050&utm_source=git)** | West Chicago, IL, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a578258f7517b519ad5aa31?utm_campaign=1050&utm_source=git)** | Watertown, SD, United States | On Site | Jul 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a637b318d5360344960287a?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
