@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5d1c643ac7627fe900ba0f?utm_campaign=1050&utm_source=git)** | Superior, WI, United States | On Site | Aug 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d1c454da96a42cfd9db5a?utm_campaign=1050&utm_source=git)** | Salina, KS, United States | On Site | Aug 02 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa7c8ad0fe2053db9f81d?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6fa7c4160eda5948e8c7f6?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa7c0160eda5948e8c7f5?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 02 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa6d1ad0fe2053db9f80f?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6fa6c3160eda5948e8c7e4?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6a6f9394f5953013637f64ff?utm_campaign=1050&utm_source=git)** | Columbus, OH, United States | On Site | Aug 02 |
 | **[MedEx Medical Transport](https://medextransport.com/)** | **[Internship](https://jobright.ai/jobs/info/6a4e64660ea38951a6ff2eb9?utm_campaign=1050&utm_source=git)** | Ahoskie, NC, United States | On Site | Aug 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6f8e4dc56c0956e8adcc19?utm_campaign=1050&utm_source=git)** | Milledgeville, GA, United States | On Site | Aug 02 |
@@ -66,12 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Weis Builders](http://weisbuilders.com)** | **[Assistant Superintendent Intern](https://jobright.ai/jobs/info/6a59455c4da96a42cfd9049a?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Aug 02 |
 | **[TELEPHARM](www.TELEPHARM.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6a5cf929856af468ab010104?utm_campaign=1050&utm_source=git)** | Iowa City, IA, United States | On Site | Aug 02 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Intern (Annual)](https://jobright.ai/jobs/info/6a528cd19fbdab22fe13c0de?utm_campaign=1050&utm_source=git)** | Chicago, IL - S. Green Street Ste 204, United States of America | On Site | Aug 02 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | Aug 02 |
-| ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/6a530cd28ef95364ead90d33?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 02 |
-| **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/6a67265d5d2a117fb9cea98c?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 02 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a530cd28ef95364ead90d33?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 02 |
+| ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | Aug 02 |
+| **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/6a58b582c8e3a473cb8a1ffa?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 02 |
 | ↳ | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/69b940d006c1ba00c54b53e2?utm_campaign=1050&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Aug 02 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Co-Op (Fall 2026)](https://jobright.ai/jobs/info/6a57c20110c4d945d8650dbc?utm_campaign=1050&utm_source=git)** | North Grafton, MA, United States | On Site | Aug 02 |
-| **[Housing Authority of Travis County](https://hatctx.com)** | **[Special Projects Intern](https://jobright.ai/jobs/info/6a6ef9a5160eda5948e8bb5f?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Aug 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6ec65ecd3bac13d3707b5a?utm_campaign=1050&utm_source=git)** | Orlando, FL, United States | On Site | Aug 01 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a51ef59bf63b66c7997ed29?utm_campaign=1050&utm_source=git)** | Rutland, VT, United States | On Site | Aug 01 |
 | **[Cox Engineering](http://coxengineering.com)** | **[Fall 2026 Operations Internship](https://jobright.ai/jobs/info/6a560d6df7517b519ad535fd?utm_campaign=1050&utm_source=git)** | Randolph, MA, United States | On Site | Aug 01 |
@@ -101,23 +107,23 @@ For a complete list, click the following sortable link below:
 | **[Umba](https://www.umba.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a56043910c4d945d8646cad?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern- Summer 2027](https://jobright.ai/jobs/info/6a6d7faf66158d7ef887daea?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 01 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6df976f5953013637f3f67?utm_campaign=1050&utm_source=git)** | Bedford, TX, United States | On Site | Aug 01 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5c644b63a8f619507cd535?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 01 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a57e6983330ca6f993c1d73?utm_campaign=1050&utm_source=git)** | Lebanon, TN, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5c644b63a8f619507cd535?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Aug 01 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/6a55f10e392ae330b30e80d4?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Aug 01 |
 | **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2f9955b9f4dd0b4d51cb1c?utm_campaign=1050&utm_source=git)** | Carson, CA, US | On Site | Aug 01 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a410fe21afc66714d3ca820?utm_campaign=1050&utm_source=git)** | Carson, CA, United States | On Site | Aug 01 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Intern (Co-Op)](https://jobright.ai/jobs/info/6a6ddabfad0fe2053db9cd86?utm_campaign=1050&utm_source=git)** | South Gate, CA, United States | On Site | Aug 01 |
 | **[Continental](https://www.continental.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a535be08ef95364ead91f13?utm_campaign=1050&utm_source=git)** | Auburn, IN, United States | On Site | Aug 01 |
-| **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a52e74b8576ec69c014def3?utm_campaign=1050&utm_source=git)** | Manteno, IL, United States | On Site | Aug 01 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a27213c12f0202342262c53?utm_campaign=1050&utm_source=git)** | Manteno, Illinois | On Site | Aug 01 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a27213c12f0202342262c53?utm_campaign=1050&utm_source=git)** | Manteno, Illinois | On Site | Aug 01 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a52e74b8576ec69c014def3?utm_campaign=1050&utm_source=git)** | Manteno, IL, United States | On Site | Aug 01 |
 | **[NiCE](http://nice.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/6a5127cb02522b5b722e8053?utm_campaign=1050&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 01 |
-| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Aug 01 |
+| **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, United States | On Site | Aug 01 |
+| ↳ | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a2463f5dedf78312c7ae76a?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US, 06705 | On Site | Aug 01 |
 | ↳ | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/6a5601cf21f64463ad3519be?utm_campaign=1050&utm_source=git)** | Waterbury, CT, United States | On Site | Aug 01 |
-| ↳ | **[Supply Chain Logistics Analyst Intern Job Details / Ametek, Inc.](https://jobright.ai/jobs/info/6a4628144f64ba41dcb50dd1?utm_campaign=1050&utm_source=git)** | Waterbury, CT, United States | On Site | Aug 01 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/6a0ba0e4963f7a67d95d1d68?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Aug 01 |
 | **[Hugh Chatham Health](https://www.hughchatham.org)** | **[Sustainability Fall Semester 2026 Intern](https://jobright.ai/jobs/info/6a6e8d2f41b41d325296baf9?utm_campaign=1050&utm_source=git)** | Oak Brook, IL, United States | On Site | Aug 01 |
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[Board and Stakeholder Relations Intern](https://jobright.ai/jobs/info/6a6cf2e132f9300c3a3e632b?utm_campaign=1050&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freight Flex](http://www.freightflex.com)** | **[Office Assistant (Part-Time / Internship)](https://jobright.ai/jobs/info/6a6d05aa5c54bc4752cf0a5a?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | Hybrid | Jul 31 |
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Soccer Operations Intern - Operations](https://jobright.ai/jobs/info/6a6cfd3a5c54bc4752cf07bf?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Jul 31 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b7d1e57120971bf3a7192?utm_campaign=1050&utm_source=git)** | Mentor, OH, United States | On Site | Jul 31 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Store Planning & Facilities Intern](https://jobright.ai/jobs/info/6a6cfa7c5c54bc4752cf06e3?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[JAM Industries](https://jamindustries.com/)** | **[Digital Transformation Office - Digital & Business Transformation Intern](https://jobright.ai/jobs/info/6a6cf176ba7efe79c2f678ee?utm_campaign=1050&utm_source=git)** | Baie-d'Urfé, Quebec, Canada | On Site | Jul 31 |
-| **[Anoka County](https://www.anokacountymn.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a6cf322ca1f933846601a6f?utm_campaign=1050&utm_source=git)** | Andover, Minnesota, United States | On Site | Jul 31 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Entry Level Project Management – 2026 Internship Class](https://jobright.ai/jobs/info/6a6cf20632f9300c3a3e62c9?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 31 |
-| **[RADIUS Omaha](https://www.radiusomaha.org)** | **[Internship - Fall Session](https://jobright.ai/jobs/info/6a6ceddcba7efe79c2f67729?utm_campaign=1050&utm_source=git)** | Omaha, NE, United States | On Site | Jul 31 |
-| **[Deerfield Episcopal Retirement Community](https://www.deerfieldwnc.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a6ceca2ba7efe79c2f67694?utm_campaign=1050&utm_source=git)** | Asheville, NC, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
