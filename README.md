@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6f8e4dc56c0956e8adcc19?utm_campaign=1050&utm_source=git)** | Milledgeville, GA, United States | On Site | Aug 02 |
+| **[GLS IT Services GmbH](https://gls-group.eu/DE/de/home)** | **[Duales Studium BWL Logistikmanagement (w/m/d) Bachelor of Arts 2027](https://jobright.ai/jobs/info/6a6f84cead0fe2053db9f5a2?utm_campaign=1050&utm_source=git)** | Marion County, Indiana, United States | On Site | Aug 02 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Northern Capital District (Schenectady, Colonie, and Amsterdam, NY)](https://jobright.ai/jobs/info/6a5c37eec8e3a473cb8b1c93?utm_campaign=1050&utm_source=git)** | Schenectady, NY, United States | On Site | Aug 02 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a6f8281ad0fe2053db9f593?utm_campaign=1050&utm_source=git)** | Humble, TX, United States | On Site | Aug 02 |
 | **[Weis Builders](http://weisbuilders.com)** | **[Assistant Superintendent Intern](https://jobright.ai/jobs/info/6a59455c4da96a42cfd9049a?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Aug 02 |
@@ -90,22 +92,22 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a55dcbc14f1040fa611d101?utm_campaign=1050&utm_source=git)** | Moorhead, MN, United States | On Site | Aug 01 |
 | **[PHINIA](https://phinia.com)** | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a1896dd17492d3a389b7ca7?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Aug 01 |
 | **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Fall 2026](https://jobright.ai/jobs/info/6a51e94b57513b72e0c69b17?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[PHINIA](https://phinia.com)** | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a50f2928d7d3e6cf1cbd8c3?utm_campaign=1050&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, United States of America | On Site | Aug 01 |
-| ↳ | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a18774b54a441713ae84de6?utm_campaign=1050&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Aug 01 |
+| **[PHINIA](https://phinia.com)** | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a18774b54a441713ae84de6?utm_campaign=1050&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, US | On Site | Aug 01 |
+| ↳ | **[Supply Chain Intern - Year Round](https://jobright.ai/jobs/info/6a50f2928d7d3e6cf1cbd8c3?utm_campaign=1050&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA, United States of America | On Site | Aug 01 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/6a5a370c4da96a42cfd9493a?utm_campaign=1050&utm_source=git)** | Columbia, MO, United States | On Site | Aug 01 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6a16201a128680351d9682fa?utm_campaign=1050&utm_source=git)** | Ewing, NJ, United States | On Site | Aug 01 |
 | **[Umba](https://www.umba.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a56043910c4d945d8646cad?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern- Summer 2027](https://jobright.ai/jobs/info/6a6d7faf66158d7ef887daea?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 01 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6df976f5953013637f3f67?utm_campaign=1050&utm_source=git)** | Bedford, TX, United States | On Site | Aug 01 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a5c644b63a8f619507cd535?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a57e6983330ca6f993c1d73?utm_campaign=1050&utm_source=git)** | Lebanon, TN, United States | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5c644b63a8f619507cd535?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a57e6983330ca6f993c1d73?utm_campaign=1050&utm_source=git)** | Lebanon, TN, United States | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Aug 01 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/6a55f10e392ae330b30e80d4?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Aug 01 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2f9955b9f4dd0b4d51cb1c?utm_campaign=1050&utm_source=git)** | Carson, CA, US | On Site | Aug 01 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a410fe21afc66714d3ca820?utm_campaign=1050&utm_source=git)** | Carson, CA, United States | On Site | Aug 01 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a410fe21afc66714d3ca820?utm_campaign=1050&utm_source=git)** | Carson, CA, United States | On Site | Aug 01 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2f9955b9f4dd0b4d51cb1c?utm_campaign=1050&utm_source=git)** | Carson, CA, US | On Site | Aug 01 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Intern (Co-Op)](https://jobright.ai/jobs/info/6a6ddabfad0fe2053db9cd86?utm_campaign=1050&utm_source=git)** | South Gate, CA, United States | On Site | Aug 01 |
 | **[Continental](https://www.continental.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a535be08ef95364ead91f13?utm_campaign=1050&utm_source=git)** | Auburn, IN, United States | On Site | Aug 01 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a27213c12f0202342262c53?utm_campaign=1050&utm_source=git)** | Manteno, Illinois | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deerfield Episcopal Retirement Community](https://www.deerfieldwnc.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a6ceca2ba7efe79c2f67694?utm_campaign=1050&utm_source=git)** | Asheville, NC, United States | On Site | Jul 31 |
 | **[Advocate Health Care](http://www.advocatehealth.com)** | **[Sustainability Fall Semester 2026 Intern](https://jobright.ai/jobs/info/6a6ceb8457120971bf3adf11?utm_campaign=1050&utm_source=git)** | Oak Brook, IL, United States | On Site | Jul 31 |
 | **[APTIM](https://www.aptim.com/)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a6ce797ca1f9338466015e3?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 31 |
-| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2027 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/6a6bb60eacb0a61f9dbc2716?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 31 |
-| ↳ | **[Operations Management Intern, Summer 2027 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/6a6bb5eb32f9300c3a3e0749?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
