@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6fbd2141b41d325296d2a1?utm_campaign=1050&utm_source=git)** | Groveport, OH, United States | On Site | Aug 02 |
+| **[Quanta Infrastructure Solutions Group](https://quantaisg.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fbb2ecd3bac13d3708d66?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fb3bdad0fe2053db9f93d?utm_campaign=1050&utm_source=git)** | Halethorpe, MD, United States | On Site | Aug 02 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fb3b8f5953013637f6725?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fb25ec56c0956e8adcebe?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 02 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fb25dcd3bac13d3708cf8?utm_campaign=1050&utm_source=git)** | Halethorpe, MD, United States | On Site | Aug 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a5d1c643ac7627fe900ba0f?utm_campaign=1050&utm_source=git)** | Superior, WI, United States | On Site | Aug 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d1c454da96a42cfd9db5a?utm_campaign=1050&utm_source=git)** | Salina, KS, United States | On Site | Aug 02 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa7c8ad0fe2053db9f81d?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6fa7c4160eda5948e8c7f6?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6fa7c4160eda5948e8c7f6?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa7c0160eda5948e8c7f5?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 02 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a6fa6d1ad0fe2053db9f80f?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a6fa6c3160eda5948e8c7e4?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
@@ -75,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Intern (Annual)](https://jobright.ai/jobs/info/6a528cd19fbdab22fe13c0de?utm_campaign=1050&utm_source=git)** | Chicago, IL - S. Green Street Ste 204, United States of America | On Site | Aug 02 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/6a530cd28ef95364ead90d33?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 02 |
 | ↳ | **[Intern - Technical](https://jobright.ai/jobs/info/69c2e8b894007a2195def65e?utm_campaign=1050&utm_source=git)** | Ontario, Toronto | Hybrid | Aug 02 |
-| **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/6a58b582c8e3a473cb8a1ffa?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 02 |
-| ↳ | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/69b940d006c1ba00c54b53e2?utm_campaign=1050&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Aug 02 |
+| **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/69b940d006c1ba00c54b53e2?utm_campaign=1050&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Aug 02 |
+| ↳ | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/6a67265d5d2a117fb9cea98c?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 02 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Co-Op (Fall 2026)](https://jobright.ai/jobs/info/6a57c20110c4d945d8650dbc?utm_campaign=1050&utm_source=git)** | North Grafton, MA, United States | On Site | Aug 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6ec65ecd3bac13d3707b5a?utm_campaign=1050&utm_source=git)** | Orlando, FL, United States | On Site | Aug 01 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Fall 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/6a51ef59bf63b66c7997ed29?utm_campaign=1050&utm_source=git)** | Rutland, VT, United States | On Site | Aug 01 |
@@ -107,15 +112,15 @@ For a complete list, click the following sortable link below:
 | **[Umba](https://www.umba.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a56043910c4d945d8646cad?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern- Summer 2027](https://jobright.ai/jobs/info/6a6d7faf66158d7ef887daea?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 01 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a6df976f5953013637f3f67?utm_campaign=1050&utm_source=git)** | Bedford, TX, United States | On Site | Aug 01 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a57e6983330ca6f993c1d73?utm_campaign=1050&utm_source=git)** | Lebanon, TN, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5c644b63a8f619507cd535?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a2f6ce243732c05812dee49?utm_campaign=1050&utm_source=git)** | Bowling Green, KY, US | On Site | Aug 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a5d299d3ac7627fe900bce5?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a57e6983330ca6f993c1d73?utm_campaign=1050&utm_source=git)** | Lebanon, TN, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a51f0a602522b5b722ed6ab?utm_campaign=1050&utm_source=git)** | Sikeston, MO, United States | On Site | Aug 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a689a2a53f0806be6cfebb8?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 01 |
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[Summer 2026 - Facilities Operations Internship](https://jobright.ai/jobs/info/6a55f10e392ae330b30e80d4?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN, United States | On Site | Aug 01 |
-| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2f9955b9f4dd0b4d51cb1c?utm_campaign=1050&utm_source=git)** | Carson, CA, US | On Site | Aug 01 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a410fe21afc66714d3ca820?utm_campaign=1050&utm_source=git)** | Carson, CA, United States | On Site | Aug 01 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a410fe21afc66714d3ca820?utm_campaign=1050&utm_source=git)** | Carson, CA, United States | On Site | Aug 01 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a2f9955b9f4dd0b4d51cb1c?utm_campaign=1050&utm_source=git)** | Carson, CA, US | On Site | Aug 01 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Intern (Co-Op)](https://jobright.ai/jobs/info/6a6ddabfad0fe2053db9cd86?utm_campaign=1050&utm_source=git)** | South Gate, CA, United States | On Site | Aug 01 |
 | **[Continental](https://www.continental.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a535be08ef95364ead91f13?utm_campaign=1050&utm_source=git)** | Auburn, IN, United States | On Site | Aug 01 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a27213c12f0202342262c53?utm_campaign=1050&utm_source=git)** | Manteno, Illinois | On Site | Aug 01 |
@@ -133,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Avery Dennison](http://www.averydennison.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b7d495c54bc4752ce93c6?utm_campaign=1050&utm_source=git)** | Mentor, OH, United States | On Site | Jul 31 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Commercial 2027](https://jobright.ai/jobs/info/6a6d86e057120971bf3b05a1?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Jul 31 |
 | ↳ | **[Intern, Supply Chain 2027](https://jobright.ai/jobs/info/6a6d7e075c54bc4752cf2709?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Jul 31 |
-| **[EPL Group](https://eplgroup.co)** | **[Investment Strategy Intern-Office of the CEO](https://jobright.ai/jobs/info/6a5ae78363a8f619507c918b?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | Remote | Jul 31 |
+| **[EPL Group](https://eplgroup.co)** | **[Investment Strategy Intern-Office of the CEO](https://jobright.ai/jobs/info/6a6cef2aba7efe79c2f677a6?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | Remote | Jul 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/6a6d793e5c54bc4752cf2617?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 31 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a53813de726ec56126a703a?utm_campaign=1050&utm_source=git)** | New York City, NY, United States | On Site | Jul 31 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Building Supplies Office Intern - Kent, WA](https://jobright.ai/jobs/info/6a6a697a48355b3f12bf0e1f?utm_campaign=1050&utm_source=git)** | Kent, WA, United States | On Site | Jul 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Operations Administration Intern, North Region FALL 2026 (UNPAID)](https://jobright.ai/jobs/info/6a6d0f0cca1f9338466024c0?utm_campaign=1050&utm_source=git)** | Revere, MA, United States | On Site | Jul 31 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6a6cbe6957120971bf3acda5?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Business Operations & Development Intern](https://jobright.ai/jobs/info/6a6d0b2fca1f933846602316?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Intern Administrative](https://jobright.ai/jobs/info/6a6d0978ca1f933846602202?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States | Remote | Jul 31 |
-| **[Sentinel Real Estate](https://www.sentinelcorp.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a5e4bbc050c423c792ee43e?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
-| **[Freight Flex](http://www.freightflex.com)** | **[Office Assistant (Part-Time / Internship)](https://jobright.ai/jobs/info/6a6d05aa5c54bc4752cf0a5a?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | Hybrid | Jul 31 |
-| **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Soccer Operations Intern - Operations](https://jobright.ai/jobs/info/6a6cfd3a5c54bc4752cf07bf?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Jul 31 |
-| **[Avery Dennison](http://www.averydennison.com)** | **[Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6a6b7d1e57120971bf3a7192?utm_campaign=1050&utm_source=git)** | Mentor, OH, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
