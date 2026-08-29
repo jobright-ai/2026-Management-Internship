@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Supervisor (Intern)](https://jobright.ai/jobs/info/6a52f38ee726ec56126a51b2?utm_campaign=1050&utm_source=git)** | USA - SC - Bluffton, United States of America | On Site | Aug 29 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Operations – Cambridge, MA (Summer 2027)](https://jobright.ai/jobs/info/6a91f4f4d18f75674827ae8e?utm_campaign=1050&utm_source=git)** | Cambridge, MA, United States | On Site | Aug 29 |
 | ↳ | **[Undergrad intern - U.S. Value & Access (Summer 2027)](https://jobright.ai/jobs/info/6a91bf629864261ccd29ecda?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
 | ↳ | **[Undergrad Intern - Operations – Process Development (Summer 2027)](https://jobright.ai/jobs/info/6a91f50dd18f75674827ae94?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Aug 29 |
@@ -70,19 +71,19 @@ For a complete list, click the following sortable link below:
 | **[Venture Capital Careers](https://venturecapitalcareers.com/)** | **[Program & Events Intern (Korean team)](https://jobright.ai/jobs/info/6a92db9fc12c90443efca675?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 29 |
 | **[Ampliwork](https://www.ampliwork.com)** | **[Operations & Strategy Intern](https://jobright.ai/jobs/info/6a04fc096c07461fe1712b8c?utm_campaign=1050&utm_source=git)** | Montréal, Canada | On Site | Aug 29 |
 | **[Equitable](https://equitable.com/)** | **[2027 Summer Intern (HYBRID)](https://jobright.ai/jobs/info/6a92c150d18f75674827c2e3?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 29 |
-| **[GALLO](http://www.gallocareers.com)** | **[Supply Chain Internship 2027](https://jobright.ai/jobs/info/6a82cbde1081a745e970b810?utm_campaign=1050&utm_source=git)** | Modesto, CA, United States | Hybrid | Aug 29 |
-| ↳ | **[Supply Chain Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6a8bcefce8b6601d1290cb49?utm_campaign=1050&utm_source=git)** | Modesto, CA, United States | Hybrid | Aug 29 |
-| **[LV Collective](https://lvcollective.com)** | **[Owner's Project Coordinator (Internship) - College Station, TX](https://jobright.ai/jobs/info/6a41bd9a3bfa967791ec1326?utm_campaign=1050&utm_source=git)** | College Station, Texas, United States | On Site | Aug 29 |
-| ↳ | **[Owner's Project Coordinator (Internship) - West Lafayette, IN](https://jobright.ai/jobs/info/6a432ee44461bf091787a4a7?utm_campaign=1050&utm_source=git)** | West Lafayette, Indiana, United States | Hybrid | Aug 29 |
+| **[GALLO](http://www.gallocareers.com)** | **[Supply Chain Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6a8bcefce8b6601d1290cb49?utm_campaign=1050&utm_source=git)** | Modesto, CA, United States | Hybrid | Aug 29 |
+| ↳ | **[Supply Chain Internship 2027](https://jobright.ai/jobs/info/6a82cbde1081a745e970b810?utm_campaign=1050&utm_source=git)** | Modesto, CA, United States | Hybrid | Aug 29 |
+| **[LV Collective](https://lvcollective.com)** | **[Owner's Project Coordinator (Internship) - West Lafayette, IN](https://jobright.ai/jobs/info/6a432ee44461bf091787a4a7?utm_campaign=1050&utm_source=git)** | West Lafayette, Indiana, United States | Hybrid | Aug 29 |
+| ↳ | **[Owner's Project Coordinator (Internship) - College Station, TX](https://jobright.ai/jobs/info/6a41bd9a3bfa967791ec1326?utm_campaign=1050&utm_source=git)** | College Station, Texas, United States | On Site | Aug 29 |
 | **[Nexans](https://www.nexans.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a767f774817aa4307048959?utm_campaign=1050&utm_source=git)** | Weyburn, Saskatchewan, Canada | On Site | Aug 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - Sunnyvale CA](https://jobright.ai/jobs/info/6a9099042e254e06fb9f1cec?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 29 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209059864261ccd2a0051?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Intern Strategy](https://jobright.ai/jobs/info/6a920902c12c90443efc93b7?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209059864261ccd2a0051?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208f63603630099195943?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
+| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208fb9864261ccd2a004d?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209079864261ccd2a0053?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a920910360363009919594d?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
-| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208fb9864261ccd2a004d?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a92091d8e59685453378c55?utm_campaign=1050&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
-| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a920902c12c90443efc93b7?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208ff3603630099195947?utm_campaign=1050&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
 | **[Ameren](http://ameren.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a763288b17cba569035d1cf?utm_campaign=1050&utm_source=git)** | St. Louis, MO, United States | Hybrid | Aug 29 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/6a91f1ad9864261ccd29face?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Sentinel Real Estate](https://www.sentinelcorp.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a7f927319ce4e6e9d9394b5?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a920080d18f75674827b137?utm_campaign=1050&utm_source=git)** | Provo, UT, United States | On Site | Aug 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Intern-Supply Chain](https://jobright.ai/jobs/info/6a8df36ba5639a4810328a93?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 28 |
-| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f45ec12c90443efc8f6f?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f45ec12c90443efc8f6f?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 28 |
+| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a91f44fc12c90443efc8f61?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 28 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Continuous Improvement](https://jobright.ai/jobs/info/6a91f291a27a2d3c9848abee?utm_campaign=1050&utm_source=git)** | Detroit, MI, United States | Hybrid | Aug 28 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a91f2913603630099195419?utm_campaign=1050&utm_source=git)** | Provo, UT, United States | On Site | Aug 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a767c12c90443efc7311?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a764d18f756748279273?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a763c12c90443efc730c?utm_campaign=1050&utm_source=git)** | Calhoun, GA, United States | On Site | Aug 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f756748279270?utm_campaign=1050&utm_source=git)** | Lakeville, MN, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f75674827926f?utm_campaign=1050&utm_source=git)** | Stewartville, MN, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
