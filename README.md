@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208f63603630099195943?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 28 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a920080d18f75674827b137?utm_campaign=1050&utm_source=git)** | Provo, UT, United States | On Site | Aug 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Intern-Supply Chain](https://jobright.ai/jobs/info/6a8df36ba5639a4810328a93?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f45ec12c90443efc8f6f?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 28 |
-| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 28 |
+| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f45ec12c90443efc8f6f?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a91f44fc12c90443efc8f61?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 28 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Continuous Improvement](https://jobright.ai/jobs/info/6a91f291a27a2d3c9848abee?utm_campaign=1050&utm_source=git)** | Detroit, MI, United States | Hybrid | Aug 28 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6a91f2913603630099195419?utm_campaign=1050&utm_source=git)** | Provo, UT, United States | On Site | Aug 28 |
@@ -143,18 +143,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Intern - Warehouse Operations Management (Los Angeles, CA)](https://jobright.ai/jobs/info/6a877dd2d34f700f87fc5b6e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 28 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Grad Intern - Operations (Fall 2026)](https://jobright.ai/jobs/info/6a8dcc38d34f700f87fd6192?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a46180bc2d11a6a4666b849?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 28 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Basketball Operations Intern](https://jobright.ai/jobs/info/6a91e001c12c90443efc89d9?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 28 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Basketball Operations Intern](https://jobright.ai/jobs/info/6a91e180c12c90443efc8a10?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 28 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/6a91f1ad9864261ccd29face?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 28 |
-| **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Intern -Summer 2027](https://jobright.ai/jobs/info/6a90bc437c32860d14cfb325?utm_campaign=1050&utm_source=git)** | Winnipeg, MB, Canada | On Site | Aug 28 |
-| ↳ | **[Supply Chain Internship - Summer 2027](https://jobright.ai/jobs/info/6a73a5fb32ebbc14ffb5061a?utm_campaign=1050&utm_source=git)** | Wichita, KS, United States | On Site | Aug 28 |
+| **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Internship - Summer 2027](https://jobright.ai/jobs/info/6a73a5fb32ebbc14ffb5061a?utm_campaign=1050&utm_source=git)** | Wichita, KS, United States | On Site | Aug 28 |
+| ↳ | **[Supply Chain Intern -Summer 2027](https://jobright.ai/jobs/info/6a90bc437c32860d14cfb325?utm_campaign=1050&utm_source=git)** | Winnipeg, MB, Canada | On Site | Aug 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Re- Advertisement- Senior Management Support Intern](https://jobright.ai/jobs/info/6a919520c12c90443efc6bbe?utm_campaign=1050&utm_source=git)** | East Jerusalem, Mississippi, United States | On Site | Aug 28 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a9194c936036300991931a6?utm_campaign=1050&utm_source=git)** | Charlestown, IN, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194c2c12c90443efc6ba6?utm_campaign=1050&utm_source=git)** | Hampshire, IL, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b98e5968545337648b?utm_campaign=1050&utm_source=git)** | Jackson, MI, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b88e59685453376489?utm_campaign=1050&utm_source=git)** | Byron Center, MI, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b78e59685453376486?utm_campaign=1050&utm_source=git)** | Madison, WI, United States | On Site | Aug 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b18e59685453376482?utm_campaign=1050&utm_source=git)** | Sturtevant, WI, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b19864261ccd29d89c?utm_campaign=1050&utm_source=git)** | Wichita, KS, United States | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194b18e59685453376482?utm_campaign=1050&utm_source=git)** | Sturtevant, WI, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194afc12c90443efc6b9e?utm_campaign=1050&utm_source=git)** | Greenwood, IN, United States | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194aec12c90443efc6b9d?utm_campaign=1050&utm_source=git)** | Columbia, MO, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
