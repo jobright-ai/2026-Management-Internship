@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stryten Energy](https://www.stryten.com)** | **[2027 Summer Intern - Logistics](https://jobright.ai/jobs/info/6a9404183603630099199575?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
+| **[Stryten Energy](https://www.stryten.com)** | **[2027 Summer Intern - Logistics](https://jobright.ai/jobs/info/6a940a74a27a2d3c9848ed5f?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[MOTREX](http://www.motrex.co.kr/)** | **[2027 Summer Intern - Logistics](https://jobright.ai/jobs/info/6a9402d2c12c90443efcd05f?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[Motrex LLC](https://motrexllc.com/)** | **[2027 Summer Intern - Logistics](https://jobright.ai/jobs/info/6a9401e03603630099199564?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/6a5259938ef95364ead8dfe9?utm_campaign=1050&utm_source=git)** | USA-New Jersey-Piscataway Township, United States of America | On Site | Aug 30 |
@@ -78,12 +78,12 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/6a931e44d18f75674827d953?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Aug 29 |
 | **[ADM](http://www.adm.com)** | **[Ag Operations Leadership Development Program - Various US Locations](https://jobright.ai/jobs/info/6a930c869864261ccd2a1f52?utm_campaign=1050&utm_source=git)** | Decatur, IL, United States | On Site | Aug 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a3f9d581afc66714d3c8eb5?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91d865c12c90443efc8833?utm_campaign=1050&utm_source=git)** | Faribault, MN, United States | On Site | Aug 29 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a836ed3b5a0ac0e84a25b86?utm_campaign=1050&utm_source=git)** | Dwight, IL, United States | On Site | Aug 29 |
+| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 29 |
+| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91d865c12c90443efc8833?utm_campaign=1050&utm_source=git)** | Faribault, MN, United States | On Site | Aug 29 |
 | ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a8f510fa10ee661e24d7a97?utm_campaign=1050&utm_source=git)** | Frederick, MD, United States | On Site | Aug 29 |
 | ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a6a5f6d19d76667a2abf3f4?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL, United States | On Site | Aug 29 |
-| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a91f45ea27a2d3c9848acca?utm_campaign=1050&utm_source=git)** | Denton, TX, United States | On Site | Aug 29 |
-| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6a836ed3b5a0ac0e84a25b86?utm_campaign=1050&utm_source=git)** | Dwight, IL, United States | On Site | Aug 29 |
-| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f45ec12c90443efc8f6f?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 29 |
+| ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee](https://jobright.ai/jobs/info/6a91f462c12c90443efc8f75?utm_campaign=1050&utm_source=git)** | Loxley, AL, United States | On Site | Aug 29 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Supervisor (Intern)](https://jobright.ai/jobs/info/6a52f38ee726ec56126a51b2?utm_campaign=1050&utm_source=git)** | USA - SC - Bluffton, United States of America | On Site | Aug 29 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergrad Intern - Operations – Cambridge, MA (Summer 2027)](https://jobright.ai/jobs/info/6a91f4f4d18f75674827ae8e?utm_campaign=1050&utm_source=git)** | Cambridge, MA, United States | On Site | Aug 29 |
 | ↳ | **[Undergrad intern - U.S. Value & Access (Summer 2027)](https://jobright.ai/jobs/info/6a91bf629864261ccd29ecda?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
@@ -103,15 +103,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Owner's Project Coordinator (Internship) - West Lafayette, IN](https://jobright.ai/jobs/info/6a432ee44461bf091787a4a7?utm_campaign=1050&utm_source=git)** | West Lafayette, Indiana, United States | Hybrid | Aug 29 |
 | **[Nexans](https://www.nexans.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a767f774817aa4307048959?utm_campaign=1050&utm_source=git)** | Weyburn, Saskatchewan, Canada | On Site | Aug 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - Sunnyvale CA](https://jobright.ai/jobs/info/6a9099042e254e06fb9f1cec?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 29 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208fb9864261ccd2a004d?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
-| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a920902c12c90443efc93b7?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
-| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208f63603630099195943?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209059864261ccd2a0051?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208f63603630099195943?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209079864261ccd2a0053?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a920910360363009919594d?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a92091d8e59685453378c55?utm_campaign=1050&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209079864261ccd2a0053?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9209059864261ccd2a0051?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
+| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208fb9864261ccd2a004d?utm_campaign=1050&utm_source=git)** | Scarborough, ME, United States | Hybrid | Aug 29 |
+| ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a920902c12c90443efc93b7?utm_campaign=1050&utm_source=git)** | Quincy, MA, United States | Hybrid | Aug 29 |
 | ↳ | **[Intern Strategy](https://jobright.ai/jobs/info/6a9208ff3603630099195947?utm_campaign=1050&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
-| **[Ameren](http://ameren.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a7632b64817aa43070473bc?utm_campaign=1050&utm_source=git)** | St. Louis, MO, United States | Hybrid | Aug 29 |
+| **[Ameren](http://ameren.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a763288b17cba569035d1cf?utm_campaign=1050&utm_source=git)** | St. Louis, MO, United States | Hybrid | Aug 29 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Operations Co-Op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a5fd26c8c7fd835513bb3f5?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Aug 29 |
 | **[Red Moon Marketing](https://www.redmoonmkt.com/)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/6a91f1ad9864261ccd29face?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 29 |
 | **[Siemens](https://www.siemens.com)** | **[Fire Alarm Systems Project Management Internship](https://jobright.ai/jobs/info/6a93b7a1a27a2d3c9848e6d9?utm_campaign=1050&utm_source=git)** | Lakewood, CO, United States | On Site | Aug 28 |
