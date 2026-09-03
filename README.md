@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[2027 Summer Intern – Manufacturing Supply Chain](https://jobright.ai/jobs/info/6a99b2888a8b765bc55f4dda?utm_campaign=1050&utm_source=git)** | Arlington, TX, United States | On Site | Sep 03 |
+| **[TransLoop](https://transloop.io/)** | **[Summer Logistics Intern](https://jobright.ai/jobs/info/6a99dabe8a8b765bc55f5eb1?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Sep 03 |
+| **[A-C Electric Company](http://a-celectric.com)** | **[Supply Chain Intern (Summer '27)](https://jobright.ai/jobs/info/6a99e0688a8b765bc55f61c9?utm_campaign=1050&utm_source=git)** | Bakersfield, CA, United States | On Site | Sep 03 |
+| **[Cemex US](http://www.cemex.com/)** | **[Internship Summer 2027 Strategic Planning (finance) Job Details / Cemex](https://jobright.ai/jobs/info/6a99dfd5551435518ebf1d2e?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 03 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a99ddbc551435518ebf1bd9?utm_campaign=1050&utm_source=git)** | Fargo, ND, United States | On Site | Sep 03 |
+| **[CACI International Inc](https://www.caci.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a99dd73040e5c3d075996e8?utm_campaign=1050&utm_source=git)** | 448 Florham Park, New Jersey, United States | On Site | Sep 03 |
 | **[Grant Thornton Ireland](https://www.grantthornton.ie)** | **[Strategic Assurance and SOC Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a99dd1f90a313642c6534b1?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 03 |
+| **[Amgen](https://www.amgen.com.sg)** | **[Operations Graduate Program – Summer 2027 Internship](https://jobright.ai/jobs/info/6a9843d9c8ed473c5c762e83?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA, United States | Remote | Sep 03 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Project Assistant Intern (Summer '27)](https://jobright.ai/jobs/info/6a99dbee8a8b765bc55f5fa6?utm_campaign=1050&utm_source=git)** | Fresno, CA, United States | On Site | Sep 03 |
 | ↳ | **[Project Assistant Intern (Summer '27)](https://jobright.ai/jobs/info/6a99dbb2040e5c3d075995de?utm_campaign=1050&utm_source=git)** | Bakersfield, CA, United States | On Site | Sep 03 |
-| **[TransLoop](https://transloop.io/)** | **[Summer Logistics Intern](https://jobright.ai/jobs/info/6a99dabe8a8b765bc55f5eb1?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Sep 03 |
 | **[Grant Thornton (NI) LLP](http://www.grantthorntonni.com/brexit/)** | **[Strategic Assurance and SOC Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a99da3b8a8b765bc55f5e69?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 03 |
 | **[Textron](http://textron.com)** | **[Stage hiver 2027 - Chargé de projet en stratégie et gouvernance / 2027 winter Internship - Project Manager in Strategy and Governance (Mirabel, QC)](https://jobright.ai/jobs/info/6a99da36ad752e2ad55026fd?utm_campaign=1050&utm_source=git)** | Mirabel, QC, Canada | On Site | Sep 03 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/6a99d924ad752e2ad550267a?utm_campaign=1050&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 03 |
@@ -79,23 +85,24 @@ For a complete list, click the following sortable link below:
 | **[CAMP Systems International, Inc.](http://www.campsystems.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a99d6cc90a313642c653190?utm_campaign=1050&utm_source=git)** | Wichita, KS, United States | On Site | Sep 03 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d6918a8b765bc55f5cd5?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 03 |
 | **[Grant Thornton Isle of Man](http://www.grantthornton.co.im)** | **[Strategic Assurance and SOC Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d68c8a8b765bc55f5cd2?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 03 |
-| **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9986d0040e5c3d07596bf0?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f5e4e60e4b8da5ccd0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737ddf5337b2cf7320bd5?utm_campaign=1050&utm_source=git)** | Williamsburg, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a98511ac8ed473c5c7633d3?utm_campaign=1050&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a8ff77b2e254e06fb9eecc2?utm_campaign=1050&utm_source=git)** | Frederick, MD, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d4583fc63335763176e?utm_campaign=1050&utm_source=git)** | Charleston, SC, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973855b22f636c814169d9?utm_campaign=1050&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a996a56ad752e2ad54ff634?utm_campaign=1050&utm_source=git)** | Middletown, DE, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737eee4e60e4b8da5ccca?utm_campaign=1050&utm_source=git)** | Moyock, NC, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f7e4e60e4b8da5ccd4?utm_campaign=1050&utm_source=git)** | Winchester, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d5e11f73b6462c8e93f?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973827246d697dcee041aa?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a97387c455eaf6a08c1b6ba?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia, United States | On Site | Sep 03 |
+| **[Texas Instruments](http://www.ti.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6a998ce6551435518ebef15a?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Sep 03 |
+| **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973854d13b4819f39dfd29?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Sep 03 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f8d13b4819f39dfce8?utm_campaign=1050&utm_source=git)** | Roanoke, VA, United States | On Site | Sep 03 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a8ff7947c32860d14cf7444?utm_campaign=1050&utm_source=git)** | Beltsville, MD, United States | On Site | Sep 03 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f5f5337b2cf7320be6?utm_campaign=1050&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9986d0040e5c3d07596bf0?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a996a56ad752e2ad54ff634?utm_campaign=1050&utm_source=git)** | Middletown, DE, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f7e4e60e4b8da5ccd4?utm_campaign=1050&utm_source=git)** | Winchester, VA, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f5e4e60e4b8da5ccd0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973855b22f636c814169d9?utm_campaign=1050&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d5e11f73b6462c8e93f?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a98511ac8ed473c5c7633d3?utm_campaign=1050&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737ddf5337b2cf7320bd5?utm_campaign=1050&utm_source=git)** | Williamsburg, VA, United States | On Site | Sep 03 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d34def18223c854f5e5?utm_campaign=1050&utm_source=git)** | Savannah, GA, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a8ff7947c32860d14cf7444?utm_campaign=1050&utm_source=git)** | Beltsville, MD, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a8ff77b2e254e06fb9eecc2?utm_campaign=1050&utm_source=git)** | Frederick, MD, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a97387c455eaf6a08c1b6ba?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d4583fc63335763176e?utm_campaign=1050&utm_source=git)** | Charleston, SC, United States | On Site | Sep 03 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737eee4e60e4b8da5ccca?utm_campaign=1050&utm_source=git)** | Moyock, NC, United States | On Site | Sep 03 |
 | **[CACI International Inc](https://www.caci.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d3c090a313642c653078?utm_campaign=1050&utm_source=git)** | Florham Park, NJ, United States | On Site | Sep 03 |
 | **[Atlas Healthcare Partners](https://www.atlashp.com/)** | **[Intern - Ambulatory Surgery Center (ASC)](https://jobright.ai/jobs/info/6a9994038a8b765bc55f3ca7?utm_campaign=1050&utm_source=git)** | Banner Surgery Center, 1125 S Alma School Rd, Chandler, AZ, United States | On Site | Sep 03 |
 | **[Montauk Capital](https://montaukcap.com)** | **[MBA Intern](https://jobright.ai/jobs/info/6a99d3518a8b765bc55f5b92?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[District Manager Intern - Northern Ohio](https://jobright.ai/jobs/info/6a99a4b08a8b765bc55f4829?utm_campaign=1050&utm_source=git)** | Hinckley, OH, United States | On Site | Sep 03 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6a99a48b90a313642c651c8b?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 03 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6a99a3ff551435518ebf0019?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 03 |
-| **[Abbott](https://www.abbott.com)** | **[2027 Abbott Operations Internship Program](https://jobright.ai/jobs/info/6a8f1d56a10ee661e24d6a77?utm_campaign=1050&utm_source=git)** | Abbott Park, IL, United States | On Site | Sep 03 |
-| **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a985d6311f73b6462c8e3e9?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 03 |
-| ↳ | **[Project Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a99a8f8138838706058f79a?utm_campaign=1050&utm_source=git)** | Pleasanton, CA, United States | On Site | Sep 03 |
-| **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Intern](https://jobright.ai/jobs/info/6a99a139040e5c3d07597a70?utm_campaign=1050&utm_source=git)** | Laurel, MD, United States | On Site | Sep 03 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Logistics](https://jobright.ai/jobs/info/6a9996ce90a313642c6512b8?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 03 |
-| ↳ | **[Program Intern, Transportation](https://jobright.ai/jobs/info/6a999ff48a8b765bc55f451f?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 03 |
-| **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Construction Project Manager - Internship/Co-Op](https://jobright.ai/jobs/info/6a999e9a138838706058f10e?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
