@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KSB Company](https://www.ksb.com/en-global)** | **[Operations Intern](https://jobright.ai/jobs/info/6ab12bc6191d8c340dbd9124?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Sep 21 |
+| **[HD Supply](http://hdsupply.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6ab13455f9692ca98b048281?utm_campaign=1050&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 21 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Operations Internship - Rapid City, SD (Summer 2027)](https://jobright.ai/jobs/info/6a94865ca27a2d3c9848f518?utm_campaign=1050&utm_source=git)** | Rapid City, SD, United States | On Site | Sep 21 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/6a347389f6b55d12c791ce24?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Commercial Contracting Corporation](http://cccnetwork.com)** | **[Construction Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab127a9d43eb922ca0bd387?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 21 |
 | **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/6ab1251af9692ca98b047e9f?utm_campaign=1050&utm_source=git)** | Newport Beach, CA, United States | On Site | Sep 21 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/6ab1241923005eee35458b98?utm_campaign=1050&utm_source=git)** | Norristown, PA, United States | On Site | Sep 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Ops Strategy & Analytics](https://jobright.ai/jobs/info/6aaf15f83d96632d741b1b15?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Sep 19 |
 | **[Rivian](http://www.rivian.com)** | **[Technical Program Management Intern - Program Validation (Spring 2027 Co-Op)](https://jobright.ai/jobs/info/6aac151c95c707f49dfef5e1?utm_campaign=1050&utm_source=git)** | Irvine, CA, United States | On Site | Sep 19 |
 | **[Central Confinement Service LLC](https://cencon.com/)** | **[Project Manager](https://jobright.ai/jobs/info/6aabfc993dbb1f8967ce826a?utm_campaign=1050&utm_source=git)** | Columbus, NE, United States | On Site | Sep 19 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Program Manager (SkillBridge Intern) - 29716](https://jobright.ai/jobs/info/6a74f58720b26a6e93f49f7f?utm_campaign=1050&utm_source=git)** | Fairfax, VA, United States | Remote | Sep 19 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90668f8ffa38557e6cca00?utm_campaign=1050&utm_source=git)** | Canton, OH, United States | On Site | Sep 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - US Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a65e1cc87cef057612cf128?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Sep 19 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90a1f1a1988648667624c6?utm_campaign=1050&utm_source=git)** | Southfield, MI, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
