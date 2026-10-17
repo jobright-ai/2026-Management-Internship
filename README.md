@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Data Center Associate Project Manager](https://jobright.ai/jobs/info/6ab6a2ea9d4843569fe4e7bd?utm_campaign=1050&utm_source=git)** | Mount Pleasant, WI, United States | On Site | Oct 17 |
+| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6ab6ac30b3db59402d101aa1?utm_campaign=1050&utm_source=git)** | San Diego, CA, United States | On Site | Oct 17 |
+| ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6a9b9a2a68f82b40367351eb?utm_campaign=1050&utm_source=git)** | Tyndall AFB, FL, United States | On Site | Oct 17 |
+| ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6ab6ac9e4873fd3fd852e919?utm_campaign=1050&utm_source=git)** | Fairbanks, AK, United States | On Site | Oct 17 |
+| ↳ | **[SkillBridge Internship – Data Center Associate Project Manager](https://jobright.ai/jobs/info/6ab6a2ea9d4843569fe4e7bd?utm_campaign=1050&utm_source=git)** | Mount Pleasant, WI, United States | On Site | Oct 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad3a6f8f04335fc70ed9d9e?utm_campaign=1050&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 17 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5cef66c8e3a473cb8b3422?utm_campaign=1050&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 17 |
-| **[V2X Inc](https://gov2x.com)** | **[Program Operations Intern, Summer 2027](https://jobright.ai/jobs/info/6a99b3a0551435518ebf07a6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 17 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6a9b9a2a68f82b40367351eb?utm_campaign=1050&utm_source=git)** | Tyndall AFB, FL, United States | On Site | Oct 17 |
-| ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6ab6ac9e4873fd3fd852e919?utm_campaign=1050&utm_source=git)** | Fairbanks, AK, United States | On Site | Oct 17 |
-| ↳ | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6ab6ac30b3db59402d101aa1?utm_campaign=1050&utm_source=git)** | San Diego, CA, United States | On Site | Oct 17 |
+| **[V2X Inc](https://gov2x.com)** | **[Program Operations Intern, Summer 2027](https://jobright.ai/jobs/info/6a99b43f90a313642c6522d5?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 17 |
 | **[McKesson](http://www.mckesson.com)** | **[Pharmacy Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f6768a8b765bc55f68fa?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 17 |
 | ↳ | **[Impact Strategy & Project Management - Summer 2027](https://jobright.ai/jobs/info/6a98f716def18223c8550a25?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 17 |
 | **[Owens Corning](http://www.owenscorning.com/)** | **[Sourcing & Supply Chain Intern (2027) Job Details / Owens Corning](https://jobright.ai/jobs/info/6abb426e7220f52e62aeb06b?utm_campaign=1050&utm_source=git)** | Toledo, OH, United States | On Site | Oct 17 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a9181dba27a2d3c984884ba?utm_campaign=1050&utm_source=git)** | Huber Heights, OH, United States | On Site | Oct 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2027 Field Office Deployment](https://jobright.ai/jobs/info/6a9b067d90a313642c658395?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | On Site | Oct 17 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a7f29ebb56bea5779c09045?utm_campaign=1050&utm_source=git)** | Lexington, KY, United States | On Site | Oct 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a770a27a2d3c9848910d?utm_campaign=1050&utm_source=git)** | St. Cloud, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f756748279270?utm_campaign=1050&utm_source=git)** | Lakeville, MN, United States | On Site | Oct 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a770a27a2d3c9848910d?utm_campaign=1050&utm_source=git)** | St. Cloud, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194a4d18f756748278ae2?utm_campaign=1050&utm_source=git)** | Tomah, WI, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91949d3603630099193198?utm_campaign=1050&utm_source=git)** | St Peters, MO, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a7f18e3e2030208f276bc6b?utm_campaign=1050&utm_source=git)** | Lowell, Indiana, United States | On Site | Oct 17 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Operations Analyst - Corporate Physical Security](https://jobright.ai/jobs/info/6ab58660c6fe0dec811a1970?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Oct 17 |
 | **[Veeam Software](http://www.veeam.com)** | **[Project Management Intern- Summer 2027](https://jobright.ai/jobs/info/6ab69227b3db59402d100ea9?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 17 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2027 Fall Internship](https://jobright.ai/jobs/info/6a9adc7fd5ff1f3f1c39b821?utm_campaign=1050&utm_source=git)** | Rockville, MD, United States | On Site | Oct 17 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a999fe08a8b765bc55f450d?utm_campaign=1050&utm_source=git)** | Marinette, WI, United States | On Site | Oct 17 |
-| ↳ | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a99dea190a313642c653571?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 17 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a99dea190a313642c653571?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 17 |
+| ↳ | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a999fe08a8b765bc55f450d?utm_campaign=1050&utm_source=git)** | Marinette, WI, United States | On Site | Oct 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aade2ff0ebc8fb2313ebb9b?utm_campaign=1050&utm_source=git)** | Statesboro, GA, United States | On Site | Oct 17 |
 | **[Crest Vale](joincrestvale.com)** | **[Process Excellence Intern](https://jobright.ai/jobs/info/6ad35a60c4290cef1412e909?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a566571f7517b519ad55632?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
