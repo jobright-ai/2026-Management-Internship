@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2027 Associate Planner Intern Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6ab4e7ac17d731fd2c0c60db?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
-| ↳ | **[Spring 2027 Associate Planner Intern](https://jobright.ai/jobs/info/6aac4e9b636cddf7396f3712?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[AI Intern - Office of CEO & Head of Product](https://jobright.ai/jobs/info/6ad3d650c4290cef1412fc98?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
+| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2027 Spring/ Summer Interns](https://jobright.ai/jobs/info/6aab122a8e1bf0f764af84b8?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Oct 17 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2027: Business Data Analyst Intern, Strategy & Planning](https://jobright.ai/jobs/info/6abeca1a4ac55253f5d62dc7?utm_campaign=1050&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 17 |
+| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/6ad403f0810010ec72f5d651?utm_campaign=1050&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 17 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2027 Associate Planner Intern](https://jobright.ai/jobs/info/6aac4e9b636cddf7396f3712?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
+| ↳ | **[Spring 2027 Associate Planner Intern Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6ab4e7ac17d731fd2c0c60db?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
 | **[Synerga Partners](synergapartners.com)** | **[MBA Supply Chain Intern](https://jobright.ai/jobs/info/6ad3d2c625289a0b3bf5b7cc?utm_campaign=1050&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 17 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6ab71a0162bb1fbd451dd26e?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 17 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6ab789e7ba1c25652c6122e3?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 17 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Owens Corning](http://www.owenscorning.com/)** | **[Sourcing & Supply Chain Intern (2027) Job Details / Owens Corning](https://jobright.ai/jobs/info/6abb426e7220f52e62aeb06b?utm_campaign=1050&utm_source=git)** | Toledo, OH, United States | On Site | Oct 17 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Land Intern - Fort Worth South](https://jobright.ai/jobs/info/6ad395da5290d4375c45728d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 17 |
 | **[Davie](https://www.davie.ca)** | **[Business Administration Intern – Estimating](https://jobright.ai/jobs/info/6ab71a0bd7fde2c08ec8abfc?utm_campaign=1050&utm_source=git)** | Lévis, QC, Canada | On Site | Oct 17 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6ad3938983ada13a9da0a000?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 17 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/6ad392755290d4375c4571d3?utm_campaign=1050&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 17 |
 | **[Elanco](https://www.elanco.com)** | **[Supply Chain Intern (Summer 2027) - Clinton, Indiana](https://jobright.ai/jobs/info/6a9ae5822cdc5958f53e8d9d?utm_campaign=1050&utm_source=git)** | Clinton, IN, United States | On Site | Oct 17 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Houston)](https://jobright.ai/jobs/info/6a99036a88f60a5ece658c8e?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a9181dba27a2d3c984884ba?utm_campaign=1050&utm_source=git)** | Huber Heights, OH, United States | On Site | Oct 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2027 Field Office Deployment](https://jobright.ai/jobs/info/6a9b067d90a313642c658395?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | On Site | Oct 17 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a7f29ebb56bea5779c09045?utm_campaign=1050&utm_source=git)** | Lexington, KY, United States | On Site | Oct 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a770a27a2d3c9848910d?utm_campaign=1050&utm_source=git)** | St. Cloud, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f756748279270?utm_campaign=1050&utm_source=git)** | Lakeville, MN, United States | On Site | Oct 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a770a27a2d3c9848910d?utm_campaign=1050&utm_source=git)** | St. Cloud, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194a4d18f756748278ae2?utm_campaign=1050&utm_source=git)** | Tomah, WI, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91949d3603630099193198?utm_campaign=1050&utm_source=git)** | St Peters, MO, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a7f18e3e2030208f276bc6b?utm_campaign=1050&utm_source=git)** | Lowell, Indiana, United States | On Site | Oct 17 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[Networks PMO Intern](https://jobright.ai/jobs/info/6aa6fa1a82e82a31997c170b?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | Hybrid | Oct 17 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a9181dba27a2d3c984884b9?utm_campaign=1050&utm_source=git)** | Gahanna, OH, United States | On Site | Oct 17 |
 | **[NetJets](https://www.netjets.com/)** | **[Procurement Intern (NJUS)](https://jobright.ai/jobs/info/6a9af8e81388387060595ab6?utm_campaign=1050&utm_source=git)** | Columbus, OH, United States | On Site | Oct 17 |
-| **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2027 Spring/ Summer Interns](https://jobright.ai/jobs/info/6aab122a8e1bf0f764af84b8?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Oct 17 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6ab6d6d162bb1fbd451dc1b9?utm_campaign=1050&utm_source=git)** | Carlisle, PA, United States | On Site | Oct 17 |
 | **[Acron Aviation](https://acronaviation.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6ab66752d85922de20ce4b8c?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 17 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2027 Student Internship - IT PMO](https://jobright.ai/jobs/info/6ab6a836634ec6aa7c0d3cb5?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PCL Project Intern (TikTok Shop - PCL Home & Kitchen- US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad30cb6c4290cef1412dddd?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6acfe734c9f40bec907fec4b?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad2de7425289a0b3bf59313?utm_campaign=1050&utm_source=git)** | Seattle | On Site | Oct 16 |
-| **[Inter Miami CF and Nu Stadium](https://www.intermiamicf.com)** | **[Intern, Operations / Sprint Season](https://jobright.ai/jobs/info/6ad24151f04335fc70ed4048?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
