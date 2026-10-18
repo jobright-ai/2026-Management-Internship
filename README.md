@@ -57,20 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6ad41cdbebd52f378af8d2f4?utm_campaign=1050&utm_source=git)** | Waukesha, WI, United States | On Site | Oct 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[AI Intern - Office of CEO & Head of Product](https://jobright.ai/jobs/info/6ad3d650c4290cef1412fc98?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2027 Spring/ Summer Interns](https://jobright.ai/jobs/info/6aab122a8e1bf0f764af84b8?utm_campaign=1050&utm_source=git)** | Louisville, KY, United States | On Site | Oct 17 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: Business Data Analyst Intern, Strategy & Planning](https://jobright.ai/jobs/info/6abeca1a4ac55253f5d62dc7?utm_campaign=1050&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 17 |
-| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/6ad403f0810010ec72f5d651?utm_campaign=1050&utm_source=git)** | Eau Claire, WI, United States | On Site | Oct 17 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2027 Associate Planner Intern](https://jobright.ai/jobs/info/6aac4e9b636cddf7396f3712?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
-| ↳ | **[Spring 2027 Associate Planner Intern Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6ab4e7ac17d731fd2c0c60db?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2027 Associate Planner Intern Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6ab4e7ac17d731fd2c0c60db?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
+| ↳ | **[Spring 2027 Associate Planner Intern](https://jobright.ai/jobs/info/6aac4e9b636cddf7396f3712?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
 | **[Synerga Partners](synergapartners.com)** | **[MBA Supply Chain Intern](https://jobright.ai/jobs/info/6ad3d2c625289a0b3bf5b7cc?utm_campaign=1050&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 17 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6ab71a0162bb1fbd451dd26e?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 17 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/6ab789e7ba1c25652c6122e3?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 17 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[MBA Summer Associate Corporate Strategy](https://jobright.ai/jobs/info/6ab80620ba1c25652c612b22?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | On Site | Oct 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad3a6f8f04335fc70ed9d9e?utm_campaign=1050&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 17 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a5cef66c8e3a473cb8b3422?utm_campaign=1050&utm_source=git)** | Sugar Land, TX, United States | On Site | Oct 17 |
-| **[V2X Inc](https://gov2x.com)** | **[Program Operations Intern, Summer 2027](https://jobright.ai/jobs/info/6a99b43f90a313642c6522d5?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 17 |
-| **[McKesson](http://www.mckesson.com)** | **[Pharmacy Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f6768a8b765bc55f68fa?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 17 |
+| **[V2X Inc](https://gov2x.com)** | **[Program Operations Intern, Summer 2027](https://jobright.ai/jobs/info/6a99b3a0551435518ebf07a6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 17 |
+| **[McKesson](http://www.mckesson.com)** | **[Pharmacy Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f53e040e5c3d07599de7?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | On Site | Oct 17 |
+| ↳ | **[Pharmacy Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a99f6768a8b765bc55f68fa?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 17 |
 | ↳ | **[Impact Strategy & Project Management - Summer 2027](https://jobright.ai/jobs/info/6a98f716def18223c8550a25?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 17 |
 | **[Owens Corning](http://www.owenscorning.com/)** | **[Sourcing & Supply Chain Intern (2027) Job Details / Owens Corning](https://jobright.ai/jobs/info/6abb426e7220f52e62aeb06b?utm_campaign=1050&utm_source=git)** | Toledo, OH, United States | On Site | Oct 17 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Land Intern - Fort Worth South](https://jobright.ai/jobs/info/6ad395da5290d4375c45728d?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 17 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a9181dba27a2d3c984884ba?utm_campaign=1050&utm_source=git)** | Huber Heights, OH, United States | On Site | Oct 17 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2027 Field Office Deployment](https://jobright.ai/jobs/info/6a9b067d90a313642c658395?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | On Site | Oct 17 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6a7f29ebb56bea5779c09045?utm_campaign=1050&utm_source=git)** | Lexington, KY, United States | On Site | Oct 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f756748279270?utm_campaign=1050&utm_source=git)** | Lakeville, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a770a27a2d3c9848910d?utm_campaign=1050&utm_source=git)** | St. Cloud, MN, United States | On Site | Oct 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91a762d18f756748279270?utm_campaign=1050&utm_source=git)** | Lakeville, MN, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a9194a4d18f756748278ae2?utm_campaign=1050&utm_source=git)** | Tomah, WI, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a91949d3603630099193198?utm_campaign=1050&utm_source=git)** | St Peters, MO, United States | On Site | Oct 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6a7f18e3e2030208f276bc6b?utm_campaign=1050&utm_source=git)** | Lowell, Indiana, United States | On Site | Oct 17 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2027 Student Internship - IT PMO](https://jobright.ai/jobs/info/6ab6a836634ec6aa7c0d3cb5?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Oct 17 |
 | **[O-I](http://www.o-i.com)** | **[Supply Chain Planning Internship – Fall- 2027](https://jobright.ai/jobs/info/6a9b2bc290a313642c658e12?utm_campaign=1050&utm_source=git)** | Perrysburg, OH, United States | Hybrid | Oct 17 |
 | **[SPX Technologies](http://www.spx.com)** | **[Construction Project Management Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a23ee0b348be729c90a?utm_campaign=1050&utm_source=git)** | Overland Park, KS, United States | Hybrid | Oct 17 |
-| ↳ | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6ab6dd7862bb1fbd451dc415?utm_campaign=1050&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Oct 17 |
 | ↳ | **[Commercial Strategy Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a051acb8fc6f09c2a52?utm_campaign=1050&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Oct 17 |
+| ↳ | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6ab6dd7862bb1fbd451dc415?utm_campaign=1050&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Oct 17 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a99901990a313642c650f41?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Oct 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a999049138838706058e831?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ, United States | On Site | Oct 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a99901b138838706058e823?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Search Safety & Operations Project Intern（TikTok-Platform Responsibility-Search）- 2026 Start](https://jobright.ai/jobs/info/6ad30ccd810010ec72f5af4a?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation - PCL ) - 2026 Start（BS） - 2027 Start](https://jobright.ai/jobs/info/6ad30cc083ada13a9da08c10?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[PCL Project Intern (TikTok Shop - PCL Home & Kitchen- US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad30cb6c4290cef1412dddd?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6acfe734c9f40bec907fec4b?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad2de7425289a0b3bf59313?utm_campaign=1050&utm_source=git)** | Seattle | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
