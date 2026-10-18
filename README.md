@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Orbit AI](https://findmyorbit.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6ad3f309ebd52f378af8cab2?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 17 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Spring 2027 Associate Planner Intern Job Details / Leonardo DRS, Inc.](https://jobright.ai/jobs/info/6ab4e7ac17d731fd2c0c60db?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
 | ↳ | **[Spring 2027 Associate Planner Intern](https://jobright.ai/jobs/info/6aac4e9b636cddf7396f3712?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[AI Intern - Office of CEO & Head of Product](https://jobright.ai/jobs/info/6ad3d650c4290cef1412fc98?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
@@ -148,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Operations Analyst - Corporate Physical Security](https://jobright.ai/jobs/info/6ab58660c6fe0dec811a1970?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Oct 17 |
 | **[Veeam Software](http://www.veeam.com)** | **[Project Management Intern- Summer 2027](https://jobright.ai/jobs/info/6ab69227b3db59402d100ea9?utm_campaign=1050&utm_source=git)** | Alpharetta, GA, United States | Hybrid | Oct 17 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2027 Fall Internship](https://jobright.ai/jobs/info/6a9adc24fe45b8490f604a53?utm_campaign=1050&utm_source=git)** | Rockville, MD, United States | On Site | Oct 17 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a99dea190a313642c653571?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 17 |
-| ↳ | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a999fe08a8b765bc55f450d?utm_campaign=1050&utm_source=git)** | Marinette, WI, United States | On Site | Oct 17 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a999fe08a8b765bc55f450d?utm_campaign=1050&utm_source=git)** | Marinette, WI, United States | On Site | Oct 17 |
+| ↳ | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6a99dea190a313642c653571?utm_campaign=1050&utm_source=git)** | Lubbock, TX, United States | On Site | Oct 17 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aade2ff0ebc8fb2313ebb9b?utm_campaign=1050&utm_source=git)** | Statesboro, GA, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a566571f7517b519ad55632?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Search Safety & Operations Project Intern（TikTok-Platform Responsibility-Search）- 2026 Start](https://jobright.ai/jobs/info/6ad30ccd810010ec72f5af4a?utm_campaign=1050&utm_source=git)** | San Jose, CA, United States | On Site | Oct 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PCL Project Intern (TikTok Shop - PCL Home & Kitchen- US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad30cb6c4290cef1412dddd?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6acfe734c9f40bec907fec4b?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Oct 16 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS) - 2027 Start](https://jobright.ai/jobs/info/6ad2de7425289a0b3bf59313?utm_campaign=1050&utm_source=git)** | Seattle | On Site | Oct 16 |
+| **[Inter Miami CF and Nu Stadium](https://www.intermiamicf.com)** | **[Intern, Operations / Sprint Season](https://jobright.ai/jobs/info/6ad24151f04335fc70ed4048?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
