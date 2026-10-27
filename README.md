@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Internship - Salem, NH](https://jobright.ai/jobs/info/6aa842dd82e82a31997c4cfe?utm_campaign=1050&utm_source=git)** | Salem, NH, United States | On Site | Oct 26 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6abaec37d2914e9273eee102?utm_campaign=1050&utm_source=git)** | Pearland, TX, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a833a7c379c304e892f5ce8?utm_campaign=1050&utm_source=git)** | Sumter, SC, United States | On Site | Oct 26 |
-| ↳ | **[Spring 2027 Management Trainee Internship - Round Rock and Cedar Park, TX](https://jobright.ai/jobs/info/6acdcc129be8b2e475663966?utm_campaign=1050&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Management Internship - Portsmouth, NH](https://jobright.ai/jobs/info/6aa842fa2ed333b4ea5ce4ba?utm_campaign=1050&utm_source=git)** | Portsmouth, NH, United States | On Site | Oct 26 |
+| ↳ | **[Spring 2027 Management Trainee Internship - Round Rock and Cedar Park, TX](https://jobright.ai/jobs/info/6acdcc129be8b2e475663966?utm_campaign=1050&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a833a332dbaf907b076746b?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Management Internship - Manchester, NH](https://jobright.ai/jobs/info/6aa84290654b2a9424cfbabf?utm_campaign=1050&utm_source=git)** | Manchester, NH, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Management Intern Memphis](https://jobright.ai/jobs/info/6aa87d25a77a53f5a1579ca3?utm_campaign=1050&utm_source=git)** | Memphis, TN, United States | On Site | Oct 26 |
@@ -126,9 +126,10 @@ For a complete list, click the following sortable link below:
 | **[White Cap](https://www.whitecap.com)** | **[Corporate Intern - Purchasing](https://jobright.ai/jobs/info/6adfea209e3e874dbfbb1800?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6adfb3df0a4cc7090f982302?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 26 |
 | **[Zendesk](https://www.zendesk.com/)** | **[Revenue Operations Business Operations Intern](https://jobright.ai/jobs/info/6aa9c556eff87f571fc9b6a9?utm_campaign=1050&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 26 |
+| **[Visa](https://www.visa.com)** | **[Business Strategy Intern, Data and AI Team - Summer 2027](https://jobright.ai/jobs/info/6ae050429e3e874dbfbb3c06?utm_campaign=1050&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 26 |
 | **[Parker Hannifin](http://www.parker.com)** | **[2027 Summer Supply Chain Internship (Parker HAF - Triad Dr)](https://jobright.ai/jobs/info/6ae0291e5dc7953215a459a8?utm_campaign=1050&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 26 |
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Intern CS](https://jobright.ai/jobs/info/6ae02c3b5dc7953215a45ad0?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN, United States | On Site | Oct 26 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Research Operations Intern](https://jobright.ai/jobs/info/6ae007429a8c91d5c358b696?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | On Site | Oct 26 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Research Operations Intern](https://jobright.ai/jobs/info/6ae014745dc7953215a4542a?utm_campaign=1050&utm_source=git)** | Irving, TX, United States | On Site | Oct 26 |
 | **[Zipline](https://www.zipline.com/)** | **[Commercial Strategy & Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6a95fd21f28891320e85f79a?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Oct 26 |
 | **[KEB](http://kebcpa.com)** | **[Operations Intern - Summers '27](https://jobright.ai/jobs/info/6ab33df31e4847ddae918ba1?utm_campaign=1050&utm_source=git)** | Fenton, MO, United States | On Site | Oct 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Store Planning & Construction Intern (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6adfaeb55dc7953215a41b75?utm_campaign=1050&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 26 |
@@ -142,19 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Global Sourcing Process Intern](https://jobright.ai/jobs/info/6adfd6da5dc7953215a437b4?utm_campaign=1050&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 26 |
 | **[thyssenkrupp Automotive](https://www.thyssenkrupp-automotive-technology.com/en)** | **[Intern - Purchasing & Supply Chain Management](https://jobright.ai/jobs/info/6adfd680065c4e77efafc1aa?utm_campaign=1050&utm_source=git)** | Troy, MI, United States | On Site | Oct 26 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern – Temporary Assignment](https://jobright.ai/jobs/info/6adfab129e3e874dbfbaef04?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Oct 26 |
-| **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d4583fc63335763176e?utm_campaign=1050&utm_source=git)** | Charleston, SC, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6ab5c2c89d4843569fe4bff6?utm_campaign=1050&utm_source=git)** | Greenville, SC, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f8d13b4819f39dfce8?utm_campaign=1050&utm_source=git)** | Roanoke, VA, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6aa822ff3a9f0a4fe6f176f9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9986d0040e5c3d07596bf0?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6adf9e2d5dc7953215a40ef0?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973827246d697dcee041aa?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Oct 26 |
+| **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/6abc05ada9a644f965689c13?utm_campaign=1050&utm_source=git)** | Orlando, FL, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f5e4e60e4b8da5ccd0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a99866a040e5c3d07596bdd?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a986d5e11f73b6462c8e93f?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6aa5307e654b2a9424cf33b2?utm_campaign=1050&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6ab1416623005eee3545930d?utm_campaign=1050&utm_source=git)** | West Chester, PA, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a97387c455eaf6a08c1b6ba?utm_campaign=1050&utm_source=git)** | Hampton Roads, Virginia, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6aa450fc422289703bd661d2?utm_campaign=1050&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 26 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737eee4e60e4b8da5ccca?utm_campaign=1050&utm_source=git)** | Moyock, NC, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a973855b22f636c814169d9?utm_campaign=1050&utm_source=git)** | Fairfax, VA, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a996a56ad752e2ad54ff634?utm_campaign=1050&utm_source=git)** | Middletown, DE, United States | On Site | Oct 26 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a98511ac8ed473c5c7633d3?utm_campaign=1050&utm_source=git)** | Wilmington, NC, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6aa823042ed333b4ea5cd7bd?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737ddf5337b2cf7320bd5?utm_campaign=1050&utm_source=git)** | Williamsburg, VA, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6adf9e2d5dc7953215a40ef0?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ, United States | On Site | Oct 26 |
 | ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6abec4db372c01f6cd72589b?utm_campaign=1050&utm_source=git)** | Norcross, GA, United States | On Site | Oct 26 |
-| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6ab687e6c6fe0dec811a5198?utm_campaign=1050&utm_source=git)** | Beltsville, MD, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6aa506f442411952ff9a6945?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
+| ↳ | **[Construction Management Intern](https://jobright.ai/jobs/info/6a9737f8d13b4819f39dfce8?utm_campaign=1050&utm_source=git)** | Roanoke, VA, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
