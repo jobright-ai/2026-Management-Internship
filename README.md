@@ -57,10 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern – R&D Execution, Strategy & Operations (Summer 2027)](https://jobright.ai/jobs/info/6aecbb35a2661405dc2c5ba6?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 07 |
+| **[SPX Technologies](http://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6ab6dd7862bb1fbd451dc415?utm_campaign=1050&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 07 |
+| ↳ | **[Commercial Strategy Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a051acb8fc6f09c2a52?utm_campaign=1050&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 07 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6a98866883fc633357631fb1?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 07 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6a988678def18223c854fe43?utm_campaign=1050&utm_source=git)** | Plano, TX, United States | On Site | Nov 07 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6a988666af954907d6573d10?utm_campaign=1050&utm_source=git)** | Lafayette, LA, United States | On Site | Nov 07 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a999018551435518ebef269?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Land Development Internship](https://jobright.ai/jobs/info/6ac745ca0e027c0f3b3b5c87?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 07 |
+| **[TikTok](https://www.tiktok.com)** | **[TTS US Warehouse Operations Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6abb227a7220f52e62aea9ef?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | On Site | Nov 07 |
+| ↳ | **[TTS US Warehouse Operations Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a9752c6246d697dcee04e1c?utm_campaign=1050&utm_source=git)** | Fontana, CA, United States | On Site | Nov 07 |
+| ↳ | **[TTS US Warehouse Operations Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a953c481e67aa542830dc15?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Nov 07 |
+| ↳ | **[TTS US Warehouse Operations Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a953c34d18f7567482803c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 07 |
+| ↳ | **[TTS US Warehouse Operations Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a96012e4c22023a07937750?utm_campaign=1050&utm_source=git)** | Middlesex | Hybrid | Nov 07 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a99901b138838706058e823?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Realpoint Project Analyst Intern](https://jobright.ai/jobs/info/6a9859f7dd171c7285791caf?utm_campaign=1050&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 07 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a99901990a313642c650f41?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Nov 07 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ae0b98e5a5afc94bd2c67b5?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 07 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6ae3b220d7424a2a828e2208?utm_campaign=1050&utm_source=git)** | Springfield, MA, United States | On Site | Nov 07 |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6ae3b220d7424a2a828e2208?utm_campaign=1050&utm_source=git)** | Springfield, MA, United States | On Site | Nov 07 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6ae0b98e5a5afc94bd2c67b5?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 07 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/what-we-do/divisions/newport-news-shipbuilding)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/6aeef15c7bf8e8b9eaf7d393?utm_campaign=1050&utm_source=git)** | Newport News, VA, United States | On Site | Nov 07 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Continuous Improvement Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab6f8ebd7fde2c08ec8a5b2?utm_campaign=1050&utm_source=git)** | Lumberton, NC, United States | On Site | Nov 07 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Operations Internship: Summer 2027](https://jobright.ai/jobs/info/6a2863a740ac8e32932a129e?utm_campaign=1050&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Nov 07 |
@@ -72,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Supply Chain Co-Op/Intern - Melbourne FL](https://jobright.ai/jobs/info/6aeee8879f8e479a8bcfadf3?utm_campaign=1050&utm_source=git)** | Melbourne, FL, United States | Hybrid | Nov 07 |
 | **[Shield AI](http://www.shield.ai)** | **[2027 Summer Intern - Supply Chain Materials Planner - 6434](https://jobright.ai/jobs/info/6aee7650d20350c7a507d7b5?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Nov 06 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Project Management Intern (Year-Round)](https://jobright.ai/jobs/info/6aee6e1cd20350c7a507d479?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 06 |
-| **[HP](http://www.hp.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6ac0437b4ac55253f5d68639?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 06 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9f4f14dacf777321a94753?utm_campaign=1050&utm_source=git)** | Spring, TX, United States | On Site | Nov 06 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6aa46aed1d92e2d05d114aff?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 06 |
+| **[HP](http://www.hp.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6aa46aed1d92e2d05d114aff?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 06 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6ac0437a372c01f6cd72b690?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 06 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6a9f44b0dacf777321a94643?utm_campaign=1050&utm_source=git)** | Spring, TX, United States | On Site | Nov 06 |
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Category Management Intern](https://jobright.ai/jobs/info/6aee680bbd2f33eea72dbd89?utm_campaign=1050&utm_source=git)** | Westlake, TX, United States | On Site | Nov 06 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Global Supply Chain Internship](https://jobright.ai/jobs/info/6aee541c5c81f621d3115321?utm_campaign=1050&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain Analytics Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace340b5de2d2b30de10?utm_campaign=1050&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
@@ -114,21 +128,21 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Operations Project Manager Intern, Full-Time, Salt Lake City](https://jobright.ai/jobs/info/6aeea1de7bf8e8b9eaf7c2ee?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 06 |
 | **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Production Management Intern (26-27 Season)](https://jobright.ai/jobs/info/6ab6ee1662bb1fbd451dc916?utm_campaign=1050&utm_source=git)** | Nipomo, CA, United States | On Site | Nov 06 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Business Strategy Intern Industrial Services / Summer 2027](https://jobright.ai/jobs/info/6aee68025c81f621d31162d7?utm_campaign=1050&utm_source=git)** | Deer Park, TX, United States | On Site | Nov 06 |
-| **[Dollar General](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6ae4b383d45dc30fb7d314d5?utm_campaign=1050&utm_source=git)** | Scottsville, KY, United States | On Site | Nov 06 |
-| ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6aeded47caf8e660b87d8772?utm_campaign=1050&utm_source=git)** | North Little Rock, AR, United States | On Site | Nov 06 |
-| ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6aeded46c7498922fe0c5a49?utm_campaign=1050&utm_source=git)** | Janesville, WI, United States | On Site | Nov 06 |
+| **[Dollar General](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6aeded46c7498922fe0c5a49?utm_campaign=1050&utm_source=git)** | Janesville, WI, United States | On Site | Nov 06 |
 | ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6aecff05a9ea762a0409404e?utm_campaign=1050&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 06 |
+| ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6ae4b383d45dc30fb7d314d5?utm_campaign=1050&utm_source=git)** | Scottsville, KY, United States | On Site | Nov 06 |
 | ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6ae243756679108488c49714?utm_campaign=1050&utm_source=git)** | Ardmore, OK, United States | On Site | Nov 06 |
+| ↳ | **[DC INTERN](https://jobright.ai/jobs/info/6aeded47caf8e660b87d8772?utm_campaign=1050&utm_source=git)** | North Little Rock, AR, United States | On Site | Nov 06 |
 | **[HPC Industrial powered by Clean Harbors](https://www.hpc-industrial.com)** | **[Business Strategy Intern Industrial Services / Summer 2027](https://jobright.ai/jobs/info/6aee65b15c81f621d311622d?utm_campaign=1050&utm_source=git)** | Deer Park, TX, United States | On Site | Nov 06 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Business Strategy Intern Industrial Services / Summer 2027](https://jobright.ai/jobs/info/6aee634fc7498922fe0cc5c0?utm_campaign=1050&utm_source=git)** | Deer Park, TX, United States | On Site | Nov 06 |
 | **[MasTec Power Delivery](http://mastec.com)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/6aee172ee0c9de7b05f89d9b?utm_campaign=1050&utm_source=git)** | Northlake, Texas, United States | On Site | Nov 06 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Logistics](https://jobright.ai/jobs/info/6aee59f5e0c9de7b05f8e2f8?utm_campaign=1050&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 06 |
-| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a99901b138838706058e823?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a999049138838706058e831?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ, United States | On Site | Nov 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a999018551435518ebef269?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a9980d2138838706058e252?utm_campaign=1050&utm_source=git)** | Woodbridge, New Jersey, United States | On Site | Nov 06 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a9980a7040e5c3d07596931?utm_campaign=1050&utm_source=git)** | 333 Ludlow Street, Stamford, CT 06902, United States | On Site | Nov 06 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6aee4a7dd20350c7a507bad1?utm_campaign=1050&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 06 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a9980a7040e5c3d07596931?utm_campaign=1050&utm_source=git)** | 333 Ludlow Street, Stamford, CT 06902, United States | On Site | Nov 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a998027138838706058e220?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a999049138838706058e831?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ, United States | On Site | Nov 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a9980d2138838706058e252?utm_campaign=1050&utm_source=git)** | Woodbridge, New Jersey, United States | On Site | Nov 06 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a99800590a313642c650937?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[DS Intern](https://jobright.ai/jobs/info/6aee1afcd20350c7a507870f?utm_campaign=1050&utm_source=git)** | Chicago, IL, United States | Remote | Nov 06 |
 | **[FIRST](https://firstagency.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6aee1573c7498922fe0c798b?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Nov 06 |
 | **[Martin Brower UK and Ireland](https://martinbrower.co.uk)** | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/6aeeb4069f8e479a8bcfa428?utm_campaign=1050&utm_source=git)** | Coatesville, PA, United States | On Site | Nov 06 |
@@ -142,19 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/6aeeb3638022f8ddd319b5c4?utm_campaign=1050&utm_source=git)** | Lebanon, IL, United States | On Site | Nov 06 |
 | ↳ | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/6aeeb3790fe787d00ed184a0?utm_campaign=1050&utm_source=git)** | St. Johns, MI, United States | On Site | Nov 06 |
 | ↳ | **[Distribution Operations Internship](https://jobright.ai/jobs/info/6aeeb35d676e3f91d3269555?utm_campaign=1050&utm_source=git)** | West Dundee, IL, United States | On Site | Nov 06 |
-| ↳ | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/6aeeb35c9f8e479a8bcfa3b8?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 06 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6aeeb35a7bf8e8b9eaf7c7c3?utm_campaign=1050&utm_source=git)** | Rosemont, IL, United States | On Site | Nov 06 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027](https://jobright.ai/jobs/info/6aee4819bd2f33eea72da78f?utm_campaign=1050&utm_source=git)** | Culver City, CA, United States | Hybrid | Nov 06 |
-| **[ESP, inc.](https://www.espyouandme.org)** | **[Development Operations Intern](https://jobright.ai/jobs/info/6aee02d7caf8e660b87d96e9?utm_campaign=1050&utm_source=git)** | Watkinsville, GA, United States | On Site | Nov 06 |
-| **[IMMI](http://www.imminet.com)** | **[2027 Summer Supply Chain Intern](https://jobright.ai/jobs/info/6aee36a95c81f621d3113fec?utm_campaign=1050&utm_source=git)** | Westfield, IN, United States | On Site | Nov 06 |
-| **[Loni Paige Consulting](https://www.lonipaige.com)** | **[Administrative & Operations Intern](https://jobright.ai/jobs/info/6aee5a5ac7498922fe0cc011?utm_campaign=1050&utm_source=git)** | Miami Beach, FL, United States | On Site | Nov 06 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain Procurement Internship – Summer 2027](https://jobright.ai/jobs/info/6aee4026d20350c7a507b4eb?utm_campaign=1050&utm_source=git)** | Perrysburg, OH, United States | Hybrid | Nov 06 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6abed2524ac55253f5d630f5?utm_campaign=1050&utm_source=git)** | Matthews, NC, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6abe75b1372c01f6cd723a37?utm_campaign=1050&utm_source=git)** | Pearl, MS, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6aea493b440b469a1c0ac907?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6aee3ee5e0c9de7b05f8ce4e?utm_campaign=1050&utm_source=git)** | Marrero, LA, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a99b6738a8b765bc55f4fb6?utm_campaign=1050&utm_source=git)** | Lancaster, SC, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6ad682bee4b94611ab83fa01?utm_campaign=1050&utm_source=git)** | New Albany, MS, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6ae4c634d7424a2a828e8628?utm_campaign=1050&utm_source=git)** | Onalaska, WI, United States | On Site | Nov 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6aac0a2695c707f49dfef176?utm_campaign=1050&utm_source=git)** | Simpsonville, SC, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
