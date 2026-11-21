@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Operations Intern Associate I (Summer 2027)](https://jobright.ai/jobs/info/6a904e13a1988648667604aa?utm_campaign=1050&utm_source=git)** | Westerville, OH, United States | On Site | Nov 21 |
+| ↳ | **[Procurement Intern - Infrastructure Solutions (Summer 2027)](https://jobright.ai/jobs/info/6ac93724af788e6ad3b5a842?utm_campaign=1050&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
+| ↳ | **[Regional Power Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9039a78ffa38557e6cbada?utm_campaign=1050&utm_source=git)** | Delaware, OH, United States | On Site | Nov 21 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Business Strategy & Performance Analytics](https://jobright.ai/jobs/info/6b00a01be0dc961959282abf?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | On Site | Nov 21 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a91cc2a3603630099194a74?utm_campaign=1050&utm_source=git)** | Yuba City, CA, United States | On Site | Nov 21 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Inbound Logistics Intern - Summer 2027 - Smyrna, TN](https://jobright.ai/jobs/info/6ac6a06e064da25272e1b87c?utm_campaign=1050&utm_source=git)** | Smyrna, TN, United States | On Site | Nov 21 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/6b0186c70ae14188d58c4319?utm_campaign=1050&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 21 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Pine Mountain Summer Intern 2027 Job Details / Milliken and Company](https://jobright.ai/jobs/info/6afef48197dcc4fc8dca798c?utm_campaign=1050&utm_source=git)** | Pine Mountain, GA, United States | On Site | Nov 21 |
 | **[Citi](https://www.citi.com)** | **[U.S. Consumer Cards Summer Leadership Associate, Jacksonville, FL - USA 2027](https://jobright.ai/jobs/info/6b00ccf8df73191d2e6aecc0?utm_campaign=1050&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 21 |
@@ -89,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Jordan School District](https://www.jordandistrict.org)** | **[Administrative Intern FT - Paid (2026-2027)](https://jobright.ai/jobs/info/6b01234ca512f514bbde2862?utm_campaign=1050&utm_source=git)** | West Jordan, UT, United States | On Site | Nov 20 |
 | **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern - Administrative Services - Designer](https://jobright.ai/jobs/info/6b00be653a9a0230ab02a44f?utm_campaign=1050&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern -Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/6ac94f5afe8f33a85d503441?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT, United States | On Site | Nov 20 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0620f536e0ba72763ed?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 20 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0643a9a0230ab029a54?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 20 |
 | ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b061dfa58e4c244dd833?utm_campaign=1050&utm_source=git)** | Bensenville, IL, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0643a9a0230ab029a54?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 20 |
+| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0620f536e0ba72763ed?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 20 |
 | ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b062e0dc9619592833bc?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX, United States | On Site | Nov 20 |
 | **[Lucid Software](https://lucid.co)** | **[GTM Operations & Strategy Intern](https://jobright.ai/jobs/info/6aee52f7e0c9de7b05f8da17?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5beaf6fea8c089b5b5a?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
@@ -133,11 +138,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1afdf73191d2e6aef68?utm_campaign=1050&utm_source=git)** | Tomball, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1aef6ef85c61a50d006?utm_campaign=1050&utm_source=git)** | Webster, TX, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/6ac9164daf788e6ad3b59c7f?utm_campaign=1050&utm_source=git)** | Westerly, RI, United States | On Site | Nov 20 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/6adbc0fe9e3e874dbfba18c6?utm_campaign=1050&utm_source=git)** | Raynham, MA, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship- Pocatello, ID](https://jobright.ai/jobs/info/6adbc0fd9e3e874dbfba18c4?utm_campaign=1050&utm_source=git)** | Pocatello, ID, United States | On Site | Nov 20 |
+| ↳ | **[Summer 2027 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/6adbc0fe9e3e874dbfba18c6?utm_campaign=1050&utm_source=git)** | Raynham, MA, United States | On Site | Nov 20 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6b00d1a72ad6cde5ef24f5df?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a7a512f514bbde0d0f?utm_campaign=1050&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a7df73191d2e6aef66?utm_campaign=1050&utm_source=git)** | Pearland, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6b00d1a72ad6cde5ef24f5df?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/6ac91645d4a5a03707410a36?utm_campaign=1050&utm_source=git)** | Warwick, RI, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/6ac9164dfe8f33a85d50225e?utm_campaign=1050&utm_source=git)** | Springfield, MA, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a22ad6cde5ef24f5dd?utm_campaign=1050&utm_source=git)** | Lake Jackson, TX, United States | On Site | Nov 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6b00d18baf6fea8c089b4c3f?utm_campaign=1050&utm_source=git)** | New Britain, CT, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/6ac91619af788e6ad3b59c71?utm_campaign=1050&utm_source=git)** | Providence, RI, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d187f6ef85c61a50cffa?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d182a512f514bbde0d07?utm_campaign=1050&utm_source=git)** | Katy, TX, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship- Idaho Falls, ID](https://jobright.ai/jobs/info/6adbc0c1389e06bb41ad3a26?utm_campaign=1050&utm_source=git)** | Idaho Falls, ID, United States | On Site | Nov 20 |
-| ↳ | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6aa5fb5d654b2a9424cf699d?utm_campaign=1050&utm_source=git)** | Lafayette, IN, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d16fa512f514bbde0cfd?utm_campaign=1050&utm_source=git)** | Cypress, TX, United States | On Site | Nov 20 |
-| ↳ | **[Summer 2027 Management Trainee Intern - Fall River/Seekonk Massachusetts](https://jobright.ai/jobs/info/6ac915fdfcdafb60c6a4ab35?utm_campaign=1050&utm_source=git)** | Fall River, MA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
