@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b062e0dc9619592833bc?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX, United States | On Site | Nov 20 |
+| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0620f536e0ba72763ed?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 20 |
+| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b061dfa58e4c244dd833?utm_campaign=1050&utm_source=git)** | Bensenville, IL, United States | On Site | Nov 20 |
+| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0643a9a0230ab029a54?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 20 |
 | **[Lucid Software](https://lucid.co)** | **[GTM Operations & Strategy Intern](https://jobright.ai/jobs/info/6aee52f7e0c9de7b05f8da17?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00f5beaf6fea8c089b5b5a?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6b00f4402ad6cde5ef2504c3?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
@@ -70,15 +74,15 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00e92daf6fea8c089b5657?utm_campaign=1050&utm_source=git)** | League City, TX, United States | On Site | Nov 20 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Supply Chain Process Intern (Summer 2027)](https://jobright.ai/jobs/info/6b00b9cfd1fe3bc162e3e5ea?utm_campaign=1050&utm_source=git)** | Visalia, CA, United States | On Site | Nov 20 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Lean Six Sigma Intern](https://jobright.ai/jobs/info/6b00ed49df73191d2e6afc01?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Project Manager, Service Campaigns & Compliance (Winter/Spring 2027)](https://jobright.ai/jobs/info/6abb472ebe5f1e932511a3c6?utm_campaign=1050&utm_source=git)** | Fremont, CA, United States | On Site | Nov 20 |
 | **[REGENT](https://www.regentcraft.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6b00e520df73191d2e6af6eb?utm_campaign=1050&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 20 |
 | **[Schneider](https://schneider.com)** | **[Logistics Broker Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc4a20a4cc7090f9749c9?utm_campaign=1050&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b010067df73191d2e6b00fd?utm_campaign=1050&utm_source=git)** | Cypress, TX, United States | On Site | Nov 20 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Innovation & Design Intern - Spring 2027](https://jobright.ai/jobs/info/6b00ca223a9a0230ab02aa82?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 20 |
 | ↳ | **[Global Programs Intern - Spring 2027](https://jobright.ai/jobs/info/6b00ca38d1fe3bc162e3ee70?utm_campaign=1050&utm_source=git)** | Washington, DC, United States | Remote | Nov 20 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: RMI Summer Internship - Risk Capital & Reinsurance](https://jobright.ai/jobs/info/6aff9658dd029d798066da34?utm_campaign=1050&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6b00dd00a512f514bbde11b2?utm_campaign=1050&utm_source=git)** | Sparks, NV, United States | On Site | Nov 20 |
-| **[TAIT](http://www.taittowers.com)** | **[Project Management Intern, Touring](https://jobright.ai/jobs/info/6b00626546419e65476b38bc?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
-| ↳ | **[Project Management Intern, Cruise](https://jobright.ai/jobs/info/6b007f79dfa58e4c244dbc18?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
+| **[TAIT](http://www.taittowers.com)** | **[Project Management Intern, Cruise](https://jobright.ai/jobs/info/6b007f79dfa58e4c244dbc18?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
+| ↳ | **[Project Management Intern, Touring](https://jobright.ai/jobs/info/6b00626546419e65476b38bc?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
 | ↳ | **[Project Management Intern, Venues](https://jobright.ai/jobs/info/6b00628846419e65476b38cc?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
 | ↳ | **[Technology Project Management Intern](https://jobright.ai/jobs/info/6b006272d1fe3bc162e3b2bc?utm_campaign=1050&utm_source=git)** | Lititz, PA, United States | On Site | Nov 20 |
 | ↳ | **[Project Management Intern, Location Based Entertainment](https://jobright.ai/jobs/info/6b00626646419e65476b38bd?utm_campaign=1050&utm_source=git)** | Orlando, FL, United States | On Site | Nov 20 |
@@ -100,9 +104,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/6ac9164daf788e6ad3b59c7f?utm_campaign=1050&utm_source=git)** | Westerly, RI, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/6adbc0fe9e3e874dbfba18c6?utm_campaign=1050&utm_source=git)** | Raynham, MA, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship- Pocatello, ID](https://jobright.ai/jobs/info/6adbc0fd9e3e874dbfba18c4?utm_campaign=1050&utm_source=git)** | Pocatello, ID, United States | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a7a512f514bbde0d0f?utm_campaign=1050&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a7df73191d2e6aef66?utm_campaign=1050&utm_source=git)** | Pearland, TX, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6b00d1a72ad6cde5ef24f5df?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | Nov 20 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a7a512f514bbde0d0f?utm_campaign=1050&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/6ac91645d4a5a03707410a36?utm_campaign=1050&utm_source=git)** | Warwick, RI, United States | On Site | Nov 20 |
 | ↳ | **[Summer 2027 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/6ac9164dfe8f33a85d50225e?utm_campaign=1050&utm_source=git)** | Springfield, MA, United States | On Site | Nov 20 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6b00d1a22ad6cde5ef24f5dd?utm_campaign=1050&utm_source=git)** | Lake Jackson, TX, United States | On Site | Nov 20 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – R&D EOS / Global Program Management (Summer 2027)](https://jobright.ai/jobs/info/6afcc1e32ac165125e4cc474?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Amazon](https://amazon.com)** | **[Program Manager Intern – Summer 2027](https://jobright.ai/jobs/info/6ac96668af788e6ad3b5b593?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: Business Data Analyst Intern, Strategy & Planning](https://jobright.ai/jobs/info/6abeca1a4ac55253f5d62dc7?utm_campaign=1050&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 20 |
-| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Supply Chain Intern (Summer 2027)](https://jobright.ai/jobs/info/6af511413a9a26aee70a2d25?utm_campaign=1050&utm_source=git)** | Davie, FL, United States | On Site | Nov 20 |
+| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Supply Chain Intern (Summer 2027)](https://jobright.ai/jobs/info/6b00b69e0f536e0ba72769b8?utm_campaign=1050&utm_source=git)** | Davie, FL, United States | On Site | Nov 20 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Administrative Services - Designer](https://jobright.ai/jobs/info/6b00be653a9a0230ab02a44f?utm_campaign=1050&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 20 |
 | **[PECO FOODS INC](http://pecofoods.com)** | **[Winter Intern - Operations](https://jobright.ai/jobs/info/6b00b6b43a9a0230ab02a041?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL, United States | On Site | Nov 20 |
 | **[New Freedom](https://newfreedomaz.com)** | **[Executive Operations Intern (Unpaid)](https://jobright.ai/jobs/info/6b00b3cbd1fe3bc162e3e250?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b064d1fe3bc162e3def4?utm_campaign=1050&utm_source=git)** | College Park, GA, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0643a9a0230ab029a54?utm_campaign=1050&utm_source=git)** | Richmond, VA, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b062e0dc9619592833bc?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b0620f536e0ba72763ed?utm_campaign=1050&utm_source=git)** | Harrisburg, PA, United States | On Site | Nov 20 |
-| ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b061dfa58e4c244dd833?utm_campaign=1050&utm_source=git)** | Bensenville, IL, United States | On Site | Nov 20 |
 | ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6b00b05edfa58e4c244dd82d?utm_campaign=1050&utm_source=git)** | Tacoma, WA, United States | On Site | Nov 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Project Management - Production Support (Winter 2027)](https://jobright.ai/jobs/info/6ae4e2bbd45dc30fb7d33397?utm_campaign=1050&utm_source=git)** | Pointe-Claire, QC, Canada | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
