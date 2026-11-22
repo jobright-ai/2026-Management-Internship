@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pluton Resource Intelligence](https://pluton.earth)** | **[Executive Intern (Chief of Staff Track)](https://jobright.ai/jobs/info/6b0271be9378f7b150e123be?utm_campaign=1050&utm_source=git)** | Raleigh, NC, United States | Remote | Nov 21 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Construction Project Manager, Energy Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b023f8db2c65d24f91ed602?utm_campaign=1050&utm_source=git)** | Austin, TX, United States | On Site | Nov 21 |
 | **[Agile Space Industries](http://agilespaceindustries.com)** | **[Summer Intern 2027 / Strategy and Corporate Development](https://jobright.ai/jobs/info/6b02206c9378f7b150e11b24?utm_campaign=1050&utm_source=git)** | Denver, CO, United States | On Site | Nov 21 |
 | **[Global Overview](https://www.123goecom.com/)** | **[Summer Intern 2027](https://jobright.ai/jobs/info/6b02330bbf981a0458227cf2?utm_campaign=1050&utm_source=git)** | Hopkins, MN, United States | On Site | Nov 21 |
@@ -87,20 +88,20 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, FP&A & Business Operations (Summer 2027)](https://jobright.ai/jobs/info/6b01d090df73191d2e6b1f92?utm_campaign=1050&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
 | **[Austal USA](https://austalusa.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/6ae4c8cd77c09cb3bd4aea82?utm_campaign=1050&utm_source=git)** | Mobile, AL, United States | On Site | Nov 21 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - Project Administrator Associate (IT), Summer 2027](https://jobright.ai/jobs/info/6ae4ff19fb2cd420ace5bd72?utm_campaign=1050&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 21 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern Summer 2027](https://jobright.ai/jobs/info/6ae4cfe1d45dc30fb7d32843?utm_campaign=1050&utm_source=git)** | Chester, VA, United States | On Site | Nov 21 |
-| ↳ | **[Operations Intern Summer 2027](https://jobright.ai/jobs/info/6ae4d559c3139b475b5b6619?utm_campaign=1050&utm_source=git)** | Lorton, VA, United States | On Site | Nov 21 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern Summer 2027](https://jobright.ai/jobs/info/6ae4d559c3139b475b5b6619?utm_campaign=1050&utm_source=git)** | Lorton, VA, United States | On Site | Nov 21 |
+| ↳ | **[Operations Intern Summer 2027](https://jobright.ai/jobs/info/6ae4cfe1d45dc30fb7d32843?utm_campaign=1050&utm_source=git)** | Chester, VA, United States | On Site | Nov 21 |
 | **[PGA of America](https://www.pga.org/)** | **[Intern, Player Services and VIP Guests](https://jobright.ai/jobs/info/6b01a8bef6ef85c61a50fb31?utm_campaign=1050&utm_source=git)** | Frisco, TX, United States | On Site | Nov 21 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6b00f6feaf6fea8c089b5bba?utm_campaign=1050&utm_source=git)** | Panama City, Florida, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ad0115d12303667b98a1dbe?utm_campaign=1050&utm_source=git)** | Davenport, FL, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ab6addcd85922de20ce6266?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ac75835316e89f61e8af62a?utm_campaign=1050&utm_source=git)** | Akron, OH, United States | On Site | Nov 21 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6b0111e42ad6cde5ef250dd4?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ab6c11ed85922de20ce6ac4?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ab4b291836baa4813197d3a?utm_campaign=1050&utm_source=git)** | Akron, OH, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ad164db3d3a5aa909b3a430?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern - Fort Worth South](https://jobright.ai/jobs/info/6ac2ec5d372c01f6cd7305ed?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6afc705429e5a8844e6585a3?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6b00f6feaf6fea8c089b5bba?utm_campaign=1050&utm_source=git)** | Panama City, Florida, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ab4b29c6ee03b57e1d43c45?utm_campaign=1050&utm_source=git)** | Sarasota, FL, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6b0111e42ad6cde5ef250dd4?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ad11e9e18608b6f36f81a77?utm_campaign=1050&utm_source=git)** | Durham, North Carolina, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern - Fort Worth South](https://jobright.ai/jobs/info/6ac2ec5d372c01f6cd7305ed?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 21 |
 | ↳ | **[Summer 2027 Land Intern - Fort Worth North](https://jobright.ai/jobs/info/6ac2ec5a8ff3fb9b3bc80754?utm_campaign=1050&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6afc705429e5a8844e6585a3?utm_campaign=1050&utm_source=git)** | Tampa, FL, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ad0115d12303667b98a1dbe?utm_campaign=1050&utm_source=git)** | Davenport, FL, United States | On Site | Nov 21 |
+| ↳ | **[Summer 2027 Land Intern](https://jobright.ai/jobs/info/6ad11e9e18608b6f36f81a77?utm_campaign=1050&utm_source=git)** | Durham, North Carolina, United States | On Site | Nov 21 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6ac913d3af788e6ad3b59bdf?utm_campaign=1050&utm_source=git)** | Arden, NC, United States | On Site | Nov 21 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2027 MBA Internship](https://jobright.ai/jobs/info/6aac6ac93d96632d741aaebf?utm_campaign=1050&utm_source=git)** | Boston, MA, United States | On Site | Nov 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, in Strategy and Governance, Bombardier Business Aircraft (Services & Support) (Winter 2027)](https://jobright.ai/jobs/info/6b01c035df73191d2e6b1ccd?utm_campaign=1050&utm_source=git)** | Dorval, QC, Canada | Remote | Nov 21 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[CUES Inc.](http://cuesinc.com)** | **[Supply Chain Intern Job Details / our team](https://jobright.ai/jobs/info/6ac80083a444ac5d36f87165?utm_campaign=1050&utm_source=git)** | Brentwood, MO, United States | On Site | Nov 21 |
 | **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[MBA SUMMER INTERNSHIP, SUPPLY CHAIN (MBA, 5YRS+ EXP)](https://jobright.ai/jobs/info/6b0079760f536e0ba72742cd?utm_campaign=1050&utm_source=git)** | Long Island City, NY, United States | On Site | Nov 21 |
 | **[Weatherford](http://www.weatherford.com)** | **[MBA Internship- GOLD Program](https://jobright.ai/jobs/info/6aac4beb3d96632d741aa4c9?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Nov 21 |
-| **[Staples](http://www.staples.com)** | **[Supply Chain Intern ( Ontario, CA) - June 2027](https://jobright.ai/jobs/info/6aa9b79f6d0edc2d91b0add4?utm_campaign=1050&utm_source=git)** | Ontario, CA, United States | On Site | Nov 21 |
+| **[Staples](http://www.staples.com)** | **[Supply Chain Intern ( Ontario, CA) - June 2027](https://jobright.ai/jobs/info/6aa9b2c509ae03adcacde744?utm_campaign=1050&utm_source=git)** | Ontario, CA, United States | On Site | Nov 21 |
 | ↳ | **[Supply Chain Intern ( Ontario, CA) - June 2027](https://jobright.ai/jobs/info/6aa9cf0deff87f571fc9bb61?utm_campaign=1050&utm_source=git)** | Ontario, CA, United States | On Site | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Project Manager Intern (Linehaul Management) - 2027 Summer](https://jobright.ai/jobs/info/6a8f69987c32860d14cf5be9?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6aab41ac76707040fb084d40?utm_campaign=1050&utm_source=git)** | Spokane Valley, WA, United States | On Site | Nov 21 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Creator Deck](http://www.creatordeck.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a53bb2f8ef95364ead9316e?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 21 |
 | **[ITT Inc.](http://www.itt.com)** | **[2027 Supply Chain Summer Intern](https://jobright.ai/jobs/info/6aaafed48e1bf0f764af7bdb?utm_campaign=1050&utm_source=git)** | Westminster, SC, United States | On Site | Nov 21 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6ae5105f77c09cb3bd4b18da?utm_campaign=1050&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Winter 2026 Internship](https://jobright.ai/jobs/info/6ac9890ec3a8af9c54a0b10f?utm_campaign=1050&utm_source=git)** | Vallejo, CA, United States | On Site | Nov 21 |
-| ↳ | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa47c14422289703bd66c57?utm_campaign=1050&utm_source=git)** | Ocean City, MD, United States | On Site | Nov 21 |
+| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern Summer 2027](https://jobright.ai/jobs/info/6aa47c14422289703bd66c57?utm_campaign=1050&utm_source=git)** | Ocean City, MD, United States | On Site | Nov 21 |
+| ↳ | **[Management Trainee Winter 2026 Internship](https://jobright.ai/jobs/info/6ac9890ec3a8af9c54a0b10f?utm_campaign=1050&utm_source=git)** | Vallejo, CA, United States | On Site | Nov 21 |
 | ↳ | **[Management Trainee Spring 2027 Internship](https://jobright.ai/jobs/info/6b015153af6fea8c089b6da3?utm_campaign=1050&utm_source=git)** | Vallejo, CA, United States | On Site | Nov 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6affab056f4ca73dfeb461d4?utm_campaign=1050&utm_source=git)** | Roseville, CA, United States | Hybrid | Nov 20 |
 | **[REGENT](https://www.regentcraft.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6b00e520df73191d2e6af6eb?utm_campaign=1050&utm_source=git)** | North Kingstown, RI, United States | On Site | Nov 20 |
 | **[Target](https://www.target.com)** | **[Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center - Minneapolis, MN](https://jobright.ai/jobs/info/6b008649dfa58e4c244dbec3?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 20 |
-| ↳ | **[Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Phoenix, AZ](https://jobright.ai/jobs/info/6b008634e0dc961959281a33?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
